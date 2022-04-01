@@ -1,34 +1,41 @@
 import Container from '../components/container'
 import MoreStories from '../components/more-stories'
-import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
-import { CMS_NAME } from '../lib/constants'
+
+import Link from 'next/link';
+import { useRouter } from 'next/router';
+
+import { WEBSITE_NAME } from '../lib/constants'
 
 export default function Index({ allPosts }) {
-  const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+  const { locale, locales, asPath } = useRouter();
+
   return (
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>{ WEBSITE_NAME }</title>
         </Head>
         <Container>
           <Intro />
-          {heroPost && (
-            <HeroPost
-              title={heroPost.title}
-              coverImage={heroPost.coverImage}
-              date={heroPost.date}
-              author={heroPost.author}
-              slug={heroPost.slug}
-              excerpt={heroPost.excerpt}
-            />
-          )}
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+           
+          <div className="flex flex-col md:flex-row flex-wrap justify-center gap-4">
+            {locales.map((l, i) => {
+              return (
+                <span key={i} class={l === locale ? 'font-bold' : ''}>
+                  <Link href={asPath} locale={l}>
+                    {l}
+                  </Link>
+                </span>
+              );
+            })}
+          </div>
+
+
+          {allPosts.length > 0 && <MoreStories posts={allPosts} />}
         </Container>
       </Layout>
     </>
@@ -41,8 +48,6 @@ export async function getStaticProps() {
     'date',
     'slug',
     'author',
-    'coverImage',
-    'excerpt',
   ])
 
   return {
