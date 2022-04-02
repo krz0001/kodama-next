@@ -69,19 +69,24 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths({locales, locale}) {
+  //cf. https://stackoverflow.com/questions/68234001/internationalizaton-of-next-js-website-through-subpath-not-working-on-sub-direct 
+
   console.log('getStaticPaths - locales', locales)
   console.log('getStaticPaths - locale', locale)
   const posts = getAllPosts(['slug'])
 
+  const path = (locale) =>
+    posts.map((post) => ({
+      params: {
+        slug : post.slug,
+      },
+      locale,
+    }))
+
+  const paths = locales.map((locale) => path(locale)).flat()
 
   return {
-    paths: posts.map((post) => {
-      return {
-        params: {
-          slug: post.slug,
-        },
-      }
-    }),
+    paths: paths,
     fallback: false,
   }
 }
