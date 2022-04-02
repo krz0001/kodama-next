@@ -1,13 +1,15 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
+import Head from 'next/head'
+
 import Container from '../../components/container'
 import PostBody from '../../components/post-body'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
-import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
-import Head from 'next/head'
+
+import { getPostBySlug, getAllPosts } from '../../lib/api'
 import { WEBSITE_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 
@@ -16,6 +18,7 @@ export default function Post({ post, morePosts, preview }) {
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
+  
   return (
     <Layout preview={preview}>
       <Container>
@@ -50,6 +53,7 @@ export async function getStaticProps({ params }) {
     'date',
     'slug',
     'author',
+    'locale',
     'content'
   ])
   const content = await markdownToHtml(post.content || '')
@@ -64,8 +68,11 @@ export async function getStaticProps({ params }) {
   }
 }
 
-export async function getStaticPaths() {
+export async function getStaticPaths({locales, locale}) {
+  console.log('getStaticPaths - locales', locales)
+  console.log('getStaticPaths - locale', locale)
   const posts = getAllPosts(['slug'])
+
 
   return {
     paths: posts.map((post) => {
