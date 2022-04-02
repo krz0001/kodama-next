@@ -1,6 +1,8 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Head from 'next/head'
+import Link from 'next/link'
+
 
 import Container from '../../components/container'
 import PostBody from '../../components/post-body'
@@ -38,6 +40,8 @@ export default function Post({ post, morePosts, preview }) {
                 date={post.date}
                 author={post.author}
               />
+
+              { post.twin ? ( <Link href={"/posts/" + post.twin}>Twin</Link> ) : null }
               <PostBody content={post.content} />
             </article>
           </>
@@ -54,7 +58,8 @@ export async function getStaticProps({ params }) {
     'slug',
     'author',
     'locale',
-    'content'
+    'content',
+    'twin'
   ])
   const content = await markdownToHtml(post.content || '')
 
@@ -71,8 +76,6 @@ export async function getStaticProps({ params }) {
 export async function getStaticPaths({locales, locale}) {
   //cf. https://stackoverflow.com/questions/68234001/internationalizaton-of-next-js-website-through-subpath-not-working-on-sub-direct 
 
-  console.log('getStaticPaths - locales', locales)
-  console.log('getStaticPaths - locale', locale)
   const posts = getAllPosts(['slug'])
 
   const path = (locale) =>
