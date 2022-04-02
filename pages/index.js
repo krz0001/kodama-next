@@ -8,6 +8,7 @@ import Head from 'next/head'
 
 import { useRouter } from 'next/router';
 
+
 import { WEBSITE_NAME } from '../lib/constants'
 
 export default function Index({ allPosts }) {
