@@ -1,3 +1,37 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* audiowide-regular - latin */
+@font-face {
+	font-family: 'Audiowide';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/assets/fonts/audiowide-v9-latin-regular.eot');
+	/* IE9 Compat Modes */
+	src: local(''),
+		url('/assets/fonts/audiowide-v9-latin-regular.eot?#iefix') format('embedded-opentype'),
+		/* IE6-IE8 */
+		url('/assets/fonts/audiowide-v9-latin-regular.woff2') format('woff2'),
+		/* Super Modern Browsers */
+		url('/assets/fonts/audiowide-v9-latin-regular.woff') format('woff'),
+		/* Modern Browsers */
+		url('/assets/fonts/audiowide-v9-latin-regular.ttf') format('truetype'),
+		/* Safari, Android, iOS */
+		url('/assets/fonts/audiowide-v9-latin-regular.svg#Audiowide') format('svg');
+	/* Legacy iOS */
+}
+
+.kodama_btn {
+	@apply py-2 px-3 text-xs font-medium text-center text-white rounded-lg  focus:ring-4  flex transition;
+	@apply bg-slate-600 hover:bg-slate-700 focus:ring-slate-800;
+}
+
+.kodama_btn [astro-icon] {
+    @apply h-4 w-4 mr-2;
+}
+
+.kodama_btn--primary {
+	@apply bg-violet-600 hover:bg-violet-700 focus:ring-violet-800;
+}

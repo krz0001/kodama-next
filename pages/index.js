@@ -20,9 +20,10 @@ export default function Index({ allPosts }) {
         </Head>
         <Container>
           <Header />
-          
-          <Intro /> 
-          {allPosts.length > 0 && <MoreStories posts={allPosts} />}
+          <div className="container pt-10 px-6 mx-auto">
+            <Intro /> 
+            {allPosts.length > 0 && <MoreStories posts={allPosts} />}
+          </div>
         </Container>
       </Layout>
     </>

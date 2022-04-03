@@ -8,16 +8,13 @@ export default function PostPreview({
   slug,
 }) {
   return (
-    <div>
-      <h3 className="text-3xl mb-3 leading-snug">
-        <Link href={`/posts/${slug}`}>
-          <a className="hover:underline">{title}</a>
-        </Link>
-      </h3>
-      <div className="text-lg mb-4">
-        <DateFormatter dateString={date} />
-      </div>
-        {author}
-      </div>
+    <Link href={`/posts/${slug}`}>
+      <a className='block bg-violet-900/20 hover:bg-violet-900/70 transition p-4 my-4 rounded-md no-underline'>
+          <h3 className="mt-0">{title}</h3>
+          <div className="text-lg mb-4">
+            {author} · <DateFormatter dateString={date} />
+          </div>
+      </a>
+    </Link>
   )
 }

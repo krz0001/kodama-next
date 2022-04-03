@@ -8,7 +8,7 @@ export default function Header() {
 
 	return (
 		<header className="relative w-100 h-auto text-center flex flex-col select-none">
-			<h1 className="text-7xl py-8 grow font-extrabold">
+			<h1 className="font-['Audiowide'] text-7xl py-8 grow">
 				<Link href="/"><a>{WEBSITE_NAME}</a></Link>
 			</h1>
 			<nav className="bg-gray-900 text-white backdrop-blur">
