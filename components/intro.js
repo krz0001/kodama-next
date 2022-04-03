@@ -1,8 +1,9 @@
 import { WEBSITE_NAME } from '../lib/constants'
+import ProseContainer from '../components/prose-container'
 
 export default function Intro() {
 	return (
-		<section className="prose md:prose-lg lg:prose-xl prose-invert max-w-none">
+		<ProseContainer>
 			<h2>Welcome to {WEBSITE_NAME}!</h2>
 			<p data-i18n="[html]home.content.1">
 				<b>KodamaSoft</b> is a small french amateur community crafting
@@ -20,6 +21,6 @@ export default function Intro() {
 				Sanctuary is another project in development, scheduled to
 				release someday!
 			</p>
-		</section>
+		</ProseContainer>
 	)
 }
