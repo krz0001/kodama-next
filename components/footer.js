@@ -1,30 +1,28 @@
-import Container from './container'
-import { EXAMPLE_PATH } from '../lib/constants'
+
+import {FaTwitter, FaBandcamp, FaFacebook, FaDiscord} from 'react-icons/fa';
 
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2">
-      <Container>
-        <div className="py-28 flex flex-col lg:flex-row items-center">
-          <h3 className="text-4xl lg:text-5xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            Statically Generated with Next.js.
-          </h3>
-          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            <a
-              href="https://nextjs.org/docs/basic-features/pages"
-              className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-            >
-              Read Documentation
-            </a>
-            <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-              className="mx-3 font-bold hover:underline"
-            >
-              View on GitHub
-            </a>
+    <footer className="border-t border-slate-500/20 mt-10">
+      <div className="container max-w-4xl mx-auto flex py-8 flex-col text-center">
+          <div className="w-full mx-auto flex justify-center flex-wrap items-center gap-3">
+              <a href="" className='footer_svg_container outline-none'>
+                <FaTwitter
+                 className='text-slate-500 no-underline hover:text-slate-50 hover:scale-105 w-12 h-12 transition'/>                  
+              </a>
+              <a href="" className="footer_svg_container outline-none">
+                <FaBandcamp className='text-slate-500 no-underline hover:text-slate-50 hover:scale-105 w-12 h-12 transition'/> 
+              </a>
+              <a href="" className="footer_svg_container outline-none">
+                <FaFacebook className='text-slate-500 no-underline hover:text-slate-50 hover:scale-105 w-12 h-12 transition'/> 
+              </a>
+              <a href="" className="footer_svg_container outline-none">
+                <FaDiscord className='text-slate-500 no-underline hover:text-slate-50 hover:scale-105 w-12 h-12 transition'/> 
+              </a>
           </div>
-        </div>
-      </Container>
+          <a data-i18n="footer.source_code" className="text-slate-500 transition hover:text-slate-50 mt-5 hover:underline" href="https://github.com/krz0001/kodama-next" target='_blank' rel="noreferrer">Source code</a>
+      </div>  
     </footer>
+
   )
 }

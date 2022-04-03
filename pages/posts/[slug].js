@@ -28,7 +28,6 @@ export default function Post({ post, morePosts, preview }) {
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
         ) : (
-          <>
             <article className="mb-32">
               <Head>
                 <title>
@@ -44,7 +43,6 @@ export default function Post({ post, morePosts, preview }) {
               { post.twin ? ( <Link href={"/posts/" + post.twin}>Twin</Link> ) : null }
               <PostBody content={post.content} />
             </article>
-          </>
         )}
       </Container>
     </Layout>

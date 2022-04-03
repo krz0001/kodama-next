@@ -42,3 +42,9 @@ body {
 .kodama_btn--primary {
 	@apply bg-violet-600 hover:bg-violet-700 focus:ring-violet-800;
 }
+
+/* Footer */
+
+.footer_svg_container:focus > svg {
+    @apply text-slate-50 scale-105 outline-none;
+}

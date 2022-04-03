@@ -5,7 +5,7 @@ export default function Intro() {
 	return (
 		<ProseContainer>
 			<h2>Welcome to {WEBSITE_NAME}!</h2>
-			<p data-i18n="[html]home.content.1">
+			<p>
 				<b>KodamaSoft</b> is a small french amateur community crafting
 				video games, visual novels, and music! A multitude of young
 				writers, programmers, sound and visual artists are part of this
@@ -15,7 +15,7 @@ export default function Intro() {
 				participate!
 			</p>
 
-			<p data-i18n="[html]home.content.2">
+			<p>
 				For now, you can check out our growing Discography, and Once
 				Upon a Child, a visual novel made and written by Dream! Stellar
 				Sanctuary is another project in development, scheduled to

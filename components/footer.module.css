@@ -1,0 +1,11 @@
+.footer_svg {
+    @apply text-slate-500 no-underline hover:text-slate-50 hover:scale-105 transition;
+}
+
+.footer_svg_container {
+    @apply h-auto w-12
+}
+
+.footer_svg_container:focus .footer_svg {
+    @apply text-slate-50 scale-105 outline-none;
+}
