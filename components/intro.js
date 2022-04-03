@@ -2,7 +2,7 @@ import { WEBSITE_NAME } from '../lib/constants'
 
 export default function Intro() {
 	return (
-		<section className="prose">
+		<section className="prose md:prose-lg lg:prose-xl prose-invert max-w-none">
 			<h2>Welcome to {WEBSITE_NAME}!</h2>
 			<p data-i18n="[html]home.content.1">
 				<b>KodamaSoft</b> is a small french amateur community crafting

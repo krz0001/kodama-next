@@ -22,6 +22,13 @@
 		url('/assets/fonts/audiowide-v9-latin-regular.svg#Audiowide') format('svg');
 	/* Legacy iOS */
 }
+html {
+	@apply bg-slate-900 bg-[url('/assets/space_background.jpg')] bg-no-repeat bg-cover bg-center bg-fixed;
+}
+
+body {
+	@apply bg-slate-900/80 text-white backdrop-blur-sm min-h-screen ;
+} 
 
 .kodama_btn {
 	@apply py-2 px-3 text-xs font-medium text-center text-white rounded-lg  focus:ring-4  flex transition;
