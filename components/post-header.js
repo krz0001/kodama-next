@@ -1,21 +1,15 @@
+import Link from 'next/link'
 import DateFormatter from '../components/date-formatter'
-import PostTitle from '../components/post-title'
 
-export default function PostHeader({ title, date, author }) {
+export default function PostHeader({ title, date, author, twin }) {
   return (
-    <>
-      <PostTitle>{title}</PostTitle>
-      <div className="hidden md:block md:mb-12">
-        {author}
+    <div className='max-w-prose	mx-auto border-b pt-10 pb-4 mb-4 border-slate-500/20 sm:text-center' >
+      <h1 className='text-4xl	font-extrabold mb-3'>{title}</h1>
+      <p>Written by <span className="text-violet-500"> {author}</span></p>
+      <div className="text-slate-400">
+        <DateFormatter dateString={date} />
       </div>
-      <div className="max-w-2xl mx-auto">
-        <div className="block md:hidden mb-6">
-          {author}
-        </div>
-        <div className="mb-6 text-lg">
-          <DateFormatter dateString={date} />
-        </div>
-      </div>
-    </>
+      { twin ? ( <Link href={"/posts/" + twin}>Twin</Link> ) : null }
+    </div>
   )
 }

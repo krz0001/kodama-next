@@ -8,7 +8,7 @@ export default function MoreStories({ posts }) {
           Our latest blog posts
         </h2>
 
-        <div className="flex flex-col not-prose">
+        <div className="grid grid-cols-2 gap-4 not-prose">
           {posts.map((post) => (
             <PostPreview
               key={post.slug}

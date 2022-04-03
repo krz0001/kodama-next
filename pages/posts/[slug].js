@@ -1,7 +1,6 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Head from 'next/head'
-import Link from 'next/link'
 
 
 import Container from '../../components/container'
@@ -9,7 +8,6 @@ import PostBody from '../../components/post-body'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
-import PostTitle from '../../components/post-title'
 
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import { WEBSITE_NAME } from '../../lib/constants'
@@ -23,12 +21,12 @@ export default function Post({ post, morePosts, preview }) {
   
   return (
     <Layout preview={preview}>
-      <Container>
         <Header />
         {router.isFallback ? (
-          <PostTitle>Loading…</PostTitle>
+          <p>Loading…</p>
         ) : (
-            <article className="mb-32">
+          <Container className="container pt-10 px-6 mx-auto">
+            <article>
               <Head>
                 <title>
                   {post.title} | {WEBSITE_NAME}
@@ -38,13 +36,12 @@ export default function Post({ post, morePosts, preview }) {
                 title={post.title}
                 date={post.date}
                 author={post.author}
+                twin={post.twin}
               />
-
-              { post.twin ? ( <Link href={"/posts/" + post.twin}>Twin</Link> ) : null }
               <PostBody content={post.content} />
             </article>
+          </Container>
         )}
-      </Container>
     </Layout>
   )
 }
