@@ -58,11 +58,14 @@ export async function getStaticProps({ params }) {
   ])
   const content = await markdownToHtml(post.content || '')
 
-  const twinSlug = getPostBySlug(post.twin, [
-    'title',
-    'slug',
-    'locale'
-  ])
+  let twinSlug = null
+  if (post.twin) {
+     twinSlug = getPostBySlug(post.twin, [
+      'title',
+      'slug',
+      'locale'
+    ])
+  } 
 
   return {
     props: {
