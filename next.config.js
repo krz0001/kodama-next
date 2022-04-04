@@ -5,5 +5,5 @@ module.exports = nextTranslate({
     i18n: {
         locales: ['en', 'jp'],
         defaultLocale: 'en',
-    },
+    }
 })

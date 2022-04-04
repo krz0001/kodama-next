@@ -12,7 +12,10 @@ export default function PostHeader({ title, date, author, twin }) {
       <div className="text-slate-400">
         <DateFormatter dateString={date} />
       </div>
-      { twin ? ( <Link href={"/posts/" + twin}>Twin</Link> ) : null }
+      { twin ? 
+      ( <Link href={"/posts/" + twin.slug}>
+          <a>Check {twin.locale.toUpperCase()} article ({twin.title})</a>
+      </Link> ) : null }
     </div>
   )
 }
