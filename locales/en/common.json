@@ -1,4 +1,5 @@
 {
+    "help": "<0>KodamaSoft</0>",
     "kodamasoft": "KodamaSoft",
     "navbar": {
         "home": "Home",
@@ -19,11 +20,11 @@
     "home": {
         "title": "Welcome to KodamaSoft!",
         "content": {
-            "1": "<b>KodamaSoft</b> is a small french amateur community crafting video games, visual novels, and music! A multitude of young writers, programmers, sound and visual artists are part of this group to create ambitious and interesting amateur projects! You can join us on Discord now and see all that for yourself, where we also organize community music albums where anyone can participate!",
+            "1": "<strong>KodamaSoft</strong> is a small french amateur community crafting video games, visual novels, and music! A multitude of young writers, programmers, sound and visual artists are part of this group to create ambitious and interesting amateur projects! You can join us on Discord now and see all that for yourself, where we also organize community music albums where anyone can participate!",
             "2": "For now, you can check out our growing Discography, and Once Upon a Child, a visual novel made and written by Dream! Stellar Sanctuary is another project in development, scheduled to release someday!",
             "3": "There are a lot of other projects in development, and we hope you'll be able to hear more from them soon enough!",
             "4": "This website is still a huge work in progress, but you can learn and see more from us on our Twitter and Discord to follow what's been happening!"
         },
-        "blog_header": "Our latest blog posts"
+        "blog_header": "Our blog posts"
     }
 }
