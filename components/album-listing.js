@@ -8,7 +8,7 @@ export default function AlbumListing({ album }) {
     return (
         <div className="overflow-visible group relative max-w-xl mx-auto border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl flex items-center gap-6 my-5 transition">
             <div className="absolute -left-6 w-52 h-52 rounded-md shadow-lg group-hover:scale-105 transition overflow-clip">
-                <Image src={album.cover} alt={album.name} layout="fill"  />
+                <Image src={album.cover} alt={album.name} layout="fill" sizes="13rem" priority placeholder='blur' blurDataURL={album.coverColor}/>
             </div>
             <div className="flex flex-col py-5 pl-52">
                 <div>
