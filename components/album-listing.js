@@ -1,4 +1,7 @@
 import {FaBandcamp, FaGlobe} from 'react-icons/fa';
+
+import BoothSVG from '../public/assets/icons/booth.svg'
+
 import Image from 'next/image'
 import useTranslation from 'next-translate/useTranslation'
 
@@ -22,6 +25,9 @@ export default function AlbumListing({ album }) {
                     </a>
 
                     <a href={album.booth} className="kodama_btn kodama_btn--primary">
+                        <div className='h-4 w-4 mr-2'>
+                            <BoothSVG/>
+                        </div>
                         BOOTH
                     </a>
 
@@ -33,6 +39,7 @@ export default function AlbumListing({ album }) {
                     <a href={album.vgmdb} className="kodama_btn kodama_btn--primary">
                         VGMDB
                     </a>
+
                     { album.thbwiki ? 
                     <a href={album.thbwiki} className="kodama_btn kodama_btn--primary">
                         THB WIKI
