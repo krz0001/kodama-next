@@ -11,7 +11,7 @@ export default function AlbumListing({ album }) {
     return (
         <div className="group relative max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl grid grid-cols-3 my-5 transition">
 
-            <div className="relative h-5/6 mx-auto my-5 aspect-square rounded-md shadow-lg transition overflow-clip">
+            <div className="relative h-5/6 m-5 mr-auto aspect-square rounded-md shadow-lg transition overflow-clip">
                 <Image src={album.cover} alt={album.name} layout="fill" sizes="13rem" priority placeholder='blur' blurDataURL={album.coverColor}/>
             </div>
 
