@@ -27,31 +27,28 @@ export default function ReleaseDescription({ cover, title, circle, specification
                 <dd>{circle.name}</dd>
 
                 <DtKodama>{t('specification')}</DtKodama>
-                <dd>Digital Touhou Arrange &amp; Vocal Album</dd>
+                <dd>{specification}</dd>
 
                 <DtKodama>{t('release_date')}</DtKodama>
-                <dd>30 Dec. 2020</dd>
+                <dd>{release_date}</dd>
                 
                 <DtKodama>{t('catalog')}</DtKodama>
-                <dd>KSDL-0001</dd>
+                <dd>{catalog}</dd>
 
                 <DtKodama>{t('price')}</DtKodama>
-                <dd>7€</dd>
+                <dd>{price}</dd>
                 
                 <DtKodama>{t('store')}</DtKodama>
-                    <dd>
-                        <ul>
-                            <li>
-                                <a href="https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-1-2" target="_blank" rel="noreferrer">Bandcamp</a>
+                {/* parse store object with name and link and put them into Link elements */}
+                <dd><ul>
+                    {Object.entries(store).map(storeItem => {
+                        return (
+                            <li key={storeItem[0]}>
+                                <a href={storeItem[1].link}>{storeItem[1].name}</a>
                             </li>
-                            
-                            
-                            <li>
-                                <a href="https://booth.pm/en/items/2433797" target="_blank" rel="noreferrer">BOOTH</a>
-                            </li>
-                        </ul>
-                    </dd>
+                    )})}
+                </ul></dd>
             </dl>
-		</div>
-	)
+        </div>
+    )
 }

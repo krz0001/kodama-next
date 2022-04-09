@@ -13,9 +13,15 @@
     "release_date": "[timestamp]",
     "catalog": "KSDL-0004",
     "price": "XX€",
-    "store_links": {
-        "bandcamp": "/",
-        "booth": "/"
+    "store": {
+        "bandcamp": {
+            "name": "Bandcamp",
+            "link":"/"
+        },
+        "booth": {
+            "name": "BOOTH",
+            "link":"/"
+        }
     },
     "tracklist": {
         "1" : {

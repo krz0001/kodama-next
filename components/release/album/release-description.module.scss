@@ -22,4 +22,21 @@
     & > dd {
         @apply relative mb-8;
     }
+
+    & ul {
+        @apply block list-disc mb-4 pl-10;
+    }
+
+    & li {
+        @apply list-item;
+    }
+
+    & a {
+        color: var(--release-color);
+    }
+
+    & a:hover, 
+    & a:focus {
+        @apply underline underline-offset-1;
+    }
 }
