@@ -34,6 +34,13 @@ export default function ReleaseLayout({ release }) {
           />
           <ReleaseDescription 
             cover={release.cover}
+            title={release.title}
+            circle={release.circle}
+            specification={release.specification}
+            release_date={release.release_date}
+            catalog={release.catalog}
+            price={release.price}
+            store={release.store}
           />
           <section>
             {/* call to action */}

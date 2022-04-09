@@ -1,7 +1,18 @@
 import Image from 'next/image'
 import descStyles from './release-description.module.scss'
+import useTranslation from 'next-translate/useTranslation'
 
-export default function ReleaseDescription({ cover }) {
+
+function DtKodama({ children }) {
+
+    return (
+        <dt><span className={descStyles.dt_label}>{children}</span></dt>
+    )
+}
+
+export default function ReleaseDescription({ cover, title, circle, specification, release_date, catalog, price, store }) {
+    const { t } = useTranslation('release')
+
     return (
 		<div className='container mx-auto my-16 grid grid-cols-2'>
             <div className='relative w-[800px] max-w-full mx-auto'>
@@ -9,25 +20,25 @@ export default function ReleaseDescription({ cover }) {
             </div>
 
             <dl className={descStyles.description}>
-                <dt>TITLE</dt>
-                <dd>Gensokyo Party Vol. 1</dd>
+                <DtKodama>{t('title')}</DtKodama>
+                <dd>{title}</dd>
 
-                <dt>CIRCLE</dt>
-                <dd>KodamaSounds</dd>
+                <DtKodama>{t('circle')}</DtKodama>
+                <dd>{circle.name}</dd>
 
-                <dt>SPECIFICATION</dt>
+                <DtKodama>{t('specification')}</DtKodama>
                 <dd>Digital Touhou Arrange &amp; Vocal Album</dd>
 
-                <dt>RELEASE DATE</dt>
+                <DtKodama>{t('release_date')}</DtKodama>
                 <dd>30 Dec. 2020</dd>
                 
-                <dt>CATALOG</dt>
+                <DtKodama>{t('catalog')}</DtKodama>
                 <dd>KSDL-0001</dd>
 
-                <dt>PRICE</dt>
+                <DtKodama>{t('price')}</DtKodama>
                 <dd>7€</dd>
                 
-                <dt>STORE</dt>
+                <DtKodama>{t('store')}</DtKodama>
                     <dd>
                         <ul>
                             <li>

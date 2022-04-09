@@ -2,6 +2,6 @@
     "locales": ["en", "jp"],
     "defaultLocale": "en",
     "pages": {
-        "*": ["common", "eclectic-resonance-dawn"]
+        "*": ["common", "release", "eclectic-resonance-dawn"]
     }
 }

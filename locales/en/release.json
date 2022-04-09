@@ -2,5 +2,8 @@
     "title": "Title",
     "circle": "Circle",
     "specification": "Specification",
-    "release_date": "Release Date"
+    "release_date": "Release Date",
+    "catalog": "Catalog",
+    "price": "Price",
+    "store": "Store"
 }

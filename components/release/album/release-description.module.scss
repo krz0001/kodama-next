@@ -1,6 +1,25 @@
 .description {
-    color: var(--release-color);
     & > dt {
-        @apply mb-2;
+        @apply relative mb-2;
+    }
+    
+    & > dt > .dt_label {
+        @apply relative bg-[#232426] inline-block pr-4 z-10 uppercase;
+    }
+    
+    & > dt::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 0;
+        z-index: 1;
+        width: 100%;
+        background-color: #666;
+        height: 1px;
+        display: block;
+    }
+
+    & > dd {
+        @apply relative mb-8;
     }
 }
