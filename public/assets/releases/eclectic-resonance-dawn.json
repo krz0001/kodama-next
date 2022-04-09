@@ -1,0 +1,27 @@
+{
+    "logo": "/assets/discography/logos/0004.png",
+    "color": "4f43c7",
+    "description": "eclectic-resonance-dawn:desc",
+    "soundcloud_track_id": "1246829512",
+    "cover": "/assets/discography/covers/0004.png",
+    "title": "ECLECTIC RESONANCE ~Dawn~",
+    "circle": {
+        "name": "KodamaSounds",
+        "link": "/"
+    },
+    "specification": "Lorem Ipsum",
+    "release_date": "[timestamp]",
+    "catalog": "KSDL-0004",
+    "price": "XX€",
+    "store_links": {
+        "bandcamp": "/",
+        "booth": "/"
+    },
+    "tracklist": {
+        "1" : {
+            "title": "Track 01 title",
+            "description": "arrangement: krz0001\ndeuxième ligne psk jveux tester les line wrap"
+        }
+    }
+}
+

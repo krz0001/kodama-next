@@ -1,7 +1,57 @@
-export default function Layout({ release }) {
+import Head from 'next/head'
+
+import layoutStyles from './layout.module.css'
+import ReleaseNav from './release-nav'
+import ReleaseHead from './release-head'
+import ReleaseDescription from './release-description'
+
+import Meta from '../../meta'
+import { createGlobalStyle } from 'styled-components';
+
+
+
+export default function ReleaseLayout({ release }) {
+    const GlobalStyles = createGlobalStyle`
+      :root {
+        --release-color: #${release.color};
+      }
+    `;
+  
     return (
       <>
-      
+        <Meta />
+        <GlobalStyles />
+        <Head>
+          <title>{release.title + " - KodamaSounds"}</title>
+        </Head>
+        <div className={layoutStyles.main}>
+          <ReleaseNav />
+          <ReleaseHead 
+            logo={release.logo} 
+            description={release.description} 
+            sc_track_id={release.soundcloud_track_id} 
+            color={release.color}
+          />
+          <ReleaseDescription 
+            cover={release.cover}
+          />
+          <section>
+            {/* call to action */}
+          </section>
+          <section>
+          {/* tracklist */}
+          </section>
+          
+          {/* youtube embed */}
+
+          <section>
+            {/* credit */}
+          </section>
+
+          <footer>
+            {/* footer */}
+          </footer>
+        </div>
       </>
     )
   }

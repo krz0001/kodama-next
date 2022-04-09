@@ -6,15 +6,11 @@ import Header from '../components/header'
 import AlbumListing from '../components/album-listing'
 import albumsJson from "/public/assets/discography/albums.json"
 
-
-
 import { getAllPosts } from '../lib/api'
 import { WEBSITE_NAME } from '../lib/constants'
 
 export default function Discography() {
   const albumsArray = Object.values(albumsJson);
-  console.log(albumsArray);
-
   return (
     <>
       <Layout>
@@ -33,9 +29,6 @@ export default function Discography() {
                 )
               })}
             </div>
-            
-           
-
           </div>
         </Container>
       </Layout>

@@ -22,13 +22,22 @@
 		url('/assets/fonts/audiowide-v9-latin-regular.svg#Audiowide') format('svg');
 	/* Legacy iOS */
 }
-html {
-	@apply bg-slate-900 bg-[url('/assets/space_background.jpg')] bg-no-repeat bg-cover bg-center bg-fixed;
+
+@font-face {
+    font-family: 'Arquitecta';
+	src: url('/assets/fonts/ArquitectaBook-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
-body {
-	@apply bg-slate-900/80 text-white backdrop-blur-sm min-h-screen ;
-} 
+@font-face {
+    font-family: 'Arquitecta';
+    src: url('/assets/fonts/ArquitectaBold-webfont.woff?3') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
 
 .kodama_btn {
 	@apply py-2 px-3 text-xs font-medium text-center text-white rounded-lg  focus:ring-4  flex transition;

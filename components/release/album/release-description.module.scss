@@ -1,0 +1,6 @@
+.description {
+    color: var(--release-color);
+    & > dt {
+        @apply mb-2;
+    }
+}
