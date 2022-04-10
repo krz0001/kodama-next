@@ -1,4 +1,6 @@
 .description {
+    @apply flex-grow px-4;
+
     & > dt {
         @apply relative mb-2;
     }

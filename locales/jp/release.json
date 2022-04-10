@@ -5,5 +5,6 @@
     "release_date": "リリース日",
     "catalog": "カタログ",
     "price": "価格",
-    "store": "ストア"
+    "store": "ストア",
+    "available_now": "Available now"
 }

@@ -4,6 +4,7 @@ import layoutStyles from './layout.module.css'
 import ReleaseNav from './release-nav'
 import ReleaseHead from './release-head'
 import ReleaseDescription from './release-description'
+import ReleaseCallToAction from './release-call-to-action'
 
 import Meta from '../../meta'
 import { createGlobalStyle } from 'styled-components';
@@ -42,9 +43,10 @@ export default function ReleaseLayout({ release }) {
             price={release.price}
             store={release.store}
           />
-          <section>
-            {/* call to action */}
-          </section>
+          <ReleaseCallToAction
+            store={release.store}
+          />
+
           <section>
           {/* tracklist */}
           </section>
