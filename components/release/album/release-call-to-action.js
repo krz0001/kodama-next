@@ -2,10 +2,10 @@ import Link from 'next/link'
 import Trans from 'next-translate/Trans'
 import callToActionStyles from './release-call-to-action.module.scss'
 
-export default function ReeleaseCallToAction({store}) {
+export default function ReleaseCallToAction({store}) {
 	return (
 		<section className='bg-[#333335] mt-16 py-8'>
-            <h2 className='text-2xl text-center uppercase mb-8'>
+            <h2 className='text-2xl text-center uppercase mb-6 font-black'>
                 <Trans i18nKey="release:available_now" />
             </h2>
 
@@ -20,8 +20,6 @@ export default function ReeleaseCallToAction({store}) {
                     )
                 })}
             </div>
-
-
         </section>
 	)
 }

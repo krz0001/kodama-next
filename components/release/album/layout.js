@@ -5,6 +5,8 @@ import ReleaseNav from './release-nav'
 import ReleaseHead from './release-head'
 import ReleaseDescription from './release-description'
 import ReleaseCallToAction from './release-call-to-action'
+import ReleaseTracklist from './release-tracklist'
+import ReleaseYouTubeEmbed from './release-youtube-embed'
 
 import Meta from '../../meta'
 import { createGlobalStyle } from 'styled-components';
@@ -13,57 +15,52 @@ import { createGlobalStyle } from 'styled-components';
 
 export default function ReleaseLayout({ release }) {
     const GlobalStyles = createGlobalStyle`
-      :root {
+        :root {
         --release-color: #${release.color};
-      }
+    }
     `;
-  
+
     return (
-      <>
-        <Meta />
-        <GlobalStyles />
-        <Head>
-          <title>{release.title + " - KodamaSounds"}</title>
-        </Head>
-        <div className={layoutStyles.main}>
-          <ReleaseNav />
-          <ReleaseHead 
-            logo={release.logo} 
-            description={release.description} 
-            sc_track_id={release.soundcloud_track_id} 
-            color={release.color}
-          />
-          <ReleaseDescription 
-            cover={release.cover}
-            title={release.title}
-            circle={release.circle}
-            specification={release.specification}
-            release_date={release.release_date}
-            catalog={release.catalog}
-            price={release.price}
-            store={release.store}
-          />
-          <ReleaseCallToAction
-            store={release.store}
-          />
+        <>
+            <Meta />
+            <GlobalStyles />
+            <Head>
+                <title>{release.title + " - KodamaSounds"}</title>
+            </Head>
+            <div className={layoutStyles.main}>
+                <ReleaseNav />
+                <ReleaseHead 
+                    logo={release.logo} 
+                    description={release.description} 
+                    sc_track_id={release.soundcloud_track_id} 
+                    color={release.color}
+                />
+                <ReleaseDescription 
+                    cover={release.cover}
+                    title={release.title}
+                    circle={release.circle}
+                    specification={release.specification}
+                    release_date={release.release_date}
+                    catalog={release.catalog}
+                    price={release.price}
+                    store={release.store}
+                />
+                <ReleaseCallToAction
+                    store={release.store}
+                />
+                <ReleaseTracklist tracklist={release.tracklist} />
+                <ReleaseYouTubeEmbed youtube={release.youtube_id} />
+                <section>
+                    {/* credit */}
+                </section>
 
-          <section>
-          {/* tracklist */}
-          </section>
-          
-          {/* youtube embed */}
-
-          <section>
-            {/* credit */}
-          </section>
-
-          <footer>
-            {/* footer */}
-          </footer>
-        </div>
-      </>
+                <footer>
+                    {/* footer */}
+                </footer>
+            </div>
+        </>
     )
-  }
+}
 
 
 /*

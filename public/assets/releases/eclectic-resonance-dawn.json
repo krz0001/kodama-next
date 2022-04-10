@@ -26,8 +26,13 @@
     "tracklist": {
         "1" : {
             "title": "Track 01 title",
-            "description": "arrangement: krz0001\ndeuxième ligne psk jveux tester les line wrap"
+            "description": ["arrangement: krz0001","deuxième ligne psk jveux tester les line wrap"]
+        },
+        "2" : {
+            "title": "Track 02 title",
+            "description": ["bababab soos sheeeeeeeee","khfdhld h hfdkhf h  fk fd djfdfs e iuep"]
         }
-    }
+    },
+    "youtube_id": "Up84I4VcKI8"
 }
 
