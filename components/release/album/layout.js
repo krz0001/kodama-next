@@ -1,12 +1,13 @@
 import Head from 'next/head'
 
-import layoutStyles from './layout.module.css'
+import layoutStyles from './layout.module.scss'
 import ReleaseNav from './release-nav'
 import ReleaseHead from './release-head'
 import ReleaseDescription from './release-description'
 import ReleaseCallToAction from './release-call-to-action'
 import ReleaseTracklist from './release-tracklist'
 import ReleaseYouTubeEmbed from './release-youtube-embed'
+import ReleaseCredits from './release-credits'
 
 import Meta from '../../meta'
 import { createGlobalStyle } from 'styled-components';
@@ -50,6 +51,7 @@ export default function ReleaseLayout({ release }) {
                 />
                 <ReleaseTracklist tracklist={release.tracklist} />
                 <ReleaseYouTubeEmbed youtube={release.youtube_id} />
+                <ReleaseCredits credits={release.credits} />
                 <section>
                     {/* credit */}
                 </section>

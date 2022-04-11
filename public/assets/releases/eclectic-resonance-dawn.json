@@ -33,6 +33,23 @@
             "description": ["bababab soos sheeeeeeeee","khfdhld h hfdkhf h  fk fd djfdfs e iuep"]
         }
     },
-    "youtube_id": "Up84I4VcKI8"
+    "youtube_id": "Up84I4VcKI8",
+    "credits": {
+        "1" : {
+            "role": "Arrange",
+            "name": "krz0001",
+            "website": "http://www.google.com"
+        },
+        "2" : {
+            "role": "Arrange",
+            "name": "krz0001",
+            "website": "http://www.google.com"
+        },
+        "3" : {
+            "role": "Arrange",
+            "name": "krz0001",
+            "website": "http://www.google.com"
+        }
+    }
 }
 
