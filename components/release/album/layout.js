@@ -8,6 +8,7 @@ import ReleaseCallToAction from './release-call-to-action'
 import ReleaseTracklist from './release-tracklist'
 import ReleaseYouTubeEmbed from './release-youtube-embed'
 import ReleaseCredits from './release-credits'
+import ReleaseFooter from './release-footer'
 
 import Meta from '../../meta'
 import { createGlobalStyle } from 'styled-components';
@@ -52,13 +53,10 @@ export default function ReleaseLayout({ release }) {
                 <ReleaseTracklist tracklist={release.tracklist} />
                 <ReleaseYouTubeEmbed youtube={release.youtube_id} />
                 <ReleaseCredits credits={release.credits} />
-                <section>
-                    {/* credit */}
-                </section>
-
-                <footer>
-                    {/* footer */}
-                </footer>
+                <ReleaseFooter 
+                    slug={release.slug}
+                    title={release.title}
+                />
             </div>
         </>
     )
