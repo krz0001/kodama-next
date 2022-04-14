@@ -30,5 +30,25 @@
         "website": "https://gensokyo-party-2-vantablack.tumblr.com/",
         "vgmdb": "https://vgmdb.net/album/111960",
         "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._2_VANTABLACK"
+    },
+    "3":{
+        "id": "KSDL-0004",
+        "name": "ECLECTIC RESONANCE ~Dawn~",
+        "cover": "/assets/discography/covers/0004.png",
+        "coverColor": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mMsio+uBwAEJAGt+nc9qgAAAABJRU5ErkJggg==",
+        "bandcamp": "/",
+        "booth": "/",
+        "website": "/eclectic-resonance-dawn",
+        "vgmdb": "/"
+    },
+    "4":{
+        "id": "KSDL-0005",
+        "name": "ECLECTIC RESONANCE ~Dusk~",
+        "cover": "/assets/discography/covers/0005.png",
+        "coverColor": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mMsio+uBwAEJAGt+nc9qgAAAABJRU5ErkJggg==",
+        "bandcamp": "/",
+        "booth": "/",
+        "website": "/",
+        "vgmdb": "/"
     }
 }
