@@ -3,7 +3,7 @@ const nextTranslate = require('next-translate')
 module.exports = nextTranslate({
     reactStrictMode: true,
     i18n: {
-        locales: ['en', 'jp'],
+        locales: ['en'],
         defaultLocale: 'en',
     }
 })
