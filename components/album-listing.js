@@ -9,13 +9,13 @@ export default function AlbumListing({ album }) {
     const { t } = useTranslation('common')
 
     return (
-        <div className="group relative max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl grid grid-cols-3 my-5 transition">
+        <div className="group relative w-full md:max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl flex flex-col md:flex-row my-5 transition">
 
-            <div className="relative h-5/6 m-5 mr-auto aspect-square rounded-md shadow-lg transition overflow-clip">
+            <div className="relative h-52 w-52 my-5 mx-auto md:m-5 md:mr-0 aspect-square rounded-md shadow-lg transition overflow-clip flex-none bg-slate-400">
                 <Image src={album.cover} alt={album.name} layout="fill" sizes="13rem" priority placeholder='blur' blurDataURL={album.coverColor}/>
             </div>
 
-            <div className="col-span-2 flex flex-col py-5 px-10">
+            <div className="flex flex-col flex-initial py-5 px-10">
                 <div>
                     <span className="font-mono text-sm">{album.id}</span>
                     <h2 className="text-2xl font-semibold">{album.name}</h2>
@@ -38,9 +38,11 @@ export default function AlbumListing({ album }) {
                         Website
                     </a>
 
+                    { album.vgmdb ?
                     <a href={album.vgmdb} className="kodama_btn kodama_btn--primary">
                         VGMDB
                     </a>
+                    : null }
 
                     { album.thbwiki ? 
                     <a href={album.thbwiki} className="kodama_btn kodama_btn--primary">
