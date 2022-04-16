@@ -6,6 +6,7 @@ import ProseContainer from '../components/prose-container'
 import MoreStories from '../components/more-stories'
 import Trans from 'next-translate/Trans'
 import useTranslation from 'next-translate/useTranslation'
+import Link from 'next/link'
 
 import { getAllPosts } from '../lib/api'
 import { WEBSITE_NAME } from '../lib/constants'
@@ -28,17 +29,26 @@ export default function Index({ allPosts }) {
           <div className="container pt-10 px-6 mx-auto">
             <ProseContainer>
               <h2>{t('home.title')}</h2>
+              
+              <p>{t('home.content.1')}</p>
               <p> 
                 <Trans
-                  i18nKey="common:home.content.1"
+                  i18nKey="common:home.content.2"
                   components={{
-                    strong : <strong />
+                    ul : <ul/>,
+                    li : <li/>
                   }}
                 />
               </p>
-              <p>{t('home.content.2')}</p>
-              <p>{t('home.content.3')}</p>
-              <p>{t('home.content.4')}</p>
+              <p> 
+                <Trans
+                  i18nKey="common:home.content.3"
+                  components={{
+                    bandcamp : <Link href="https://kodamasounds.bandcamp.com/"/>,
+                    booth : <Link href="https://kodamasoft.booth.pm/"/>
+                  }}
+                />
+              </p>
             </ProseContainer>
             {/* {allPosts.length > 0 && <MoreStories posts={allPosts} />} */}
           </div>

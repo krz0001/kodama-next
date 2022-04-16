@@ -3,7 +3,7 @@
         "id": "KSDL-0001",
         "name": "Gensokyo Party Vol. 1",
         "cover": "/assets/discography/covers/0001.jpg",
-        "coverColor": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOsSwisBwAEQwGwUzEPNgAAAABJRU5ErkJggg==",
+        "coverColor": "#7e6051",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-1-2",
         "booth": "https://booth.pm/en/items/2433797",
         "website": "http://gensokyo-party-vol1.tumblr.com/",
@@ -14,7 +14,7 @@
         "id": "KSDL-0002",
         "name": "Moonstruck Analogy -a TYPE​-​MOON tribute album-",
         "cover": "/assets/discography/covers/0002.png",
-        "coverColor": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN094quBwADOQFtC/Ub2gAAAABJRU5ErkJggg==",
+        "coverColor": "#474a5b",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/moonstruck-analogy-a-type-moon-tribute-album",
         "booth": "https://kodamasoft.booth.pm/items/3264153",
         "website": "https://moonstruck-analogy.tumblr.com/",
@@ -24,7 +24,7 @@
         "id": "KSDL-0003",
         "name": "Gensokyo Party Vol. 2 VANTABLACK",
         "cover": "/assets/discography/covers/0003.png",
-        "coverColor": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mMsio+uBwAEJAGt+nc9qgAAAABJRU5ErkJggg==",
+        "coverColor": "#725f5b",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-2-vantablack",
         "booth": "https://kodamasoft.booth.pm/items/3514431",
         "website": "https://gensokyo-party-2-vantablack.tumblr.com/",
@@ -34,8 +34,8 @@
     "3":{
         "id": "KSDL-0004",
         "name": "ECLECTIC RESONANCE ~Dawn~",
-        "cover": "/assets/discography/covers/0004.png",
-        "coverColor": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mMsio+uBwAEJAGt+nc9qgAAAABJRU5ErkJggg==",
+        "cover": "/assets/discography/covers/0004.jpg",
+        "coverColor": "#4e385d",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dawn",
         "booth": "https://kodamasoft.booth.pm/items/3763619",
         "website": "https://eclecticresonance-dawn.tumblr.com/"
@@ -43,8 +43,8 @@
     "4":{
         "id": "KSDL-0005",
         "name": "ECLECTIC RESONANCE ~Dusk~",
-        "cover": "/assets/discography/covers/0005.png",
-        "coverColor": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mMsio+uBwAEJAGt+nc9qgAAAABJRU5ErkJggg==",
+        "cover": "/assets/discography/covers/0005.jpg",
+        "coverColor": "#7a3f20",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dusk",
         "booth": "https://kodamasoft.booth.pm/items/3793016",
         "website": "https://eclecticresonance-dusk.tumblr.com/"
