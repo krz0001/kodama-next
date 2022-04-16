@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import { HOME_OG_IMAGE_URL } from '../lib/constants'
 
 export default function Meta() {
   return (
@@ -32,7 +31,12 @@ export default function Meta() {
       <meta name="msapplication-config" content="/favicons/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <meta property="og:image" content="/assets/kodamahead.png" />
+      <meta property="og:title" content="KodamaSoft" />
+      <meta property="og:description" content="KodamaSoft is a small french amateur community crafting video games, visual novels, and music!" />
+      <meta property="og:url" content="https://kodamasoft.net" />
+      <meta property="og:type" content="website" />
+
     </Head>
   )
 }

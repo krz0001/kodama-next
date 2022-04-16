@@ -36,19 +36,17 @@
         "name": "ECLECTIC RESONANCE ~Dawn~",
         "cover": "/assets/discography/covers/0004.png",
         "coverColor": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mMsio+uBwAEJAGt+nc9qgAAAABJRU5ErkJggg==",
-        "bandcamp": "/",
-        "booth": "/",
-        "website": "/eclectic-resonance-dawn",
-        "vgmdb": "/"
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dawn",
+        "booth": "https://kodamasoft.booth.pm/items/3763619",
+        "website": "https://eclecticresonance-dawn.tumblr.com/"
     },
     "4":{
         "id": "KSDL-0005",
         "name": "ECLECTIC RESONANCE ~Dusk~",
         "cover": "/assets/discography/covers/0005.png",
         "coverColor": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mMsio+uBwAEJAGt+nc9qgAAAABJRU5ErkJggg==",
-        "bandcamp": "/",
-        "booth": "/",
-        "website": "/",
-        "vgmdb": "/"
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dusk",
+        "booth": "https://kodamasoft.booth.pm/items/3793016",
+        "website": "https://eclecticresonance-dusk.tumblr.com/"
     }
 }

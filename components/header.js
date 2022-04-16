@@ -7,7 +7,7 @@ export default function Header() {
 	let links = [
 		{ href: '/', label: 'Home' },
 		{ href: '/discography', label: 'Discography' },
-		{ href: '/blog', label: 'Blog' }
+		// { href: '/blog', label: 'Blog' }
 	];
 
 	return (
