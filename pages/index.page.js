@@ -40,7 +40,7 @@ export default function Index({ allPosts }) {
               <p>{t('home.content.3')}</p>
               <p>{t('home.content.4')}</p>
             </ProseContainer>
-            {allPosts.length > 0 && <MoreStories posts={allPosts} />}
+            {/* {allPosts.length > 0 && <MoreStories posts={allPosts} />} */}
           </div>
         </Container>
       </Layout>

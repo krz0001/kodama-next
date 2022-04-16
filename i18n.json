@@ -1,7 +1,0 @@
-{
-    "locales": ["en", "jp"],
-    "defaultLocale": "en",
-    "pages": {
-        "*": ["common", "release", "eclectic-resonance-dawn"]
-    }
-}
