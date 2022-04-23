@@ -1,9 +1,9 @@
 ---
 title: 'Gensokyo Party Vol. 3 Moriya Barista (JP ver.)'
-date: '2020-03-16T05:35:07.322Z'
+date: '2022-04-26T18:00:00+0200'
 locale: jp
 author: Robin
-twin: ksdl-0006
+twin: ksdl-0007
 ---
 
 > ちょっと横になってみてください。この瞬間を楽しみ、去年の激しさを手放そう。Moriya Baristaは、誰でも気軽に聴ける、心地よい、グルーヴィーなものを求めている人に最適なアルバムになると思います。

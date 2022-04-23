@@ -1,9 +1,9 @@
 ---
 title: 'Fragments of Gratitude -a When They Cry Tribute Album- (JP ver.)'
-date: '2020-03-16T05:35:07.322Z'
+date: '2022-04-26T18:00:00+0200'
 locale: jp
 author: Robin
-twin: ksdl-0007
+twin: ksdl-0006
 ---
 
 「When They Cry」シリーズは、ビジュアルノベルの中で最も愛されているシリーズの一つです。このシリーズの巨大な世界は、世界中のいろいろの人々に愛されています。このアルバムは、そのすべてを音楽で祝うためのオマージュアルバムという想いを込められるアルバムです。\
