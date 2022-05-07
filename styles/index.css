@@ -39,6 +39,10 @@
 
 }
 
+html {
+	color-scheme: dark;
+}
+
 .kodama_btn {
 	@apply py-2 px-3 text-xs font-medium text-center text-white rounded-lg  focus:ring-4  flex transition;
 	@apply bg-slate-600 hover:bg-slate-700 focus:ring-slate-800;
