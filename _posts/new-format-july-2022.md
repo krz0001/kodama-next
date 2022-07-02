@@ -1,6 +1,6 @@
 ---
 title: 'New Format for KodamaSounds Community Projects'
-date: '2022-04-26T18:00:00+0200'
+date: '2022-07-02T14:00:0+00:00'
 locale: en
 author: Robin
 ---
