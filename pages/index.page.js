@@ -50,7 +50,7 @@ export default function Index({ allPosts }) {
                 />
               </p>
             </ProseContainer>
-            {/* {allPosts.length > 0 && <MoreStories posts={allPosts} />} */}
+             {allPosts.length > 0 && <MoreStories posts={allPosts} />} 
           </div>
         </Container>
       </Layout>
@@ -59,14 +59,17 @@ export default function Index({ allPosts }) {
 }
 
 export async function getStaticProps({ locale }) {
-  const allPosts = getAllPosts([
+  let allPosts = getAllPosts([
     'title',
     'date',
     'slug',
     'author',
-    'locale'
+    'locale',
+    'public'
   ], locale)
 
+  allPosts = allPosts.filter((post) => post.public !== false);
+  
   return {
     props: { allPosts },
   }
