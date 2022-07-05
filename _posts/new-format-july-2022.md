@@ -1,8 +1,9 @@
 ---
 title: 'New Format for KodamaSounds Community Projects'
-date: '2022-07-02T14:00:0+00:00'
+date: '2022-07-02T00:00:00+0200'
 locale: en
 author: Robin
+public: true
 ---
 
 Hello everyone, Robin here.

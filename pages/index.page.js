@@ -12,7 +12,7 @@ import { getAllPosts } from '../lib/api'
 import { WEBSITE_NAME } from '../lib/constants'
 
 
-export default function Index({ allPosts }) {
+export default function Index({ filteredPosts }) {
   const { t } = useTranslation('common')
 
   return (
@@ -50,7 +50,7 @@ export default function Index({ allPosts }) {
                 />
               </p>
             </ProseContainer>
-             {allPosts.length > 0 && <MoreStories posts={allPosts} />} 
+             {filteredPosts.length > 0 && <MoreStories posts={filteredPosts} />} 
           </div>
         </Container>
       </Layout>
@@ -68,9 +68,9 @@ export async function getStaticProps({ locale }) {
     'public'
   ], locale)
 
-  allPosts = allPosts.filter((post) => post.public !== false);
+  let filteredPosts = allPosts.filter((post) => post.public !== false);
   
   return {
-    props: { allPosts },
+    props: { filteredPosts },
   }
 }
