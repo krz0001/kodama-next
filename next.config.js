@@ -4,7 +4,7 @@ module.exports = nextTranslate({
     pageExtensions: ["page.js"],
     reactStrictMode: true,
     i18n: {
-        locales: ['en'],
+        locales: ['en','jp'],
         defaultLocale: 'en',
         localeDetection: false,
     }
