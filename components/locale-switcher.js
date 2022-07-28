@@ -10,7 +10,10 @@ export default function LocaleSwitcher({className}) {
                 {locales.map((l, i) => {
                     return (
                         <span key={i} className={l === locale ? 'font-bold' : ''}>
-                            <Link href={asPath} locale={l}>{l}</Link>
+                            {/* to uppercase locale*/}
+                            <Link href={asPath} locale={l}>
+                                {l.toUpperCase()}
+                            </Link>
                         </span>
                     )
                 })}
