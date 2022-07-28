@@ -1,0 +1,167 @@
+{
+    "slug": "gensokyo-party-vol1",
+    "logo": "/assets/discography/logos/0001.png",
+    "color": "ff4141",
+    "description": "release:0001.desc",
+    "soundcloud_track_id": "952270759",
+    "cover": "/assets/discography/covers/0001.jpg",
+    "title": "Gensokyo Party Vol. 1",
+    "circle": {
+        "name": "KodamaSounds",
+        "link": "/"
+    },
+    "specification": "Digital Touhou Arrange & Vocal Album",
+    "release_date": "30 Dec. 2020",
+    "catalog": "KSDL-0001",
+    "price": "7€",
+    "store": {
+        "bandcamp": {
+            "name": "Bandcamp",
+            "link":"https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-1-2"
+        },
+        "booth": {
+            "name": "BOOTH",
+            "link":"https://booth.pm/en/items/2433797"
+        }
+    },
+    "tracklist": {
+        "1" : {
+            "title": "Ebony Equine / Hazama Yuutou",
+            "description": ["arrangement: krz0001","original title: Prince Shoutoku's Pegasus ~ Dark Pegasus [Wily Beast and Weakest Creature.]"]
+        },
+        "2" : {
+            "title": "IdeologygoloedI / Tee-vee",
+            "description": ["arrangement, guitar, bass: Tee-vee","original title: Reverse Ideology [Double Dealing Character.]"]
+        },
+        "3" : {
+            "title": "Ricochet of Resolve / Milkychan",
+            "description": ["arrangement, vocals, lyrics: Milkychan (Norowareta Night)","original title: Pure Furies ~ Whereabouts of the Heart [Legacy of Lunatic Kingdom.]"]
+        },
+        "4" : {
+            "title": "A Flower Tea Party At The Eternal Spring Dream / Levc",
+            "description": ["arrangement: Levc","original title: Shanghai Scarlet Teahouse ~ Chinese Tea [the Embodiment of Scarlet Devil.]", "original title: Flowering Night [Phantasmagoria of Flower View.]","original title: Eternal Spring Dream [Legacy of Lunatic Kingdom.]"]
+        },
+        "5" : {
+            "title": "I'll Always Remember / scarps",
+            "description": ["arrangement: scarps","original title: Gensokyo, Past and Present ~ Flower Land [Phantasmagoria of Flower View.]"]
+        },
+        "6" : {
+            "title": "Anchor / Takamachi Walk",
+            "description": ["arrangement: wasi (Takamachi Walk) vocals: nagano & noaon (Takamachi Walk)","original title: Entrusting This World to Idols ~ Idolatrize World [Wily Beast and Weakest Creature.]"]
+        },
+        "7" : {
+            "title": "A Scarlet Nightfall / Vintagestep",
+            "description": ["arrangement, guitar: Vintagestep","original title: Septette for a Dead Princess [the Embodiment of Scarlet Devil.]"]
+        },
+        "8" : {
+            "title": "Brilliant Flare / ViRiX Dreamcore (feat. Vintagestep)",
+            "description": ["arrangement: ViRiX Dreamcore (UVGM)","guitar: Vintagestep", "original title: The Dark Blowhole [Subterranean Animism.]"]
+        },
+        "9" : {
+            "title": "Ella Era Conocida / Kopan",
+            "description": ["arrangement, keyboard: Kopan (KodamaSounds)","original title: U.N. Owen Was Her? [the Embodiment of Scarlet Devil.]"]
+        },
+        "10" : {
+            "title": "8 Bits of Faith / BlankPxl",
+            "description": ["arrangement: BlankPxl (Irodori)","original title: Cemetery of Onbashira ~ Grave of Being & The Venerable Ancient Battlefield ~ Suwa Foughten Field [Mountain of Faith.]"]
+        },
+        "11" : {
+            "title": "Entrusting This World to You / Damare",
+            "description": ["arrangement: Damare","original title: Entrusting this World to Idols ~ Idolatrize World [Wily Beast and Weakest Creature.]"]
+        },
+        "12" : {
+            "title": "Bloom / LibriJamm",
+            "description": ["arrangement: LibriJamm","original title: Gensokyo, Past and Present ~ Flower Land [Phantasmagoria of Flower View.]", "original title: Sleeping Terror & Faint Dream ~ Inanimate Dream [Lotus Land Story.]"]
+        }
+    },
+    "youtube_id": "ijWfhV8CF5U",
+    "credits": {
+        "1" : {
+            "role": "Arrange",
+            "name": "Hazama Yuutou",
+            "website": "https://twitter.com/hazama_yuutou"
+        },
+        "2" : {
+            "role": "Arrange, Guitar, Bass",
+            "name": "Tee-vee",
+            "website": "https://twitter.com/teevee_terminal"
+        },
+        "3" : {
+            "role": "Arrange, Vocal, Lyrics",
+            "name": "Milkychan",
+            "website": "https://twitter.com/_milkyrisa"
+        },
+        "4" : {
+            "role": "Arrange",
+            "name": "Levc",
+            "website": "https://twitter.com/Levc_EGM"
+        },
+        "5" : {
+            "role": "Arrange, Mastering Support",
+            "name": "scarps",
+            "website": "https://twitter.com/scarps849"
+        },
+        "6" : {
+            "role": "Arrange",
+            "name": "wasi",
+            "website": "https://twitter.com/waspyon"
+        },
+        "7" : {
+            "role": "Vocal",
+            "name": "nagano",
+            "website": "https://twitter.com/lyunahal"
+        },
+        "8" : {
+            "role": "Vocal",
+            "name": "noaon",
+            "website": "https://twitter.com/noa_sound"
+        },
+        "9" : {
+            "role": "Arrange, Guitar",
+            "name": "Vintagestep",
+            "website": "https://twitter.com/Vintagestep"
+        },
+        "10" : {
+            "role": "Arrange",
+            "name": "ViRiX Dreamcore",
+            "website": "https://twitter.com/ViRiX_Dreamcore"
+        },
+        "11" : {
+            "role": "Arrange, Keyboard",
+            "name": "Kopan",
+            "website": "https://twitter.com/__korpikopan__"
+        },
+        "12" : {
+            "role": "Arrange",
+            "name": "BlankPxl",
+            "website": "https://twitter.com/BlankPxl"
+        },
+        "13" : {
+            "role": "Arrange",
+            "name": "Damare",
+            "website": "https://twitter.com/NotDamare"
+        },
+        "14" : {
+            "role": "Arrange",
+            "name": "LibriJamm",
+            "website": "https://twitter.com/LibriJamm"
+        },
+        "15" : {
+            "role": "Illustration, Logo",
+            "name": "melissalitian",
+            "website": "https://twitter.com/MelissaLiTian"
+        },
+        "16" : {
+            "role": "Supervisor, Planner",
+            "name": "Fivda",
+            "website": "https://twitter.com/Fivda_"
+        },
+        "17" : {
+            "role": "Original Music",
+            "name": "ZUN",
+            "website": "https://www16.big.or.jp/~zun/top.html"
+        }
+
+    }
+}
+
