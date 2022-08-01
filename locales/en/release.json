@@ -6,5 +6,8 @@
     "catalog": "Catalog",
     "price": "Price",
     "store": "Store",
-    "available_now": "Available now"
+    "available_now": "Available now",
+    "0001" : {
+        "desc": "KodamaSounds' first album, centered around Touhou Project, featuring tons of artists from all around the world!"
+    }
 }

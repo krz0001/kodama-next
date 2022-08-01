@@ -1,0 +1,56 @@
+{
+    "slug": "eclectic-resonance-dawn",
+    "logo": "/assets/discography/logos/0004.png",
+    "color": "4f43c7",
+    "description": "eclectic-resonance-dawn:desc",
+    "soundcloud_track_id": "1246829512",
+    "cover": "/assets/discography/covers/0004.png",
+    "title": "ECLECTIC RESONANCE ~Dawn~",
+    "circle": {
+        "name": "KodamaSounds",
+        "link": "/"
+    },
+    "specification": "Lorem Ipsum",
+    "release_date": "[timestamp]",
+    "catalog": "KSDL-0004",
+    "price": "XX€",
+    "store": {
+        "bandcamp": {
+            "name": "Bandcamp",
+            "link":"/"
+        },
+        "booth": {
+            "name": "BOOTH",
+            "link":"/"
+        }
+    },
+    "tracklist": {
+        "1" : {
+            "title": "Track 01 title",
+            "description": ["arrangement: krz0001","deuxième ligne psk jveux tester les line wrap"]
+        },
+        "2" : {
+            "title": "Track 02 title",
+            "description": ["bababab soos sheeeeeeeee","khfdhld h hfdkhf h  fk fd djfdfs e iuep"]
+        }
+    },
+    "youtube_id": "Up84I4VcKI8",
+    "credits": {
+        "1" : {
+            "role": "Arrange",
+            "name": "krz0001",
+            "website": "http://www.google.com"
+        },
+        "2" : {
+            "role": "Arrange",
+            "name": "krz0001",
+            "website": "http://www.google.com"
+        },
+        "3" : {
+            "role": "Arrange",
+            "name": "krz0001",
+            "website": "http://www.google.com"
+        }
+    }
+}
+
