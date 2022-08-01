@@ -1,55 +1,321 @@
 {
     "slug": "fragments-of-gratitude",
-    "logo": "/assets/discography/logos/0001.png",
-    "color": "FF00FF",
+    "logo": "/assets/discography/logos/0006.png",
+    "color": "9ff4ff",
     "description": "eclectic-resonance-dawn:desc",
     "soundcloud_track_id": "1246829512",
-    "cover": "/assets/discography/covers/0004.png",
+    "cover": "/assets/discography/covers/0006.png",
     "title": "Fragments of Gratitude -a When They Cry tribute album-",
     "circle": {
         "name": "KodamaSounds",
         "link": "/"
     },
-    "specification": "Lorem Ipsum",
-    "release_date": "[timestamp]",
-    "catalog": "KSDL-0004",
-    "price": "XX€",
+    "specification": "07th Expansion Arrangement, Vocal, Original Work album",
+    "release_date": "13 Aug. 2022",
+    "catalog": "KSDL-0006",
+    "price": "10€ / ¥1300",
     "store": {
         "bandcamp": {
             "name": "Bandcamp",
-            "link":"/"
+            "link":"https://kodamasounds.bandcamp.com/album/fragments-of-gratitude-a-when-they-cry-tribute-album"
         },
         "booth": {
             "name": "BOOTH",
-            "link":"/"
+            "link":"https://kodamasoft.booth.pm/items/4035987"
         }
     },
     "tracklist": {
         "1" : {
-            "title": "Track 01 title",
-            "description": ["arrangement: krz0001","deuxième ligne psk jveux tester les line wrap"]
+            "title": "running fragments / soothingMelody",
+            "description": ["Arranger: soothingMelody","Original Track: Beat","Source: Higurashi no Naku Koro ni Kai"]
         },
         "2" : {
-            "title": "Track 02 title",
-            "description": ["bababab soos sheeeeeeeee","khfdhld h hfdkhf h  fk fd djfdfs e iuep"]
+            "title": "From magic that crushes worlds, to magic that sparks smiles. / Eiserne Jungfrau feat. Aamna + A​.​Dokuga + Kuroa*",
+            "description": ["Composer & Arranger: Eiserne Jungfrau (Kurokotei + AYhaz)","Vocals: Aamna, A.Dokuga, Kuroa*","Lyrics: AYhaz","Original Track: Image Song","Source: Umineko no Naku Koro ni"]
+        },
+        "3" : {
+            "title": "Translusent Memories / Eyhz",
+            "description": ["Arranger: Eyhz","Original Track: Taishou a","Source: Higurashi no Naku Koro ni Kai (Anime)"]
+        },
+        "4" : {
+            "title": "Core ~ Merciless Logic Battlefield / Gin Kreuz",
+            "description": ["Arranger: Gin Kreuz","Original Track: Core","Source: Umineko no Naku Koro ni"]
+        },
+        "5" : {
+            "title": "Murders and Mahjong / Avolience",
+            "description": ["Arranger: Avolience","Original Track: Dancers #5","Source: Higurashi no Naku Koro ni","Original Track: Monochrome Clock","Source: Umineko no Naku Koro ni","Original Track: happiness of marionette","Source: Umineko no Naku Koro ni"]
+        },
+        "6" : {
+            "title": "Śūnya no sora ~Emptiness's Sky~ / Scramel",
+            "description": ["Arranger: Scramel","Original Track: Śūnya no sora ~Emptiness's Sky~","Source: Ciconia When They Cry"]
+        },
+        "7" : {
+            "title": "Palingenesia / GOETIΛ",
+            "description": ["Composer & Arranger: GOETIΛ","Original Track: Image Song","Source: Umineko no Naku Koro ni"]
+        },
+        "8" : {
+            "title": "1983​.​07​.​15 / BlankPxl",
+            "description": ["Arranger: BlankPxl","Original Track: Higurashi no Naku Koro ni","Source: Higurashi no Naku Koro ni (Anime)"]
+        },
+        "9" : {
+            "title": "crimsonslaughterer / Swagazaki",
+            "description": ["Arranger: Swagazaki","Original Track: goldenslaughterer","Source: Umineko no Naku Koro ni"]
+        },
+        "10" : {
+            "title": "When the Emotion Change / Miner4ever feat. Miku Hatsune",
+            "description": ["Composer & Arranger: Miner4ever feat. Miku Hatsune","Vocals: Miku Hatsune","Lyrics: Miner4ever","Original Track: Image Song","Source: Higurashi no Naku Koro ni"]
+        },
+        "11" : {
+            "title": "spiderlily / amos.sys",
+            "description": ["Arranger: amos.sys","Original Track: Bodiless Night","Source: Higanbana No Saku Yoru Ni"]
+        },
+        "12" : {
+            "title": "azure days / MB",
+            "description": ["Arranger: MB","Arranger, Guitar, Cajon: amos​.​sys","Tin Whistle: dante", "Mandolin: William Sandberg", "Original Track: daily passing by", "Source: Higurashi no Naku Koro ni Kai"]
+        },
+        "13" : {
+            "title": "Melody of Contemplation / Justin Thornburgh",
+            "description": ["Arranger: Justin Thornburgh","Original Track: Melody", "Source: Umineko no Naku Koro ni"]
+        },
+        "14" : {
+            "title": "Fragment where Rika​-​chan became a Diskjockey / panda11gou",
+            "description": ["Arranger: panda11gou","Original Track: Image Song","Source: Higurashi no Naku Koro ni"]
+        },
+        "15" : {
+            "title": "grotesquerie of the golden witch / Fivda",
+            "description": ["Arranger: Fivda","Original Track: resurrectedreplayer","Source: Umineko no Naku Koro ni Chiru"]
+        },
+        "16" : {
+            "title": "Let’s Be Free All Night / Mizuka Tsukishima",
+            "description": ["Arranger: Mizuka Tsukishima","Original Track: Free","Source: Higurashi no Naku Koro ni Matsuri"]
+        },
+        "17" : {
+            "title": "SOUL / DJ 2K3",
+            "description": ["Arranger: DJ 2K3","Original Track: Wandering Words Lead to Heaven","Original Track: being", "Original Track: Festival", "Source: Higurashi no Naku Koro ni Kai"]
+        },
+        "18" : {
+            "title": "Unknown Track Name / malicent",
+            "description": ["Arranger: malicent","Original Track: Image Song","Source: Umineko no Naku Koro ni"]
+        },
+        "19" : {
+            "title": "Frustration / Lifeline",
+            "description": ["Arranger: Lifeline","Original Track: Frustration","Source: Higurashi no Naku Koro ni Kai (Anime)"]
+        },
+        "20" : {
+            "title": "hope / Scramel",
+            "description": ["Arranger: Scramel","Original Track: hope","Source: Umineko no Naku Koro ni"]
+        },
+        "21" : {
+            "title": "La Mue d'une Cigale en Trois Actes / Projet103",
+            "description": ["Arranger: Projet103","Original Track: Wandering Words Lead to Heaven","Original Track: being", "Original Track: Festival", "Source: Higurashi no Naku Koro ni Kai"]
         }
     },
     "youtube_id": "Up84I4VcKI8",
     "credits": {
         "1" : {
-            "role": "Arrange",
-            "name": "krz0001",
-            "website": "http://www.google.com"
+            "role": "Arranger",
+            "name": "soothingMelody",
+            "website": "https://vgmdb.net/artist/52149"
         },
         "2" : {
-            "role": "Arrange",
-            "name": "krz0001",
-            "website": "http://www.google.com"
+            "role": "Composer & Arranger",
+            "name": "Kurokotei",
+            "website": "https://vgmdb.net/artist/49141"
         },
         "3" : {
-            "role": "Arrange",
-            "name": "krz0001",
-            "website": "http://www.google.com"
+            "role": "Composer, Arranger & Lyrics",
+            "name": "AYhaz",
+            "website": "https://vgmdb.net/artist/46974"
+        },
+        "4" : {
+            "role": "Vocals",
+            "name": "Aamna",
+            "website": "https://vgmdb.net/artist/50008"
+        },
+        "5" : {
+            "role": "Vocals",
+            "name": "A.Dokuga",
+            "website": "https://vgmdb.net/artist/52154"
+        },
+        "6" : {
+            "role": "Vocals",
+            "name": "Kuroa*",
+            "website": "https://vgmdb.net/artist/52155"
+        },
+        "7" : {
+            "role": "Arranger",
+            "name": "Eyhz",
+            "website": "https://vgmdb.net/artist/50025"
+        },
+        "8" : {
+            "role": "Arranger, Electric Guitar, Electric Bass",
+            "name": "Gin Kreuz",
+            "website": "https://vgmdb.net/artist/31968"
+        },
+        "9" : {
+            "role": "Arranger",
+            "name": "Avolience",
+            "website": "https://vgmdb.net/artist/52151"
+        },
+        "10" : {
+            "role": "Arranger",
+            "name": "Scramel",
+            "website": "https://vgmdb.net/artist/34298"
+        },
+        "11" : {
+            "role": "Arranger",
+            "name": "GOETIΛ",
+            "website": "https://vgmdb.net/artist/37620"
+        },
+        "12" : {
+            "role": "Arranger",
+            "name": "BlankPxl",
+            "website": "https://vgmdb.net/artist/36402"
+        },
+        "13" : {
+            "role": "Arranger",
+            "name": "Swagazaki",
+            "website": "https://vgmdb.net/artist/52153"
+        },
+        "14" : {
+            "role": "Composer, Arranger & Lyrics",
+            "name": "Miner4ever",
+            "website": "https://vgmdb.net/artist/50045"
+        },
+        "15" : {
+            "role": "Arranger",
+            "name": "amos​.​sys",
+            "website": "https://vgmdb.net/artist/52105"
+        },
+        "16" : {
+            "role": "Arranger, Guitar & Cajon",
+            "name": "MB",
+            "website": "https://vgmdb.net/artist/49326"
+        },
+        "17" : {
+            "role": "Tin Whistle",
+            "name": "dante",
+            "website": "https://vgmdb.net/artist/20565"
+        },
+        "18" : {
+            "role": "Mandolin",
+            "name": "William Sandberg",
+            "website": "https://vgmdb.net/artist/52157"
+        },
+        "19" : {
+            "role": "Arranger",
+            "name": "Justin Thornburgh",
+            "website": "https://vgmdb.net/artist/27594"
+        },
+        "20" : {
+            "role": "Arranger",
+            "name": "panda11gou",
+            "website": "https://vgmdb.net/artist/52159"
+        },
+        "21" : {
+            "role": "Arranger, Supervisor & Planner",
+            "name": "Fivda",
+            "website": "https://vgmdb.net/artist/36408"
+        },
+        "22" : {
+            "role": "Arranger",
+            "name": "Mizuka Tsukishima",
+            "website": "https://vgmdb.net/artist/46267"
+        },
+        "23" : {
+            "role": "Arranger",
+            "name": "DJ 2K3",
+            "website": "https://vgmdb.net/artist/52106"
+        },
+        "24" : {
+            "role": "Composer, Arranger & Mastering Engineer",
+            "name": "malicent",
+            "website": "https://vgmdb.net/artist/12619"
+        },
+        "25" : {
+            "role": "Arranger",
+            "name": "Lifeline",
+            "website": "https://vgmdb.net/artist/46433"
+        },
+        "26" : {
+            "role": "Arranger",
+            "name": "Projet103",
+            "website": "https://vgmdb.net/artist/52160"
+        },
+        "27" : {
+            "role": "Illustration",
+            "name": "Garrrros",
+            "website": "https://vgmdb.net/artist/52161"
+        },
+        "28" : {
+            "role": "Logo Designer",
+            "name": "shonocondo",
+            "website": "https://vgmdb.net/artist/47392"
+        },
+        "29" : {
+            "role": "Japanese Translator",
+            "name": "Yanis",
+            "website": "https://vgmdb.net/artist/50012"
+        },
+        "30" : {
+            "role": "Original Composer",
+            "name": "pre-holder",
+            "website": "https://vgmdb.net/artist/6673"
+        },
+        "31" : {
+            "role": "Original Composer",
+            "name": "dai",
+            "website": "https://vgmdb.net/artist/1845"
+        },
+        "32" : {
+            "role": "Original Composer",
+            "name": "inazawa",
+            "website": "https://vgmdb.net/artist/38600"
+        },
+        "33" : {
+            "role": "Original Composer",
+            "name": "Koji Kusanagi",
+            "website": "https://vgmdb.net/artist/50263"
+        },
+        "34" : {
+            "role": "Original Composer",
+            "name": "M.ZAKKY",
+            "website": "https://vgmdb.net/artist/10901"
+        },
+        "35" : {
+            "role": "Original Composer",
+            "name": "xaki",
+            "website": "https://vgmdb.net/artist/7299"
+        },
+        "36" : {
+            "role": "Original Composer",
+            "name": "Tomoyuki Nakazawa",
+            "website": "https://vgmdb.net/artist/151"
+        },
+        "37" : {
+            "role": "Original Composer",
+            "name": "zts",
+            "website": "https://vgmdb.net/artist/959"
+        },
+        "38" : {
+            "role": "Original Composer",
+            "name": "Kaori Tsutsui",
+            "website": "https://vgmdb.net/artist/61"
+        },
+        "39" : {
+            "role": "Original Composer",
+            "name": "Ikuko Ebata",
+            "website": "https://vgmdb.net/artist/726"
+        },
+        "40" : {
+            "role": "Original Composer",
+            "name": "Kenji Kawai",
+            "website": "https://vgmdb.net/artist/677"
+        },
+        "41" : {
+            "role": "Original Composer",
+            "name": "Rengoku Teien",
+            "website": "https://vgmdb.net/artist/12114"
         }
     }
 }

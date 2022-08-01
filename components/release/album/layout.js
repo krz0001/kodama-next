@@ -14,7 +14,6 @@ import Meta from '../../meta'
 import { createGlobalStyle } from 'styled-components';
 
 
-
 export default function ReleaseLayout({ release }) {
     const GlobalStyles = createGlobalStyle`
         :root {

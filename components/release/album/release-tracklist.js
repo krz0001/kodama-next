@@ -2,7 +2,7 @@ import tracklistStyles from './release-tracklist.module.scss'
 
 export default function ReleaseTracklist({tracklist}) {
 	return (
-		<section className='container mx-auto my-16'>
+		<section className='container mx-auto my-16 max-w-screen-lg'>
             <h2 className="text-2xl text-center uppercase mb-8 font-black"> tracklist </h2>
             {Object.entries(tracklist).map(trackJSON => {
                 console.log(trackJSON);
@@ -12,19 +12,19 @@ export default function ReleaseTracklist({tracklist}) {
                         <div className={tracklistStyles.track_number}>
                             {trackJSON[0].padStart(2, '0')}
                         </div>
-                        <div className={tracklistStyles.track_content}>
-                            <h3 className='text-xl font-bold'>
+                        <div className={tracklistStyles.track_content} data-accordion="open">
+                            <button type="button" className='text-xl font-bold text-left' data-accordion-target={"accordion-arrow-icon-body-"+ trackJSON[0]} aria-expanded="false">
                                 {trackJSON[1].title}
-                            </h3>
-                            <div>
+                            </button>
+
+                            <div id={"accordion-arrow-icon-body-"+ trackJSON[0]} className="hidden">
                                 {trackJSON[1].description.map((descParagraph, index)  => {
                                     return (
                                         <p key={index} className="text-[#999] mb-4 text-sm	">
                                             {descParagraph}
                                         </p>
                                     )
-                                })}
-                                    
+                                })}  
                             </div>
                         </div>
                     </div>

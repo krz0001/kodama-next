@@ -1,6 +1,7 @@
 module.exports = {
-  content: ['./components/**/*.js', './pages/**/*.js','./pages/**/*.mdx' ],
+  content: ["./node_modules/flowbite-react/**/*.js",'./components/**/*.js', './pages/**/*.js','./pages/**/*.mdx' ],
   plugins: [
     require('@tailwindcss/typography'),
+    require("flowbite/plugin")
   ],
 }
