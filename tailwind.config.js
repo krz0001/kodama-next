@@ -1,7 +1,13 @@
 module.exports = {
-  content: ["./node_modules/flowbite-react/**/*.js",'./components/**/*.js', './pages/**/*.js','./pages/**/*.mdx' ],
+  content: ['./components/**/*.js', './pages/**/*.js','./pages/**/*.mdx' ],
   plugins: [
-    require('@tailwindcss/typography'),
-    require("flowbite/plugin")
+    require('@tailwindcss/typography') 
   ],
+  theme: {
+    extend: {
+      boxShadow: {
+        'inner-xl': 'inset 0 4px 8px 0 rgb(0 0 0 / 0.5)',
+      }
+    }
+  }
 }

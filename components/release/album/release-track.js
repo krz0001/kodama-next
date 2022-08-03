@@ -12,19 +12,20 @@ export default function ReleaseTrack({track, key}) {
 
   return (
       <div className="accordion" key={key}>
-        <div className="container max-w-screen-lg mx-auto mb-4" onClick={handleOpen}>
+        <div className="container max-w-screen-lg mx-auto mb-4  flex	" onClick={handleOpen}>
             <div className={trackStyles.track_number}>
                 {track[0].padStart(2, '0')}
             </div>
             <div className='text-xl font-bold text-left select-none cursor-pointer'>
-                {track[1].title}
+                {track[1].title} 
+                <span className="ml-3">
+                  {show ?  "▲" : "▼"}
+                </span>
             </div>
-            <div>
-                {show ? "V" : "^" }
-            </div>
+            
         </div>
         {show && (
-          <div className="accordian-body bg-[#18191b] text-white py-4">
+          <div className="accordian-body bg-[#18191b] text-white shadow-inner-xl py-4 mb-4">
             <div className="container max-w-screen-lg mx-auto mt-4">
             {track[1].description.map((descParagraph, index)  => {
                 return (
