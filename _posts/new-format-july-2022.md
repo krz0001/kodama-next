@@ -3,6 +3,7 @@ title: 'New Format for KodamaSounds Community Projects'
 date: '2022-07-02T00:00:00+0200'
 locale: en
 author: Robin
+twin: new-format-july-2022-jp
 public: true
 ---
 
