@@ -12,11 +12,11 @@ export default function ReleaseTrack({track, key}) {
 
   return (
       <div className="accordion" key={key}>
-        <div className="container max-w-screen-lg mx-auto mb-4  flex	" onClick={handleOpen}>
+        <div className="container max-w-screen-lg mx-auto mb-4  flex	md:px-8" onClick={handleOpen}>
             <div className={trackStyles.track_number}>
                 {track[0].padStart(2, '0')}
             </div>
-            <div className='text-xl font-bold text-left select-none cursor-pointer'>
+            <div className='text-xl font-bold text-left select-none cursor-pointer '>
                 {track[1].title} 
                 <span className="ml-3">
                   {show ?  "▲" : "▼"}
