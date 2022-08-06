@@ -50,5 +50,15 @@
         "booth": "https://kodamasoft.booth.pm/items/3793016",
         "website": "https://eclecticresonance-dusk.tumblr.com/",
         "vgmdb": "https://vgmdb.net/album/119738"
+    },
+    "5":{
+        "id": "KSDL-0006",
+        "name": "Fragments of Gratitude -a When They Cry tribute album-",
+        "cover": "/assets/discography/covers/0006.png",
+        "coverColor": "#fff9f3",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/fragments-of-gratitude-a-when-they-cry-tribute-album",
+        "booth": "https://kodamasoft.booth.pm/items/4035987",
+        "website": "https://fragmentsofgratitude.tumblr.com/",
+        "vgmdb": "https://vgmdb.net/album/120016"
     }
 }
