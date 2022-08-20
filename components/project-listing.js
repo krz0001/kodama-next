@@ -6,10 +6,13 @@ export default function ProjectListing({ project }) {
 
     return (
         <Link href={project.url}>
-            <a className="relative group bg-slate-800 w-full text-center rounded-md overflow-hidden h-28">    
-                <div className="relative h-full inset-0 group-hover:scale-105 transition grid place-content-center">
-                    <h3 className="font-mono text-2xl mx-10 subpixel-antialiased">{project.name}</h3>
+            <a className="relative group w-full rounded-md overflow-hidden h-28">    
+                <h3 className="text-2xl  mt-5 subpixel-antialiased">{project.name}</h3>
+
+                <div className="w-auto bg-gray-200 h-2 rounded-full overflow-hidden mt-3">
+                    <div className="bg-purple-600 h-2 rounded-full" style={{"width": Math.floor(Math.random() * 100) + "%"}}></div>    
                 </div>
+
             </a>
         </Link>
       )
