@@ -2,14 +2,19 @@
     "name": "ECLECTIC RESONANCE",
     "desc": "ECLECTIC RESONANCE are our original work branded albums. The first two albums, ~Dawn~ and ~Dusk~, had no stylistic restrictions. But now, each suffix means it’s oriented towards a specific style or genre. Make sure to check each one out to find which ones fit with your abilities and needs!",
     "projects": [{
+        "slug": "eclectic-resonance-uprising",
         "title": "ECLECTIC RESONANCE UPRISING",
         "themes": ["Original Work", "J-Core", "Hardcore Techno"],
         "status": "Ongoing",
         "percentage": "0",
         "duration": "00:00",
+        "finished_tracks": "0",
+        "mastering" : "Pending",
+        "artwork_comission": "Pending",
         "url": "/projects/eclectic-resonance-uprising"
     },
     {
+        "slug": "eclectic-resonance-detuned-alloy",
         "title": "ECLECTIC RESONANCE Detuned Alloy",
         "themes": ["Original Work", "Rock", "Hard Rock", "Metal", "Acoustic", "Guitar Centered"],
         "status": "Ongoing",
@@ -67,7 +72,7 @@
         "url": "/projects/moriya-barista"
     },
     {
-        "name": "DJ Koishi",
+        "title": "DJ Koishi",
         "themes": ["Club/EDM/Trance Themed Touhou Project Album"],
         "status": "Currently Going",
         "percentage": "0",
