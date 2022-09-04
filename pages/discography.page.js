@@ -10,7 +10,6 @@ import { getAllPosts } from '../lib/api'
 import { WEBSITE_NAME } from '../lib/constants'
 
 export default function Discography() {
-  const albumsArray = Object.values(albumsJson);
   return (
     <>
       <Layout>
@@ -21,13 +20,9 @@ export default function Discography() {
           <Header />
           <div className="container pt-10 px-6 mx-auto">
             <div className='flex flex-wrap'>
-              {albumsArray.map(function(album) {
-                return (
-                  <>
-                    <AlbumListing album={album} />
-                  </>
-                )
-              })}
+              {Object.keys(albumsJson).map((key) => (
+                <AlbumListing key={key} slug={key} />
+              ))}
             </div>
           </div>
         </Container>

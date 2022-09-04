@@ -1,5 +1,5 @@
 {
-    "0": {
+    "gensyoko-party": {
         "id": "KSDL-0001",
         "name": "Gensokyo Party Vol. 1",
         "cover": "/assets/discography/covers/0001.jpg",
@@ -10,7 +10,7 @@
         "vgmdb": "https://vgmdb.net/album/107532",
         "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._1"
     }, 
-    "1":{
+    "moonstruck-analogy": {
         "id": "KSDL-0002",
         "name": "Moonstruck Analogy -a TYPE​-​MOON tribute album-",
         "cover": "/assets/discography/covers/0002.png",
@@ -20,7 +20,7 @@
         "website": "https://moonstruck-analogy.tumblr.com/",
         "vgmdb": "https://vgmdb.net/album/111959"
     }, 
-    "2":{
+    "gensyoko-party-2": {
         "id": "KSDL-0003",
         "name": "Gensokyo Party Vol. 2 VANTABLACK",
         "cover": "/assets/discography/covers/0003.png",
@@ -31,7 +31,7 @@
         "vgmdb": "https://vgmdb.net/album/111960",
         "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._2_VANTABLACK"
     },
-    "3":{
+    "eclectic-resonance-dawn": {
         "id": "KSDL-0004",
         "name": "ECLECTIC RESONANCE ~Dawn~",
         "cover": "/assets/discography/covers/0004.jpg",
@@ -41,7 +41,7 @@
         "website": "https://eclecticresonance-dawn.tumblr.com/",
         "vgmdb": "https://vgmdb.net/album/117492"
     },
-    "4":{
+    "eclectic-resonance-dusk": {
         "id": "KSDL-0005",
         "name": "ECLECTIC RESONANCE ~Dusk~",
         "cover": "/assets/discography/covers/0005.jpg",
@@ -51,7 +51,7 @@
         "website": "https://eclecticresonance-dusk.tumblr.com/",
         "vgmdb": "https://vgmdb.net/album/119738"
     },
-    "5":{
+    "fragments-of-gratitude": {
         "id": "KSDL-0006",
         "name": "Fragments of Gratitude -a When They Cry tribute album-",
         "cover": "/assets/discography/covers/0006.png",

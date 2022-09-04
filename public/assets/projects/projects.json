@@ -27,6 +27,7 @@
     "name": "Tribute Albums",
     "desc": "Our “a tribute album” series are self-explanatory: Those are albums entirely dedicated to a specific series/game. Any styles and genres are accepted, so long as they follow our guidelines. Image songs are also accepted so long as they follow the rules.",
     "projects": [{
+        "slug": "moonstruck-analogy-ii",
         "title": "Moonstruck Analogy II -a TYPE-MOON tribute album-",
         "themes": ["TYPE-MOON centered album (Fate/stay night, Tsukihime…)"],
         "status": "Currently Going",
@@ -34,7 +35,8 @@
         "duration": "00:00",
         "url": "/projects/moonstruck-analogy-ii"
     },
-    {
+    {   
+        "slug": "fragments-of-gratitude-ii",
         "title": "Fragments of Gratitude II -a When They Cry tribute album-",
         "themes": ["07th Expansion centered album (Higurashi, Umineko…)"],
         "status": "Currently Going",
