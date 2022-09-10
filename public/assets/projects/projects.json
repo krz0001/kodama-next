@@ -49,6 +49,7 @@
         "color": "#7dd3fc"
     },
     {
+        "slug": "katamania",
         "title": "Katamania!!! -a Katamari tribute album-",
         "themes": ["Katamari centered album"],
         "status": "Currently Going",
@@ -61,17 +62,19 @@
 {
     "name": "Gensokyo Party",
     "projects": [{
+        "slug": "vantablack",
         "title": "VANTABLACK 2",
         "themes": ["Dark Themed Touhou Project Album"],
         "status": "Accepting Submissions",
         "percentage": "0",
         "duration": "00:00",
-        "url": "/projects/vantablack-2",
+        "url": "/projects/vantablack",
         "color": "#b45309"
 
     },
 
     {
+        "slug": "moriya-barista",
         "title": "Moriya Barista",
         "themes": ["Chill/Laid-back Themed Touhou Project Album"],
         "status": "Currently Going",
@@ -82,6 +85,7 @@
         "color": "#6ee7b7"
     },
     {
+        "slug": "dj-koishi",
         "title": "DJ Koishi",
         "themes": ["Club/EDM/Trance Themed Touhou Project Album"],
         "status": "Currently Going",
@@ -89,8 +93,6 @@
         "duration": "00:00",
         "url": "/projects/dj-koishi",
         "color": "#65a30d"
-
-
     }]
 
 }

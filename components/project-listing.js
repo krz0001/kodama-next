@@ -28,7 +28,7 @@ export default function ProjectListing({ project }) {
 	}
 
 	return (
-		<Link href={project.url}>
+		<Link href={project.url} key={project.slug}>
 			<a className={"flex flex-col text-center no-underline not-prose md:max-w-2xl mx-auto content-center rounded-xl my-5 transition py-5 px-10 relative hover:-translate-y-1 "} style={{backgroundColor : project.color+ "44"}}>
 				<h3 className="text-2xl font-semibold mt-0">
 					{project.title}
