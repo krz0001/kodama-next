@@ -6,22 +6,22 @@ export default function ProjectListing({ project }) {
 	
 		switch (status) {
 			case 'Completed':
-				styles += " bg-purple-500"
+				styles += " bg-purple-500/70"
 				break;
 			case 'In Progress':
 			case 'In Development':
 			case 'Ongoing':
 			case "Currently Going":
-				styles += " bg-green-500"
+				styles += " bg-green-500/70"
 				break;
 			case 'Accepting Submissions':
-				styles += " bg-yellow-600"
+				styles += " bg-yellow-600/70"
 				break;
 			case 'Cancelled':
-				styles += " bg-red-500"
+				styles += " bg-red-500/70"
 				break;
 			default:
-				styles += " bg-gray-500"
+				styles += " bg-gray-500/70"
 				break;
 		}
 		return styles	
@@ -29,7 +29,7 @@ export default function ProjectListing({ project }) {
 
 	return (
 		<Link href={project.url}>
-			<a className="flex flex-col text-center bg-violet-500/25 hover:bg-violet-500/40 no-underline not-prose md:max-w-2xl mx-auto content-center rounded-xl my-5 transition py-5 px-10">
+			<a className={"flex flex-col text-center no-underline not-prose md:max-w-2xl mx-auto content-center rounded-xl my-5 transition py-5 px-10 relative hover:-translate-y-1 "} style={{backgroundColor : project.color+ "44"}}>
 				<h3 className="text-2xl font-semibold mt-0">
 					{project.title}
 				</h3>
@@ -44,10 +44,13 @@ export default function ProjectListing({ project }) {
 					<span className={statusBadgeStyles(project.status)}>{project.status}</span> | {project.percentage}% |{' '}
 					{project.duration}
 				</p>
-				<div className="w-full border border-1 border-white/50 h-2 rounded-full overflow-hidden mt-2">
+				<div className="w-full border border-1 border-white/50 h-2 rounded-full overflow-hidden mt-2 p-0 m-0">
 					<div
-						className="bg-purple-600 h-2 rounded-full"
-						style={{ width: project.percentage + '%' }}
+						className="h-full rounded-full p-0 m-0"
+						style={{ 
+							width: project.percentage + '%',
+							backgroundColor: project.color 
+						}}
 					></div>
 				</div>
 				{project.deadline && <p>Deadline: {project.deadline}</p>}

@@ -11,7 +11,8 @@
         "finished_tracks": "0",
         "mastering" : "Pending",
         "artwork_comission": "Pending",
-        "url": "/projects/eclectic-resonance-uprising"
+        "url": "/projects/eclectic-resonance-uprising",
+        "color": "#fbbf24"
     },
     {
         "slug": "eclectic-resonance-detuned-alloy",
@@ -20,7 +21,8 @@
         "status": "Ongoing",
         "percentage": "0",
         "duration": "00:00",
-        "url": "/projects/eclectic-resonance-detuned-alloy"
+        "url": "/projects/eclectic-resonance-detuned-alloy",
+        "color": "#9f1239"
     }]
 },
 {
@@ -33,7 +35,8 @@
         "status": "Currently Going",
         "percentage": "0",
         "duration": "00:00",
-        "url": "/projects/moonstruck-analogy-ii"
+        "url": "/projects/moonstruck-analogy-ii",
+        "color": "#fde68a"
     },
     {   
         "slug": "fragments-of-gratitude-ii",
@@ -42,7 +45,8 @@
         "status": "Currently Going",
         "percentage": "0",
         "duration": "00:00",
-        "url": "/projects/fragments-of-gratitude-ii"
+        "url": "/projects/fragments-of-gratitude-ii",
+        "color": "#7dd3fc"
     },
     {
         "title": "Katamania!!! -a Katamari tribute album-",
@@ -50,7 +54,8 @@
         "status": "Currently Going",
         "percentage": "0",
         "duration": "00:00",
-        "url": "/projects/katamania"
+        "url": "/projects/katamania",
+        "color": "#f472b6"
     }]
 },
 {
@@ -61,7 +66,9 @@
         "status": "Accepting Submissions",
         "percentage": "0",
         "duration": "00:00",
-        "url": "/projects/vantablack-2"
+        "url": "/projects/vantablack-2",
+        "color": "#b45309"
+
     },
 
     {
@@ -71,7 +78,8 @@
         "percentage": "5",
         "duration": "00:00",
         "deadline": "December 9", 
-        "url": "/projects/moriya-barista"
+        "url": "/projects/moriya-barista",
+        "color": "#6ee7b7"
     },
     {
         "title": "DJ Koishi",
@@ -79,7 +87,9 @@
         "status": "Currently Going",
         "percentage": "0",
         "duration": "00:00",
-        "url": "/projects/dj-koishi"
+        "url": "/projects/dj-koishi",
+        "color": "#65a30d"
+
 
     }]
 
