@@ -16,9 +16,9 @@ export default function ReleaseDescription({ cover, title, circle, specification
     const { t } = useTranslation('release')
 
     return (
-		<div className='container mx-auto my-16 flex'>
-            <div className='relative max-w-3xl mx-auto'>
-                <Image src={cover} height="500" width="500" layout="intrinsic" alt='Logo'/>
+		<div className='container mx-auto my-16 flex flex-col md:flex-row'>
+            <div className='relative max-w-xs lg:max-w-3xl mx-auto mb-4'>
+                <Image src={cover} className="rounded" height="500" width="500" layout="intrinsic" alt='Logo'/>
             </div>
 
             <dl className={descStyles.description}>

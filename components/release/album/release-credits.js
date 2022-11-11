@@ -6,10 +6,10 @@ export default function ReleaseTracklist({ credits }) {
 	return (
 		<section className='container mx-auto my-16'>
             <h2 className="text-2xl text-center uppercase mb-8 font-black"> credit </h2>
-            <ul className='flex justify-evenly flex-wrap'>
+            <ul className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-8 '>
                 {Object.entries(credits).map(creditJSON => {
                     return (
-                        <li key={creditJSON[0]} className="text-center w-full sm:w-1/2 lg:w-1/3 lg:max-w-7xl">
+                        <li key={creditJSON[0]} className="text-center">
                             <span className='block text-sm text-[#999]'>
                                 {creditJSON[1].role}
                             </span>
