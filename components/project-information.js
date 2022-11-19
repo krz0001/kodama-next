@@ -19,10 +19,11 @@ export default function ProjectInfo({ slug, children }) {
 		<p>
             <strong>Album Title:</strong> {project.title ? project.title : " ??? "}<br/>
             <strong>Status:</strong> { project.status ? project.status : " ??? "}<br/>
-            <strong>Approximate Completion:</strong> { project.percentage ? project.percentage : " ??? "}<br/>
+            <strong>Approximate Completion:</strong> { project.percentage ? project.percentage : " ??? "}%<br/>
             <strong>Current Duration:</strong> { project.duration ? project.duration : " ??? "}<br/>
             <strong>Current Number of Finished Tracks:</strong> { project.finished_tracks ? project.finished_tracks : " ??? "}<br/>
-            <strong>Mastering:</strong> { project.mastering ? project.mastering : " ??? "}<br/>
+            <strong>Mastering Engineer:</strong> { project.mastering.engineer ? project.mastering.engineer : " ??? "}<br/>
+            <strong>Mastering Status:</strong> { project.mastering.status ? project.mastering.status : " ??? "}<br/>
             <strong>Artwork Commission:</strong> { project.artwork_comission ? project.artwork_comission : " ??? "}<br/>
 		</p>
 	)

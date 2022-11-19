@@ -5,11 +5,14 @@
         "slug": "eclectic-resonance-uprising",
         "title": "ECLECTIC RESONANCE UPRISING",
         "themes": ["Original Work", "J-Core", "Hardcore Techno"],
-        "status": "Ongoing",
-        "percentage": "0",
-        "duration": "00:00",
-        "finished_tracks": "0",
-        "mastering" : "Pending",
+        "status": "Accepting Submissions",
+        "percentage": "5",
+        "duration": "03:10",
+        "finished_tracks": "1",
+        "mastering" : {
+            "status":"Pending",
+            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
+        },
         "artwork_comission": "Pending",
         "url": "/projects/eclectic-resonance-uprising",
         "color": "#fbbf24"
