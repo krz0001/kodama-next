@@ -24,8 +24,14 @@
         "status": "Ongoing",
         "percentage": "0",
         "duration": "00:00",
+        "finished_tracks": "0",
+        "mastering" : {
+            "status":"Pending",
+            "engineer":"R-Man"
+        },
         "url": "/projects/eclectic-resonance-detuned-alloy",
         "color": "#9f1239"
+
     }]
 },
 {
@@ -35,9 +41,14 @@
         "slug": "moonstruck-analogy-ii",
         "title": "Moonstruck Analogy II -a TYPE-MOON tribute album-",
         "themes": ["TYPE-MOON centered album (Fate/stay night, Tsukihime…)"],
-        "status": "Currently Going",
+        "status": "Accepting Submissions",
         "percentage": "0",
         "duration": "00:00",
+        "finished_tracks": "0",
+        "mastering" : {
+            "status":"Pending",
+            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
+        },
         "url": "/projects/moonstruck-analogy-ii",
         "color": "#fde68a"
     },
@@ -45,9 +56,14 @@
         "slug": "fragments-of-gratitude-ii",
         "title": "Fragments of Gratitude II -a When They Cry tribute album-",
         "themes": ["07th Expansion centered album (Higurashi, Umineko…)"],
-        "status": "Currently Going",
-        "percentage": "0",
-        "duration": "00:00",
+        "status": "Accepting Submissions",
+        "percentage": "5",
+        "duration": "03:25",
+        "finished_tracks": "1",
+        "mastering" : {
+            "status":"Pending",
+            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
+        },
         "url": "/projects/fragments-of-gratitude-ii",
         "color": "#7dd3fc"
     },
@@ -58,6 +74,11 @@
         "status": "Currently Going",
         "percentage": "0",
         "duration": "00:00",
+        "finished_tracks": "0",
+        "mastering" : {
+            "status":"Pending",
+            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
+        },
         "url": "/projects/katamania",
         "color": "#f472b6"
     }]
@@ -71,19 +92,28 @@
         "status": "Accepting Submissions",
         "percentage": "0",
         "duration": "00:00",
+        "finished_tracks": "0",
+        "mastering" : {
+            "status":"Pending",
+            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
+        },
         "url": "/projects/vantablack",
         "color": "#b45309"
 
     },
-
     {
         "slug": "moriya-barista",
         "title": "Moriya Barista",
         "themes": ["Chill/Laid-back Themed Touhou Project Album"],
-        "status": "Currently Going",
-        "percentage": "5",
-        "duration": "00:00",
+        "status": "Accepting Submissions",
+        "percentage": "60",
+        "duration": "25:16",
         "deadline": "December 9", 
+        "finished_tracks": "6",
+        "mastering" : {
+            "status":"Pending",
+            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
+        },
         "url": "/projects/moriya-barista",
         "color": "#6ee7b7"
     },
@@ -94,6 +124,11 @@
         "status": "Currently Going",
         "percentage": "0",
         "duration": "00:00",
+        "finished_tracks": "0",
+        "mastering" : {
+            "status":"Pending",
+            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
+        },
         "url": "/projects/dj-koishi",
         "color": "#65a30d"
     }]
