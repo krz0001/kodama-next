@@ -12,7 +12,7 @@ export default function WrappableParagraph({ title, children }) {
 
 	// function to copy link to a specific header anchor
 	async function copyLink(id) {
-		let link = window.location.href + id
+		let link = window.location.href + "#" +id
 
 		try {
 			await navigator.clipboard.writeText(link)
@@ -20,8 +20,6 @@ export default function WrappableParagraph({ title, children }) {
 		} catch (err) {
 			console.error('Failed to copy: ', err)
 		}
-
-		navigator.clipboard.writeText(link)
 	}
 
 	return (
@@ -34,7 +32,6 @@ export default function WrappableParagraph({ title, children }) {
 				>
 					{title}
 				</h2>
-				{/* // click to copy link to title, only show on hover, no underline */}
 				<button
 					onClick={async () => {
 						copyLink(`${title.toLowerCase().replace(/ /g, '-')}`)
