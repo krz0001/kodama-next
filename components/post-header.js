@@ -15,7 +15,7 @@ export default function PostHeader({ title, date, author, twin }) {
       </div>
       { twin ? 
       ( <Link href={"/posts/" + twin.slug}>
-          <a>Check {twin.locale.toUpperCase()} article</a>
+          Check {twin.locale.toUpperCase()} article
       </Link> ) : null }
     </div>
   )

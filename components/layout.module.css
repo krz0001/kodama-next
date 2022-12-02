@@ -1,7 +1,7 @@
 .main_container {
-	@apply bg-slate-900 bg-[url('/assets/space_background.jpg')] bg-no-repeat bg-cover bg-center bg-fixed;
+	@apply bg-gradient-to-br from-[#0e122d] via-[#131530] to-[#20203f] bg-no-repeat bg-cover bg-center bg-fixed;
 }
 
 .main {
-	@apply bg-slate-900/80 text-white backdrop-blur-sm min-h-screen ;
+	@apply text-black dark:text-white min-h-screen ;
 } 
