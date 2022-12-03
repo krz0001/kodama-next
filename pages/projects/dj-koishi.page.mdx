@@ -1,5 +1,6 @@
 import Layout from '../../components/mdx-layout';
 import WrappableParagraph from '../../components/project/title-with-content';
+import CtaButton from '../../components/project/cta-button';
 import AlbumListing from '../../components/album-listing';
 import {DISCORD_URL} from '/lib/constants.js';
 import ProjectInformation from '../../components/project-information';
@@ -14,14 +15,19 @@ import ProjectInformation from '../../components/project-information';
 </WrappableParagraph>
 
 <WrappableParagraph title="General KodamaSounds Specific Rules">
-[You can check the rules & submission patterns common to all releases here.](/projects/faq)
+    <CtaButton link='/projects/faq' icon='book'>
+        <span>You can check the rules & submission patterns common to all releases here.</span>
+    </CtaButton>
 </WrappableParagraph>
 
 <WrappableParagraph title="DJ Koishi Specific Music Rules">
 - Your submission must be only related to the Touhou series. No partial arrangement of any other series should be presented in your submission. You can however, of course, mix multiple games/tracks in your submission as long as all source material originates from Touhou.
 - No original music from fangames should be arranged. The games you can arrange for this album are the official PC & PC-98 Team Shanghai Alice and Twilight Frontier games. Meaning that you can still remix music from spinoffs, U2 Akiyama and NKZ tracks so long as they are official. You can also remix original tracks from ZUN’s music collections and Seihou project.
 - You cannot rearrange tracks from other doujin albums. Slight and obvious references may be permitted depending on how important it is to the track. This is a subject of discussion, so make sure to ask and show us an example if you plan on doing this. 
-- [Please check the track claiming Google Sheet page to add the track(s) & game(s) you wish to arrange in the form of a comment on a line of cells](https://docs.google.com/spreadsheets/d/1318WduASNHS7Qtr4s3ZZpUiucs4KoQ0UUBmIynptc6E/edit?usp=sharing). Tracks from the last released Gensokyo Party album are generally on cooldown. We crave variety, so make sure you avoid picking a track someone else might do as well. Please note that tracks on cool down tracks may change, as we constantly release Touhou albums every now and then.
+-   <CtaButton link='https://docs.google.com/spreadsheets/d/1318WduASNHS7Qtr4s3ZZpUiucs4KoQ0UUBmIynptc6E/edit?usp=sharing' icon='envelope'>
+        <span>Please check the track claiming Google Sheet page to add the track(s) & game(s) you wish to arrange in the form of a comment on a line of cells.</span>
+    </CtaButton>
+    Tracks from the last released Gensokyo Party album are generally on cooldown. We crave variety, so make sure you avoid picking a track someone else might do as well. Please note that tracks on cool down tracks may change, as we constantly release Touhou albums every now and then.
 - Your track needs to be at least 3 minutes long, and cannot exceed 11 minutes.
 - Follow the theme. Although there’s no limit to the style or genre you can display, preferably, we’re looking for anything that would fit in the themes said above. Strong rhythmic and electronic tones are recommended. Ask us and show us examples if you have doubts on what you can do, but as long as it doesn’t sound too out-of-character for a club it should probably be okay. Here are some genres/keywords that may help you.
     - EDM

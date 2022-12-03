@@ -1,5 +1,6 @@
 import Layout from '../../components/mdx-layout';
 import WrappableParagraph from '../../components/project/title-with-content';
+import CtaButton from '../../components/project/cta-button';
 import AlbumListing from '../../components/album-listing';
 import {DISCORD_URL} from '/lib/constants.js';
 import ProjectInformation from '../../components/project-information';
@@ -13,7 +14,9 @@ import ProjectInformation from '../../components/project-information';
 </WrappableParagraph>
 
 <WrappableParagraph title="General KodamaSounds Specific Rules">
-[You can check the rules & submission patterns common to all releases here.](/projects/faq)
+    <CtaButton link='/projects/faq' icon='book'>
+        <span>You can check the rules & submission patterns common to all releases here.</span>
+    </CtaButton>
 </WrappableParagraph>
 
 <WrappableParagraph title="Fragments of Gratitude Specific Music Rules">
