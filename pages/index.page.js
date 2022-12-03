@@ -31,7 +31,7 @@ export default function Index({ filteredPosts }) {
               <h2>{t('home.title')}</h2>
               
               <p>{t('home.content.1')}</p>
-              <p> 
+              <div> 
                 <Trans
                   i18nKey="common:home.content.2"
                   components={{
@@ -39,8 +39,8 @@ export default function Index({ filteredPosts }) {
                     li : <li/>
                   }}
                 />
-              </p>
-              <p> 
+              </div>
+              <div> 
                 <Trans
                   i18nKey="common:home.content.3"
                   components={{
@@ -48,9 +48,9 @@ export default function Index({ filteredPosts }) {
                     booth : <Link href="https://kodamasoft.booth.pm/"/>
                   }}
                 />
-              </p>
+              </div>
             </ProseContainer>
-             {filteredPosts.length > 0 && <MoreStories posts={filteredPosts} />} 
+            {filteredPosts.length > 0 && <MoreStories posts={filteredPosts} />} 
           </div>
         </Container>
       </Layout>

@@ -12,16 +12,16 @@ export default function Header() {
 	];
 
 	return (
-		<header className="relative w-100 h-auto text-center flex flex-col select-none bg-[url('/assets/space_background.jpg')] bg-center">
+		<header className="relative w-100 h-auto text-white text-center flex flex-col select-none bg-[url('/assets/space_background.jpg')] bg-center">
 			<h1 className={headerStyles.header_title}>
-				<Link href="/"><a>{WEBSITE_NAME}</a></Link>
+				<Link href="/">{WEBSITE_NAME}</Link>
 			</h1>
 			<nav className="bg-purple-900/30 backdrop-blur text-white">
 				<div id="navbar" className="flex flex-col sm:flex-row justify-center p-4 gap-4">
 
 					{links.map((link, index) => (
-						<Link href={link.href} key={index}>
-							<a className="text-gray-300 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-none transition">{link.label}</a>
+						<Link href={link.href} key={index} className="text-gray-300 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-none transition">
+							{link.label}
 						</Link>
 					))}
 

@@ -1,15 +1,24 @@
 import {FaBandcamp, FaGlobe} from 'react-icons/fa';
-
 import BoothSVG from '../public/assets/icons/booth.svg'
-
+import albumsJSON from '/public/assets/discography/albums.json'
 import Image from 'next/image'
 import useTranslation from 'next-translate/useTranslation'
 
-export default function AlbumListing({ album }) {
+export default function AlbumListing({ slug }) {
+    let album = {};
     const { t } = useTranslation('common')
 
+    // if we find an album with the key equal as the slug we are looking for, return the album
+    let keys = Object.keys(albumsJSON);
+    for (let i = 0; i < keys.length; i++) {
+        if (keys[i] === slug) {
+            album = albumsJSON[keys[i]];
+            break;
+        }
+    }
+       
     return (
-        <div className="group relative w-full md:max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl flex flex-col md:flex-row my-5 transition">
+        <div className="not-prose group relative w-full md:max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl flex flex-col md:flex-row my-5 transition">
 
             <div className="relative h-52 w-52 my-5 mx-auto md:m-5 md:mr-0 aspect-square rounded-md shadow-lg transition overflow-clip flex-none" style={{ backgroundColor : album.coverColor }}>
                 <Image src={album.cover} alt={album.name} layout="fill" sizes="13rem" priority/>

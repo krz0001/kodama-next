@@ -1,0 +1,69 @@
+import Layout from '../../components/mdx-layout';
+import WrappableParagraph from '../../components/project/title-with-content';
+import CtaButton from '../../components/project/cta-button';
+import AlbumListing from '../../components/album-listing';
+import {DISCORD_URL} from '/lib/constants.js';
+import ProjectInformation from '../../components/project-information';
+
+# Gensokyo Party DJ Koishi
+
+*The green haired satori has had enough. She’s bored to death, and manipulating people is just not as fun as it used to be… And thus, she decided to become a DJ! Manipulating people through thick beats is much more fun than using your powers! …Wait, seriously?*
+
+
+<WrappableParagraph title="Presentation">
+“DJ Koishi” is a variant of our “Gensokyo Party” series, where the featured tracks are planned to be very rhythmic, juicy, electronic and noisy. More electronic progressive works are also authorized, such as progressive/experimental techno. Just imagine that you’re in a club!
+</WrappableParagraph>
+
+<WrappableParagraph title="General KodamaSounds Specific Rules">
+    <CtaButton link='/projects/faq' icon='book'>
+        <span>You can check the rules & submission patterns common to all releases here.</span>
+    </CtaButton>
+</WrappableParagraph>
+
+<WrappableParagraph title="DJ Koishi Specific Music Rules">
+- Your submission must be only related to the Touhou series. No partial arrangement of any other series should be presented in your submission. You can however, of course, mix multiple games/tracks in your submission as long as all source material originates from Touhou.
+- No original music from fangames should be arranged. The games you can arrange for this album are the official PC & PC-98 Team Shanghai Alice and Twilight Frontier games. Meaning that you can still remix music from spinoffs, U2 Akiyama and NKZ tracks so long as they are official. You can also remix original tracks from ZUN’s music collections and Seihou project.
+- You cannot rearrange tracks from other doujin albums. Slight and obvious references may be permitted depending on how important it is to the track. This is a subject of discussion, so make sure to ask and show us an example if you plan on doing this. 
+- [Please check the track claiming Google Sheet page to add the track(s) & game(s) you wish to arrange in the form of a comment on a line of cells.](https://docs.google.com/spreadsheets/d/1318WduASNHS7Qtr4s3ZZpUiucs4KoQ0UUBmIynptc6E/edit?usp=sharing). Tracks from the last released Gensokyo Party album are generally on cooldown. We crave variety, so make sure you avoid picking a track someone else might do as well. Please note that tracks on cool down tracks may change, as we constantly release Touhou albums every now and then.
+- Your track needs to be at least 3 minutes long, and cannot exceed 11 minutes.
+- Follow the theme. Although there’s no limit to the style or genre you can display, preferably, we’re looking for anything that would fit in the themes said above. Strong rhythmic and electronic tones are recommended. Ask us and show us examples if you have doubts on what you can do, but as long as it doesn’t sound too out-of-character for a club it should probably be okay. Here are some genres/keywords that may help you.
+    - EDM
+- Club Music
+- Trance (Progressive or Hardcore)
+- Techno (Progressive or Hardcore)
+- Deep House
+
+</WrappableParagraph>
+
+<WrappableParagraph title="Track Submission">
+<CtaButton link='https://forms.gle/mM2BgoWEyM4MujrF7' icon='envelope'>
+    <span>Please fill in the Google Forms</span>
+</CtaButton>
+Or if you’d rather enter in direct communication with the album supervisor, check our contact information below. If you send it to us manually, please make sure to copy the credits guideline seen on [FAQ / Additional Information](/projects/faq).
+</WrappableParagraph>
+
+<WrappableParagraph title="Contact (Questions / Submissions)">
+KodamaSoft contact information:
+- <a href={DISCORD_URL}>Discord Server</a> 
+- Mail: [kodamateam@gmail.com](mailto:kodamateam@gmail.com)
+- Twitter: [@KodamaSoft](https://twitter.com/KodamaSoft)
+
+<br/>
+Fivda, the project leader’s contact information:
+- Discord: Robin#6328
+- Twitter: [@Fivda_](https://twitter.com/Fivda_)
+- Mail: [fivdaaurion@gmail.com](mailto:fivdaaurion@gmail.com)
+
+malicent, our mastering engineer’s contact information:
+- Discord: malicent#6097
+- Mail: [cocytust@gmail.com](mailto:cocytust@gmail.com)
+
+You can contact us at any time on the <a href={DISCORD_URL}>Discord server</a>, whether it’s for questions, or to tell us you’re done with your submissions, or by DMing/mentioning us on [Twitter](https://twitter.com/KodamaSoft), or contacting us by [mail](mailto:kodamateam@gmail.com). You’re also free to ask for help to other artists on the Discord too! This is the main place we use to directly contact participating artists, as it is easier to mention groups of people directly with the appropriate roles. You can use the appropriate album channel to talk about this specific album and read what’s new relating to the album. You’ll also be able to showcase your tracks here. Finished submissions however, need to be sent in through the Form or sent directly to the Fivda.
+</WrappableParagraph>
+
+<WrappableParagraph title="Releases Information">
+### Current Project
+<ProjectInformation slug="dj-koishi" />
+</WrappableParagraph>
+
+export default ({ children }) => <Layout>{children}</Layout>

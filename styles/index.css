@@ -44,14 +44,24 @@ html {
 }
 
 .kodama_btn {
-	@apply py-2 px-3 text-xs font-medium text-center text-white rounded-lg  focus:ring-4  flex transition;
+	@apply py-2 px-3 text-xs font-medium text-center text-white rounded-lg focus:ring-4 inline-flex transition items-center;
 	@apply bg-slate-600 hover:bg-slate-700 focus:ring-slate-800;
 }
 
-.kodama_btn [astro-icon] {
-    @apply h-4 w-4 mr-2;
+.kodama_btn [astro-icon], .kodama_btn svg {
+    @apply h-4 w-4 mr-2 shrink-0;
 }
 
 .kodama_btn--primary {
 	@apply bg-violet-600 hover:bg-violet-700 focus:ring-violet-800;
 }
+
+.kodama_btn--lg {
+	@apply py-3 px-4 text-lg;
+}
+
+.kodama_btn--lg [astro-icon], .kodama_btn--lg svg{
+    @apply h-6 w-6;
+}
+
+
