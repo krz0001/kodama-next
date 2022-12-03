@@ -21,14 +21,15 @@
         "slug": "eclectic-resonance-detuned-alloy",
         "title": "ECLECTIC RESONANCE Detuned Alloy",
         "themes": ["Original Work", "Rock", "Hard Rock", "Metal", "Acoustic", "Guitar Centered"],
-        "status": "Ongoing",
-        "percentage": "0",
+        "status": "Accepting Submissions",
+        "percentage": "5",
         "duration": "00:00",
         "finished_tracks": "0",
         "mastering" : {
             "status":"Pending",
             "engineer":"R-Man"
         },
+        "artwork_comission": "Sketching",
         "url": "/projects/eclectic-resonance-detuned-alloy",
         "color": "#9f1239"
 
@@ -39,9 +40,9 @@
     "desc": "Our “a tribute album” series are self-explanatory: Those are albums entirely dedicated to a specific series/game. Any styles and genres are accepted, so long as they follow our guidelines. Image songs are also accepted so long as they follow the rules.",
     "projects": [{
         "slug": "moonstruck-analogy-ii",
-        "title": "Moonstruck Analogy II -a TYPE-MOON tribute album-",
+        "title": "Moonstruck Analogy -a TYPE-MOON tribute album- II",
         "themes": ["TYPE-MOON centered album (Fate/stay night, Tsukihime…)"],
-        "status": "Accepting Submissions",
+        "status": "Currently Going",
         "percentage": "0",
         "duration": "00:00",
         "finished_tracks": "0",
@@ -49,14 +50,15 @@
             "status":"Pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
         },
+        "artwork_comission": "Pending",
         "url": "/projects/moonstruck-analogy-ii",
         "color": "#fde68a"
     },
     {   
         "slug": "fragments-of-gratitude-ii",
-        "title": "Fragments of Gratitude II -a When They Cry tribute album-",
+        "title": "Fragments of Gratitude -a When They Cry tribute album- II",
         "themes": ["07th Expansion centered album (Higurashi, Umineko…)"],
-        "status": "Accepting Submissions",
+        "status": "Currently Going",
         "percentage": "5",
         "duration": "03:25",
         "finished_tracks": "1",
@@ -64,6 +66,7 @@
             "status":"Pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
         },
+        "artwork_comission": "Pending",
         "url": "/projects/fragments-of-gratitude-ii",
         "color": "#7dd3fc"
     },
@@ -79,6 +82,7 @@
             "status":"Pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
         },
+        "artwork_comission": "Pending",
         "url": "/projects/katamania",
         "color": "#f472b6"
     }]
@@ -87,7 +91,7 @@
     "name": "Gensokyo Party",
     "projects": [{
         "slug": "vantablack",
-        "title": "VANTABLACK 2",
+        "title": "Gensokyo Party VANTABLACK 2",
         "themes": ["Dark Themed Touhou Project Album"],
         "status": "Accepting Submissions",
         "percentage": "0",
@@ -97,13 +101,14 @@
             "status":"Pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
         },
+        "artwork_comission": "Pending",
         "url": "/projects/vantablack",
         "color": "#b45309"
 
     },
     {
         "slug": "moriya-barista",
-        "title": "Moriya Barista",
+        "title": "Gensokyo Party Vol. 3 Moriya Barista",
         "themes": ["Chill/Laid-back Themed Touhou Project Album"],
         "status": "Accepting Submissions",
         "percentage": "60",
@@ -114,14 +119,15 @@
             "status":"Pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
         },
+        "artwork_comission": "Art & Logo Complete",
         "url": "/projects/moriya-barista",
         "color": "#6ee7b7"
     },
     {
         "slug": "dj-koishi",
-        "title": "DJ Koishi",
+        "title": "Gensokyo Party DJ Koishi",
         "themes": ["Club/EDM/Trance Themed Touhou Project Album"],
-        "status": "Currently Going",
+        "status": "Accepting Submissions",
         "percentage": "0",
         "duration": "00:00",
         "finished_tracks": "0",
@@ -129,6 +135,7 @@
             "status":"Pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
         },
+        "artwork_comission": "Pending",
         "url": "/projects/dj-koishi",
         "color": "#65a30d"
     }]
