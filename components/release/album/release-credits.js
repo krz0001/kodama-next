@@ -19,10 +19,8 @@ export default function ReleaseTracklist({ credits }) {
                             </span>
 
                             <span className={tracklistStyles.button}>
-                                <Link href={creditJSON[1].website} passHref>
-                                    <a target="_blank">
-                                        website
-                                    </a>
+                                <Link href={creditJSON[1].website} passHref target="_blank">
+                                    website
                                 </Link>                            
                             </span>
                         

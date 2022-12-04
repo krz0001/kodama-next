@@ -28,7 +28,7 @@ export default function ReleaseDescription({ cover, title, circle, specification
                 <DtKodama>{t('circle')}</DtKodama>
                 <dd>
                     <Link href={circle.link}>
-                        <a>{circle.name}</a>
+                        {circle.name}
                     </Link>
                 </dd>
 
@@ -51,7 +51,7 @@ export default function ReleaseDescription({ cover, title, circle, specification
                         return (
                             <li key={storeItem[0]}>
                                 <Link href={storeItem[1].link}>
-                                    <a>{storeItem[1].name}</a>
+                                    {storeItem[1].name}
                                 </Link>
                             </li>
                     )})}
