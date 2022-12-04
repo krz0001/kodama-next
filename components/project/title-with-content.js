@@ -25,7 +25,7 @@ export default function WrappableParagraph({ title, children }) {
 	}
 
 	return (
-		<MotionConfig transition={{ duration }}>
+        <MotionConfig transition={{ duration }}>
 			<>
 				<h2
 					onClick={() => setOpened(!opened)}
@@ -53,7 +53,7 @@ export default function WrappableParagraph({ title, children }) {
 				{opened ? children : null}
 			</ResizablePanel>
 		</MotionConfig>
-	)
+    );
 }
 
 function ResizablePanel({ isOpened, children }) {

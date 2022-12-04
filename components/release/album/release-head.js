@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from "next/legacy/image";
 import Trans from 'next-translate/Trans'
 
 export default function ReleaseNav({ logo, description, sc_track_id, color}) {
