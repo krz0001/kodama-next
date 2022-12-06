@@ -1,27 +1,27 @@
 {
-    "slug": "eclectic-resonance-dawn",
-    "logo": "/assets/discography/logos/0004.png",
-    "color": "75b1d6",
+    "slug": "eclectic-resonance-dusk",
+    "logo": "/assets/discography/logos/0005.png",
+    "color": "f5ad58",
     "description": "eclectic-resonance-dawn:desc",
-    "soundcloud_track_id": "1246158391",
-    "cover": "/assets/discography/covers/0004.jpg",
-    "title": "ECLECTIC RESONANCE ~Dawn~",
+    "soundcloud_track_id": "1246173775",
+    "cover": "/assets/discography/covers/0005.jpg",
+    "title": "ECLECTIC RESONANCE ~Dusk~",
     "circle": {
         "name": "KodamaSounds",
         "link": "/"
     },
     "specification": "Digital Original Work Album",
     "release_date": "24 Apr. 2022",
-    "catalog": "KSDL-0004",
+    "catalog": "KSDL-0005",
     "price": "10€",
     "store": {
         "bandcamp": {
             "name": "Bandcamp",
-            "link":"https://kodamasounds.bandcamp.com/album/eclectic-resonance-dawn"
+            "link":"https://kodamasounds.bandcamp.com/album/eclectic-resonance-dusk"
         },
         "booth": {
             "name": "BOOTH",
-            "link":"https://kodamasoft.booth.pm/items/3763619"
+            "link":"https://kodamasoft.booth.pm/items/3793016"
         },
         "twin": {
             "name": "Check out the Dusk side!",
@@ -29,73 +29,108 @@
         }
     },
     "tracklist": {
-        "01": {
-            "title": "Beyond Perfect",
-            "artist": "g3ntlebreeze"
-        },
-        "02": {
-            "title": "HIGHWAY HEELFLIPPIN'",
-            "artist": "FrancisRave"
-        },
-        "03": {
-            "title": "For Robin",
-            "artist": "Kohta Takahashi"
-        },
-        "04": {
-            "title": "SNS",
-            "artist": "Tee-vee"
-        },
-        "05": {
-            "title": "Tsunami",
-            "artist": "Justin Thornburgh"
-        },
-        "06": {
-            "title": "Ethereal Hope",
-            "artist": "Kopan feat. Maxx"
-        },
-        "07": {
-            "title": "Upward-Step",
-            "artist": "LLevc_EGM"
-        },
-        "08": {
-            "title": "ELECTROMAGICIS~BURST",
-            "artist": "mkTRNZ"
-        },
-        "09": {
-            "title": "Bell Anthem",
-            "artist": "Nokutoka Momiji"
-        },
         "10": {
             "title": "Decisive Division",
-            "artist": "Odda C."
+            "artist": "KodamaSounds",
+            "description": [
+                "Odda C."
+            ]
         },
         "11": {
             "title": "Change in Attitude",
-            "artist": "Qwesta"
+            "description": [
+                "Qwesta"
+            ]
         },
         "12": {
             "title": "ECLECTIC LOVE",
-            "artist": "Boz, Krep & Tjtaz"
+            "description": [
+                "Boz, Krep & Tjtaz"
+            ]
         },
         "13": {
             "title": "Void Sublimation",
-            "artist": "R-Man"
+            "description": [
+                "R-Man"
+            ]
         },
         "14": {
             "title": "binary_technique",
-            "artist": "STEEL_PLUS"
+            "description": [
+                "STEEL_PLUS"
+            ]
         },
         "15": {
             "title": "Auroral Genetics Labs",
-            "artist": "ViRiX Dreamcore"
+            "description": [
+                "ViRiX Dreamcore"
+            ]
         },
         "16": {
             "title": "Love Invocation",
-            "artist": "LibriJamm"
+            "description": [
+                "LibriJamm"
+            ]
         },
         "17": {
             "title": "Chloé",
-            "artist": "Kurokotei feat. Aamna"
+            "description": [
+                "Kurokotei feat. Aamna"
+            ]
+        },
+        "01": {
+            "title": "Beyond Perfect",
+            "description": [
+                "g3ntlebreeze"
+            ]
+        },
+        "02": {
+            "title": "HIGHWAY HEELFLIPPIN'",
+            "description": [
+                "FrancisRave"
+            ]
+        },
+        "03": {
+            "title": "For Robin",
+            "description": [
+                "Kohta Takahashi"
+            ]
+        },
+        "04": {
+            "title": "SNS",
+            "description": [
+                "Tee-vee"
+            ]
+        },
+        "05": {
+            "title": "Tsunami",
+            "description": [
+                "Justin Thornburgh"
+            ]
+        },
+        "06": {
+            "title": "Ethereal Hope",
+            "description": [
+                "Kopan feat. Maxx"
+            ]
+        },
+        "07": {
+            "title": "Upward-Step",
+            "description": [
+                "Levc_EGM"
+            ]
+        },
+        "08": {
+            "title": "ELECTROMAGICIS~BURST",
+            "description": [
+                "mkTRNZ"
+            ]
+        },
+        "09": {
+            "title": "Bell Anthem",
+            "description": [
+                "Nokutoka Momiji"
+            ]
         }
     },
     "youtube_id": "wSMFUgEUpaM",

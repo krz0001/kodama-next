@@ -1,17 +1,22 @@
-import ReleaseTrack from './release-track';
+import ReleaseTrack from './release-track'
 
-export default function ReleaseTracklist({tracklist}) {
+export default function ReleaseTracklist({ tracklist }) {
+	// sort tracklist by track number (track[0]) and turn it into an array
+	tracklist = Object.entries(tracklist).sort((a, b) => {
+		return a[0] - b[0]
+	})
+
 	return (
-		<section className='mx-auto my-16'>
-            <h2 className="text-2xl text-center uppercase mb-8 font-black"> tracklist </h2>
+		<section className="mx-auto my-16">
+			<h2 className="text-2xl text-center uppercase mb-8 font-black">
+				tracklist
+			</h2>
 
-            {Object.entries(tracklist).map(trackJSON => {
-                console.log(trackJSON);
-
-                return (
-                    <ReleaseTrack track={trackJSON} key={trackJSON[0]} />
-                )
-            })}
-        </section>
+			<div className='w-auto'>
+				{tracklist.map((track, index) => {
+					return <ReleaseTrack track={track} key={index} />
+				})}
+			</div>
+		</section>
 	)
 }

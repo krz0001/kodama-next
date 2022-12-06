@@ -1,11 +1,11 @@
-import Image from "next/legacy/image";
+import Image from "next/image";
 import Trans from 'next-translate/Trans'
 
 export default function ReleaseNav({ logo, description, sc_track_id, color}) {
     return (
 		<div className='container mx-auto'>
             <div className='relative w-[800px] max-w-full mx-auto'>
-                <Image src={logo} height="340" width="1000" layout="intrinsic" alt='Logo'/>
+                <Image src={logo} height="340" width="1000" alt='Logo' style="object-fit: cover; object-position: center;" />
             </div>
 
             <div className='my-16'>

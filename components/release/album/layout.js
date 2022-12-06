@@ -54,6 +54,7 @@ export default function ReleaseLayout({ release }) {
                 <ReleaseCredits credits={release.credits} />
                 <ReleaseFooter 
                     slug={release.slug}
+                    footer_string={release.footer}
                     title={release.title}
                 />
             </div>

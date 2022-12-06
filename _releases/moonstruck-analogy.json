@@ -1,0 +1,182 @@
+{
+    "slug": "moonstruck-analogy",
+    "logo": "/assets/discography/logos/0002.png",
+    "color": "eaed1c",
+    "description": "release:0002.desc",
+    "soundcloud_track_id": "1179981091",
+    "cover": "/assets/discography/covers/0002.png",
+    "title": "Moonstruck Analogy -a TYPE-MOON tribute album-",
+    "circle": {
+        "name": "KodamaSounds",
+        "link": "/"
+    },
+    "specification": "Digital TYPE-MOON Arrange Album",
+    "release_date": "30 Dec. 2021",
+    "catalog": "KSDL-0002",
+    "price": "5€",
+    "store": {
+        "bandcamp": {
+            "name": "Bandcamp",
+            "link": "https://kodamasounds.bandcamp.com/album/moonstruck-analogy-a-type-moon-tribute-album"
+        },
+        "booth": {
+            "name": "BOOTH",
+            "link": "https://kodamasoft.booth.pm/items/3264153"
+        }
+    },
+    "tracklist": {
+
+        "01": {
+            "title": "M01 Chorale",
+            "description": [
+                "Artist: postblankvoid",
+                "Arrangement: postblankvoid (KodamaSounds)",
+                "Vocals: El A (KodamaSounds)",
+                "Original: the Garden of sinners: Thanatos. (Overlooking View) — M01"
+            ]
+        },
+        "02": {
+            "title": "Under Moonlight",
+            "description": [
+                "Artist: Theosmeo",
+                "Arrangement & Violin: Theosmeo",
+                "Original: Melty Blood Actress Again — The Space Hidden in the Moon"
+            ]
+        },
+        "03": {
+            "title": "Unavoidable Occurrences",
+            "description": [
+                "Artist: Mizuka Tsukishima",
+                "Arrangement: Mizuka Tsukishima (The Brightness of Twilight)",
+                "Original: Kagetsu Tohya — Girl"
+            ]
+        },
+        "04": {
+            "title": "Venomous Summer",
+            "description": [
+                "Artist: Azure",
+                "Arrangement: Azure",
+                "Original: Tsukihime — Charming Summer"
+            ]
+        },
+        "05": {
+            "title": "Pride in her Blade, Pride in her Heart",
+            "description": [
+                "Artist: Fivda",
+                "Arrangement: Fivda (KodamaSounds)",
+                "Original: Fate/stay night — Excalibur / Feelings that Won't Disappear"
+            ]
+        },
+        "06": {
+            "title": "Blazing Soul in a Snowfield",
+            "description": [
+                "Artist: FrancisRave",
+                "Arrangement & Guitar: FrancisRave (KodamaSounds)",
+                "Original: Mahoutsukai no Yoru: Witch on the Holy Night — innocence"
+            ]
+        },
+        "07": {
+            "title": "Dimming Dusk",
+            "description": [
+                "Artist: Mizuka Tsukishima",
+                "Arrangement: Mizuka Tsukishima (The Brightness of Twilight)",
+                "Original: Tsukihime - Tsukihime"
+            ]
+        },
+        "08": {
+            "title": "Night ON THE BLOOD LIAR",
+            "description": [
+                "Artist: Damare",
+                "Arrangement: Damare",
+                "Vocals: Saki & Koharu Rikka (Synthesizer V AI)",
+                "Original: Melty Blood — Melty Blood"
+            ]
+        },
+        "09": {
+            "title": "Closure of Seasons",
+            "description": [
+                "Artist: Theosmeo",
+                "Arrangement: Theosmeo",
+                "Original: Fate/stay night — Seasons Change"
+            ]
+        }
+    },
+    "youtube_id": "9NChVlWjUso",
+    "credits": {
+        "1": {
+            "role": "Arrangement / Vocals",
+            "name": "postblankvoid / El A",
+            "website": "https://postblankvoid.bandcamp.com/"
+        },
+        "2": {
+            "role": "Arrangement / Violin",
+            "name": "Theosmeo",
+            "website": "https://lfts.bandcamp.com/"
+        },
+        "3": {
+            "role": "Arrangement",
+            "name": "Mizuka Tsukishima",
+            "website": "https://brightnesstwilight.bandcamp.com/"
+        },
+        "4": {
+            "role": "Arrangement",
+            "name": "Azure",
+            "website": "https://azurenite.bandcamp.com/"
+        },
+        "5": {
+            "role": "Arrangement / Supervisor / Planner",
+            "name": "Fivda",
+            "website": "https://kodamasounds.bandcamp.com/"
+        },
+        "6": {
+            "role": "Arrangement / Guitar",
+            "name": "FrancisRave",
+            "website": "https://francisrave.bandcamp.com/"
+        },
+        "7": {
+            "role": "Arrangement",
+            "name": "Damare",
+            "website": "https://damare.bandcamp.com/"
+        },
+        "8": {
+            "role": "Mastering Engineer",
+            "name": "malicent",
+            "website": "https://malicent.bandcamp.com/"
+        },
+        "9": {
+            "role": "Illustration & Logo Designer",
+            "name": "shonocondo",
+            "website": "https://shonocondo.carrd.co/"
+        },
+        "10": {
+            "role": "Original Composition",
+            "name": "Yuki Kajiura",
+            "website": "https://fictionjunction.com/"
+        },
+        "11": {
+            "role": "Original Composition",
+            "name": "Raito",
+            "website": "http://lisa-rec.net/"
+        },
+        "12": {
+            "role": "Original Composition",
+            "name": "KATE",
+            "website": "https://twitter.com/hagakeita"
+        },
+        "13": {
+            "role": "Original Composition",
+            "name": "KATE",
+            "website": "https://twitter.com/hagakeita"
+        },
+        "14": {
+            "role": "Original Composition",
+            "name": "Hideyuki Fukasawa",
+            "website": "https://twitter.com/eicheph"
+        },
+        "15": {
+            "role": "Original Lyrics",
+            "name": "Kyou Hodou",
+            "website": "https://vgmdb.net/artist/6697"
+        }
+    }
+}
