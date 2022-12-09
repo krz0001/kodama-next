@@ -27,6 +27,17 @@ export default function WrappableParagraph({ title, children }) {
 	}, [asPath, title])
 
 
+	async function copyLink(id) {
+		let link = window.location.href
+		link = link.split('#')[0] + '#' + id;
+		try {
+			await navigator.clipboard.writeText(link)
+			console.log('Page URL copied to clipboard')
+		} catch (err) {
+			console.error('Failed to copy: ', err)
+		}
+	}
+
 	
 	return (
 		<MotionConfig transition={{ duration }}>
@@ -46,6 +57,7 @@ export default function WrappableParagraph({ title, children }) {
 				</h2>
 				<Link 
 					href={'#' + title.toLowerCase().replace(/ /g, '-') }
+					onClick={() => copyLink(title.toLowerCase().replace(/ /g, '-'))}
 					className="ml-2 text-violet-500 opacity-20 hover:opacity-100 focus:opacity-100 transition-opacity no-underline text-2xl"
 				>
 					#
