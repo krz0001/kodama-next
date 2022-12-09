@@ -6,7 +6,7 @@ import ProseContainer from './prose-container'
 import { WEBSITE_NAME } from '../lib/constants'
 
 
-export default function ProjectLayout({ title ,children }) {
+export default function ProjectLayout({ title, children }) {
     return (
         <Layout>
             <Head>
