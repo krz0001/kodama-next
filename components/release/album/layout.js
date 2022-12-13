@@ -29,9 +29,9 @@ export default function ReleaseLayout({ release }) {
                 <title>{release.title + " - KodamaSounds"}</title>
             </Head>
             <div className={layoutStyles.main}>
-                <ReleaseNav />
                 <ReleaseHead 
                     logo={release.logo} 
+                    background={release.background}
                     description={release.description} 
                     sc_track_id={release.soundcloud_track_id} 
                     color={release.color}
