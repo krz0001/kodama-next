@@ -29,8 +29,6 @@ export async function getStaticProps({ params }) {
 
 export async function getStaticPaths({locales, locale}) {
   const releases = getAllReleases()
-  console.log(releases)
-
 
 const path = (locale) =>
       releases.map((post) => ({

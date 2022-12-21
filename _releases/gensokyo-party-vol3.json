@@ -1,0 +1,171 @@
+{
+	"slug": "gensokyo-party-vol3",
+	"logo": "/assets/discography/logos/0007.png",
+	"color": "bf6666",
+	"description": "release:0007.desc",
+	"soundcloud_track_id": "1179981091",
+	"cover": "/assets/discography/covers/0007.jpg",
+	"title": "Gensokyo Party Vol. 3 Moriya Barista",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "Digital Touhou Arrange Album",
+	"release_date": "30 Dec. 2022",
+	"catalog": "KSDL-0007",
+	"price": "10€",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-3-moriya-barista"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/4392560"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "Moriya Barista",
+			"artist": "jys_music feat. KODAMA JAMS",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: jys_music",
+				"KODAMA JAMS are",
+				"• Rosie Drown: Tenor Sax ",
+				"• Philip Saguil: Piano",
+				"• Tee-vee: Drums",
+				"• apatisk1: Bass",
+				" ",
+				"• Programmed by jys_music",
+				"• Produced by jys_music",
+				"• Mixed by jys_music",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Faith Is for the Transient People",
+				"• Source: Touhou Fuujinroku ~ Mountain of Faith.",
+				"",
+				"• Used Software: Sibelius (sheet music), Pro Tools (DAW for mixing)",
+				"",
+				"• About this track:",
+				"Robin: The first thing that came to mind when creating Moriya Barista (as an album) was to inaugurate this series with a bombastic, fully live performed jazz track. I thought the occasion was great, and we got to involve a lot of different artists, with nearly nothing but brand new participants, which felt like a perfect breath of fresh air as a whole! KODAMA JAMS will be our unit name used within the circle whenever we will be performing live performed jazz/fusion tracks within Kodama Sounds from now on. Of course, the name was inspired by CASIOPEA\"s album MINT JAMS for a sly reference. I hope you enjoy this incredible track to the fullest!",
+				"",
+				"Philip Saguil: I was recommended for this project through a sister arrangement group, Resonant Union. Little did I know the arranger of the piece was someone I worked before professionally on a large game project! The world moves in mysterious ways."
+			]
+		},
+		"02": {
+			"title": "Transflorae",
+			"artist": "YOKAI",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: YOKAI (KodamaSounds)",
+				"• Electric Guitar: YOKAI (KodamaSounds)",
+				"",
+				"• Programmed by YOKAI (KodamaSounds)",
+				"• Produced by YOKAI (KodamaSounds)",
+				"• Mixed by YOKAI (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Deaf to All but the Song",
+				"• Source: Touhou Eiyashou ~ Imperishable Night.",
+				"",
+				"• Used Software: Cubase 11",
+				"• Used VSTs & Samples: Pianoteq, Groove agent one, ToontrackEZbass "
+			]
+		},
+		"03": {
+			"title": {
+				"en": "Shrine of the Wind ~for the barista~",
+				"jp": "風の神社 ~for the barista~"
+			},
+			"artist": "Smart Cat Rides Bicycle",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Smart Cat Rides Bicycle",
+				"",
+				"• Programmed by Smart Cat Rides Bicycle",
+				"• Produced by Smart Cat Rides Bicycle",
+				"• Mixed by Smart Cat Rides Bicycle",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Shrine of the Wind",
+				"• Source: Touhou Rei'iden ~ Highly Responsive to Prayers."
+			]
+		},
+		"04": {
+			"title": "Moments Before Judgement",
+			"artist": "Uchulups",
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Uchulups", "", "• Programmed by Uchulups", "• Produced by Uchulups", "• Mixed by Uchulups", "• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)", "", "• Original Track: Higan Retour ~ Riverside View", "• Source: Touhou Kaeidzuka ~ Phantasmagoria of Flower View.", "", "• Used Software: FL studio 12", "• Used VSTs & Samples: Vital", "", "• About this track: After three or four different tries, this is what I got! Sample libraries got lost, project files got corrupted, tears were cried; but in the end, Touhou 9 was victorious yet again. (Fun fact: excluding percussion, all of the instruments are made with Vital)"]
+		},
+		"05": {
+			"title": "Pure, Sorrowful Heart",
+			"artist": "Z_A",
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Z_A", "", "• Programmed by Z_A", "• Produced by Z_A", "• Mixed by Z_A", "• Mastering Engineer: tbd, probably malicent (Cursed Monastery / Sigillum Azoetia)", "", "• Original Track: Pure Furies ~ Whereabouts of the Heart", "• Source: Touhou Kanjuden ~ Legacy of Lunatic Kingdom.", "", "• About this track: An attempt to confer Junko's most tragic loss and grief, even being unable to lose her mind and forget, instead enduring and never letting it go. No mother should ever have to go through this."]
+		},
+		"06": {
+			"title": "Dark Fragrance of Your Soul",
+			"artist": "KoDyMaxx",
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Kopan (KodamaSounds), Maxx & Dylan Hendrick", "• Keyboards: Kopan (KodamaSounds)", "• Guitars & Bass: Maxx", "• Drums: Dylan Hendrick", "", "• Programmed by Kopan (KodamaSounds), Maxx & Dylan Hendrick", "• Produced by Kopan (KodamaSounds) & Maxx", "• Mixed by Maxx", "• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)", "", "• Original Track: Dark Side of Fate", "• Source: Touhou Fuujinroku ~ Mountain of Faith.", "", "• Used Software: FL Studio 20, Reaper, Cubase", "• Used VSTs & Samples: Nexus 2, Addictive drums 2"]
+		},
+		"07": {
+			"title": {
+				"en": "Lo-Fi Firefly",
+				"jp": "ロフィ・ファイアフライ"
+			},
+			"artist": "KoDyMaxx",
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Skelothan", "", "• Programmed by Skelothan", "• Produced by Skelothan", "• Mixed by Skelothan", "• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)", "", "• Original Track: Stirring an Autumn Moon ~ Mooned Insect", "• Source: Touhou Eiyashou ~ Imperishable Night.", "", "• Used Software: Logic Pro X", "• Used VSTs & Samples: iZotope Vinyl", "", "• About this track: ...but wouldn't a firefly drink coffee at night? Well, I guess it's a dark track, so it's probably fine."]
+		},
+		"08": {
+			"title": "An Ice Fairy in Winter",
+			"artist": "Mizuka Tsukishima (The Brightness of Twilight)",
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Mizuka Tsukishima (The Brightness of Twilight)", "• Electric Guitar: Mizuka Tsukishima (The Brightness of Twilight)", "", "• Programmed by Mizuka Tsukishima (The Brightness of Twilight)", "• Produced by Mizuka Tsukishima (The Brightness of Twilight)", "• Mixed by Mizuka Tsukishima (The Brightness of Twilight)", "• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)", "", "• Original Track: An Ice Fairy in Spring", "• Source: Yousei Daisensou ~ Touhou Sangetsusei", "", "• Used Software: FL Studio 12", "• Used VSTs & Samples: Sound Canvas VA", "", "• About this track: Hi~ it's Mizuka again ^^. I don't have much to say about this one since I'm playing it too close to the deadline again (*laughs*), but I just thought I would specify that this is a completely reimagined jazz version of my arrange \"春の氷精 -Spring of Eternity-\" from my album \"Eternal Spring of Resonation\", which was released digitally back in May for Reitaisai 19. I had originally planned on making a jazzy arrange of Patchouli's theme \"Locked Girl ~ The Girl's Secret Room\" from Touhou 6 for this album, but that wasn't allowed since it was arranged by someone else for the previous Gensokyo Party album (it definitely wouldn't have been as amazing as that arrange anyway ^^). I hope you enjoyed this sorta experimental jazzy rock arrange of mine, which is based on the title screen theme from Touhou 12.8! Now let's chill out to the rest of the album together~"]
+		},
+		"09": {
+			"title": "A Tiny, Tiny, Cup Of Coffee.",
+			"artist": "Levc_EGM",
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Levc_EGM", "• Electric Guitar: Levc_EGM", "", "• Programmed by Levc_EGM", "• Produced by Levc_EGM", "• Mixed by Levc_EGM", "• Mastering Engineer: Levc_EGM", "(malicent (Cursed Monastery / Sigillum Azoetia)?)", "", "• Original Track: A Tiny, Tiny, Clever Commander", "• Source: Touhou Seirensen ~ Undefined Fantastic Object.", "", "• Used Software: FL Studio", "• Used VSTs & Samples:  Soundfont player, Halion sonic 3, Kontakt, Plugsoundbox.", "", "• About this track: It's interesting to note how after the first album doing a track on this style, going back again for a second round. Tho this time Instead of a medley,  it's one song being arranged (one of my favorites!, tho that can be said about all tracks I have arranged, but whatever).  Honestly I think it's a bit too upbeat in contrast to other tracks? but At least I hope it sticks out in a good way despite my sloppy guitar solo. "]
+		},
+		"10": {
+			"title": {
+				"en": "Cherry Blossom Wind",
+				"jp": "桜の風"
+			},
+			"artist": "JDxanadu",
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: JDxanadu (Higan Daybreak)", "", "• Programmed by JDxanadu (Higan Daybreak)", "• Produced by JDxanadu (Higan Daybreak)", "• Mixed by Ren (Higan Daybreak)", "• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)", "", "• Original Track: Swim in a Cherry Blossom-Colored Sea", "• Source: Touhou Tenkuushou ~ Hidden Star in Four Seasons.", "", "• Used Software: Flat, FL Studio 20", "• Used VSTs: FLEX, Kontakt 6"]
+		},
+		"11": {
+			"title": "Let's Drink to our Memories",
+			"artist": {
+				"en": "Chikyuu no De",
+				"jp": "地球の出"
+			},
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Chikyuu no De [地球の出]", "", "• Programmed by Chikyuu no De [地球の出]", "• Produced by Chikyuu no De [地球の出]", "• Mixed by Chikyuu no De [地球の出]", "• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)", "", "• Original Track: The Flowers Remain in Fantasy", "• Source: Touhou Kaeidzuka ~ Phantasmagoria of Flower View.", "", "• Used Software: FL Studio 20", "• Used VSTs & Samples: Fabfilter for EQ and Compression, Valhalla for delay and reverb", "", "• About this track: BPM is 97.999"]
+		},
+		"12": {
+			"title": "balançado pelo mar",
+			"artist": {
+				"fr": "Aten",
+				"jp": "亜店"
+			},
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Aten [亜店] (intelligencecasino)", "", "• Programmed by Aten [亜店] (intelligencecasino)", "• Produced by Aten [亜店] (intelligencecasino)", "• Mixed by Aten [亜店] (intelligencecasino)", "• Mastering Engineer: Aten [亜店] (intelligencecasino) (DOUBLE CHECK, or malicent (Cursed Monastery / Sigillum Azoetia))", "", "• Original Track: Captain Murasa", "• Source: Touhou Seirensen ~ Undefined Fantastic Object.", "", "• Used Software: FL Studio"]
+		},
+		"13": {
+			"title": "Kokekokko Café",
+			"artist": "Gumichan01",
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Gumichan01", "", "• Programmed by Gumichan01", "• Produced by Gumichan01", "• Mixed by Gumichan01", "• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)", "", "• Original Track: Plain Asia", "• Source: Touhou Eiyashou ~ Imperishable Night.", "", "• Used Software: LMMS", "", "• About this track: This is my first contribution and I am glad I could make a Touhou song for this circle. When I heard of this project, I was very inspired and I immediatly started to experiment some ideas. It ended to a mix of some progressive breakbeat with jazzy elements. I wanted to make a song that can be playable and performed by a band in a bar. I also wanted this song to sound like a human performance. It took me almost four months to get to this result. This song is a reference to a french bar I went into several months ago. The ambience of the bar was so chillout that somehow it inspired me to make a song that illustrates that."]
+		},
+		"14": {
+			"title": "for she so loved this world",
+			"artist": "Lollipop",
+			"description": ["• Original Composer: ZUN (Team Shanghai Alice)", "• Arranger: Lollipop", "", "• Programmed by Lollipop", "• Produced by Lollipop", "• Mixed by Lollipop", "• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)", "", "• Original Track: Gensokyo, Past and Present ~ Flower Land", "• Source: Touhou Kaeidzuka ~ Phantasmagoria of Flower View."]
+		}
+	},
+	"youtube_id": "sIn1KISzkfA",
+	"credits": {
+		"1": {
+			"role": "Arrangement / Vocals",
+			"name": "postblankvoid / El A",
+			"website": "https://postblankvoid.bandcamp.com/"
+		}
+	}
+}
