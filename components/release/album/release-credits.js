@@ -15,7 +15,6 @@ import tracklistStyles from './release-credits.module.scss'
 
 export default function ReleaseTracklist({ credits }) {
 	function LinkIcon(props) {
-		console.log(props)
 		const link = props['linkObj']
 
 		if (link.toString().includes('bandcamp')) {
@@ -30,7 +29,7 @@ export default function ReleaseTracklist({ credits }) {
 		} else if (link.toString().includes('soundcloud')) {
 			return <FaSoundcloud className={props.className} />
 		} else if (link.toString().includes('vgmdb')) {
-			return <span className={props.className}>VGMDB</span>
+			return <span className={props.className}>VGMdb</span>
 		} else if (link.toString().includes('booth.pm')) {
 			return <BoothSVG className={props.className} />
 		} else if (link.toString().includes('pixiv')) {
@@ -62,7 +61,6 @@ export default function ReleaseTracklist({ credits }) {
 					{Object.entries(credits).map((creditJSON) => {
 						let collaboratorInfo =
 							collaboratorsJson[creditJSON[1].id]
-						console.log(collaboratorInfo)
 
 						const tdClass = 'md:border-b border-[#666] md:p-4 md:pl-8'
 						return (

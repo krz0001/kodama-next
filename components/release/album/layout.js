@@ -26,7 +26,7 @@ export default function ReleaseLayout({ release }) {
                 <title>{release.title + " - KodamaSounds"}</title>
                 <meta property="og:title" content={release.title + " - KodamaSounds"} />
                 <meta name="theme-color" content={'#' + release.color} />
-                <meta property="og:image" content={release.logo} />
+                <meta property="og:image" content={release.cover} />
                 <meta property="og:description" content={release.description} />
                 <meta property="og:type" content="website" />            
             </Head>
