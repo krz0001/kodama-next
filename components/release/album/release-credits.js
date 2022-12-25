@@ -1,4 +1,6 @@
 import Link from 'next/link'
+import { useRouter } from 'next/router'
+
 import collaboratorsJson from '/_collaborators.json'
 import {
 	FaBandcamp,
@@ -10,8 +12,6 @@ import {
 import BoothSVG from '../../../public/assets/icons/booth.svg'
 import PixivSVG from '../../../public/assets/icons/pixiv.svg'
 import FanboxSVG from '../../../public/assets/icons/fanbox.svg'
-
-import tracklistStyles from './release-credits.module.scss'
 
 export default function ReleaseTracklist({ credits }) {
 	function LinkIcon(props) {
@@ -40,6 +40,8 @@ export default function ReleaseTracklist({ credits }) {
 			return <FaGlobe className={props.className} />
 		}
 	}
+	const { locale } = useRouter()
+
 
 	return (
 		<section className="container mx-auto my-16">
@@ -47,8 +49,6 @@ export default function ReleaseTracklist({ credits }) {
 				{' '}
 				credit{' '}
 			</h2>
-
-			{/* make it a column on mobile and then a table on bigger displays*/}
 			<table class="table-auto w-full">
 				<thead className='hidden md:table-header-group'>
 					<tr>
@@ -66,7 +66,7 @@ export default function ReleaseTracklist({ credits }) {
 						return (
 							<tr key={creditJSON[0]} className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-[#666] sm:border-0 md:m-0 md:table-row md:w-full">
 								<td className={tdClass}>
-									{collaboratorInfo.name}
+									{typeof collaboratorInfo.name === 'object' ? collaboratorInfo.name[locale] : collaboratorInfo.name}
 								</td>
 								<td className={`text-white/50 ${tdClass}`}>
 									{creditJSON[1].role}

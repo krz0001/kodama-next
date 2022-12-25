@@ -183,7 +183,6 @@
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
 				"• Arranger: Mizuka Tsukishima (The Brightness of Twilight)",
-				"• Electric Guitar: Mizuka Tsukishima (The Brightness of Twilight)",
 				"",
 				"• Programmed by Mizuka Tsukishima (The Brightness of Twilight)",
 				"• Produced by Mizuka Tsukishima (The Brightness of Twilight)",
@@ -205,7 +204,6 @@
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
 				"• Arranger: Levc_EGM",
-				"• Electric Guitar: Levc_EGM",
 				"",
 				"• Programmed by Levc_EGM",
 				"• Produced by Levc_EGM",
@@ -308,10 +306,24 @@
 				"• About this track: This is my first contribution and I am glad I could make a Touhou song for this circle. When I heard of this project, I was very inspired and I immediatly started to experiment some ideas. It ended to a mix of some progressive breakbeat with jazzy elements. I wanted to make a song that can be playable and performed by a band in a bar. I also wanted this song to sound like a human performance. It took me almost four months to get to this result. This song is a reference to a french bar I went into several months ago. The ambience of the bar was so chillout that somehow it inspired me to make a song that illustrates that."
 			]
 		},
-		"14":{
+		"14": {
 			"title": "An Autumn Breeze and Maple Chai",
 			"artist": "Ren",
-			"description": ["• Original Composer: ZUN (Team Shanghai Alice)","• Arranger: Ren (Higan Daybreak)","","• Programmed by Ren (Higan Daybreak)","• Produced by Ren (Higan Daybreak)","• Mixed by Ren (Higan Daybreak)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: Maple Dream...","• Source: Touhou Yumejikuu ~ Phantasmagoria of Dim.Dream.","","• Used Software: FL Studio 20","• Used VSTs & Samples: FLEX, 3x Osc, Kontakt 6"]
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Ren (Higan Daybreak)",
+				"",
+				"• Programmed by Ren (Higan Daybreak)",
+				"• Produced by Ren (Higan Daybreak)",
+				"• Mixed by Ren (Higan Daybreak)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Maple Dream...",
+				"• Source: Touhou Yumejikuu ~ Phantasmagoria of Dim.Dream.",
+				"",
+				"• Used Software: FL Studio 20",
+				"• Used VSTs & Samples: FLEX, 3x Osc, Kontakt 6"
+			]
 		},
 		"15": {
 			"title": "for she so loved this world",
@@ -370,7 +382,8 @@
 		},
 		"11": {
 			"role": "Arranger, Keyboards",
-			"id": "Kopan"		},
+			"id": "Kopan"
+		},
 		"12": {
 			"role": "Arranger, Guitars & Bass",
 			"id": "Maxx"
@@ -385,7 +398,8 @@
 		},
 		"15": {
 			"role": "Arranger",
-			"id": "Mizuka Tsukishima"		},
+			"id": "Mizuka Tsukishima"
+		},
 		"16": {
 			"role": "Arranger",
 			"id": "Levc_EGM"
@@ -438,8 +452,6 @@
 			"role": "Japanese Translator",
 			"id": "Yanis"
 		}
-
-		
 	},
 	"footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice). 東方Project © 上海アリス幻樂団"
 }

@@ -142,7 +142,10 @@
 		}
 	},
 	"Chikyuu no De": {
-		"name": "Chikyuu no De [地球の出]",
+		"name": {
+			"en": "Chikyuu no De",
+			"jp": "地球の出"
+		},
 		"links": {
 			"twitter": "https://twitter.com/Eyhz6",
 			"youtube": "https://www.youtube.com/channel/UCAFm3VrcZGV5osyGNa9VYvA",
@@ -150,7 +153,10 @@
 		}
 	},
 	"Aten": {
-		"name": "Aten [亜店]",
+		"name": {
+			"en":"Aten",
+			"jp":"亜店"
+		},
 		"links": {
 			"bandcamp": "https://66clown.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/intelligencecasino",
