@@ -12,14 +12,17 @@
 		"name": "Rosie Drown",
 		"links": {
 			"twitter": "https://twitter.com/ap_pussyeatin",
-			"vgmdb": "https://vgmdb.net/artist/54334"
+			"vgmdb": "https://vgmdb.net/artist/54334",
+            "bandcamp": "https://thornsband.bandcamp.com"
+
 		}
 	},
 	"Philip Saguil": {
 		"name": "Philip Saguil",
 		"links": {
 			"twitter": "https://twitter.com/FireFallsMusic",
-			"vgmdb": "https://vgmdb.net/artist/48226"
+			"vgmdb": "https://vgmdb.net/artist/48226",
+            "bandcamp": "https://philipsaguil.bandcamp.com"
 		}
 	},
 	"Tee-vee": {
@@ -139,7 +142,7 @@
 		}
 	},
 	"Chikyuu no De": {
-		"name": "Chikyuu no De",
+		"name": "Chikyuu no De [地球の出]",
 		"links": {
 			"twitter": "https://twitter.com/Eyhz6",
 			"youtube": "https://www.youtube.com/channel/UCAFm3VrcZGV5osyGNa9VYvA",
@@ -147,7 +150,7 @@
 		}
 	},
 	"Aten": {
-		"name": "Aten",
+		"name": "Aten [亜店]",
 		"links": {
 			"bandcamp": "https://66clown.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/intelligencecasino",
@@ -158,7 +161,7 @@
 		"name": "Gumichan01",
 		"links": {
 			"twitter": "https://twitter.com/Gumichan01",
-			"bandcamp": "https://gumichan01.bandcamp.com/",
+            "bandcamp": "https://gumichan01.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/gumichan01",
 			"youtube": "https://www.youtube.com/user/Gumichan01",
 			"vgmdb": "https://vgmdb.net/artist/54382"
@@ -173,8 +176,8 @@
 			"vgmdb": "https://vgmdb.net/artist/46976"
 		}
 	},
-	"lollipop": {
-		"name": "lollipop",
+	"Lollipop": {
+		"name": "Lollipop",
 		"links": {
 			"website": "https://lollipop314.github.io/site/",
 			"twitter": "https://twitter.com/Lollipop_314",
@@ -182,8 +185,8 @@
 			"vgmdb": "https://vgmdb.net/artist/48955"
 		}
 	},
-	"zun": {
-		"name": "zun",
+	"ZUN": {
+		"name": "ZUN (Team Shanghai Alice)",
 		"links": {
 			"website": "https://www16.big.or.jp/~zun/",
 			"twitter": "https://twitter.com/korindo"
