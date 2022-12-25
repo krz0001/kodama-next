@@ -1,7 +1,6 @@
 import Head from 'next/head'
 
 import layoutStyles from './layout.module.scss'
-import ReleaseNav from './release-nav'
 import ReleaseHead from './release-head'
 import ReleaseDescription from './release-description'
 import ReleaseCallToAction from './release-call-to-action'
@@ -10,7 +9,6 @@ import ReleaseYouTubeEmbed from './release-youtube-embed'
 import ReleaseCredits from './release-credits'
 import ReleaseFooter from './release-footer'
 
-import Meta from '../../meta'
 import { createGlobalStyle } from 'styled-components';
 
 
@@ -23,10 +21,14 @@ export default function ReleaseLayout({ release }) {
 
     return (
         <>
-            <Meta />
             <GlobalStyles />
             <Head>
                 <title>{release.title + " - KodamaSounds"}</title>
+                <meta property="og:title" content={release.title + " - KodamaSounds"} />
+                <meta name="theme-color" content={'#' + release.color} />
+                <meta property="og:image" content={release.logo} />
+                <meta property="og:description" content={release.description} />
+                <meta property="og:type" content="website" />            
             </Head>
             <div className={layoutStyles.main}>
                 <ReleaseHead 
