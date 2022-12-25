@@ -60,5 +60,15 @@
         "booth": "https://kodamasoft.booth.pm/items/4035987",
         "website": "https://fragmentsofgratitude.tumblr.com/",
         "vgmdb": "https://vgmdb.net/album/120016"
+    },
+    "gensyoko-party-3": {
+        "id": "KSDL-0007",
+        "name": "Gensokyo Party Vol. 3 Moriya Barista",
+        "cover": "/assets/discography/covers/0007.jpg",
+        "coverColor": "#bf6666",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-3-moriya-barista",
+        "booth": "https://kodamasoft.booth.pm/items/4392560",
+        "website": "/releases/gensokyo-party-vol3",
+        "vgmdb": "https://vgmdb.net/album/120017"
     }
 }

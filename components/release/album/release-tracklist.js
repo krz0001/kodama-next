@@ -1,35 +1,22 @@
-import tracklistStyles from './release-tracklist.module.scss'
+import ReleaseTrack from './release-track'
 
-export default function ReleaseTracklist({tracklist}) {
+export default function ReleaseTracklist({ tracklist }) {
+	// sort tracklist by track number (track[0]) and turn it into an array
+	tracklist = Object.entries(tracklist).sort((a, b) => {
+		return a[0] - b[0]
+	})
+
 	return (
-		<section className='container mx-auto my-16'>
-            <h2 className="text-2xl text-center uppercase mb-8 font-black"> tracklist </h2>
-            {Object.entries(tracklist).map(trackJSON => {
-                console.log(trackJSON);
+		<section className="mx-auto my-16">
+			<h2 className="text-2xl text-center uppercase mb-8 font-black">
+				tracklist
+			</h2>
 
-                return (
-                    <div key={trackJSON[0]} className={tracklistStyles.track_container}>
-                        <div className={tracklistStyles.track_number}>
-                            {trackJSON[0].padStart(2, '0')}
-                        </div>
-                        <div className={tracklistStyles.track_content}>
-                            <h3 className='text-xl font-bold'>
-                                {trackJSON[1].title}
-                            </h3>
-                            <div>
-                                {trackJSON[1].description.map((descParagraph, index)  => {
-                                    return (
-                                        <p key={index} className="text-[#999] mb-4 text-sm	">
-                                            {descParagraph}
-                                        </p>
-                                    )
-                                })}
-                                    
-                            </div>
-                        </div>
-                    </div>
-                )
-            })}
-        </section>
+			<div className='w-auto'>
+				{tracklist.map((track, index) => {
+					return <ReleaseTrack track={track} key={index} />
+				})}
+			</div>
+		</section>
 	)
 }

@@ -1,36 +1,107 @@
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 
-import tracklistStyles from './release-credits.module.scss'
+import collaboratorsJson from '/_collaborators.json'
+import {
+	FaBandcamp,
+	FaGlobe,
+	FaYoutube,
+	FaSoundcloud,
+	FaTwitter,
+} from 'react-icons/fa'
+import BoothSVG from '../../../public/assets/icons/booth.svg'
+import PixivSVG from '../../../public/assets/icons/pixiv.svg'
+import FanboxSVG from '../../../public/assets/icons/fanbox.svg'
 
 export default function ReleaseTracklist({ credits }) {
+	function LinkIcon(props) {
+		const link = props['linkObj']
+
+		if (link.toString().includes('bandcamp')) {
+			return <FaBandcamp className={props.className} />
+		} else if (
+			link.toString().includes('youtube') ||
+			link.toString().includes('youtu.be')
+		) {
+			return <FaYoutube className={props.className} />
+		} else if (link.toString().includes('twitter')) {
+			return <FaTwitter className={props.className} />
+		} else if (link.toString().includes('soundcloud')) {
+			return <FaSoundcloud className={props.className} />
+		} else if (link.toString().includes('vgmdb')) {
+			return <span className={props.className}>VGMdb</span>
+		} else if (link.toString().includes('booth.pm')) {
+			return <BoothSVG className={props.className} />
+		} else if (link.toString().includes('pixiv')) {
+			return <PixivSVG className={props.className} />
+		} else if (link.toString().includes('fanbox.cc')) {
+			return <FanboxSVG className={props.className} />
+		} else {
+			return <FaGlobe className={props.className} />
+		}
+	}
+	const { locale } = useRouter()
+
+
 	return (
-		<section className='container mx-auto my-16'>
-            <h2 className="text-2xl text-center uppercase mb-8 font-black"> credit </h2>
-            <ul className='flex justify-between flex-wrap'>
-                {Object.entries(credits).map(creditJSON => {
-                    return (
-                        <li key={creditJSON[0]} className="text-center w-1/3">
-                            <span className='block text-sm text-[#999]'>
-                                {creditJSON[1].role}
-                            </span>
+		<section className="container mx-auto my-16">
+			<h2 className="text-2xl text-center uppercase mb-8 font-black">
+				{' '}
+				credit{' '}
+			</h2>
+			<table class="table-auto w-full">
+				<thead className='hidden md:table-header-group'>
+					<tr>
+						<th className="px-4 py-2">Name</th>
+						<th className="px-4 py-2">Role</th>
+						<th className="px-4 py-2">Link</th>
+					</tr>
+				</thead>
+				<tbody className="grid grid-cols-1 sm:grid-cols-2 p-4 gap-4 md:table-row-group md:p-0 md:border-t border-[#666]">
+					{Object.entries(credits).map((creditJSON) => {
+						let collaboratorInfo =
+							collaboratorsJson[creditJSON[1].id]
 
-                            <span className='block text-xl font-bold my-2'>
-                                {creditJSON[1].name}
-                            </span>
-
-                            <span className={tracklistStyles.button}>
-                                <Link href={creditJSON[1].website} passHref>
-                                    <a target="_blank">
-                                        website
-                                    </a>
-                                </Link>                            
-                            </span>
-                        
-                        </li>
-                    )
-                })}
-            </ul>
-
-        </section>
+						const tdClass = 'md:border-b border-[#666] md:p-4 md:pl-8'
+						return (
+							<tr key={creditJSON[0]} className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-[#666] sm:border-0 md:m-0 md:table-row md:w-full">
+								<td className={tdClass}>
+									{typeof collaboratorInfo.name === 'object' ? collaboratorInfo.name[locale] : collaboratorInfo.name}
+								</td>
+								<td className={`text-white/50 ${tdClass}`}>
+									{creditJSON[1].role}
+								</td>
+								<td className={tdClass}>
+									<div className="flex flex-wrap gap-4">
+										{collaboratorInfo.links &&
+											Object.entries(
+												collaboratorInfo.links
+											).sort((a, b) => {
+												if (a[0] < b[0]) { return -1 }
+												if (a[0] > b[0]) { return 1 }
+												return 0
+											}).map((link) => {
+												return (
+													<Link
+														href={link[1]}
+														passHref
+														target="_blank"
+														key={link[0]}
+													>
+														<LinkIcon
+															className="min-w-6 w-auto fw-bold h-6 hover:text-[color:var(--release-color)] focus:text-[color:var(--release-color)] transition-all duration-300 ease-in-out"
+															linkObj={link[1]}
+														/>
+													</Link>
+												)
+											})}
+									</div>
+								</td>
+							</tr>
+						)
+					})}
+				</tbody>
+			</table>
+		</section>
 	)
 }

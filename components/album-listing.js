@@ -1,7 +1,7 @@
 import {FaBandcamp, FaGlobe} from 'react-icons/fa';
 import BoothSVG from '../public/assets/icons/booth.svg'
 import albumsJSON from '/public/assets/discography/albums.json'
-import Image from 'next/image'
+import Image from "next/legacy/image";
 import useTranslation from 'next-translate/useTranslation'
 
 export default function AlbumListing({ slug }) {

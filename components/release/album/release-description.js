@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from "next/legacy/image";
 import Link from 'next/link'
 
 import descStyles from './release-description.module.scss'
@@ -16,9 +16,9 @@ export default function ReleaseDescription({ cover, title, circle, specification
     const { t } = useTranslation('release')
 
     return (
-		<div className='container mx-auto my-16 flex'>
-            <div className='relative max-w-3xl mx-auto'>
-                <Image src={cover} height="500" width="500" layout="intrinsic" alt='Logo'/>
+		<div className='container mx-auto my-16 flex flex-col md:flex-row'>
+            <div className='relative max-w-xs lg:max-w-3xl mx-auto mb-4'>
+                <Image src={cover} className="rounded" height="500" width="500" layout="intrinsic" alt='Logo'/>
             </div>
 
             <dl className={descStyles.description}>
@@ -28,7 +28,7 @@ export default function ReleaseDescription({ cover, title, circle, specification
                 <DtKodama>{t('circle')}</DtKodama>
                 <dd>
                     <Link href={circle.link}>
-                        <a>{circle.name}</a>
+                        {circle.name}
                     </Link>
                 </dd>
 
@@ -51,7 +51,7 @@ export default function ReleaseDescription({ cover, title, circle, specification
                         return (
                             <li key={storeItem[0]}>
                                 <Link href={storeItem[1].link}>
-                                    <a>{storeItem[1].name}</a>
+                                    {storeItem[1].name}
                                 </Link>
                             </li>
                     )})}

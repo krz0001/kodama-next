@@ -1,0 +1,247 @@
+{
+	"jys_music": {
+		"name": "jys_music",
+		"links": {
+			"youtube": "https://www.youtube.com/channel/UCp4cy51E4xjh4TDCf_-DAOQ",
+			"soundcloud": "https://soundcloud.com/user-741569740",
+			"twitter": "https://twitter.com/jys_music",
+			"vgmdb": "https://vgmdb.net/artist/54333"
+		}
+	},
+	"Rosie Drown": {
+		"name": "Rosie Drown",
+		"links": {
+			"twitter": "https://twitter.com/ap_pussyeatin",
+			"vgmdb": "https://vgmdb.net/artist/54334",
+            "bandcamp": "https://thornsband.bandcamp.com"
+
+		}
+	},
+	"Philip Saguil": {
+		"name": "Philip Saguil",
+		"links": {
+			"twitter": "https://twitter.com/FireFallsMusic",
+			"vgmdb": "https://vgmdb.net/artist/48226",
+            "bandcamp": "https://philipsaguil.bandcamp.com"
+		}
+	},
+	"Tee-vee": {
+		"name": "Tee-vee",
+		"links": {
+			"website": "https://teevee.neocities.org/",
+			"twitter": "https://twitter.com/teevee_terminal",
+			"bandcamp": "https://teeveemusic.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/tee-vee-novae",
+			"youtube": "https://www.youtube.com/user/teevee27",
+			"vgmdb": "https://vgmdb.net/artist/36399"
+		}
+	},
+	"apatisk1": {
+		"name": "apatisk1",
+		"links": {
+			"twitter": "https://twitter.com/apatisk1",
+			"bandcamp": "https://apatisk.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/apatisk1",
+			"youtube": "https://www.youtube.com/channel/UC9d4BdnVkpAxo6jdYyvct7Q",
+			"vgmdb": "https://vgmdb.net/artist/54335"
+		}
+	},
+	"YOKAI": {
+		"name": "YOKAI",
+		"links": {
+			"twitter": "https://twitter.com/YokaiYokai11",
+			"bandcamp": "https://yokaiproducer.bandcamp.com/album/tomoe",
+			"soundcloud": "https://soundcloud.com/user-786511799",
+			"youtube": "https://www.youtube.com/channel/UCmBJ37jRNJvaIBAbPJCzJEg",
+			"vgmdb": "https://vgmdb.net/artist/46083"
+		}
+	},
+
+	"Smart Cat Rides Bicycle": {
+		"name": "Smart Cat Rides Bicycle",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/54375"
+		}
+	},
+	"Uchulups": {
+		"name": "Uchulups",
+		"links": {
+			"twitter": "https://twitter.com/Uchulups",
+			"bandcamp": "https://uchulups.bandcamp.com/",
+			"vgmdb": "https://vgmdb.net/artist/47432"
+		}
+	},
+	"Z_A": {
+		"name": "Z_A",
+		"links": {
+			"soundcloud": "https://soundcloud.com/user-595154314/tracks",
+			"youtube": "https://www.youtube.com/channel/UCzokwbaGw45dmXZsSqNU8UQ",
+			"vgmdb": "https://vgmdb.net/artist/54377"
+		}
+	},
+	"Kopan": {
+		"name": "Kopan",
+		"links": {
+			"twitter": "https://twitter.com/__korpikopan__",
+			"bandcamp": "https://kopan.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/oussalahmalik",
+			"youtube": "https://www.youtube.com/user/Korpikopan",
+			"vgmdb": "https://vgmdb.net/artist/34999"
+		}
+	},
+	"Maxx": {
+		"name": "Maxx",
+		"links": {
+			"twitter": "https://twitter.com/MaxTheEcchitaku",
+			"youtube": "https://www.youtube.com/c/MaxTheEcchitaku",
+			"vgmdb": "https://vgmdb.net/artist/47431"
+		}
+	},
+	"Dylan Hendrick": {
+		"name": "Dylan Hendrick",
+		"links": {
+			"twitter": "https://twitter.com/HendrickDylan",
+			"vgmdb": "https://vgmdb.net/artist/54380"
+		}
+	},
+	"Skelothan": {
+		"name": "Skelothan",
+		"links": {
+			"twitter": "https://twitter.com/skelothan",
+			"bandcamp": "https://skelothan.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/skelothan",
+			"youtube": "https://www.youtube.com/channel/UCFo_IknUsd0EaA1TVIo8pZA",
+			"vgmdb": "https://vgmdb.net/artist/54376"
+		}
+	},
+	"Mizuka Tsukishima": {
+		"name": "Mizuka Tsukishima",
+		"links": {
+			"twitter": "https://twitter.com/mizuka_bt",
+			"bandcamp": "https://brightnesstwilight.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/mizuka_bt",
+			"youtube": "https://www.youtube.com/channel/UC_JNPdznuQXp0jGKZhEKvTA",
+			"vgmdb": "https://vgmdb.net/artist/46267"
+		}
+	},
+	"Levc_EGM": {
+		"name": "Levc_EGM",
+		"links": {
+			"twitter": "https://twitter.com/Levc_EGM",
+			"bandcamp": "https://levcegm.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/levc-egm",
+			"youtube": "https://www.youtube.com/c/levcegm",
+			"vgmdb": "https://vgmdb.net/artist/36400"
+		}
+	},
+	"JDxanadu": {
+		"name": "JDxanadu",
+		"links": {
+			"twitter": "https://twitter.com/JDofParadise",
+			"vgmdb": "https://vgmdb.net/artist/54378"
+		}
+	},
+	"Chikyuu no De": {
+		"name": {
+			"en": "Chikyuu no De",
+			"jp": "地球の出"
+		},
+		"links": {
+			"twitter": "https://twitter.com/Eyhz6",
+			"youtube": "https://www.youtube.com/channel/UCAFm3VrcZGV5osyGNa9VYvA",
+			"vgmdb": "https://vgmdb.net/artist/50025"
+		}
+	},
+	"Aten": {
+		"name": {
+			"en":"Aten",
+			"jp":"亜店"
+		},
+		"links": {
+			"bandcamp": "https://66clown.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/intelligencecasino",
+			"vgmdb": "https://vgmdb.net/artist/54381"
+		}
+	},
+	"Gumichan01": {
+		"name": "Gumichan01",
+		"links": {
+			"twitter": "https://twitter.com/Gumichan01",
+            "bandcamp": "https://gumichan01.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/gumichan01",
+			"youtube": "https://www.youtube.com/user/Gumichan01",
+			"vgmdb": "https://vgmdb.net/artist/54382"
+		}
+	},
+	"Ren": {
+		"name": "Ren",
+		"links": {
+			"twitter": "https://twitter.com/RenSoundworks",
+			"bandcamp": "https://rensoundworks.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/higanren",
+			"vgmdb": "https://vgmdb.net/artist/46976"
+		}
+	},
+	"Lollipop": {
+		"name": "Lollipop",
+		"links": {
+			"website": "https://lollipop314.github.io/site/",
+			"twitter": "https://twitter.com/Lollipop_314",
+			"soundcloud": "https://soundcloud.com/lollipop-144989227/",
+			"vgmdb": "https://vgmdb.net/artist/48955"
+		}
+	},
+	"ZUN": {
+		"name": "ZUN (Team Shanghai Alice)",
+		"links": {
+			"website": "https://www16.big.or.jp/~zun/",
+			"twitter": "https://twitter.com/korindo"
+		}
+	},
+	"malicent": {
+		"name": "malicent",
+		"links": {
+			"website": "http://cursedmonastery.blog.fc2.com/",
+			"twitter": "https://twitter.com/malicent_hart",
+			"bandcamp": "https://malicent.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/malicent",
+			"youtube": "https://www.youtube.com/@MalicentHart",
+			"vgmdb": "https://vgmdb.net/artist/12619"
+		}
+	},
+	"daitoko": {
+		"name": "daitoko",
+		"links": {
+			"website": "https://listography.com/daitoko",
+			"twitter": "https://twitter.com/merry_magician",
+			"pixiv": "https://www.pixiv.net/en/users/17943605",
+			"vgmdb": "https://vgmdb.net/artist/54541"
+		}
+	},
+	"shonocondo": {
+		"name": "shonocondo",
+		"links": {
+			"website": "https://sites.google.com/view/shonocondo",
+			"twitter": "https://twitter.com/shonocondo",
+			"pixiv": "https://shonocondo.fanbox.cc/",
+			"vgmdb": "https://vgmdb.net/artist/47392"
+		}
+	},
+	"Fivda": {
+		"name": "Fivda",
+		"links": {
+			"twitter": "https://twitter.com/Fivda_",
+			"bandcamp": "https://kodamasounds.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/fivda",
+			"youtube": "https://www.youtube.com/channel/UCiYBeqqQUagH-q-sAdsQPOw",
+			"vgmdb": "https://vgmdb.net/artist/36408"
+		}
+	},
+	"Yanis": {
+		"name": "Yanis",
+		"links": {
+			"twitter": "https://twitter.com/UshiromiYanis",
+			"vgmdb": "https://vgmdb.net/artist/50012"
+		}
+	}
+}
