@@ -20,6 +20,9 @@ export default function ProjectListing({ project }) {
 			case 'Cancelled':
 				styles += " bg-red-500/70"
 				break;
+			case 'About to Release':
+				styles += " bg-orange-500/70"
+				break;
 			default:
 				styles += " bg-gray-500/70"
 				break;

@@ -110,13 +110,12 @@
         "slug": "moriya-barista",
         "title": "Gensokyo Party Vol. 3 Moriya Barista",
         "themes": ["Chill/Laid-back Themed Touhou Project Album"],
-        "status": "Accepting Submissions",
-        "percentage": "60",
-        "duration": "25:16",
-        "deadline": "December 9", 
-        "finished_tracks": "6",
+        "status": "About to Release",
+        "percentage": "100",
+        "duration": "65:19",
+        "finished_tracks": "15",
         "mastering" : {
-            "status":"Pending",
+            "status":"Finished",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
         },
         "artwork_comission": "Art & Logo Complete",
