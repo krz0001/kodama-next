@@ -50,6 +50,7 @@ export default function ReleaseLayout({ release }) {
             </Head>
             <div className={layoutStyles.main}>
                 <ReleaseHead 
+                    slug={release.slug}
                     logo={release.logo} 
                     background={release.background}
                     description={release.description} 

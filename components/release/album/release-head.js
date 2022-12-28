@@ -1,15 +1,17 @@
 import Image from 'next/image'
-import Trans from 'next-translate/Trans'
+import useTranslation from 'next-translate/useTranslation'
 import ReleaseNav from './release-nav'
 import styles from './release-head.module.css'
 
 export default function ReleaseHead({
+	slug,
 	logo,
 	background,
-	description,
 	sc_track_id,
 	color,
 }) {
+	const { t } = useTranslation('release')
+
 	return (
 		<>
 			<div className={background ? 'mx-auto' : 'container mx-auto'}>
@@ -52,7 +54,7 @@ export default function ReleaseHead({
 			<div className="container mx-auto">
 				<div className="my-16">
 					<p className="text-center text-sm my-4">
-						<Trans i18nKey={description} />
+						{t(slug + '.desc')}
 					</p>
 				</div>
 
