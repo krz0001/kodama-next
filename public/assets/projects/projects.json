@@ -9,6 +9,7 @@
         "percentage": "5",
         "duration": "03:10",
         "finished_tracks": "1",
+        "deadline": "April 9", 
         "mastering" : {
             "status":"Pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
@@ -78,6 +79,7 @@
         "percentage": "0",
         "duration": "00:00",
         "finished_tracks": "0",
+        "deadline": "July 29", 
         "mastering" : {
             "status":"Pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
@@ -108,17 +110,16 @@
     },
     {
         "slug": "moriya-barista",
-        "title": "Gensokyo Party Vol. 3 Moriya Barista",
+        "title": "Gensokyo Party Moriya Barista 2",
         "themes": ["Chill/Laid-back Themed Touhou Project Album"],
-        "status": "About to Release",
-        "percentage": "100",
-        "duration": "65:19",
-        "finished_tracks": "15",
+        "status": "Accepting Submissions",
+        "percentage": "0",
+        "duration": "00:00",
+        "finished_tracks": "0",
         "mastering" : {
-            "status":"Finished",
-            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
+            "status":"Pending"
         },
-        "artwork_comission": "Art & Logo Complete",
+        "artwork_comission": "Pending",
         "url": "/projects/moriya-barista",
         "color": "#6ee7b7"
     },
@@ -130,6 +131,7 @@
         "percentage": "0",
         "duration": "00:00",
         "finished_tracks": "0",
+        "deadline": "October 8", 
         "mastering" : {
             "status":"Pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
