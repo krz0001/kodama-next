@@ -1,0 +1,59 @@
+[
+    {
+        "collaboratorID": "Fivda",
+        "role": "Founder, Software Staff & Sound Staff",
+        "image": "/assets/kodamamusic.png",
+        "bio": "Irure Lorem sunt quis et minim veniam et ad est dolor cupidatat nisi id. Nostrud proident eiusmod minim eiusmod eiusmod esse dolore et magna. Dolore cillum deserunt do id nulla labore labore ullamco non amet irure reprehenderit amet."
+    },
+    {
+        "collaboratorID": "FrancisRave",
+        "role": "Sound Staff",
+        "image": "/assets/kodamamusic.png"
+    },
+    {
+        "collaboratorID": "Kopan",
+        "role": "Sound Staff",
+        "image": "/assets/kodamamusic.png"
+    },
+    {
+        "collaboratorID": "postblankvoid",
+        "role": "Sound Staff",
+        "image": "/assets/kodamamusic.png"
+    },
+    {
+        "collaboratorID": "Scramel",
+        "role": "Sound Staff",
+        "image": "/assets/kodamamusic.png"
+    },
+    {
+        "collaboratorID": "Vintagestep",
+        "role": "Sound Staff",
+        "image": "/assets/kodamamusic.png"
+    },
+    {
+        "collaboratorID": "YOKAI",
+        "role": "Sound Staff",
+        "image": "/assets/kodamamusic.png"
+    },
+    {
+        "collaboratorID": "jys_music",
+        "role": "Sound Staff",
+        "image": "/assets/kodamamusic.png"
+    },
+    {
+        "collaboratorID": "Aamna",
+        "role": "Vocalist & Illustrator",
+        "image": "/assets/kodamamusic.png"
+    },
+    {
+        "collaboratorID": "Garrrros",
+        "role": "Illustrator",
+        "image": "/assets/kodamamusic.png"
+    },
+    {
+        "collaboratorID": "krz0001",
+        "role": "Developer",
+        "image": "/assets/kodamamusic.png"
+    }
+
+]

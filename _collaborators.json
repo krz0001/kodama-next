@@ -244,5 +244,61 @@
 			"twitter": "https://twitter.com/UshiromiYanis",
 			"vgmdb": "https://vgmdb.net/artist/50012"
 		}
+	},
+	"FrancisRave": {
+		"name": "FrancisRave",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/47390",
+			"soundcloud": "https://soundcloud.com/francisrave",
+			"bandcamp": "https://francisrave.bandcamp.com/",
+			"twitter": "https://twitter.com/FrancisRave"
+		}
+	},
+	"postblankvoid":{
+		"name": "postblankvoid",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/47387",
+			"soundcloud": "https://soundcloud.com/postblankvoid",
+			"bandcamp": "https://postblankvoid.bandcamp.com/",
+			"twitter": "https://twitter.com/postblankvoid"
+		}
+	},
+	"Scramel": {
+		"name": "Scramel",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/34298",
+			"soundcloud": "https://soundcloud.com/scramel",
+			"bandcamp": "https://scramel.bandcamp.com/",
+			"twitter": "https://twitter.com/scramelworks"
+		}
+	},
+	"Vintagestep": {
+		"name": "Vintagestep",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/36401",
+			"twitter": "https://twitter.com/Vintagestep"
+		}
+	},
+	"Aamna": {
+		"name": "Aamna",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/50008",
+			"twitter": "https://twitter.com/aamnyaa",
+			"youtube": "https://www.youtube.com/@AamnaYT"
+		}
+	},
+	"Garrrros": {
+		"name": "Garrrros",
+		"links": {
+			"twitter": "https://twitter.com/Garrrros"
+		}
+	},
+	"krz0001": {
+		"name": "krz0001",
+		"links": {
+			"twitter": "https://twitter.com/krz0001",
+			"website": "https://kero.uz/"
+		}
 	}
+
 }

@@ -8,7 +8,7 @@ export default function Header() {
 		{ href: '/', label: 'Home' },
 		{ href: '/discography', label: 'Discography' },
 		{ href: '/projects', label: 'Projects' },
-		// { href: '/blog', label: 'Blog' }
+		{ href: '/team', label: 'Team' }
 	];
 
 	return (
