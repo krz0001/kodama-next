@@ -1,29 +1,56 @@
 {
-    "help": "<0>KodamaSoft</0>",
-    "kodamasoft": "KodamaSoft",
-    "navbar": {
-        "home": "Home",
-        "blog": "Blog",
-        "discography": "Discography",
-        "games": "Games",
-        "projects": "Projects",
-        "about": "About"
+  "kodamasoft": "KodamaSoft",
+  "navbar": {
+    "home": "Home",
+    "blog": "Blog",
+    "discography": "Discography",
+    "games": "Games",
+    "projects": "Projects",
+    "about": "About"
+  },
+  "footer": {
+    "source_code": "Source code"
+  },
+  "words": {
+    "by": "by",
+    "written_by": "Written by",
+    "readmore": "Read more"
+  },
+  "home": {
+    "title": "Welcome to the official website of KodamaSoft / KodamaSounds.",
+    "content": {
+      "1": "We are a Doujin/Indie circle, and we aim at showcasing the best kind of audiovisual works from people all around the world, be it in the form of video games, publications, music albums and more. The circle was founded by Fivda in 2017, for our first project, called KODAMA COMET -Stellar Sanctuary-, a visual novel still in development.",
+      "2": "As you can imagine from the name, our circle is divided in two:<ul><li>KodamaSoft, for all things related to softwares and games.</li><li>KodamaSounds, for all things related to music.</li></ul>",
+      "3": "KodamaSounds is our strong lead right now. With five albums published on <bandcamp>Bandcamp</bandcamp> and <booth>BOOTH</booth>, and many more planned for the coming years. We have the same publishing spirit as many other japanese doujin circles, but our ambitions are not focused on a specific series or style of music. Whether they’re for original work or arrangement projects, we want to feature as many artists as we can on our albums from new musical adepts to well known veterans. Please check out our list of ongoing projects if you wanna hop in!"
     },
-    "footer": {
-        "source_code": "Source code"
+    "blog_header": "Our blog posts"
+  },
+  "projects": {
+    "presentation": {
+      "title": "Our projects",
+      "description": "KodamaSounds albums are doujin album projects that are constantly growing and ongoing. On this page, you can have direct access to our current album plans and projects, to which you can participate at any time, with no deadlines."
     },
-    "words": {
-        "by": "by",
-        "written_by": "Written by",
-        "readmore": "Read more"
-    },
-    "home": {
-        "title": "Welcome to the official website of KodamaSoft / KodamaSounds.",
-        "content": {
-            "1": "We are a Doujin/Indie circle, and we aim at showcasing the best kind of audiovisual works from people all around the world, be it in the form of video games, publications, music albums and more. The circle was founded by Fivda in 2017, for our first project, called KODAMA COMET -Stellar Sanctuary-, a visual novel still in development.",
-            "2": "As you can imagine from the name, our circle is divided in two:<ul><li>KodamaSoft, for all things related to softwares and games.</li><li>KodamaSounds, for all things related to music.</li></ul>",
-            "3": "KodamaSounds is our strong lead right now. With five albums published on <bandcamp>Bandcamp</bandcamp> and <booth>BOOTH</booth>, and many more planned for the coming years. We have the same publishing spirit as many other japanese doujin circles, but our ambitions are not focused on a specific series or style of music. Whether they’re for original work or arrangement projects, we want to feature as many artists as we can on our albums from new musical adepts to well known veterans. Please check out our list of ongoing projects if you wanna hop in!"
+    "goals": {
+      "title": "Our goals",
+      "points": {
+        "1": {
+          "title": "Bring together artists from all places & skills",
+          "description": "We ensure we maintain a certain balance of skill sets, between veteran artists and artists that are just starting out. We authorize all people to participate in those albums, and we believe it is a good way for artists to form bonds with others while also permitting people to collaborate with people of all horizons to improve and create a good community experience, with no discrimination. No popularity contest, no favoritism: You wanna hop in? You can! And if you’re struggling, we’ll help out."
         },
-        "blog_header": "Our blog posts"
+        "2": {
+          "title": "Album ideas you don’t see elsewhere",
+          "description": "More interesting and ambitious arrange albums for lesser-represented series out there. We are more than happy and proud to arrange albums for more niche & outcast game series."
+        },
+        "3": {
+          "title": "A constant stream of albums throughout the years",
+          "description": "We ensure to publish as many albums as we can, spread out through the many Comic Market and M3 events."
+        },
+        "4": {
+          "title": "Crave variety",
+          "description": "We make sure to accept all kinds of genres for our arrange albums, and there are many musically-themed album projects planned for our “ECLECTIC RESONANCE” original work series. If there’s a genre or style of music that is not yet represented on these albums, it surely will soon."
+        },
+        "closure": "If you want additional information, please check out the individual project pages above, and read our <link>extended rules and information page common to each album</link>."
+      }
     }
+  }
 }

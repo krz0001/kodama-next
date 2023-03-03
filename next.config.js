@@ -15,10 +15,13 @@ module.exports = withPlugins([
         pageExtensions: ["page.js", "page.mdx"],
         reactStrictMode: true,
         i18n: {
-            locales: ['en'],
+            locales: ['en','jp'],
             defaultLocale: 'en',
-            localeDetection: false,
+            localeDetection: true,
         }
     }),
     withMDX
 ])
+
+
+

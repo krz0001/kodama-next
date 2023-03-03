@@ -5,7 +5,7 @@ import Header from '../components/header'
 import ProseContainer from '../components/prose-container'
 import MoreStories from '../components/more-stories'
 import Trans from 'next-translate/Trans'
-import useTranslation from 'next-translate/useTranslation'
+
 import Link from 'next/link'
 
 import { getAllPosts } from '../lib/api'
@@ -13,8 +13,6 @@ import { WEBSITE_NAME } from '../lib/constants'
 
 
 export default function Index({ filteredPosts }) {
-  const { t } = useTranslation('common')
-
   return (
     <>
       <Layout>
@@ -28,9 +26,9 @@ export default function Index({ filteredPosts }) {
           
           <div className="container pt-10 px-6 mx-auto">
             <ProseContainer>
-              <h2>{t('home.title')}</h2>
+            <h2><Trans i18nKey="common:home.title"/></h2>
               
-              <p>{t('home.content.1')}</p>
+              <p><Trans i18nKey="common:home.content.1"/></p>
               <div> 
                 <Trans
                   i18nKey="common:home.content.2"

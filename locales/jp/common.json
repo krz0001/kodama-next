@@ -1,29 +1,30 @@
 {
-    "help": "<0>KodamaSoft</0>",
-    "kodamasoft": "KodamaSoft",
-    "navbar": {
-        "home": "Home",
-        "blog": "Blog",
-        "discography": "Discography",
-        "games": "Games",
-        "projects": "Projects",
-        "about": "About"
+  "projects": {
+    "presentation": {
+      "title": "プロジェクト",
+      "description": "KodamaSoundsのアルバムは、常に成長し続けるやむことのない同人アルバムプロジェクトです。本ページで、現在のアルバム企画とプロジェクトにアクセスできます。締め切りがないため、好きな時間に参加できます。"
     },
-    "footer": {
-        "source_code": "Source code"
-    },
-    "words": {
-        "by": "by",
-        "written_by": "Written by",
-        "readmore": "Read more"
-    },
-    "home": {
-        "title": "Welcome to the official website of KodamaSoft / KodamaSounds.",
-        "content": {
-            "1": "We are a Doujin/Indie circle, and we aim at showcasing the best kind of audiovisual works from people all around the world, be it in the form of video games, publications, music albums and more. The circle was founded by Fivda in 2017, for our first project, called KODAMA COMET -Stellar Sanctuary-, a visual novel still in development.",
-            "2": "As you can imagine from the name, our circle is divided in two:<ul><li>KodamaSoft, for all things related to softwares and games.</li><li>KodamaSounds, for all things related to music.</li></ul>",
-            "3": "KodamaSounds is our strong lead right now. With five albums published on <bandcamp>Bandcamp</bandcamp> and <booth>BOOTH</booth>, and many more planned for the coming years. We have the same publishing spirit as many other japanese doujin circles, but our ambitions are not focused on a specific series or style of music. Whether they’re for original work or arrangement projects, we want to feature as many artists as we can on our albums from new musical adepts to well known veterans. Please check out our list of ongoing projects if you wanna hop in!"
+    "goals": {
+      "title": "私たちの目的",
+      "points": {
+        "1": {
+          "title": "国もスキルレベルも気にしません。誰でも参加できること",
+          "description": "ベテランのアーティストと駆け出しのアーティストの間で、スキルバランスを保つことを保証します。誰でもアルバムに参加することを許可しており、アーティストが他の人と絆を築き、またアーティストがあらゆる分野のアーティストとコラボレーションして、差別なく、より良いコミュニティ体験を作ることができる良い方法であると信じています。みんなの目的は面白い音楽を作ること、そしてみんなの能力を最大限に発揮できるよう、みんなで助け合いましょう。人気投票やえこひいきもありません。参加したい？参加したい人は参加すればいいです。そして、もしあなたが悩んでいるなら、私たちが手助けをします。"
         },
-        "blog_header": "Our blog posts"
+        "2": {
+          "title": "私達しか作らないアルバムのアイディア",
+          "description": "あまり有名ではないシリーズを中心とする面白くて意欲的なアルバムを一緒に作りたいと思います。ニッチなゲームシリーズを中心とするアルバムを作って本当に嬉しいです。"
+        },
+        "3": {
+          "title": "一年を通して、やめずにアルバムを発行すること",
+          "description": "私たちは、コミックマーケットやM3などの多くのイベントを通じて、できるだけ多くのアルバムを発行したいと思います。"
+        },
+        "4": {
+          "title": "多様性を目指すこと",
+          "description": "アレンジアルバムのジャンルは問いませんし、オリジナル作品「ECLECTIC RESONANCE」シリーズでは、あるジャンルをテーマとしたアルバム企画を多数予定しています。まだ収録されていない音楽のジャンルやスタイルがあれば、いつか収録されることは間違いない。"
+        },
+        "closure": "さらに詳しい情報をご希望の方は、上記の各プロジェクトのページや、<link>各アルバムに共通するルールや情報ページ</link>をご覧ください。"
+      }
     }
+  }
 }
