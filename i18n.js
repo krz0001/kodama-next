@@ -3,6 +3,6 @@ module.exports = {
     defaultLocale: "en",
     extensionsRgx: /\.page\.(tsx|ts|js|jsx|mdx)$/,
     pages: {
-        "*": ["common", "release"]
+        "*": ["common", "release", "projects"]
     }
 };

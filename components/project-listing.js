@@ -1,26 +1,37 @@
 import Link from 'next/link'
+import useTranslation from 'next-translate/useTranslation'
+import { useState, useEffect } from 'react';
 
-export default function ProjectListing({ project }) {
+export default function ProjectListing({ project, category }) {
+	const { t, lang } = useTranslation();
+	console.log(category)
+	console.log("--------------------------------------")
+
+	// usestate for the status badge text 
+	const [status, setStatus] = useState("")
+
+	// set badge text on load
+	useEffect(() => {
+		setStatus(t('projects:common.statuses.' + project.status))
+	}, [project.status, t])
+
 	function statusBadgeStyles(status) {
 		let styles = "inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold text-white rounded-full text-base";
 	
 		switch (status) {
-			case 'Completed':
+			case 'completed':
 				styles += " bg-purple-500/70"
 				break;
-			case 'In Progress':
-			case 'In Development':
-			case 'Ongoing':
-			case "Currently Going":
+			case 'ongoing':
 				styles += " bg-green-500/70"
 				break;
-			case 'Accepting Submissions':
+			case 'accepting':
 				styles += " bg-yellow-600/70"
 				break;
-			case 'Cancelled':
+			case 'cancelled':
 				styles += " bg-red-500/70"
 				break;
-			case 'About to Release':
+			case 'about-to-release':
 				styles += " bg-orange-500/70"
 				break;
 			default:
@@ -31,20 +42,16 @@ export default function ProjectListing({ project }) {
 	}
 
 	return (
-		<Link href={project.url} passHref key={project.slug} className={"flex flex-col text-center no-underline not-prose md:max-w-2xl mx-auto content-center rounded-xl my-5 transition py-5 px-10 relative hover:-translate-y-1 "} style={{backgroundColor : project.color+ "44"}}>
+		<Link href={"/projects/"+project.slug} passHref key={project.slug} className={"flex flex-col text-center no-underline not-prose md:max-w-2xl mx-auto content-center rounded-xl my-5 transition py-5 px-10 relative hover:-translate-y-1 "} style={{backgroundColor : project.color+ "44"}}>
 		
 				<h3 className="text-2xl font-semibold mt-0">
-					{project.title}
+					{t('projects:' + category.cat_slug + '.' + project.slug + '.title')}
 				</h3>
 				<p className='font-normal text-base'>
-					Theme:
-					{' ' +
-						project.themes.map(function (theme, index) {
-							return (index > 0 ? ' ' : '') + theme
-						})}
+					{t('projects:common.themes')}: {t('projects:' + category.cat_slug + '.' + project.slug + '.themes')}
 				</p>
 				<p>
-					<span className={statusBadgeStyles(project.status)}>{project.status}</span> | {project.percentage}% |{' '}
+					<span className={statusBadgeStyles(project.status)}>{status}</span> | {project.percentage}% |{' '}
 					{project.duration}
 				</p>
 				<div className="w-full border border-1 border-white/50 h-2 rounded-full overflow-hidden mt-2 p-0 m-0">
@@ -56,7 +63,7 @@ export default function ProjectListing({ project }) {
 						}}
 					></div>
 				</div>
-				{project.deadline && <p>Deadline: {project.deadline}</p>}
+				{project.deadline && <p>{t('projects:common.deadline')}: {new Date(project.deadline).toLocaleDateString(lang)}</p>}
 			
 		</Link>
 	)

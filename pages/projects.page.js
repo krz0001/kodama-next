@@ -36,15 +36,15 @@ export default function Projects({ filteredPosts }) {
               <p>{t('common:projects.presentation.description')}</p>
 
               <div>
-                {projectsJson.map(function (group) {
+                {projectsJson.map(function (category) {
                     return (
                         <>
-                            <h2>{group.name}</h2>
-                            <>{group.desc ? <p>{group.desc}</p> : null}</>
+                            <h2>{t('projects:'+ category.cat_slug + '.name')}</h2>
+                            <p>{t('projects:'+ category.cat_slug + '.desc')}</p>
 
-                            {group.projects.map(function (project) {
+                            {category.projects.map(function (project) {
                                 return (
-                                    <ProjectListing project={project} key={project.slug} />
+                                    <ProjectListing project={project} category={category} key={project.slug} />
                                 )
                             }
                             )}
