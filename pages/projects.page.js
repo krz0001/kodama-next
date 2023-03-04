@@ -52,6 +52,7 @@ export default function Projects({ filteredPosts }) {
                 })}
               </div>
 
+              <h2>{t('common:projects.goals.title')}</h2>
               <ul><li>{t('common:projects.goals.points.1.title')}</li></ul>
               <p>{t('common:projects.goals.points.1.description')}</p>
               <ul><li>{t('common:projects.goals.points.2.title')}</li></ul>

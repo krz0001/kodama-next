@@ -106,7 +106,7 @@
         "percentage": "0",
         "duration": "00:00",
         "finished_tracks": "0",
-        "deadline": "October 8", 
+        "deadline": "2023-10-08T23:59:59Z",
         "mastering" : {
             "status":"pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"

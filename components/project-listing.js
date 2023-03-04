@@ -4,16 +4,16 @@ import { useState, useEffect } from 'react';
 
 export default function ProjectListing({ project, category }) {
 	const { t, lang } = useTranslation();
-	console.log(category)
-	console.log("--------------------------------------")
-
-	// usestate for the status badge text 
+ 
 	const [status, setStatus] = useState("")
+	const [deadline, setDeadline] = useState("")
 
-	// set badge text on load
 	useEffect(() => {
 		setStatus(t('projects:common.statuses.' + project.status))
-	}, [project.status, t])
+
+		if (project.deadline) 
+			setDeadline(t(new Date(project.deadline).toLocaleDateString(lang)))
+	}, [project, t, lang])
 
 	function statusBadgeStyles(status) {
 		let styles = "inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold text-white rounded-full text-base";
@@ -63,7 +63,7 @@ export default function ProjectListing({ project, category }) {
 						}}
 					></div>
 				</div>
-				{project.deadline && <p>{t('projects:common.deadline')}: {new Date(project.deadline).toLocaleDateString(lang)}</p>}
+				{deadline && <p>{t('projects:common.deadline')}: {deadline}</p>}
 			
 		</Link>
 	)
