@@ -1,3 +1,6 @@
+export const meta = {
+    locale: 'en'
+}
 import Layout from '../../components/mdx-layout';
 import WrappableParagraph from '../../components/project/title-with-content';
 import CtaButton from '../../components/project/cta-button';
@@ -135,4 +138,4 @@ Fivda, the project leader’s contact information:
 - Mail: [fivdaaurion@gmail.com](mailto:fivdaaurion@gmail.com)
 </WrappableParagraph>
 
-export default ({ children }) => <Layout>{children}</Layout>
+export default ({ children }) => <Layout meta={meta}>{children}</Layout>
