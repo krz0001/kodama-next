@@ -12,7 +12,7 @@ const withMDX = require('@next/mdx')({
 
 module.exports = withPlugins([
     nextTranslate({
-        pageExtensions: ["page.js", "page.mdx"],
+        pageExtensions: ["page.js", "page.mdx", ".mdx", ".js"],
         reactStrictMode: true,
         i18n: {
             locales: ['en','jp'],

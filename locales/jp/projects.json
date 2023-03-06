@@ -1,13 +1,13 @@
 {
     "common" : {
-        "themes": "Themes",
-        "status": "Status",
+        "themes": "テーマ",
+        "status": "現状",
         "statuses": {
             "pending": "Pending",
             "sketching": "Sketching",
 
             "completed": "Completed",
-            "ongoing": "Ongoing",
+            "ongoing": "進行中",
             "accepting": "Accepting Submissions",
             "cancelled": "Cancelled",
             "about-to-release": "About to Release"
@@ -19,19 +19,19 @@
     },
     "eclectic-resonance": {
         "name": "ECLECTIC RESONANCE",
-        "desc": "ECLECTIC RESONANCE are our original work branded albums. Each suffix means it’s oriented towards a specific style or genre. Make sure to check each one out to find which ones fit with your abilities and needs!",
+        "desc": "ECLECTIC RESONANCEは、私たちのオリジナルワークブランドアルバムです。それぞれの接尾語は、特定のスタイルやジャンルを指向していることを意味します。気に入ったアルバムがあるかもしれませんので、ぜひそれぞれのアルバムをチェックしてみてください！",
         "eclectic-resonance-uprising": {
             "title": "ECLECTIC RESONANCE UPRISING",
-            "themes": "Original Work, J-Core, Hardcore Techno"
+            "themes": "オリジナル、J-Core、ハードコアテクノ"
         },
         "eclectic-resonance-detuned-alloy": {
             "title": "ECLECTIC RESONANCE Detuned Alloy",
-            "themes": "Original Work, Rock, Hard Rock, Metal, Acoustic, Guitar Centered"
+            "themes": "オリジナル曲、ハードロック、メタル、アコースティック、ギター中心"
         }
     },
     "tribute-albums": {
-        "name": "Tribute Albums",
-        "desc": "Those are albums entirely dedicated to a specific series/game. Any styles and genres are accepted, so long as they follow our individual guidelines. Image songs are also accepted so long as they follow the rules.",
+        "name": "「Tribute」アルバム",
+        "desc": "これは、特定のシリーズやゲームを中心とするアルバムです。ガイドラインに沿っていれば、スタイルやジャンルは問いません。イメージソングもOKです。",
         "moonstruck-analogy-ii": {
             "title": "Moonstruck Analogy -a TYPE-MOON tribute album- II",
             "themes": "TYPE-MOON centered album (Fate/stay night, Tsukihime…)"
