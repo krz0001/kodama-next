@@ -1,10 +1,6 @@
 export const meta = {
     locale: 'en'
 }
-import Layout from '../../components/mdx-layout';
-import WrappableParagraph from '../../components/project/title-with-content';
-import CtaButton from '../../components/project/cta-button';
-import {DISCORD_URL} from '/lib/constants.js';
 
 # FAQ/Additional Information
 
@@ -127,7 +123,7 @@ You can submit your track at any time, and it will be added to the upcoming albu
 
 <WrappableParagraph title="Contact (Questions / Submissions)">
 KodamaSoft contact information:
-- <a href={DISCORD_URL}>Discord Server</a> 
+- <a href="/discord">Discord Server</a> 
 - Mail: [kodamateam@gmail.com](mailto:kodamateam@gmail.com)
 - Twitter: [@KodamaSoft](https://twitter.com/KodamaSoft)
 
@@ -137,5 +133,3 @@ Fivda, the project leader’s contact information:
 - Twitter: [@Fivda_](https://twitter.com/Fivda_)
 - Mail: [fivdaaurion@gmail.com](mailto:fivdaaurion@gmail.com)
 </WrappableParagraph>
-
-export default ({ children }) => <Layout meta={meta}>{children}</Layout>

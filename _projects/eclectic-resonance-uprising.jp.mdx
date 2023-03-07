@@ -2,12 +2,6 @@ export const meta = {
     locale: 'jp',
     slug: 'eclectic-resonance-uprising',
 }
-import Layout from '../../components/mdx-layout';
-import WrappableParagraph from '../../components/project/title-with-content';
-import CtaButton from '../../components/project/cta-button';
-import AlbumListing from '../../components/album-listing';
-import {DISCORD_URL} from '/lib/constants.js';
-import ProjectInformation from '../../components/project-information';
 
 # ECLECTIC RESONANCE UPRISING
 
@@ -76,7 +70,3 @@ You can contact us at any time on the <a href="/discord">Discord server</a>, whe
 ### Current Project
 <ProjectInformation slug="eclectic-resonance-uprising"/>
 </WrappableParagraph>
-
-
-
-export default ({ children }) => <Layout meta={meta}>{children}</Layout>
