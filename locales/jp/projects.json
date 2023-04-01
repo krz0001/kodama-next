@@ -1,0 +1,64 @@
+{
+    "common" : {
+        "themes": "テーマ",
+        "status": "現状",
+        "statuses": {
+            "pending": "Pending",
+            "sketching": "Sketching",
+
+            "completed": "Completed",
+            "ongoing": "進行中",
+            "accepting": "Accepting Submissions",
+            "cancelled": "Cancelled",
+            "about-to-release": "About to Release"
+        },
+        "deadline": "Deadline",
+        "release-info": "Releases Information",
+        "current-project": "Current Project",
+        "past-releases": "Past Releases"
+    },
+    "eclectic-resonance": {
+        "name": "ECLECTIC RESONANCE",
+        "desc": "ECLECTIC RESONANCEは、私たちのオリジナルワークブランドアルバムです。それぞれの接尾語は、特定のスタイルやジャンルを指向していることを意味します。気に入ったアルバムがあるかもしれませんので、ぜひそれぞれのアルバムをチェックしてみてください！",
+        "eclectic-resonance-uprising": {
+            "title": "ECLECTIC RESONANCE UPRISING",
+            "themes": "オリジナル、J-Core、ハードコアテクノ"
+        },
+        "eclectic-resonance-detuned-alloy": {
+            "title": "ECLECTIC RESONANCE Detuned Alloy",
+            "themes": "オリジナル曲、ハードロック、メタル、アコースティック、ギター中心"
+        }
+    },
+    "tribute-albums": {
+        "name": "「Tribute」アルバム",
+        "desc": "これは、特定のシリーズやゲームを中心とするアルバムです。ガイドラインに沿っていれば、スタイルやジャンルは問いません。イメージソングもOKです。",
+        "moonstruck-analogy-ii": {
+            "title": "Moonstruck Analogy -a TYPE-MOON tribute album- II",
+            "themes": "TYPE-MOON centered album (Fate/stay night, Tsukihime…)"
+        },
+        "fragments-of-gratitude-ii": {
+            "title": "Fragments of Gratitude -a When They Cry tribute album- II",
+            "themes": "07th Expansion centered album (Higurashi, Umineko…)"
+        },
+        "katamania": {
+            "title": "Katamania!!! -a Katamari tribute album-",
+            "themes": "Katamari centered album"
+        }
+    },
+    "gensokyo-party": {
+        "name": "Gensokyo Party",
+        "desc": "",
+        "vantablack": {
+            "title": "Gensokyo Party VANTABLACK 2",
+            "themes": "Dark Themed Touhou Project Album"
+        },
+        "moriya-barista":{
+            "title": "Gensokyo Party Moriya Barista 2",
+            "themes": "Chill/Laid-back Themed Touhou Project Album"
+        },
+        "dj-koishi": {
+            "title": "Gensokyo Party DJ Koishi",
+            "themes": "Club/EDM/Trance Themed Touhou Project Album"
+        }
+    }
+}

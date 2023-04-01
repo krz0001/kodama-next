@@ -1,7 +1,6 @@
-import Layout from '../../components/mdx-layout';
-import WrappableParagraph from '../../components/project/title-with-content';
-import CtaButton from '../../components/project/cta-button';
-import {DISCORD_URL} from '/lib/constants.js';
+export const meta = {
+    locale: 'en'
+}
 
 # FAQ/Additional Information
 
@@ -11,7 +10,7 @@ import {DISCORD_URL} from '/lib/constants.js';
 <WrappableParagraph title="General Rules">
 The rules below apply to anyone willing to participate.
 - Do not participate if you do not have basic empathy, or sense of respect towards other people. This should go without saying, but any kind of toxic/aggressive misdemeanors are prohibited. The project is centered around inclusivity and diversity.  If this is not not part of your values, please do not apply.
-- (Not mandatory but highly recommended) Participate in the project’s general discussions on the [KodamaSounds discord](). If you wanna participate, say hi and tell us you’re here for that, and you shall gain access to the private artists channel. Since this is a community project, we’ll need to have you be okay with communicating about your art alongside a bunch of other artists. 
+- (Not mandatory but highly recommended) Participate in the project’s general discussions on the [KodamaSounds discord](/discord). If you wanna participate, say hi and tell us you’re here for that, and you shall gain access to the private artists channel. Since this is a community project, we’ll need to have you be okay with communicating about your art alongside a bunch of other artists. 
 - Have a valid Paypal account if you wish to receive payment. You do not have to absolutely receive payment, but all work deserves a reward, even if it’s light!
 - Keep secrecy on the project, especially when it comes to work that isn’t yours.
 </WrappableParagraph>
@@ -124,7 +123,7 @@ You can submit your track at any time, and it will be added to the upcoming albu
 
 <WrappableParagraph title="Contact (Questions / Submissions)">
 KodamaSoft contact information:
-- <a href={DISCORD_URL}>Discord Server</a> 
+- <a href="/discord">Discord Server</a> 
 - Mail: [kodamateam@gmail.com](mailto:kodamateam@gmail.com)
 - Twitter: [@KodamaSoft](https://twitter.com/KodamaSoft)
 
@@ -134,5 +133,3 @@ Fivda, the project leader’s contact information:
 - Twitter: [@Fivda_](https://twitter.com/Fivda_)
 - Mail: [fivdaaurion@gmail.com](mailto:fivdaaurion@gmail.com)
 </WrappableParagraph>
-
-export default ({ children }) => <Layout>{children}</Layout>

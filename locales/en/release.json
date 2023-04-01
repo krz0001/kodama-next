@@ -1,16 +1,21 @@
 {
-    "title": "Title",
-    "circle": "Circle",
-    "specification": "Specification",
-    "release_date": "Release Date",
-    "catalog": "Catalog",
-    "price": "Price",
-    "store": "Store",
-    "available_now": "Available now",
-    "0001" : {
-        "desc": "KodamaSounds' first album, centered around Touhou Project, featuring tons of artists from all around the world!"
-    },
-    "gensokyo-party-vol3": {
-        "desc": "Just lay down for a bit. Appreciate the moment, and let’s let go of last year’s intensity. Moriya Barista will be an ideal album for people who just want something nice, groovy or cozy, accessible to anyone to pick up and listen to."
+  "title": "Title",
+  "circle": "Circle",
+  "specification": "Specification",
+  "release_date": "Release Date",
+  "catalog": "Catalog",
+  "price": "Price",
+  "store": "Store",
+  "available_now": "Available now",
+  "0001": {
+    "desc": "KodamaSounds' first album, centered around Touhou Project, featuring tons of artists from all around the world!"
+  },
+  "gensokyo-party-vol3": {
+    "desc": "Just lay down for a bit. Appreciate the moment, and let’s let go of last year’s intensity. Moriya Barista will be an ideal album for people who just want something nice, groovy or cozy, accessible to anyone to pick up and listen to."
+  },
+  "projects": {
+    "presentation": {
+      "title": "ermmm"
     }
+  }
 }
