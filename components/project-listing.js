@@ -12,7 +12,7 @@ export default function ProjectListing({ project, category }) {
 		setStatus(t('projects:common.statuses.' + project.status))
 
 		if (project.deadline) 
-			setDeadline(t(new Date(project.deadline).toLocaleDateString(lang)))
+			setDeadline(t(new Date(project.deadline).toLocaleDateString(lang,{year:"numeric", month:"short", day:"numeric"})))
 	}, [project, t, lang])
 
 	function statusBadgeStyles(status) {
