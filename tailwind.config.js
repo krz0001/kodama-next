@@ -1,5 +1,5 @@
 module.exports = {
-  content: ['./components/**/*.js', './pages/**/*.js','./pages/**/*.mdx' ],
+  content: ['./components/**/*.js', './pages/**/*.js','./pages/**/*.mdx', './_projects/*.mdx'],
   plugins: [
     require('@tailwindcss/typography'),
     require('@headlessui/tailwindcss')
