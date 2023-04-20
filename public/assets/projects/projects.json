@@ -16,9 +16,10 @@
     {
         "slug": "eclectic-resonance-detuned-alloy",
         "status": "accepting",
-        "percentage": "5",
-        "duration": "00:00",
-        "finished_tracks": "0",
+        "percentage": "10",
+        "duration": "03:50",
+        "finished_tracks": "1",
+        "deadline": "2023-10-08T23:59:59Z",
         "mastering" : {
             "status":"pending",
             "engineer":"R-Man"
@@ -76,9 +77,9 @@
     "projects": [{
         "slug": "vantablack",
         "status": "accepting",
-        "percentage": "0",
-        "duration": "00:00",
-        "finished_tracks": "0",
+        "percentage": "5",
+        "duration": "07:19",
+        "finished_tracks": "1",
         "mastering" : {
             "status":"pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
@@ -105,7 +106,6 @@
         "percentage": "0",
         "duration": "00:00",
         "finished_tracks": "0",
-        "deadline": "2023-10-08T23:59:59Z",
         "mastering" : {
             "status":"pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
