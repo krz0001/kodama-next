@@ -55,7 +55,7 @@ export default function ReleaseTracklist({ credits }) {
 				{' '}
 				credit{' '}
 			</h2>
-			<table class="table-auto w-full">
+			<table className="table-auto w-full">
 				<thead className='hidden md:table-header-group'>
 					<tr>
 						<th className="px-4 py-2">Name</th>
