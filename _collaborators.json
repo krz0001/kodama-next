@@ -244,5 +244,128 @@
 			"twitter": "https://twitter.com/UshiromiYanis",
 			"vgmdb": "https://vgmdb.net/artist/50012"
 		}
+	},
+	"blobdash": {
+		"name": "blobdash",
+		"links": {
+			"soundcloud": "https://soundcloud.com/blobdash",
+			"bandcamp": "https://blobdash.bandcamp.com/",
+			"vgmdb": "https://vgmdb.net/artist/53069"
+		}
+	},
+	"lavenirproche": {
+		"name": "l'avenir proche",
+		"links": {
+			"twitter": "https://twitter.com/lavenirproche",
+			"bandcamp": "https://lavenirproche.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UCTQR_7s4eq7O__cWu7gzZLw",
+			"vgmdb": "https://vgmdb.net/artist/50138"
+		}
+	},
+	"Monkey_Man83": {
+		"name": "Monkey_Man83",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/56375"
+		}
+	},
+	"Eyhz": {
+		"name": "Eyhz",
+		"links": {
+			"twitter": "https://twitter.com/Eyhz6",
+			"vgmdb": "https://vgmdb.net/artist/53706"
+		}
+	},
+	"Mitomoro": {
+		"name": "Mitomoro",
+		"links": {
+			"facebook": "https://www.facebook.com/mitomoromusic/",
+			"soundcloud": "https://soundcloud.com/mitomoro",
+			"vgmdb": "https://vgmdb.net/artist/49145"
+		}
+	},
+	"MOUNTAIN": {
+		"name": "MOUNTAIN",
+		"links": {
+			"soundcloud": "https://soundcloud.com/mountainnn",
+			"bandcamp": "https://mountainn.bandcamp.com/",
+			"vgmdb": "https://vgmdb.net/artist/47427"
+		}
+	},
+	"GOETIA": {
+		"name": "GOETIΛ",
+		"links": {
+			"bandcamp": "https://arsgoetia1.bandcamp.com/releases",
+			"soundcloud": "https://soundcloud.com/ars_goetia",
+			"youtube": "https://www.youtube.com/channel/UCaBnlDM9zC_KdPkMC0eZd-A",
+			"twitter": "https://twitter.com/Ars_Goetia_",
+			"vgmdb": "https://vgmdb.net/artist/37620"
+		}
+	},
+	"VTQ": {
+		"name": "VTQ",
+		"links": {
+			"soundcloud": "https://soundcloud.com/volumetrique",
+			"website": "https://volumetrique.live/",
+			"apple": "https://music.apple.com/us/artist/vtq/1612529444",
+			"youtube": "https://www.youtube.com/channel/UCA-8abzeuoKeSfcaysVlT8Q",
+			"bandcamp": "https://volumetrique.bandcamp.com/",
+			"spotify": "https://open.spotify.com/artist/59g6uy62eR7Dsu3t9hQP9Q",
+			"twitter": "https://twitter.com/volumetrique",
+			"vgmdb": "https://vgmdb.net/artist/56092"
+
+		}
+	},
+	"Valentine Saturday Suzumiya": {
+		"name": "Valentine Saturday Suzumiya",
+		"links": {
+			"twitter": "https://twitter.com/ValentineSatSuz",
+			"bandcamp": "https://valentine-sat-suz.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UCx8VEO7EyPWixPKwuz-RvPA",
+			"vgmdb": "https://vgmdb.net/artist/56376"
+		}
+	},
+	"LibriJamm": {
+		"name": "LibriJamm",
+		"links": {
+			"twitter": "https://twitter.com/LibriJamm",
+			"vgmdb": "https://vgmdb.net/artist/36406"
+		}
+	},
+	"Ness": {
+		"name": "Ness",
+		"links": {
+			"twitter": "https://twitter.com/Ness_A_S",
+			"vgmdb": "https://vgmdb.net/artist/56378"
+		}
+	},
+	"HIJACKRABBIT": {
+		"name": "HIJACKRABBIT",
+		"links": {
+			"twitter": "https://twitter.com/teevee_terminal",
+			"vgmdb": "https://vgmdb.net/artist/56377"
+		}
+	},
+	"melissalitan": {
+		"name": "melissalitan",
+		"links": {
+			"twitter": "https://twitter.com/MelissaLiTian",
+			"vgmdb": "https://vgmdb.net/artist/36407"
+		}
+	},
+	"Hiskov": {
+		"name": "Hiskov",
+		"links": {
+			"twitter": "https://twitter.com/Hiskov_ ",
+			"vgmdb": "https://www.youtube.com/@Hiskov"
+		}
+	},
+	"krz0001": {
+		"name": "krz0001",
+		"links": {
+			"twitter": "https://twitter.com/krz0001",
+			"website": "https://kero.uz/"
+		}
 	}
 }
+
+
