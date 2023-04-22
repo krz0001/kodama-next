@@ -70,5 +70,16 @@
         "booth": "https://kodamasoft.booth.pm/items/4392560",
         "website": "/releases/gensokyo-party-vol3",
         "vgmdb": "https://vgmdb.net/album/120017"
+    },
+    "eclectic-resonance-uprising": {
+        "id": "KSDL-0008",
+        "name": "ECLECTIC RESONANCE UPRISING",
+        "cover": "/assets/discography/covers/0008.png",
+        "coverColor": "#ffc09b",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising",
+        "booth": "https://kodamasoft.booth.pm/items/4680773",
+        "website": "/releases/eclectic-resonance-uprising",
+        "vgmdb": "https://vgmdb.net/album/125839"
     }
+    
 }
