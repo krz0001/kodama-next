@@ -1,13 +1,9 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import ReleaseLayout from '../../components/release/album/layout'
-import { NotoSansJapanese } from '@next/font/google'
 
 import { getAllReleases, getReleaseBySlug } from '../../lib/api'
 
-const noto = NotoSansJapanese({
-  variable: '--font-noto'
-});
 
 export default function Release({ release }) {
 
@@ -16,7 +12,7 @@ export default function Release({ release }) {
     return <ErrorPage statusCode={404} />
   }
   return (
-        <ReleaseLayout release={release} className="font-noto"/>
+        <ReleaseLayout release={release}/>
   )
 }
 

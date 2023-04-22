@@ -36,9 +36,7 @@ export default function AlbumListing({ slug }) {
                     </a>
 
                     <a href={album.booth} className="kodama_btn kodama_btn--primary">
-                        <div className='h-4 w-4 mr-2'>
-                            <BoothSVG/>
-                        </div>
+                        <BoothSVG className='h-4 w-4 mr-2'/>
                         BOOTH
                     </a>
 
