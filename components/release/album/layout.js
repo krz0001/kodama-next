@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import useTranslation from 'next-translate/useTranslation'
 
 import ReleaseHead from './release-head'
 import ReleaseDescription from './release-description'
@@ -18,6 +19,7 @@ const noto = Noto_Sans_JP({
 });
 
 export default function ReleaseLayout({ release }) {
+    const { t } = useTranslation('release')
     const GlobalStyles = createGlobalStyle`
         :root {
         --release-color: #${release.color};
@@ -50,7 +52,7 @@ export default function ReleaseLayout({ release }) {
                 <meta property="og:title" content={release.title + " - KodamaSounds"} />
                 <meta name="theme-color" content={'#' + release.color} />
                 <meta property="og:image" content={release.cover} />
-                <meta property="og:description" content={release.description} />
+                <meta property="og:description" content={t(release.slug + '.desc')} />
                 <meta property="og:type" content="website" />
             </Head>
             <div className={`${noto.variable} bg-[#232426] font-release text-white min-h-screen pb-1`}>
