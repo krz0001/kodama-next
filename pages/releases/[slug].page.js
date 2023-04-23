@@ -4,6 +4,7 @@ import ReleaseLayout from '../../components/release/album/layout'
 
 import { getAllReleases, getReleaseBySlug } from '../../lib/api'
 
+
 export default function Release({ release }) {
 
   const router = useRouter()
@@ -30,12 +31,12 @@ export async function getStaticProps({ params }) {
 export async function getStaticPaths({locales, locale}) {
   const releases = getAllReleases()
 
-const path = (locale) =>
+  const path = (locale) =>
       releases.map((post) => ({
       params: {
         slug : post.slug,
+        locale
       },
-      locale,
     }))
 
 
@@ -43,6 +44,6 @@ const path = (locale) =>
 
   return {
     paths: paths,
-    fallback: false,
+    fallback: 'blocking',
   }
 }

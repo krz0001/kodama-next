@@ -1,0 +1,299 @@
+{
+	"slug": "eclectic-resonance-uprising",
+	"logo": "/assets/discography/logos/0008.png",
+	"color": "ffc09b",
+	"description": "0007.desc",
+	"soundcloud_track_id": "1488880582",
+	"cover": "/assets/discography/covers/0008.png",
+	"title": "ECLECTIC RESONANCE UPRISING",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "Original work",
+	"release_date": "30 Apr. 2023",
+	"catalog": "KSDL-0008",
+	"price": "7€ / 1000yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/4680773"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "UPRISING",
+			"artist": "blobdash feat. Fivda",
+			"description": [
+				"• Composer: blobdash, Fivda (KodamaSounds)",
+				"• Arranger: blobdash",
+				"• Narration & Voice: Fivda (KodamaSounds)",
+				"",
+				"• Programmed & Mixed by blobdash",
+				"• Produced by blobdash, Fivda (KodamaSounds)",
+				"• Mastering Engineer: blobdash",
+				"",
+				"• Used Software: FL Studio 20",
+				"• Used VSTs & Samples: Serum, Massive, Vital, Slicex",
+				"",
+				"• About this track:",
+				"blobdash: blobdash here! First time collaborating with Fivda and it went really beyond my expectation. While we didn't keep a lot of her initial stems and ideas I believe I managed to keep a lot of the ambience and sound she had in mind, and Fivda really gave me good inspiration throughout the whole process. I really like how the progression in this track ended up, with a very melodic first half and a really \"harder\" tone through the second half. It represents very well the little story Fivda crafted and voiced. I'm very happy about how the vocals turned out as well! This is my first time submitting a track to KodamaSoft, hope you enjoy it!",
+				"Fivda: Time for the UPRISING! This is the big titular song for our brand new ECLECTIC RESONANCE album series. I hope that it will serve as a good example of what you can expect from the volumes to come. It includes elements of drum'n bass, hard psytrance, frenchcore, for a good edgy and noisy potpourri of sounds! Working with blobdash on this was tons of fun- I originally intended to make a solo track, but was out of ideas pretty quickly. blob didn't find much use for the few stems I sent, and the bpm was pretty much the only thing that sticked, lol. I even intended to use a brand new alias for hard EDM, but I think i'd rather use it for a later time when I'll be doing something entirely on my own. I'm the one you can hear in the song, doing the edgy and cheesy narration, nicely processed by blob, who also arranged most of the track. I was mostly on the side giving structure and sound design ideas, while they filled the canvas in. They're ridiculously efficient at producing, and making a song with someone else in the same room as them is always so much more fun than doing it by distance. I also learned a lot of nice stuff that I hope I'll get to use sooner or later!",
+				"• Lyrics",
+				"This poor girl, she sure wasn't blessed,",
+				"From her, they have taken everything",
+				"And her appetite shall remain unquenched,",
+				"So long as she is idling there waiting",
+				"",
+				"She won't stop, or ever let her revenge go unsatisfied",
+				"Until the world knows full well of the force of her UPRISING",
+				"Her curse now feels like a blessing to ignore her grief",
+				"She now feels alive for the first time since she was born",
+				"Smacking her foes down like they're lifeless dolls to play with",
+				"Now she wonders, will she have what it takes to live on?",
+				"",
+				"With nothing left of the people she detested,",
+				"Her prey was vanquished without a blink",
+				"As of now noone knows when she was last spotted",
+				"So goes the tale of her UPRISING"
+			]
+		},
+		"02": {
+			"title": "orbital eden",
+			"artist": "l'avenir proche",
+			"description": [
+				"• Composer & Arranger: l'avenir proche",
+				"",
+				"• Programmed, Produced & Mixed by l'avenir proche",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)"
+			]
+		},
+		"03": {
+			"title": "M3LT3D 1CE M4G1C",
+			"artist": "Monkey_Man83",
+			"description": [
+				"• Composer & Arranger: Monkey_Man83 (Team BINGO)",
+				"",
+				"• Programmed, Produced & Mixed by Monkey_Man83 (Team BINGO)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: East-West Pianos, Roland Zenology, Roland Cloud, Virtual Guitarist-Iron 2, Drinking Hi-Hat Groove"
+			]
+		},
+		"04": {
+			"title": "Psychodelic",
+			"artist": "Eyhz",
+			"description": [
+				"• Composer & Arranger: Eyhz",
+				"",
+				"• Programmed, Produced & Mixed by Eyhz",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Fabfilter for EQ and Compression, Valhalla for delay and reverb, Serum, Spire",
+				"",
+				"• About this track: Track inspired by multiple HDM genres."
+			]
+		},
+		"05": {
+			"title": "HVN+",
+			"artist": "Mitomoro",
+			"description": [
+				"• Composer & Arranger: Mitomoro",
+				"",
+				"• Programmed, Produced & Mixed by Mitomoro",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Used Software: FL Studio 21",
+				"• Used VSTs & Samples: Vital, OPS Hardcore & Uptempo Essentials V1",
+				"",
+				"• About this track: I wanted to make something fun, way too fast, & something that makes you feel like you could kill god by throwing your own ass around, please enjoy!",
+				"• Lyrics",
+				"I got a hold of you, it's just me and you",
+				"And everything we gon' do, everything we gon' do ya",
+				"Oh, the way you look at me is heaven, and you know I could be the devil for ya",
+				"You make me wanna talk back, when you're like that I can't take it no more"
+			]
+		},
+		"06": {
+			"title": "Tumult",
+			"artist": "GOETIΛ",
+			"description": [
+				"• Composer & Arranger: GOETIΛ (Sigillum Azoetia)",
+				"",
+				"• Programmed, Produced & Mixed by GOETIΛ (Sigillum Azoetia)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)"
+			]
+		},		
+		"07": {
+			"title": "PRIMROSE ~  Future of Illusionism",
+			"artist": "Monkey_Man83",
+			"description": [
+				"• Composer & Arranger: Monkey_Man83 (Team BINGO)",
+				"",
+				"• Programmed, Produced & Mixed by Monkey_Man83 (Team BINGO)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: EaArturia Piano V2, Roland ZENOLOGY, SI-Bass, VG-Iron 2, Apache Amen Files Vol.2"
+			]
+		},
+		"08": {
+			"title": "1112",
+			"artist": "VTQ",
+			"description": [
+				"• Composer & Arranger: VTQ",
+				"",
+				"• Programmed, Produced & Mixed by VTQ",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Used Software: FL Studio 21",
+				"• Used VSTs & Samples: Vocal - T_VA_124_vocal_phrase_loop_aintnoparty_male_Bmaj = I randomly found this sample and decided to pitch it up. / Horns in the intro - Comes from a private pack by Rohaan (made for DnB but eh) / Bunch of schranz samples from the countless schranz pack by Boris S, Svetec, ASIN. / VEC 4 and 5 (OBVIOUSLY) / Lead - Serum Rave Punk pack",
+				"",
+				"• About this track: This track was originally created for a Sound Voltex custom chart we made with a few friends, but it ended up not releasing. So, I made an extended version! Name is inspired by 1116 - It's a nod to my french friends who helped me decide on the name back in December and with whom I share a big love for 1116. Also the deadline was originally 2022-12-11 (11/12)."
+			]
+		},
+		"09": {
+			"title": "BLADE FURY",
+			"artist": "MOUNTAIN",
+			"description": [
+				"• Composer & Arranger: MOUNTAIN",
+				"",
+				"• Programmed, Produced & Mixed by MOUNTAIN",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Used Software: FL Studio",
+				"",
+				"• About this track: This was originally going to have live guitar recordings, but unfortunately the recordings couldn't happen in time for the release, lol. Hopefully I'll get the opportunity to put together a version with live guitar, because it was really fun trying to compose something for that purpose and it'd be really cool to see that come together."
+			]
+		},
+		"10": {
+			"title": "MOONBLIGHT",
+			"artist": "Valentine Saturday Suzumiya",
+			"description": [
+				"• Composer & Arranger: Valentine Saturday Suzumiya",
+				"",
+				"• Programmed, Produced & Mixed by Valentine Saturday Suzumiya",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Used Software: FL Studio 20",
+				"",
+				"• About this track: A song about the moon if it were instead a giant sphere of liquid held together by magic."
+			]
+		},
+		"11": {
+			"title": "Computerz && Keyboardz",
+			"artist": "HIJACKRABBIT",
+			"description": [
+				"• Composer & Arranger: Tee-vee",
+				"• Guitars: Tee-vee",
+				"",
+				"• Programmed, Produced & Mixed by Tee-vee",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Used Software: FL Studio"
+			]
+		},
+		"12": {
+			"title": "Extraneous",
+			"artist": "GOETIΛ",
+			"description": [
+				"• Composer & Arranger: GOETIΛ (Sigillum Azoetia)",
+				"",
+				"• Programmed, Produced & Mixed by GOETIΛ (Sigillum Azoetia)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)"
+			]
+		},
+		"13": {
+			"title": "Ever On",
+			"artist": "LibriJamm",
+			"description": [
+				"• Composer & Arranger: LibriJamm",
+				"",
+				"• Programmed, Produced & Mixed by LibriJamm",
+				"• Mastering Engineer: LibriJamm",
+				"",
+				"• Used Software: FL Studio 21",
+				"• Used VSTs & Samples: Flex, Serum, Sytrus, Korg M1, The song uses 2 DnB Break Loops from a collection found here: (https://www.youtube.com/watch?v=E8XavYGWtjc), Unfortunately, the loops have generic filenames, but for completion’s sake the used loops are: “DNB_BREAK_57” & “DNB_BREAK_64.”",
+				"",
+				"• About this track: Don’t have much to say. Just keep moving. To whatever person’s reading this: Hope you have a nice day. ^_^"
+			]
+		}
+	},
+	"youtube_id": "4iNWMfBXYRs",
+	"credits": {
+		"1": {
+			"id": "blobdash",
+			"role": "Arranger"
+		},
+		"2": {
+			"id": "Fivda",
+			"role": "Narration, Supervisior & Planner"
+		},
+		"3": {
+			"id": "lavenirproche",
+			"role": "Arranger"
+		},
+		"4": {
+			"id": "Monkey_Man83",
+			"role": "Arranger"
+		},
+		"5": {
+			"id": "Eyhz",
+			"role": "Arranger"
+		},
+		"6": {
+			"id": "Mitomoro",
+			"role": "Arranger"
+		},
+		"7": {
+			"id": "GOETIA",
+			"role": "Arranger"
+		},
+		"8": {
+			"id": "VTQ",
+			"role": "Arranger"
+		},
+		"9": {
+			"id": "MOUNTAIN",
+			"role": "Arranger"
+		},
+		"10": {
+			"id": "Valentine Saturday Suzumiya",
+			"role": "Arranger"
+		},
+		"11": {
+			"id": "HIJACKRABBIT",
+			"role": "Arranger, Guitars"
+		},
+		"12": {
+			"id": "LibriJamm",
+			"role": "Arranger"
+		},
+		"13": {
+			"id": "Ness",
+			"role": "Illustration"
+		},
+		"14": {
+			"id": "melissalitan",
+			"role": "Logo Designer"
+		},
+		"15": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"16": {
+			"id": "Hiskov",
+			"role": "Crossfade Video"
+		},
+		"17": {
+			"id": "krz0001",
+			"role": "Web"
+		}
+	}
+}

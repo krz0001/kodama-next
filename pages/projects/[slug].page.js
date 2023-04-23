@@ -58,7 +58,6 @@ export default function Project({ project }) {
 
 export async function getStaticProps({params, locale}) {
  const project = getProjectBySlug(params.slug, locale)
-  console.log(project)
   const content = await serialize(project)
 
   return {

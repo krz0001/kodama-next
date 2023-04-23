@@ -21,7 +21,7 @@ export default function AlbumListing({ slug }) {
         <div className="not-prose group relative w-full md:max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl flex flex-col md:flex-row my-5 transition">
 
             <div className="relative h-52 w-52 my-5 mx-auto md:m-5 md:mr-0 aspect-square rounded-md shadow-lg transition overflow-clip flex-none" style={{ backgroundColor : album.coverColor }}>
-                <Image src={album.cover} alt={album.name} layout="fill" sizes="13rem" priority/>
+                <Image src={album.cover} alt={album.name} layout="fill" sizes="13rem" quality={100} priority/>
             </div>
 
             <div className="flex flex-col flex-initial py-5 px-10">
@@ -36,9 +36,7 @@ export default function AlbumListing({ slug }) {
                     </a>
 
                     <a href={album.booth} className="kodama_btn kodama_btn--primary">
-                        <div className='h-4 w-4 mr-2'>
-                            <BoothSVG/>
-                        </div>
+                        <BoothSVG className='h-4 w-4 mr-2'/>
                         BOOTH
                     </a>
 

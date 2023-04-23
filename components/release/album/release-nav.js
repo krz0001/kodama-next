@@ -15,6 +15,7 @@ export default function ReleaseNav({...props}) {
 							width={100}
 							height={100}
 							alt="KodamaSoft"
+							quality={100}
 						/>
 					</Link>
 					<div className="flex items-center bg-neutral-700/50 rounded-lg p-2">

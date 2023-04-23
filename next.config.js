@@ -1,5 +1,4 @@
-const nextTranslate = require('next-translate')
-const withPlugins = require('next-compose-plugins');
+const nextTranslate = require('next-translate-plugin')
 const withMDX = require('@next/mdx')({
     extension: /\.mdx?$/,
     options: {
@@ -10,18 +9,21 @@ const withMDX = require('@next/mdx')({
     },
 })
 
-module.exports = withPlugins([
-    nextTranslate({
-        pageExtensions: ["page.js", "page.mdx", ".mdx", ".js"],
-        reactStrictMode: true,
-        i18n: {
-            locales: ['en','jp'],
-            defaultLocale: 'en',
-            localeDetection: true,
-        }
-    }),
-    withMDX
-])
-
+module.exports = withMDX(nextTranslate({
+    webpack: (config) => {
+        config.module.rules.push({
+            test: /\.svg$/,
+            use: ['@svgr/webpack'],
+        });
+        return config;
+    },
+    pageExtensions: ["page.js", "page.mdx", ".mdx", ".js"],
+    reactStrictMode: true,
+    i18n: {
+        locales: ['en','jp'],
+        defaultLocale: 'en',
+        localeDetection: false
+    }
+}))
 
 

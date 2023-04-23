@@ -8,6 +8,8 @@ import {
 	FaYoutube,
 	FaSoundcloud,
 	FaTwitter,
+	FaSpotify,
+	FaApple
 } from 'react-icons/fa'
 import BoothSVG from '../../../public/assets/icons/booth.svg'
 import PixivSVG from '../../../public/assets/icons/pixiv.svg'
@@ -36,6 +38,10 @@ export default function ReleaseTracklist({ credits }) {
 			return <PixivSVG className={props.className} />
 		} else if (link.toString().includes('fanbox.cc')) {
 			return <FanboxSVG className={props.className} />
+		} else if (link.toString().includes('spotify')) {
+			return <FaSpotify className={props.className} />
+		} else if (link.toString().includes('apple')) {
+			return <FaApple className={props.className} />
 		} else {
 			return <FaGlobe className={props.className} />
 		}
@@ -49,7 +55,7 @@ export default function ReleaseTracklist({ credits }) {
 				{' '}
 				credit{' '}
 			</h2>
-			<table class="table-auto w-full">
+			<table className="table-auto w-full">
 				<thead className='hidden md:table-header-group'>
 					<tr>
 						<th className="px-4 py-2">Name</th>
@@ -59,10 +65,25 @@ export default function ReleaseTracklist({ credits }) {
 				</thead>
 				<tbody className="grid grid-cols-1 sm:grid-cols-2 p-4 gap-4 md:table-row-group md:p-0 md:border-t border-[#666]">
 					{Object.entries(credits).map((creditJSON) => {
+						const tdClass = 'md:border-b border-[#666] md:p-4 md:pl-8'
+
 						let collaboratorInfo =
 							collaboratorsJson[creditJSON[1].id]
 
-						const tdClass = 'md:border-b border-[#666] md:p-4 md:pl-8'
+						if (collaboratorInfo === undefined) {
+							return (
+								<tr key={creditJSON[0]} className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-[#666] sm:border-0 md:m-0 md:table-row md:w-full">
+									<td className={tdClass + " text-red-600"}>
+										{creditJSON[1].id}
+									</td>
+									<td className={tdClass}>
+										{creditJSON[1].role}
+									</td>
+									<td className={tdClass}></td>
+								</tr>)
+						}
+
+
 						return (
 							<tr key={creditJSON[0]} className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-[#666] sm:border-0 md:m-0 md:table-row md:w-full">
 								<td className={tdClass}>
