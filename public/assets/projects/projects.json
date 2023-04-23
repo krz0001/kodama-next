@@ -4,7 +4,7 @@
         "slug": "eclectic-resonance-uprising",
         "status": "about-to-release",
         "percentage": "100",
-        "duration": "Calculating",
+        "duration": "51:06",
         "finished_tracks": "5",
         "mastering" : {
             "status":"pending",
@@ -106,6 +106,7 @@
         "percentage": "0",
         "duration": "00:00",
         "finished_tracks": "0",
+        "deadline": "2023-10-08T23:59:59Z",
         "mastering" : {
             "status":"pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
