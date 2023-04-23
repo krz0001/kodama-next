@@ -20,9 +20,9 @@ module.exports = withMDX(nextTranslate({
     pageExtensions: ["page.js", "page.mdx", ".mdx", ".js"],
     reactStrictMode: true,
     i18n: {
-        locales: ['default','en','jp'],
+        locales: ['en','jp'],
         defaultLocale: 'en',
-        localeDetection: true,
+        localeDetection: false
     }
 }))
 

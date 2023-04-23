@@ -44,6 +44,6 @@ export async function getStaticPaths({locales, locale}) {
 
   return {
     paths: paths,
-    fallback: false,
+    fallback: 'blocking',
   }
 }
