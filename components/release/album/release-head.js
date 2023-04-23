@@ -31,6 +31,7 @@ export default function ReleaseHead({
 									width="1000"
 									alt="Logo"
 									className='object-cover object-center p-6'
+									quality={100}
 								/>
 							</div>
 						</div>
@@ -45,6 +46,7 @@ export default function ReleaseHead({
 								width="1000"
 								alt="Logo"
 								style="object-fit: cover; object-position: center;"
+								quality={100}
 							/>
 						</div>
 					</>
