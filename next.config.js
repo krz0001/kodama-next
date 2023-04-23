@@ -10,19 +10,19 @@ const withMDX = require('@next/mdx')({
 })
 
 module.exports = withMDX(nextTranslate({
-    pageExtensions: ["page.js", "page.mdx", ".mdx", ".js"],
-    reactStrictMode: true,
-    i18n: {
-        locales: ['en','jp'],
-        defaultLocale: 'en',
-        localeDetection: true,
-    },
     webpack: (config) => {
         config.module.rules.push({
             test: /\.svg$/,
             use: ['@svgr/webpack'],
         });
         return config;
+    },
+    pageExtensions: ["page.js", "page.mdx", ".mdx", ".js"],
+    reactStrictMode: true,
+    i18n: {
+        locales: ['default','en','jp'],
+        defaultLocale: 'en',
+        localeDetection: true,
     }
 }))
 

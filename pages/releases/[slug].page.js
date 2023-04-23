@@ -31,12 +31,12 @@ export async function getStaticProps({ params }) {
 export async function getStaticPaths({locales, locale}) {
   const releases = getAllReleases()
 
-const path = (locale) =>
+  const path = (locale) =>
       releases.map((post) => ({
       params: {
         slug : post.slug,
+        locale
       },
-      locale,
     }))
 
 
