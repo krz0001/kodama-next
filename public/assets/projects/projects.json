@@ -16,9 +16,9 @@
     {
         "slug": "eclectic-resonance-detuned-alloy",
         "status": "accepting",
-        "percentage": "10",
-        "duration": "03:50",
-        "finished_tracks": "1",
+        "percentage": "0",
+        "duration": "00:00",
+        "finished_tracks": "0",
         "deadline": "2023-10-08T23:59:59Z",
         "mastering" : {
             "status":"pending",

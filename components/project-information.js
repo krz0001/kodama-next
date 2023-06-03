@@ -1,6 +1,8 @@
 import projectsJSON from '/public/assets/projects/projects.json'
+import useTranslation from 'next-translate/useTranslation'
 
 export default function ProjectInfo({ slug, children }) {
+    const { t, lang } = useTranslation();
     let project = {};
 
     // iterate trough the array of sections in the projectsJSON file
@@ -17,7 +19,7 @@ export default function ProjectInfo({ slug, children }) {
 
 	return (
 		<p>
-            <strong>Album Title:</strong> {project.title ? project.title : " ??? "}<br/>
+            <strong>Album Title:</strong> {t('projects:' + category.cat_slug + '.' + project.slug + '.title')}<br/>
             <strong>Status:</strong> { project.status ? project.status : " ??? "}<br/>
             <strong>Approximate Completion:</strong> { project.percentage ? project.percentage : " ??? "}%<br/>
             <strong>Current Duration:</strong> { project.duration ? project.duration : " ??? "}<br/>
