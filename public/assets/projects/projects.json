@@ -2,15 +2,15 @@
     "cat_slug": "eclectic-resonance",
     "projects": [{
         "slug": "eclectic-resonance-uprising",
-        "status": "about-to-release",
-        "percentage": "100",
-        "duration": "51:06",
-        "finished_tracks": "5",
+        "status": "accepting",
+        "percentage": "0",
+        "duration": "00:00",
+        "finished_tracks": "0",
         "mastering" : {
             "status":"pending",
             "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
         },
-        "artwork_comission": "Complete",
+        "artwork_comission": "Pending",
         "color": "#fbbf24"
     },
     {
