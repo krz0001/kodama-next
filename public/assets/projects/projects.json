@@ -1,119 +1,136 @@
-[{
-    "cat_slug": "eclectic-resonance",
-    "projects": [{
-        "slug": "eclectic-resonance-uprising",
-        "status": "accepting",
-        "percentage": "0",
-        "duration": "00:00",
-        "finished_tracks": "0",
-        "mastering" : {
-            "status":"pending",
-            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
-        },
-        "artwork_comission": "Pending",
-        "color": "#fbbf24"
-    },
-    {
-        "slug": "eclectic-resonance-detuned-alloy",
-        "status": "accepting",
-        "percentage": "0",
-        "duration": "00:00",
-        "finished_tracks": "0",
-        "deadline": "2023-10-08T23:59:59Z",
-        "mastering" : {
-            "status":"pending",
-            "engineer":"R-Man"
-        },
-        "artwork_comission": "sketching",
-        "color": "#9f1239"
-
-    }]
-},
-{
-    "cat_slug": "tribute-albums",
-    "projects": [{
-        "slug": "moonstruck-analogy-ii",
-        "status": "accepting",
-        "percentage": "0",
-        "duration": "00:00",
-        "finished_tracks": "0",
-        "mastering" : {
-            "status":"pending",
-            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
-        },
-        "artwork_comission": "pending",
-        "color": "#fde68a"
-    },
-    {   
-        "slug": "fragments-of-gratitude-ii",
-        "status": "accepting",
-        "percentage": "5",
-        "duration": "03:25",
-        "finished_tracks": "1",
-        "mastering" : {
-            "status":"pending",
-            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
-        },
-        "artwork_comission": "pending",
-        "color": "#7dd3fc"
-    },
-    {
-        "slug": "katamania",
-        "status": "accepting",
-        "percentage": "0",
-        "duration": "00:00",
-        "finished_tracks": "0",
-        "deadline": "2023-07-29T23:59:59Z",
-        "mastering" : {
-            "status":"pending",
-            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
-        },
-        "artwork_comission": "pending",
-        "color": "#f472b6"
-    }]
-},
-{
-    "cat_slug": "gensokyo-party",
-    "projects": [{
-        "slug": "vantablack",
-        "status": "accepting",
-        "percentage": "5",
-        "duration": "07:19",
-        "finished_tracks": "1",
-        "mastering" : {
-            "status":"pending",
-            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
-        },
-        "artwork_comission": "pending",
-        "color": "#b45309"
-
-    },
-    {
-        "slug": "moriya-barista",
-        "status": "accepting",
-        "percentage": "0",
-        "duration": "00:00",
-        "finished_tracks": "0",
-        "mastering" : {
-            "status":"pending"
-        },
-        "artwork_comission": "pending",
-        "color": "#6ee7b7"
-    },
-    {
-        "slug": "dj-koishi",
-        "status": "accepting",
-        "percentage": "0",
-        "duration": "00:00",
-        "finished_tracks": "0",
-        "deadline": "2023-10-08T23:59:59Z",
-        "mastering" : {
-            "status":"pending",
-            "engineer":"malicent (Cursed Monastery / Sigillum Azoetia)"
-        },
-        "artwork_comission": "pending",
-        "color": "#65a30d"
-    }]
-
-}
+[
+	{
+		"cat_slug": "eclectic-resonance",
+		"projects": [
+			{
+				"slug": "eclectic-resonance-uprising",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "Pending",
+				"color": "#fbbf24"
+			},
+			{
+				"slug": "eclectic-resonance-detuned-alloy",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2023-10-08T23:59:59Z",
+				"mastering": {
+					"status": "pending",
+					"engineer": "R-Man"
+				},
+				"artwork_comission": "sketching",
+				"color": "#9f1239"
+			},
+			{
+				"slug": "eclectic-resonance-memories",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "Pending",
+				"color": "#f472b6"
+			}
+		]
+	},
+	{
+		"cat_slug": "tribute-albums",
+		"projects": [
+			{
+				"slug": "moonstruck-analogy-ii",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "pending",
+				"color": "#fde68a"
+			},
+			{
+				"slug": "fragments-of-gratitude-ii",
+				"status": "accepting",
+				"percentage": "5",
+				"duration": "03:25",
+				"finished_tracks": "1",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "pending",
+				"color": "#7dd3fc"
+			},
+			{
+				"slug": "katamania",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2023-07-29T23:59:59Z",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "pending",
+				"color": "#f472b6"
+			}
+		]
+	},
+	{
+		"cat_slug": "gensokyo-party",
+		"projects": [
+			{
+				"slug": "vantablack",
+				"status": "accepting",
+				"percentage": "5",
+				"duration": "07:19",
+				"finished_tracks": "1",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "pending",
+				"color": "#b45309"
+			},
+			{
+				"slug": "moriya-barista",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending"
+				},
+				"artwork_comission": "pending",
+				"color": "#6ee7b7"
+			},
+			{
+				"slug": "dj-koishi",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2023-10-08T23:59:59Z",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "pending",
+				"color": "#65a30d"
+			}
+		]
+	}
 ]
