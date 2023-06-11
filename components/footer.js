@@ -1,5 +1,5 @@
 
-import {FaTwitter, FaBandcamp, FaDiscord} from 'react-icons/fa';
+import {FaTwitter, FaBandcamp, FaDiscord, FaEnvelope} from 'react-icons/fa';
 
 export default function Footer() {
   return (
@@ -15,6 +15,9 @@ export default function Footer() {
               </a>
               <a href="https://discordapp.com/invite/9ZmHv3r" className="footer_svg_container outline-none">
                 <FaDiscord className='text-slate-500 no-underline hover:text-slate-50 hover:scale-105 w-12 h-12 transition'/> 
+              </a>
+              <a href="mailto:kodamateam@gmail.com" className="footer_svg_container outline-none">
+                <FaEnvelope className='text-slate-500 no-underline hover:text-slate-50 hover:scale-105 w-12 h-12 transition'/>
               </a>
           </div>
           <a data-i18n="footer.source_code" className="text-slate-500 transition hover:text-slate-50 mt-5 hover:underline" href="https://github.com/krz0001/kodama-next" target='_blank' rel="noreferrer">Source code</a>
