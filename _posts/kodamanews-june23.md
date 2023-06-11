@@ -34,17 +34,9 @@ April wasn’t the first last time you’ll see an ECLECTIC RESONANCE album this
 
 Some more EDM planned for later this year, but this time, let’s make it Touhou themed!!
 
-## **We need your help!**
+## **“Katamania!!” chorus singers**
 
-Of course, with this many albums in the work, we need more help than ever. We are in particular looking for different kind of artists and engineers for our upcoming albums. If you know someone, or are yourself interested in any of those position, please get in touch with us by Mail/Discord/Twitter DMs.
-
--   “Katamania!!” chorus singers
-
-We are looking for as many different vocalists for the chorus part of “Katamari on the Swing”, which will be singed in unison by as many artists as possible. Decent recording quality is going to be necessary (home recording fine if the environment is good enough)
-
--   “Gensokyo Party Vol. 4 DJ Koishi” Cover Artist
-
-We are looking for a 2D artist to produce the cover art of the album. Must display Koishi running a DJ set, with a flashy stylization of any kind.
+We are looking for as many different vocalists for the chorus part of “Katamari on the Swing”, which will be sung in unison by as many artists as possible. Decent recording quality is going to be necessary (home recording fine if the environment is good enough). Please get in touch with us by Mail/Discord/Twitter DMs.
 
 ## **Additions to the Website/Discord**
 
