@@ -1,6 +1,6 @@
 ---
 title: 'KodamaNews - June 2023'
-date: '2023-06-23T18:00:00+0200'
+date: '2023-06-12T18:00:00+0200'
 locale: en
 author: Robin
 public: true
