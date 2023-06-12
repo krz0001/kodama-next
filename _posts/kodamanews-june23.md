@@ -18,7 +18,9 @@ UPRISING was a great success! In a way, I’m glad that the album wasn’t as gi
 
 Now with UPRISING done and released, we can announce another kind of compilation original work album! The next ECLECTIC RESONANCE album will focus on Chiptune and FM sequenced music, and be titled ECLECTIC RESONANCE Memories. There are no limitations in style, so long as you limit yourself with different trackers and FM synths of all kinds! More specifications and details are available[ here](https://www.notion.so/KodamaNews-June-2023-bc7ebb2a96fc4b479bd37f9076808f32?pvs=21), and the album is set for release in M3-2024 Spring.
 
-- A new Tribute Album poll is up! [Vote between what’d you prefer most between a SUDA51 or Vanillaware tribute album NOW](https://twitter.com/KodamaSoft/status/1665453468453163010)! The winner of the two will be chosen as the theme for this winter’s Comiket Tribute Album.
+## **New Album - Untitled -a Grasshopper tribute album-**
+
+A new [Tribute Album poll was up earlier this month where people could choose which Tribute Album they’d like to see next](https://twitter.com/KodamaSoft/status/1665453468453163010), and the winner is SUDA51 / Grasshopper Manufacture! You can expect the project page for this one to show up shortly after the release of Katamania!!. Planned for release for this winter’s Comiket!
 
 ## **Upcoming Album Deadlines**
 
