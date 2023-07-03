@@ -90,7 +90,7 @@ TYPE-MOONと同様、07 Expansionと関連する作品が多いですね。だ�
 ミックスはできる限り正確できちんとしたものにしましょう。マスタリングのポイントは、ミキシングエラーを修正することではなく、最終的なリリースのサウンドを向上させることなのです。/
 最終的なミックスの音に自信がない場合、私たちのマスタリングエンジニアに送ってもいいです。
 
-Google Drive/MEGAなどのホスティングサイトにミックスをアップロードし、アクセスリンクを私たちのマスタリングエンジニアmalicentに、できればDiscordメッセージ（malicent#6097）、またはメール（kodamateam@gmail.com）、またはTwitter（@KodamaSoftあるいは@Fivda_のプライベートメッセージ）でお送りください。
+Google Drive/MEGAなどのホスティングサイトにミックスをアップロードし、アクセスリンクを私たちのマスタリングエンジニアmalicentに、できればDiscordメッセージ（malicent_）、またはメール（kodamateam@gmail.com）、またはTwitter（@KodamaSoftあるいは@Fivda_のプライベートメッセージ）でお送りください。
 
 ## アレンジメントルール
 
@@ -171,7 +171,7 @@ https://yourbandcampusername.bandcamp.com
 
 ## 問い合わせ・投稿の連絡先
 
-ご質問、投稿の完了のご連絡は、TwitterのDM/メンションなど、いつでもDiscordサーバーでご連絡ください。また、Discordでは、他のアーティストへのヘルプも自由にお願いできますよ。Discordサーバーに入り、プロジェクトに参加したいと言ってくれたら、適切な役割を与え、アーティスト・チャンネルに参加できるようにします。このチャンネルでは、まだ公開されていないリリースの詳細を確認できます。ここでは、あなたのトラックを紹介することができます。しかし、投稿は、完全なトラックや芸術作品は、私のDiscord Robin#6328にDMで送るか、fivdaaurion@gmail.com までメールするのが無難でしょう。
+ご質問、投稿の完了のご連絡は、TwitterのDM/メンションなど、いつでもDiscordサーバーでご連絡ください。また、Discordでは、他のアーティストへのヘルプも自由にお願いできますよ。Discordサーバーに入り、プロジェクトに参加したいと言ってくれたら、適切な役割を与え、アーティスト・チャンネルに参加できるようにします。このチャンネルでは、まだ公開されていないリリースの詳細を確認できます。ここでは、あなたのトラックを紹介することができます。しかし、投稿は、完全なトラックや芸術作品は、私のDiscord FivdaにDMで送るか、fivdaaurion@gmail.com までメールするのが無難でしょう。
 
 KodamaSoftの連絡先です。
 - Discordサーバー [https://discordapp.com/invite/9ZmHv3r](https://discordapp.com/invite/9ZmHv3r)
@@ -179,10 +179,10 @@ KodamaSoftの連絡先です。
 - ツイッター KodamaSoft（@KodamaSoft)
 
 プロジェクトリーダーであるFivdaの連絡先。
-- Discord（ディスコード）。Robin#6328
+- Discord（ディスコード）。Fivda
 - ツイッター Fivda_
 - メール：fivdaaurion@gmail.com
 
 マスタリングエンジニアのmalicentの連絡先です。
-- ディスコード：malicent#6097
+- ディスコード：malicent_
 - メール：cocytust@gmail.com
