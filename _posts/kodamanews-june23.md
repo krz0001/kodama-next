@@ -4,6 +4,7 @@ date: '2023-06-12T18:00:00+0200'
 locale: en
 author: Robin
 public: true
+twin: kodamanews-june23-jp
 ---
 
 Hello everyone! I figured it was about time to use the blogpost feature at last~ UPRISING released not even two months ago, and there’s already so much coming up just in the next few months! We have quite a bit of news to get down to, so hang on tight!
