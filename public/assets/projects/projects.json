@@ -5,9 +5,10 @@
 			{
 				"slug": "eclectic-resonance-uprising",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "10",
+				"duration": "03:20",
+				"finished_tracks": "1",
+				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
@@ -18,9 +19,9 @@
 			{
 				"slug": "eclectic-resonance-detuned-alloy",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "15",
+				"duration": "08:30",
+				"finished_tracks": "21",
 				"deadline": "2023-10-08T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -77,7 +78,7 @@
 			{
 				"slug": "katamania",
 				"status": "accepting",
-				"percentage": "0",
+				"percentage": "15",
 				"duration": "00:00",
 				"finished_tracks": "0",
 				"deadline": "2023-12-09T23:59:59Z",
@@ -87,6 +88,20 @@
 				},
 				"artwork_comission": "complete",
 				"color": "#f472b6"
+			},
+			{
+				"slug": "midnight-syndrome",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2024-07-20T23:59:59Z",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "pending",
+				"color": "#e94242"
 			}
 		]
 	},
@@ -99,6 +114,7 @@
 				"percentage": "5",
 				"duration": "07:19",
 				"finished_tracks": "1",
+				"deadline": "2024-04-14T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"

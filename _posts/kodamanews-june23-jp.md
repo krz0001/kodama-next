@@ -21,11 +21,11 @@ UPRISINGが完成し、リリースされた今、もうひとつのコンピレ
 
 ## **新しいアルバム - Untitled -a Grasshopper tribute album-**
 
-[今月初め、次に見たいトリビュート・アルバムを選ぶ投票が行われ](https://twitter.com/KodamaSoft/status/1665453468453163010)、優勝したのはSUDA51 / グラスホッパー・マニュファクチュール！このアルバムのプロジェクト・ページは、『Katamania!!!』のリリース後に公開される予定です。
+[今月初め、次に見たいトリビュート・アルバムを選ぶ投票が行われ](https://twitter.com/KodamaSoft/status/1665453468453163010)、優勝したのはSUDA51 / グラスホッパー・マニュファクチュール！このアルバムのプロジェクト・ページは、『Katamania!!』のリリース後に公開される予定です。
 
 ## **今後のアルバムの締切**
 
--   **締切: 12月9日** - [Katamania!!! -a Katamari tribute album-](/projects/katamania)
+-   **締切: 12月9日** - [Katamania!! -a Katamari tribute album-](/projects/katamania)
 
 次回の冬コミ（12月）にリリースする予定で制作中！様々なアーティストによる様々なスタイルの巨大なコラボレーションとなってほしいアルバム！まだ1曲も収録されていないので、ぜひ応募してください！
 

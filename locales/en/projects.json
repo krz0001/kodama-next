@@ -45,8 +45,12 @@
             "themes": "07th Expansion centered album (Higurashi, Umineko…)"
         },
         "katamania": {
-            "title": "Katamania!!! -a Katamari tribute album-",
+            "title": "Katamania!! -a Katamari tribute album-",
             "themes": "Katamari centered album"
+        },
+        "midnight-syndrome": {
+            "title": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
+            "themes": "Grasshopper Manufacture / SUDA51 centered album"
         }
     },
     "gensokyo-party": {

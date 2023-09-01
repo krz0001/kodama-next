@@ -25,7 +25,7 @@ A new [Tribute Album poll was up earlier this month where people could choose wh
 
 ## **Upcoming Album Deadlines**
 
--   **Deadline: July 22th** - [Katamania!!! -a Katamari tribute album-](/projects/katamania)
+-   **Deadline: July 22th** - [Katamania!! -a Katamari tribute album-](/projects/katamania)
 
 Still in the works and planned to release for the next Summer Comic Market in august! We are looking for people to contribute more tracks to the album, which will be a giant collaboration of many styles by many different artists. The deadline is very soon, and we’ve yet to receive any tracks, so go for it!
 
