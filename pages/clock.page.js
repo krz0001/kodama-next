@@ -18,7 +18,7 @@ export default function Clock() {
                     }
                 }}>
                     <input className="border-b-2 border-white focus:border-b-3 focus:bg-neutral-900 focus:border-white px-4 py-2 text-white bg-black outline-none transition-colors duration-200 ease-in-out"
-                        type="password" value={password} onChange={(e) => setPassword(e.target.value)} />
+                        type="text" value={password} onChange={(e) => setPassword(e.target.value)} />
                     <button className="bg-white text-black px-4 py-2 border-b-2 border-white focus:outline-none focus:ring-2 focus:ring-cyan-500 transition-all duration-200 ease-in-out" type="submit">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
                             <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
@@ -70,8 +70,8 @@ export default function Clock() {
                     <p>And so, she lets herself be embraced again by the softness and harshness of the music before letting her thoughts go to rest.</p>
                     <p><b>The clock on the computer displays 04:21.</b></p>
                     <p><b>The clock on the computer displays 04:45.</b></p>
-                    <p><b>The clock on the computer displays 03:16.</b></p>
-                    <p><b>The clock on the computer displays 04:34.</b></p>
+                    <p><b>The clock on the computer displays 05:16.</b></p>
+                    <p><b>The clock on the computer displays 05:34.</b></p>
                     <p><b>The clock on the computer displays 05:58.</b></p>
                     <p><b>The clock on the computer displ□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□</b></p>
                 </div>
