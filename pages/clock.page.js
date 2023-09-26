@@ -6,12 +6,16 @@ export default function Clock() {
     const [password, setPassword] = useState("");
     const [show, setShow] = useState(false);
 
+    function deobfuscateString(string) {
+        return decodeURIComponent(atob(string));
+    }
+
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-black text-white">
             {!show && (
                 <form className="flex flex-row items-center" onSubmit={(e) => {
                     e.preventDefault();
-                    if (password === "warmth;withdrawal") {
+                    if (password === deobfuscateString("d2FybXRoJTNCd2l0aGRyYXdhbA==")) {
                         setShow(true);
                     } else {
                         setPassword("");
