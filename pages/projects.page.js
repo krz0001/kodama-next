@@ -5,6 +5,7 @@ import Link from 'next/link'
 import Container from '../components/container'
 import Header from '../components/header'
 import ProseContainer from '../components/prose-container'
+import CtaButton from '../components/project/cta-button'
 
 import Trans from 'next-translate/Trans'
 import useTranslation from 'next-translate/useTranslation'
@@ -34,6 +35,9 @@ export default function Projects({ filteredPosts }) {
             <ProseContainer>
               <h2>{t('common:projects.presentation.title')}</h2>
               <p>{t('common:projects.presentation.description')}</p>
+             <CtaButton link="/projects/faq" icon='book' className="mt-4 mx-auto">
+        <span>You can check the rules & submission patterns common to all releases here.</span>
+              </CtaButton>
 
               <div>
                 {projectsJson.map(function (category) {
@@ -61,17 +65,6 @@ export default function Projects({ filteredPosts }) {
               <p>{t('common:projects.goals.points.3.description')}</p>
               <ul><li>{t('common:projects.goals.points.4.title')}</li></ul>
               <p>{t('common:projects.goals.points.4.description')}</p>
-
-              <hr/>
-
-              <p>
-              <Trans
-                  i18nKey="common:projects.goals.points.closure"
-                  components={{
-                    link : <Link href="/projects/faq"/>,
-                  }}
-                />
-              </p>
             </ProseContainer>
           </div>
         </Container>
