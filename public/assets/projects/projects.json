@@ -19,9 +19,9 @@
 			{
 				"slug": "eclectic-resonance-detuned-alloy",
 				"status": "accepting",
-				"percentage": "15",
-				"duration": "08:30",
-				"finished_tracks": "21",
+				"percentage": "40",
+				"duration": "11:11",
+				"finished_tracks": "3",
 				"deadline": "2023-10-08T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -137,15 +137,15 @@
 			{
 				"slug": "dj-koishi",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "40",
+				"duration": "14:26",
+				"finished_tracks": "3",
 				"deadline": "2023-10-22T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "sketching",
+				"artwork_comission": "complete",
 				"color": "#65a30d"
 			}
 		]
