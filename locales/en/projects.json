@@ -4,6 +4,7 @@
         "status": "Status",
         "statuses": {
             "pending": "Pending",
+            "ongoing": "Ongoing",
             "sketching": "Sketching",
 
             "completed": "Completed",
