@@ -19,15 +19,15 @@
 			{
 				"slug": "eclectic-resonance-detuned-alloy",
 				"status": "about-to-release",
-				"percentage": "90",
-				"duration": "45:40:",
-				"finished_tracks": "11",
+				"percentage": "100",
+				"duration": "53:14",
+				"finished_tracks": "13",
 				"deadline": "2023-10-08T23:59:59Z",
 				"mastering": {
 					"status": "ongoing",
 					"engineer": "R-Man"
 				},
-				"artwork_comission": "sketching",
+				"artwork_comission": "complete",
 				"color": "#9f1239"
 			},
 			{
@@ -138,8 +138,8 @@
 				"slug": "dj-koishi",
 				"status": "accepting",
 				"percentage": "60",
-				"duration": "19:19",
-				"finished_tracks": "4",
+				"duration": "26:00",
+				"finished_tracks": "6",
 				"deadline": "2023-10-22T23:59:59Z",
 				"mastering": {
 					"status": "pending",
