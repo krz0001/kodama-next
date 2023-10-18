@@ -344,8 +344,12 @@
 	"HIJACKRABBIT": {
 		"name": "HIJACKRABBIT",
 		"links": {
+			"website": "https://teevee.neocities.org/",
 			"twitter": "https://twitter.com/teevee_terminal",
-			"vgmdb": "https://vgmdb.net/artist/56377"
+			"bandcamp": "https://teeveemusic.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/tee-vee-novae",
+			"youtube": "https://www.youtube.com/user/teevee27",
+			"vgmdb": "https://vgmdb.net/artist/36399"
 		}
 	},
 	"melissalitan": {
@@ -367,6 +371,119 @@
 		"links": {
 			"twitter": "https://twitter.com/krz0001",
 			"website": "https://kero.uz/"
+		}
+	},
+	"MB": {
+		"name": "MB",
+		"links": {
+			"twitter": "https://twitter.com/MBgov1133",
+			"youtube": "https://www.youtube.com/channel/UCJi791FFenRxNgzTVGvarRg",
+			"vgmdb": "https://vgmdb.net/artist/49326"
+		}
+	},
+	"Owen Gent": {
+		"name": "Owen Gent",
+		"links": {
+			"twitter": "link",
+			"bandcamp": "link",
+			"youtube": "link",
+			"soundcloud": "link",
+			"vgmdb": "https://vgmdb.net/artist/59674",
+			"website": "link"
+		}
+	},
+	"Roy Girvan": {
+		"name": "Roy Girvan",
+		"links": {
+			"twitter": "link",
+			"bandcamp": "link",
+			"youtube": "link",
+			"soundcloud": "link",
+			"vgmdb": "https://vgmdb.net/artist/59675",
+			"website": "link"
+		}
+	},
+	"Noa Silversten": {
+		"name": "Noa Silversten",
+		"links": {
+			"twitter": "link",
+			"bandcamp": "link",
+			"youtube": "link",
+			"soundcloud": "link",
+			"vgmdb": "https://vgmdb.net/artist/59676",
+			"website": "link"
+		}
+	},
+	"Aidan Ritchie": {
+		"name": "Aidan Ritchie",
+		"links": {
+			"twitter": "link",
+			"bandcamp": "link",
+			"youtube": "link",
+			"soundcloud": "link",
+			"vgmdb": "https://vgmdb.net/artist/59677",
+			"website": "link"
+		}
+	},
+	"Yumi Sakata": {
+		"name": "Yumi Sakata",
+		"links": {
+			"bandcamp": "https://yumisakata.bandcamp.com/album/sins-of-the-fossil-world",
+			"youtube": "https://www.youtube.com/@YumiSakata/featured",
+			"vgmdb": "https://vgmdb.net/artist/57074"
+		}
+	},
+	"R-Man": {
+		"name": "R-Man",
+		"links": {
+			"twitter": "https://twitter.com/LuvGiantRobots",
+			"bandcamp": "https://arman-r-man.bandcamp.com/",
+			"youtube": "https://www.youtube.com/c/RManLovesGiantRobots",
+			"vgmdb": "https://vgmdb.net/artist/49323"
+		}
+	},
+	"Nokutoka Momiji": {
+		"name": "Nokutoka Momiji",
+		"links": {
+			"twitter": "https://twitter.com/NokutokaMomiji",
+			"bandcamp": "https://nokutokamomiji.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UCAIGoiW0OllRHkbF2vCKMZA",
+			"soundcloud": "https://soundcloud.com/nokutokamomiji",
+			"vgmdb": "https://vgmdb.net/artist/50004",
+			"website": "https://nokutokamomiji.carrd.co"
+		}
+	},
+	"YourVinished": {
+		"name": "YourVinished",
+		"links": {
+			"twitter": "https://twitter.com/yourvinished",
+			"youtube": "https://www.youtube.com/channel/UCM6RTdYTEIOegTtOztu30wQ",
+			"soundcloud": "https://soundcloud.com/yourvinished",
+			"vgmdb": "https://vgmdb.net/artist/44682"
+		}
+	},
+	"Manof": {
+		"name": "Manof",
+		"links": {
+			"twitter": "https://twitter.com/Manof_amrt",
+			"website": "https://linktr.ee/manof_amrt"
+		}
+	},
+	"Recca": {
+		"name": "Recca",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/56529"
+		}
+	},
+	"sample": {
+		"name": "sample",
+		"links": {
+			"twitter": "link",
+			"bandcamp": "link",
+			"youtube": "link",
+			"soundcloud": "link",
+			"vgmdb": "link",
+			"website": "link"
 		}
 	}
 }

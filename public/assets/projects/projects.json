@@ -137,9 +137,9 @@
 			{
 				"slug": "dj-koishi",
 				"status": "accepting",
-				"percentage": "60",
-				"duration": "26:00",
-				"finished_tracks": "6",
+				"percentage": "85",
+				"duration": "37:58",
+				"finished_tracks": "9",
 				"deadline": "2023-10-22T23:59:59Z",
 				"mastering": {
 					"status": "pending",
