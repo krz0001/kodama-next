@@ -16,12 +16,14 @@ export default function ReleaseHead({
 		<>
 			<div className={background ? 'mx-auto' : 'container mx-auto'}>
 				{background ? (
-					<div
-						className={styles.headerBackground}
-						style={{
-							backgroundImage: `url(${background})`,
-						}}
-					>
+					<div className='relative overflow-hidden'>
+						<Image
+							src={background}
+							alt="Background"
+							fill={true}
+							style={{ objectFit: 'cover', filter: 'blur(25px) brightness(0.5)' }}
+							quality={50}
+						/>
 						<div className='md:container relative mx-auto z-10'>
 							<ReleaseNav className="bg-[#232426] md:bg-transparent"/>
 							<div className="relative w-[800px] max-w-full mx-auto">
@@ -30,8 +32,9 @@ export default function ReleaseHead({
 									height="340"
 									width="1000"
 									alt="Logo"
-									className='object-cover object-center p-6'
+									className='object-cover object-center p-6 md:relative -top-14'
 									quality={100}
+									style={{ filter: 'drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.75))' }}
 								/>
 							</div>
 						</div>
