@@ -286,13 +286,64 @@
 			"role": "Music"
 		},
 		"11": {
-			"id": "KoDyMaxx",
+			"id": "Dylan Hendrick",
 			"role": "Music"
 		},
 		"12": {
+			"id": "Kopan",
+			"role": "Music"
+		},
+		"13": {
+			"id": "Maxx",
+			"role": "Music"
+		},
+		"14": {
 			"id": "Philip Saguil",
 			"role": "Music"
+		},
+		"15": {
+			"id": "Owen Gent",
+			"role": "Lyrics"
+		},
+		"16": {
+			"id": "Roy Girvan",
+			"role": "Guitar Solo"
+		},
+		"17": {
+			"id": "Noa Silversten",
+			"role": "Bass"
+		},
+		"18": {
+			"id": "Aidan Ritchie",
+			"role": "Djembe, Tambourine"
+		},
+		"19": {
+			"id": "R-Man",
+			"role": "Mastering Engineer"
+		},
+		"20": {
+			"id": "Manof",
+			"role": "Illustration, Logo Design"
+		},
+		"21": {
+			"id": "shonocondo",
+			"role": "Logo Design"
+		},
+		"22": {
+			"id": "Fivda",
+			"role": "Supervisor & Planner"
+		},
+		"23": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"24": {
+			"id": "Hiskov",
+			"role": "Crossfade Video"
+		},
+		"25": {
+			"id": "krz0001",
+			"role": "Web"
 		}
-
 	}
 }
