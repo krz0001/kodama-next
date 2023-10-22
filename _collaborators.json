@@ -13,8 +13,7 @@
 		"links": {
 			"twitter": "https://twitter.com/ap_pussyeatin",
 			"vgmdb": "https://vgmdb.net/artist/54334",
-            "bandcamp": "https://thornsband.bandcamp.com"
-
+			"bandcamp": "https://thornsband.bandcamp.com"
 		}
 	},
 	"Philip Saguil": {
@@ -22,7 +21,7 @@
 		"links": {
 			"twitter": "https://twitter.com/FireFallsMusic",
 			"vgmdb": "https://vgmdb.net/artist/48226",
-            "bandcamp": "https://philipsaguil.bandcamp.com"
+			"bandcamp": "https://philipsaguil.bandcamp.com"
 		}
 	},
 	"Tee-vee": {
@@ -154,8 +153,8 @@
 	},
 	"Aten": {
 		"name": {
-			"en":"Aten",
-			"jp":"亜店"
+			"en": "Aten",
+			"jp": "亜店"
 		},
 		"links": {
 			"bandcamp": "https://66clown.bandcamp.com/",
@@ -167,7 +166,7 @@
 		"name": "Gumichan01",
 		"links": {
 			"twitter": "https://twitter.com/Gumichan01",
-            "bandcamp": "https://gumichan01.bandcamp.com/",
+			"bandcamp": "https://gumichan01.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/gumichan01",
 			"youtube": "https://www.youtube.com/user/Gumichan01",
 			"vgmdb": "https://vgmdb.net/artist/54382"
@@ -315,7 +314,6 @@
 			"spotify": "https://open.spotify.com/artist/59g6uy62eR7Dsu3t9hQP9Q",
 			"twitter": "https://twitter.com/volumetrique",
 			"vgmdb": "https://vgmdb.net/artist/56092"
-
 		}
 	},
 	"Valentine Saturday Suzumiya": {
@@ -384,45 +382,25 @@
 	"Owen Gent": {
 		"name": "Owen Gent",
 		"links": {
-			"twitter": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"vgmdb": "https://vgmdb.net/artist/59674",
-			"website": "link"
+			"vgmdb": "https://vgmdb.net/artist/59674"
 		}
 	},
 	"Roy Girvan": {
 		"name": "Roy Girvan",
 		"links": {
-			"twitter": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"vgmdb": "https://vgmdb.net/artist/59675",
-			"website": "link"
+			"vgmdb": "https://vgmdb.net/artist/59675"
 		}
 	},
 	"Noa Silversten": {
 		"name": "Noa Silversten",
 		"links": {
-			"twitter": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"vgmdb": "https://vgmdb.net/artist/59676",
-			"website": "link"
+			"vgmdb": "https://vgmdb.net/artist/59676"
 		}
 	},
 	"Aidan Ritchie": {
 		"name": "Aidan Ritchie",
 		"links": {
-			"twitter": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"vgmdb": "https://vgmdb.net/artist/59677",
-			"website": "link"
+			"vgmdb": "https://vgmdb.net/artist/59677"
 		}
 	},
 	"Yumi Sakata": {
@@ -475,6 +453,13 @@
 			"vgmdb": "https://vgmdb.net/artist/56529"
 		}
 	},
+	"Rammy": {
+		"name": "Rammy",
+		"links": {
+			"twitter": "https://twitter.com/___rammyy___",
+			"vgmdb": "https://vgmdb.net/artist/59515"
+		}
+	},
 	"sample": {
 		"name": "sample",
 		"links": {
@@ -487,5 +472,3 @@
 		}
 	}
 }
-
-

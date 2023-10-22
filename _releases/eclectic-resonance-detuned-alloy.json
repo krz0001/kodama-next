@@ -1,0 +1,349 @@
+{
+	"slug": "eclectic-resonance-detuned-alloy",
+	"logo": "/assets/discography/logos/0009.png",
+	"color": "a7314a",
+	"soundcloud_track_id": "1643586762",
+	"cover": "/assets/discography/covers/0009.png",
+	"background": "/assets/discography/backgrounds/0009.png",
+	"title": "ECLECTIC RESONANCE Detuned Alloy",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "Original work",
+	"release_date": "29 Oct. 2023 (M3-2023 Fall)",
+	"catalog": "KSDL-0009",
+	"price": "10€ / 1500 yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/5183373"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "Sea of Blood",
+			"artist": "MB",
+			"description": [
+				"• Composer & Arranger: MB (Resonant Union)",
+				"• Lyrics: MB (Resonant Union), Owen Gent",
+				"• Text & Narration: MB (Resonant Union)",
+				"• Guitars: MB (Resonant Union)",
+				"• Guest Guitar Solo: Roy Girvan",
+				"• Bass: Noa Silversten",
+				"• Djembe, Tambourine: Aidan Ritchie",
+				"• Based on a short story by Owen Gent",
+				"",
+				"• Programmed, Produced & Mixed by MB (Resonant Union)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Logic Pro X",
+				"",
+				"• About this track: This track was originally written about 4 years ago in late-2019 for my application into my university's composition course, based on a short story by my lovely friend Owen (a.k.a. LEGOdawg2001) wrote as a prompt for creative ideas. I decided to use this album's theme as an excuse to revisit a composition I was still rather fond of even today to get it properly re-recorded and produced, while fixing up some of the more questionable aspects of the track along the way. I decided to add some narration to bake in some of the lore behind the story, inspired by the narration Ike Nelson often does for Sound Horizon. I hope you enjoy this new rendition of an old track I wrote that has never been shared publicly before!",
+				"",
+				"• Lyrics: ",
+				"On the border of two major powers lies a coast,",
+				"once the site of a great war. ",
+				"It became permanently stained with blood—a sea of blood,",
+				"marking the loss of those who fought there."
+			]
+		},
+		"02": {
+			"title": "Explore",
+			"artist": "Yumi Sakata",
+			"description": [
+				"• Composer & Arranger: Yumi Sakata",
+				"• Guitar (ESP LTD M-1008 MS): Yumi Sakata",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Yumi Sakata",
+				"• Additional Mastering: dB ceiling adjustment",
+				"",
+				"• Used Software: Reaper",
+				"• Used VSTs & Samples: Neural DSP, GGD Drums, reFx Nexus, Fabfilter, Izotope",
+				"",
+				"• About this track: In trying to come up with a name for this track, I listened to it back to back with my eyes closed. In my imagination, I pictured in anime-styled art, 2 childhood friends riding a bike exploring along the coast of Japan. The different parts of the songs represent different places they stopped at, the softer sections for the more homey mini-stops, and the intense sections for the more mind-blowing places. In the end, the track had to named \"Explore\". Maybe you can picture this scenario too? Plz do, otherwise I'll sound like I'm crazy :P"
+			]
+		},
+		"03": {
+			"title": "Struggle Within the Sadists' World",
+			"artist": "Rammy",
+			"description": [
+				"• Composer & Arranger: Rammy (Resonant Union)",
+				"• Lead Guitar: Rammy (Resonant Union)",
+				"",
+				"• Programmed, Produced & Mixed by Rammy (Resonant Union)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Reaper",
+				"• Used VSTs & Samples: Addictive Drums 2, Prominy SR5 Rock Bass 2, Korg M1",
+				"",
+				"• About this track: This track chronicles my own struggle; not being rich or married to a tall vampire woman. I consider myself at war with my depression and this is what plays during my boss battles(working in customer service (¬_¬\")). Or maybe I just made a [REDACTED] style boss theme and justified it after the fact. Little bit of column A, little bit of column B."
+			]
+		},
+		"04": {
+			"title": {
+				"en": "Guren",
+				"jp": "紅蓮"
+			},
+			"artist": "VTQ",
+			"description": [
+				"• Composer & Arranger: VTQ",
+				"",
+				"• Programmed, Produced & Mixed by VTQ",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio 21",
+				"• Used VSTs & Samples: Guitar Rig 5, Modo Bass 2",
+				"",
+				"• About this track: Yes im re-watching Code Geass right now, how did you guess? Thanks to blobdash for making me finish that track. I started this concept track in January 2023 after falling in love with the track \"TKG - Hit The Schranz\" which is of the same style. In October 2023, I worked on it again, rewriting most of the melody, overhauling the entire track, and finishing it, in the span of two days. Everything is MIDI! There aren't a single live guitar. I did a whole lot of humanization, which makes it sound quite full of life, pretty happy with that."
+			]
+		},
+		"05": {
+			"title": "Aquareal",
+			"artist": "Tee-vee",
+			"description": [
+				"• Composer & Arranger: Tee-vee",
+				"• Guitars & Bass Guitar: Tee-vee",
+				"",
+				"• Programmed, Produced & Mixed by Tee-vee",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio 21",
+				"• Used VSTs & Samples: Image-Line Morphine (pad), NI Monark (synth bass), NI Vintage Organs (Hammond B3 organ), Roland Cloud JV-1080 (solo synth lead), Vital Audio Vital (distorted synth bass), XLN Audio Addictive Drums 2 Black Velvet (drums), AudioTeknikk GreenEugene (bass preamp), TSE 808 (guitar overdrive), BTE Audio Juicy77 (amp sim), Ignite Amps NadIR (cab IRs reader), NI Supercharger GT (compressor/overdrive)"
+			]
+		},
+		"06": {
+			"title": "SUNBLIGHT",
+			"artist": "Valentine Saturday Suzumiya",
+			"description": [
+				"• Composer & Arranger: Valentine Saturday Suzumiya",
+				"",
+				"• Programmed, Produced & Mixed by Valentine Saturday Suzumiya",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Delay Lama",
+				"",
+				"• About this track: If MOONBLIGHT was about the moon being made of water, SUNBLIGHT is about the sun being made of stone."
+			]
+		},
+		"07": {
+			"title": "Everybody Dreams of Seeing This Place at Least Once",
+			"artist": "Eyhz",
+			"description": [
+				"• Composer & Arranger: Eyhz",
+				"",
+				"• Programmed, Produced & Mixed by Eyhz",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Kontakt 7",
+				"",
+				"• About this track: A shoegaze / postr-ock Inspired track with some minor dnb elements."
+			]
+		},
+		"08": {
+			"title": "Luminous Fire",
+			"artist": "Nokutoka Momiji feat. Yumi Sakata",
+			"description": [
+				"• Composer & Arranger: Nokutoka Momiji",
+				"• Guitar (ESP LTD M-1008 MS): Yumi Sakata",
+				"",
+				"• Programmed & Produced by Nokutoka Momiji",
+				"• Mixed & Mastered by Yumi Sakata",
+				"• Additional Mastering: dB ceiling adjustment",
+				"",
+				"• Used VSTs & Samples: Neural DSP",
+				"",
+				"• About this track: Based on a story."
+			]
+		},
+		"09": {
+			"title": "Gens d'Leges 8",
+			"artist": "YourVinished",
+			"description": [
+				"• Composer & Arranger: YourVinished",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by YourVinished",
+				"• Additional Mastering: Minor dynamics adjustments",
+				"",
+				"• Used Software: FL Studio 12",
+				"• Used VSTs & Samples: Prominy - V Metal / XLN Audio - Addictive Drums 2 / Prominy - SR5 Rock Bass 2 / XLN Audio - Addictive Keys / Korg - M1 / Korg - MonoPoly / NI - Session Strings Pro / Roland - SRX Keyboards / Roland - JV-1080",
+				"",
+				"• About this track: Unisuga's pretty cool."
+			]
+		},
+		"10": {
+			"title": "Radiant Glimpse",
+			"artist": "blobdash",
+			"description": [
+				"• Composer & Arranger: blobdash",
+				"",
+				"• Programmed, Produced & Mixed by blobdash",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Addictive Drums 2, Omnisphere",
+				"",
+				"• About this track: A track i've made in one sitting, without knowing if I could reach the deadline. A track that has brought me a lot of experience in using accoustic drums and guitars, which I'd never done before. An hommage to one of my favourite music producers, Nardis."
+			]
+		},
+		"11": {
+			"title": "Ominous Black Hole",
+			"artist": "KoDyMaxx",
+			"description": [
+				"• Composer & Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Guitar, Bass & Aditionnal Keys: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums: Dylan Hendrick",
+				"",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Mixed by Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Reaper, FL Studio, Cubase",
+				"• Used VSTs & Samples: GetGood Drums One Kit Wonder: Metal, Neural DSP Fortin Nameless, Neural Dsp Archetype Gojira, Neural DSP Parallax",
+				"",
+				"• About this track: The song is about a mysterious black hole named B3 1715+425, which has the strange ability to move, and is on the loose wandering in the Universe.  What if it ever got close to us?"
+			]
+		},
+		"12": {
+			"title": "Bloom",
+			"artist": "Yumi Sakata",
+			"description": [
+				"• Composer & Arranger: Yumi Sakata",
+				"• Guitar (ESP LTD M-1008 MS): Yumi Sakata",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Yumi Sakata",
+				"• Additional Mastering: dB ceiling adjustment",
+				"",
+				"• Used Software: Reaper",
+				"• Used VSTs & Samples: Neural DSP, GGD Drums, reFx Nexus, Fabfilter, Izotope",
+				"",
+				"• About this track: One of those rough ideas near complete sitting in the back of my files. This was during the time where I wanted to write alot of riffs inspired by a certain band. Seeing Detuned Alloy as a golden opportunity, I removed it from its \"shelf\" status, polished it up, and now it is complete. I named this track \"Bloom\" in reference to the band and to describe the process in which this track was brought to full \"Bloom\". Hope you enjoy it :)"
+			]
+		},
+		"13": {
+			"title": "Ascension on Asphodel",
+			"artist": "Philip Saguil",
+			"description": [
+				"• Composer & Arranger: Philip Saguil (ECLIPSE Sound Team / Resonant Union)",
+				"",
+				"• Programmed, Produced & Mixed by Philip Saguil (ECLIPSE Sound Team / Resonant Union)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: AIRWAYS - Spectrasonic Distorted Reality 2",
+				"",
+				"• About this track: Floral! Flair! Flamenco! Set your sights above and take to the skies, your Ascension on Asphodel awaits."
+			]
+		}
+	},
+	"youtube_id": "Z5cGkbOaIYM",
+	"credits": {
+		"1": {
+			"id": "MB",
+			"role": "Music"
+		},
+		"2": {
+			"id": "Yumi Sakata",
+			"role": "Music"
+		},
+		"3": {
+			"id": "Rammy",
+			"role": "Music"
+		},
+		"4": {
+			"id": "VTQ",
+			"role": "Music"
+		},
+		"5": {
+			"id": "Tee-vee",
+			"role": "Music"
+		},
+		"6": {
+			"id": "Valentine Saturday Suzumiya",
+			"role": "Music"
+		},
+		"7": {
+			"id": "Eyhz",
+			"role": "Music"
+		},
+		"8": {
+			"id": "Nokutoka Momiji",
+			"role": "Music"
+		},
+		"9": {
+			"id": "YourVinished",
+			"role": "Music"
+		},
+		"10": {
+			"id": "blobdash",
+			"role": "Music"
+		},
+		"11": {
+			"id": "Dylan Hendrick",
+			"role": "Music"
+		},
+		"12": {
+			"id": "Kopan",
+			"role": "Music"
+		},
+		"13": {
+			"id": "Maxx",
+			"role": "Music"
+		},
+		"14": {
+			"id": "Philip Saguil",
+			"role": "Music"
+		},
+		"15": {
+			"id": "Owen Gent",
+			"role": "Lyrics"
+		},
+		"16": {
+			"id": "Roy Girvan",
+			"role": "Guitar Solo"
+		},
+		"17": {
+			"id": "Noa Silversten",
+			"role": "Bass"
+		},
+		"18": {
+			"id": "Aidan Ritchie",
+			"role": "Djembe, Tambourine"
+		},
+		"19": {
+			"id": "R-Man",
+			"role": "Mastering Engineer"
+		},
+		"20": {
+			"id": "Manof",
+			"role": "Illustration, Logo Design"
+		},
+		"21": {
+			"id": "shonocondo",
+			"role": "Logo Design"
+		},
+		"22": {
+			"id": "Fivda",
+			"role": "Supervisor & Planner"
+		},
+		"23": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"24": {
+			"id": "Hiskov",
+			"role": "Crossfade Video"
+		},
+		"25": {
+			"id": "krz0001",
+			"role": "Web"
+		}
+	}
+}
