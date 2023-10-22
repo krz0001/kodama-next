@@ -81,6 +81,16 @@
         "booth": "https://kodamasoft.booth.pm/items/4680773",
         "website": "/releases/eclectic-resonance-uprising",
         "vgmdb": "https://vgmdb.net/album/125839"
+    },
+    "eclectic-resonance-detuned-alloy":{
+        "id": "KSDL-0009",
+        "name": "ECLECTIC RESONANCE Detuned Alloy",
+        "cover": "/assets/discography/covers/0009.png",
+        "coverColor": "#7d0803",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy",
+        "booth": "https://kodamasoft.booth.pm/items/5183373",
+        "website": "/releases/eclectic-resonance-detuned-alloy",
+        "vgmdb": "https://vgmdb.net/album/125840"
     }
     
 }
