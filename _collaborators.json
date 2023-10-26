@@ -460,6 +460,96 @@
 			"vgmdb": "https://vgmdb.net/artist/59515"
 		}
 	},
+	"Recca": {
+		"name": "Recca",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/56529"
+		}
+	},
+	"Resonant Union": {
+		"name": "Resonant Union",
+		"links": {
+			"twitter": "https://twitter.com/ResonantUnion",
+			"youtube": "https://www.youtube.com/channel/UCxR-4dXdI095xLDE9kyqNnA",
+			"vgmdb": "https://vgmdb.net/org/3518"
+		}
+	},
+	"ECLIPSE Sound Team": {
+		"name": "ECLIPSE Sound Team",
+		"links": {
+			"twitter": "https://twitter.com/ECLIPSE_OST",
+			"youtube": "https://www.youtube.com/channel/UCbMeDq1hi7O1yQ_eUzGuTFg",
+			"vgmdb": "https://vgmdb.net/artist/35791"
+		}
+	},
+	"Violet Delta": {
+		"name": "Violet Delta",
+		"links": {
+			"twitter": "https://twitter.com/violet_delta",
+			"bandcamp": "https://violetdelta.bandcamp.com/",
+			"youtube": "https://www.youtube.com/c/VioletDelta2",
+			"soundcloud": "https://soundcloud.com/violetdelta/tracks",
+			"vgmdb": "https://vgmdb.net/artist/46977"
+		}
+	},
+	"LCS": {
+		"name": "LCS",
+		"links": {
+			"bandcamp": "https://lordcakespy.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/lordcakespy",
+			"vgmdb": "https://vgmdb.net/artist/47426",
+			"website": "https://cohost.org/cosmoptera"
+		}
+	},
+	"litmus*": {
+		"name": "litmus*",
+		"links": {
+			"twitter": "https://twitter.com/litmus_music",
+			"bandcamp": "https://litmus-star.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/channel/UCGq8H6U1lBt0lNcnmn08kyw",
+			"soundcloud": "https://soundcloud.com/litmus_star",
+			"vgmdb": "https://vgmdb.net/artist/48925"
+		}
+	},
+	"DJ ROUGE-GORGE": {
+		"name": "DJ ROUGE-GORGE",
+		"links": {
+			"twitter": "https://twitter.com/Fivda_",
+			"bandcamp": "https://kodamasounds.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/fivda",
+			"youtube": "https://www.youtube.com/channel/UCiYBeqqQUagH-q-sAdsQPOw",
+			"vgmdb": "https://vgmdb.net/artist/36408"
+		}
+	},
+	"trailmix37": {
+		"name": "trailmix37",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/59889"
+		}
+	},
+	"Odda C.": {
+		"name": "Odda C.",
+		"links": {
+			"twitter": "https://twitter.com/TheSoundofSykes",
+			"bandcamp": "https://oddac.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/odda-c",
+			"vgmdb": "https://vgmdb.net/artist/47428"
+		}
+	},
+	"Guo": {
+		"name": "Guo",
+		"links": {
+			"twitter": "https://twitter.com/Rattakoi",
+			"vgmdb": "https://vgmdb.net/artist/59920"
+		}
+	},
+	"LkProd": {
+		"name": "LkProd",
+		"links": {
+			"twitter": "https://twitter.com/ropdlk",
+			"vgmdb": "https://vgmdb.net/artist/59921"
+		}
+	},
 	"sample": {
 		"name": "sample",
 		"links": {
