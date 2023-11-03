@@ -32,7 +32,7 @@
 				"• Arranger: Violet Delta (Bliss And Innocence)",
 				"",
 				"• Programmed, Produced, Mixed & Mastered by Violet Delta (Bliss And Innocence)",
-				"• Additional Mastering: TBD",
+				"• Additional Mastering: dB ceiling",
 				"",
 				"• Original Track: Hartmann's Youkai Girl [ハルトマンの妖怪少女]",
 				"• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
@@ -176,7 +176,7 @@
 				"• Arranger: blobdash",
 				"",
 				"• Programmed, Produced, Mixed & Mastered by blobdash",
-				"• Additional Mastering: TBD",
+				"• Additional Mastering: dB ceiling",
 				"",
 				"• Original Track: Illusionary White Traveler [幻想のホワイトトラベラー]",
 				"• Source: Touhou Tenkuushou ~ Hidden Star in Four Seasons. [東方天空璋　～ Hidden Star in Four Seasons.]",
@@ -198,7 +198,7 @@
 				"• Arranger: Skelothan",
 				"",
 				"• Programmed, Produced, Mixed & Mastered by Skelothan",
-				"• Additional Mastering: TBD",
+				"• Additional Mastering: dB ceiling",
 				"",
 				"• Original Track: Hakurei ~ Eastern Wind [博麗　～ Eastern Wind]",
 				"• Source: Touhou Fuumaroku ~ the Story of Eastern Wonderland. [東方封魔録　～ the Story of Eastern Wonderland.]",
@@ -217,7 +217,7 @@
 				"• Arranger: trailmix37",
 				"",
 				"• Programmed, Produced, Mixed & Mastered by trailmix37",
-				"• Additional Mastering: TBD",
+				"• Additional Mastering: dB ceiling",
 				"",
 				"• Original Track: Dullahan Under the Willows [柳の下のデュラハン]",
 				"• Source: Touhou Kishinjou ~ Double Dealing Character. [Dullahan Under the Willows]",
@@ -291,7 +291,7 @@
 				"• Arranger: LibriJamm",
 				"",
 				"• Programmed, Produced, Mixed & Mastered by LibriJamm",
-				"• Additional Mastering: TBD",
+				"• Additional Mastering: dB ceiling",
 				"",
 				"• Original Track: Oriental Dark Flight [オリエンタルダークフライト]",
 				"• Source: Touhou Kaeidzuka ~ Phantasmagoria of Flower View. [東方花映塚　～ Phantasmagoria of Flower View.]",
@@ -316,7 +316,7 @@
 				"• Arranger: l'avenir proche",
 				"",
 				"• Programmed, Produced, Mixed & Mastered by l'avenir proche",
-				"• Additional Mastering: TBD",
+				"• Additional Mastering: dB ceiling",
 				"",
 				"• Original Track: Greenwich in the Sky [天空のグリニッジ ～ Royal Greenwich Observatory]",
 				"• Source: Magical Astronomy -ZUN's Music Collection vol.5- [大空魔術　～ Magical Astronomy]"
@@ -325,114 +325,92 @@
 	},
 	"youtube_id": "sIn1KISzkfA",
 	"credits": {
+		"1": {
+			"role": "Music",
+			"id": "Violet Delta"
+		},
 		"2": {
-			"role": "Arranger",
-			"id": "jys_music"
-		},
-		"3": {
-			"role": "Tenor Sax",
-			"id": "Rosie Drown"
-		},
-		"4": {
-			"role": "Piano",
-			"id": "Philip Saguil"
-		},
-		"5": {
-			"role": "Drums",
-			"id": "Tee-vee"
-		},
-		"6": {
-			"role": "Bass",
-			"id": "apatisk1"
-		},
-		"7": {
-			"role": "Arranger",
+			"role": "Music",
 			"id": "YOKAI"
 		},
-		"8": {
-			"role": "Arranger",
-			"id": "Smart Cat Rides Bicycle"
+		"3": {
+			"role": "Music",
+			"id": "VTQ"
 		},
-		"9": {
-			"role": "Arranger",
-			"id": "Uchulups"
+		"4": {
+			"role": "Music",
+			"id": "LCS"
 		},
-		"10": {
-			"role": "Arranger",
-			"id": "Z_A"
-		},
-		"11": {
-			"role": "Arranger, Keyboards",
-			"id": "Kopan"
-		},
-		"12": {
-			"role": "Arranger, Guitars & Bass",
-			"id": "Maxx"
-		},
-		"13": {
-			"role": "Arranger, Drums",
-			"id": "Dylan Hendrick"
-		},
-		"14": {
-			"role": "Arranger",
-			"id": "Skelothan"
-		},
-		"15": {
-			"role": "Arranger",
-			"id": "Mizuka Tsukishima"
-		},
-		"16": {
-			"role": "Arranger",
-			"id": "Levc_EGM"
-		},
-		"17": {
-			"role": "Arranger",
-			"id": "JDxanadu"
-		},
-		"18": {
-			"role": "Arranger",
-			"id": "Chikyuu no De"
-		},
-		"19": {
-			"role": "Arranger",
-			"id": "Aten"
-		},
-		"20": {
-			"role": "Arranger",
+		"5": {
+			"role": "Music",
 			"id": "Gumichan01"
 		},
-		"21": {
-			"role": "Arranger",
-			"id": "Ren"
+		"6": {
+			"role": "Music",
+			"id": "litmus*"
 		},
-		"22": {
-			"role": "Arranger",
-			"id": "Lollipop"
+		"7": {
+			"role": "Music",
+			"id": "Eyhz"
 		},
-		"23": {
-			"role": "Original Composer",
-			"id": "ZUN"
-		},
-		"24": {
-			"role": "Mastering Engineer",
-			"id": "malicent"
-		},
-		"25": {
-			"role": "Illustration",
-			"id": "daitoko"
-		},
-		"26": {
-			"role": "Logo Designer",
-			"id": "shonocondo"
-		},
-		"27": {
-			"role": "Supervisor & Planner",
+		"8": {
+			"role": "Music",
 			"id": "Fivda"
 		},
-		"28": {
-			"role": "Japanese Translator",
-			"id": "Yanis"
+		"9": {
+			"role": "Music",
+			"id": "DJ ROUGE-GORGE"
+		},
+		"10": {
+			"role": "Music",
+			"id": "blobdash"
+		},
+		"11": {
+			"role": "Music",
+			"id": "Skelothan"
+		},
+		"12": {
+			"role": "Music",
+			"id": "trailmix37"
+		},
+		"13": {
+			"role": "Music",
+			"id": "Uchulups"
+		},
+		"14": {
+			"role": "Music",
+			"id": "Odda C."
+		},
+		"15": {
+			"role": "Music",
+			"id": "LibriJamm"
+		},
+		"16": {
+			"role": "Music",
+			"id": "l'avenir proche"
+		},
+		"17": {
+			"role": "Illustration",
+			"id": "Gao"
+		},
+		"18": {
+			"role": "Logo Designer",
+			"id": "LkProd"
+		},
+		"19": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"20": {
+			"id": "Hiskov",
+			"role": "Crossfade Video"
+		},
+		"21": {
+			"id": "krz0001",
+			"role": "Web"
 		}
+
+
 	},
 	"footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice). 東方Project © 上海アリス幻樂団"
 }
