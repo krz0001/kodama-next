@@ -6,7 +6,7 @@ export default function ReleaseNav({title, slug, footer_string}) {
 			<div>
 				<Link href={"/" + slug}>{title}</Link>
 				<br/>
-				<span>©2021–2022 </span><Link href="/"> KodamaSounds</Link>
+				<span>©2021–{new Date().getFullYear()} </span><Link href="/"> KodamaSounds</Link>
 				{footer_string && <p className="mt-4 max-w-xl text-xs">{footer_string}</p>} 
 			</div>
 			
