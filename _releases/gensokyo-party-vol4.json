@@ -1,0 +1,416 @@
+{
+	"slug": "gensokyo-party-vol4",
+	"logo": "/assets/discography/logos/0010.png",
+	"color": "bf5ac4",
+	"soundcloud_track_id": "1651053141",
+	"cover": "/assets/discography/covers/0010.png",
+	"title": "Gensokyo Party Vol. 4 DJ Koishi",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "Digital Touhou Arrange Album",
+	"release_date": "12 Nov. 2023",
+	"catalog": "KSDL-0010",
+	"price": "10€ / 1500yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-4-dj-koishi"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/5207803"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "Subconsciously Thinking of You...",
+			"artist": "Violet Delta",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Violet Delta (Bliss And Innocence)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Violet Delta (Bliss And Innocence)",
+				"• Additional Mastering: dB ceiling",
+				"",
+				"• Original Track: Hartmann's Youkai Girl [ハルトマンの妖怪少女]",
+				"• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
+				"",
+				"• About this track: funni remix go brrrrrrrr and definitely not me trying to be the next shibayan clone no.69420727 but who cares lol"
+			]
+		},
+		"02": {
+			"title": "Doppelgänger",
+			"artist": "YOKAI vs VTQ",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: YOKAI (KodamaSounds), VTQ",
+				"• Acoustic Guitar, Electric Guitar: YOKAI (KodamaSounds)",
+				"",
+				"• Programmed & Produced by YOKAI (KodamaSounds), VTQ",
+				"• Mixed by VTQ",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Flight of the Bamboo Cutter ~ Lunatic Princess [竹取飛翔　～ Lunatic Princess]",
+				"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night.]",
+				"",
+				"• Used Software: Cubase 5, FL Studio",
+				"• Used VSTs & Samples: Massive, Orchestral, DSK Asian Dream, RA",
+				"",
+				"• About this track:",
+				"YOKAI: This collaboration is a happy coincidence because it was almost abandoned by me, and VTQ gave it a new freshness. The Schranz style suits the song well and brings a heavy side added to the metal electric guitars.",
+				"VTQ: Hi, Dan here. When I saw the ID posted by YOKAI, I knew this could fit well with a good SCHRANZ groove. A first mockup gave YOKAI the confidence to lend me his project, and it ended up being quite a nice collaborative work. Shoutout to YOKAI for an insane instrumentation, programming and arrangement; I merely cleaned up, mixed, and added more electronic elements to an already very good base."
+			]
+		},
+		"03": {
+			"title": "Maximum Capriccio ~ Dream Circuit",
+			"artist": "LCS",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: LCS",
+				"",
+				"• Programmed, Produced & Mixed by LCS",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Maiden's Capriccio ~ Dream Battle [少女綺想曲　～ Dream Battle]",
+				"• Source: Touhou Eiyashou ~ Imperishable Night. [Touhou Eiyashou ~ Imperishable Night.]",
+				"",
+				"• Used Software: Ableton Live 10",
+				"• Used VSTs & Samples: Synth1, Zero-G Jungle Warfare (1, 2, 3), Touhou soundfont"
+			]
+		},
+		"04": {
+			"title": "Gensokyo Rebellion",
+			"artist": "Gumichan01",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Gumichan01",
+				"",
+				"• Programmed, Produced & Mixed by Gumichan01",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Primordial Beat ~ Pristine Beat [始原のビート　～ Pristine Beat] & Thunderclouds of Magical Power [魔力の雷雲]",
+				"• Source: Touhou Kishinjou ~ Double Dealing Character. [東方輝針城　～ Double Dealing Character]",
+				"",
+				"• Used Software: LMMS",
+				"• Used VSTs & Samples: Helm, Synth1, kHs ONE, VST Speek",
+				"",
+				"• About this track: New contrib, new touhou song! This one was tricky and painful. It was supposed to be a complete hardstyle song but I was not satisfied with the draft. Then I rebuilt it from scratch as a gabber song, but I got creative block after the second drop. I eventually  integrated the hardstyle part, but it feels not complete. Even though I manage to get this result, I have mixed feelings. I am happy I finished the song, but I am not completely satisfied with the final result. I think I won't make Gabber/Hardstyle for a while after this."
+			]
+		},
+		"05": {
+			"title": "Undercover Whisper",
+			"artist": "litmus*",
+			"description": [
+				"• Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: litmus* (milkyway TRAXX)",
+				"",
+				"• Programmed, Produced & Mixed by litmus* (milkyway TRAXX)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: The Great Fantastic Underground Railway Network [幻想の地下大線路網] & The Long-Awaited Oumagatoki [待ちわびた逢魔が時]",
+				"• Source: Touhou Kouryuudou ~ Unconnected Marketeers. [東方虹龍洞　～ Unconnected Marketeers]",
+				"",
+				"• About this track: BPM: 160"
+			]
+		},
+		"06": {
+			"title": "Kick Through the Mind",
+			"artist": "Eyhz",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Eyhz (Bliss And Innocence)",
+				"",
+				"• Programmed, Produced & Mixed by Eyhz (Bliss And Innocence)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Illusion of a Maid ~ Icemilk Magic [メイド幻想　～ Icemilk Magic]",
+				"• Source: Touhou Gensokyo ~ Lotus Land Story. [東方幻想郷　～ Lotus Land Story.]",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Serum, Spire",
+				"",
+				"• About this track: Wanted to make a hardish techno track with sick percussions and hard kicks."
+			]
+		},
+		"07": {
+			"title": "SAPPHIC OVERDRIVE",
+			"artist": "Fivda hijacked by DJ ROUGE-GORGE",
+			"description": [
+				"• Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: DJ ROUGE-GORGE",
+				"• Voice: DJ ROUGE-GORGE, Fivda",
+				"• Assisted by blobdash",
+				"",
+				"• Programmed, Produced & Mixed by DJ ROUGE-GORGE",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Desire Drive [デザイアドライブ]",
+				"• Source: Touhou Shinreibyou ~ Ten Desires. [東方神霊廟　～ Ten Desires.]",
+				"",
+				"• Used Software: Reaper",
+				"• Used VSTs & Samples: Analog Lab V, TAL Reverb 4, Vital, Serum, Sitala, HiTECH NINJA SAMPLES, Audio Animals, Bluezone, ASIN Industrial Hardtechno Schranz Samples, Nhato Sample Pack, Jungle Jungle, sakuraburst sample pack",
+				"",
+				"• About this track:",
+				"DJ ROUGE-GORGE: HEYYYYY!!!! I'M FINALLY HERE!!!! WEREN'T YOU GUYS GETTING TIRED OF THIS BOOOORING, ETHEREAL VIBE SHE'S BEEN MAKING ALL OF THIS TIME??? SCREW THIS ALL, I'LL BE TAKING OVER MOMENTARILY AND DON'T EXPECT ME TO DISSAPEAR JUST YET. I HAVE PLENTY OF SHIT I WANNA DO AND YOU WON'T HEAR THE END OF IT ANY TIME SOON!!!! HELL YEAH!!!!!",
+				"Fivda: what the fuck",
+				"",
+				"• Lyrics",
+				"-HELLO THERE!!",
+				"-Wait, what the hell?! Who the hell are you?!",
+				"-I'M YOUR GREATEST AND GAYEST NIGHTMARE!",
+				"-UH?",
+				"-STEP ASIDE, YOU SAPPHIC GOON! ROUGE-GORGE...",
+				"-Listen, I really don't think you should-",
+				"-PUNCH!",
+				"-yEOOOowwWCH!",
+				"-AHH, EXCELLENT! NOW IT'S TIME FOR US TO TRULY COOK. HM... YES, HOW ABOUT SOMETHING LIKE THIS? "
+			]
+		},
+		"08": {
+			"title": "Imaginary White Path",
+			"artist": "blobdash",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: blobdash",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by blobdash",
+				"• Additional Mastering: dB ceiling",
+				"",
+				"• Original Track: Illusionary White Traveler [幻想のホワイトトラベラー]",
+				"• Source: Touhou Tenkuushou ~ Hidden Star in Four Seasons. [東方天空璋　～ Hidden Star in Four Seasons.]",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Vital, Serum, Massive, RANDOM, Infiltrator",
+				"",
+				"• About this track: First time remixing anything from Touhou, Illisiunary White Traveler being my favorite track from Hidden Star in Four Seasons I know I had to pick this one. Please enjoy!"
+			]
+		},
+		"09": {
+			"title": {
+				"en": "Shrine Tank Fever",
+				"jp": "神社戦車 Fever"
+			},
+			"artist": "Skelothan",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Skelothan",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Skelothan",
+				"• Additional Mastering: dB ceiling",
+				"",
+				"• Original Track: Hakurei ~ Eastern Wind [博麗　～ Eastern Wind]",
+				"• Source: Touhou Fuumaroku ~ the Story of Eastern Wonderland. [東方封魔録　～ the Story of Eastern Wonderland.]",
+				"",
+				"• Used Software: Logic Pro X",
+				"• Used VSTs & Samples: THFont (square waves, ZUNpets), Vital (bass, piano synth layer), Vengeance Club Sounds (drums), Pixabay (bird ambience)",
+				"",
+				"• About this track: But if Rika is in the Flower Tank, who's driving the Shrine Tank? (Answer: the fight is on a bridge, so it must be Gilgamesh)"
+			]
+		},
+		"10": {
+			"title": "Dullahan Under the Ground",
+			"artist": "trailmix37",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: trailmix37",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by trailmix37",
+				"• Additional Mastering: dB ceiling",
+				"",
+				"• Original Track: Dullahan Under the Willows [柳の下のデュラハン]",
+				"• Source: Touhou Kishinjou ~ Double Dealing Character. [Dullahan Under the Willows]",
+				"",
+				"• Used VSTs & Samples: Serum, HiTECH NINJA samples"
+			]
+		},
+		"11": {
+			"title": "Dance Bunny, Dance!!",
+			"artist": "Uchulups",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Uchulups ",
+				"",
+				"• Programmed, Produced & Mixed by Uchulups ",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: White Flag of Usa Shrine [お宇佐さまの素い幡]",
+				"• Source: Touhou Kaeidzuka ~ Phantasmagoria of Flower View. [東方花映塚　～ Phantasmagoria of Flower View.]",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Sytrus",
+				"",
+				"• About this track: And so, my journey to arrange touhou 9 continues... With this track, I like to imagine that the mischievous bunny turned some part of eintei into a dancefloor and is now dancing away, not really noticing (or caring about) the flower incident thats happening outside. I hope you enjoy this arrangement!!"
+			]
+		},
+		"12": {
+			"title": "Alicssimilation",
+			"artist": "Odda C.",
+			"description": [
+				"• Vocals: Odda C., VSTSpeek3",
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Odda C.",
+				"",
+				"• Programmed, Produced & Mixed by Odda C.",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: the Grimoire of Alice",
+				"• Source: Touhou Kaikidan ~ Mystic Square. [東方怪綺談　～ Mystic Square.]",
+				"",
+				"• Used Software: Waveform 12 PRO",
+				"• Used VSTs & Samples: VSTSpeek3, Serum, Charlatan 2, FilterCrusher, Replika, IIEQ Pro, Kontakt 5, Xpand!2, HY-Filter, Chip32, Lounge Lizard Session, iZotope Vinyl, BootEQmkII, A1StereoControl, DDLY Dynamic Delay, BassChorus V23.64, Airwalker, Waveform built-in plug-ins, recorded voice samples, Gemini Audio Virus Blue Vol. 1, Hyperbeam sample pack",
+				"",
+				"• About this track: I've more or less had a desire to do Touhou arranges even before I was finally able to start doing music, and this piece was one of my earliest targets. After 17 years, a dream becomes reality. I hope you enjoy this work.",
+				"• Lyrics: \"Vibe and Feel, Lets get it Real\" \"DJ KOISHI!\""
+			]
+		},
+		"13": {
+			"title": "VAMPIRE BASEMENT ANTHEM",
+			"artist": "VTQ",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: VTQ",
+				"",
+				"• Programmed, Produced & Mixed by VTQ",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: U.N. Owen Was Her? [U.N.オーエンは彼女なのか？]",
+				"• Source: Touhou Koumakyou ~ the Embodiment of Scarlet Devil. [東方紅魔郷　～ the Embodiment of Scarlet Devil.]",
+				"",
+				"• Used Software: FL Studio",
+				"",
+				"• About this track: What if crayvxn did an U.N. Owen Was Her? arrange but also sprinkled some 4/4 DnB?"
+			]
+		},
+		"14": {
+			"title": "Vol Sombre - Magical Rondo",
+			"artist": "LibriJamm",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: LibriJamm",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by LibriJamm",
+				"• Additional Mastering: dB ceiling",
+				"",
+				"• Original Track: Oriental Dark Flight [オリエンタルダークフライト]",
+				"• Source: Touhou Kaeidzuka ~ Phantasmagoria of Flower View. [東方花映塚　～ Phantasmagoria of Flower View.]",
+				"• Original Track: Doll Judgement ~ The Girl Who Played with People's Shapes [人形裁判　～ 人の形弄びし少女' : 'Doll Judgement]",
+				"• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.]",
+				"• Original Track: Locked Girl ~ The Girl's Sealed Room [ラクトガール　～ 少女密室]",
+				"• Source: Touhou Koumakyou ~ the Embodiment of Scarlet Devil. [東方紅魔郷　～ the Embodiment of Scarlet Devil.]",
+				"• Original Track: Emotional Skyscraper ~ Cosmic Mind [感情の摩天楼　～ Cosmic Mind]",
+				"• Source: Touhou Seirensen ~ Undefined Fantastic Object. [東方星蓮船　～ Undefined Fantastic Object.]",
+				"",
+				"• Used Software: FL Studio 21",
+				"• Used VSTs & Samples: Touhou Project Series Sfx",
+				"",
+				"• About this track: Kinda funny how most of Marisa's music starts with a negative key sequence but then abruptly shifts for a positive one for the climax/chorus. And its usually never a clean transition either, always forced. ...Very good characterization. Naturally, like everything I make, this was written with a story in mind. (Heck, at one point I was even prioritizing writing the story over finishing this piece. Ha ha...) If I can, I'll add a link to it later."
+			]
+		},
+		"15": {
+			"title": "trans-lunar observation",
+			"artist": "l'avenir proche",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: l'avenir proche",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by l'avenir proche",
+				"• Additional Mastering: dB ceiling",
+				"",
+				"• Original Track: Greenwich in the Sky [天空のグリニッジ ～ Royal Greenwich Observatory]",
+				"• Source: Magical Astronomy -ZUN's Music Collection vol.5- [大空魔術　～ Magical Astronomy]"
+			]
+		}
+	},
+	"youtube_id": "8ec5Q-rnJdY",
+	"credits": {
+		"1": {
+			"role": "Music",
+			"id": "Violet Delta"
+		},
+		"2": {
+			"role": "Music",
+			"id": "YOKAI"
+		},
+		"3": {
+			"role": "Music",
+			"id": "VTQ"
+		},
+		"4": {
+			"role": "Music",
+			"id": "LCS"
+		},
+		"5": {
+			"role": "Music",
+			"id": "Gumichan01"
+		},
+		"6": {
+			"role": "Music",
+			"id": "litmus*"
+		},
+		"7": {
+			"role": "Music",
+			"id": "Eyhz"
+		},
+		"8": {
+			"role": "Music",
+			"id": "Fivda"
+		},
+		"9": {
+			"role": "Music",
+			"id": "DJ ROUGE-GORGE"
+		},
+		"10": {
+			"role": "Music",
+			"id": "blobdash"
+		},
+		"11": {
+			"role": "Music",
+			"id": "Skelothan"
+		},
+		"12": {
+			"role": "Music",
+			"id": "trailmix37"
+		},
+		"13": {
+			"role": "Music",
+			"id": "Uchulups"
+		},
+		"14": {
+			"role": "Music",
+			"id": "Odda C."
+		},
+		"15": {
+			"role": "Music",
+			"id": "LibriJamm"
+		},
+		"16": {
+			"role": "Music",
+			"id": "lavenirproche"
+		},
+		"17": {
+			"role": "Illustration",
+			"id": "Gao"
+		},
+		"18": {
+			"role": "Logo Designer",
+			"id": "LkProd"
+		},
+		"19": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"20": {
+			"id": "Hiskov",
+			"role": "Crossfade Video"
+		},
+		"21": {
+			"id": "krz0001",
+			"role": "Web"
+		}
+
+
+	},
+	"footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice). 東方Project © 上海アリス幻樂団"
+}

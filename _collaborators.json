@@ -460,12 +460,6 @@
 			"vgmdb": "https://vgmdb.net/artist/59515"
 		}
 	},
-	"Recca": {
-		"name": "Recca",
-		"links": {
-			"vgmdb": "https://vgmdb.net/artist/56529"
-		}
-	},
 	"Resonant Union": {
 		"name": "Resonant Union",
 		"links": {
@@ -518,7 +512,7 @@
 			"bandcamp": "https://kodamasounds.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/fivda",
 			"youtube": "https://www.youtube.com/channel/UCiYBeqqQUagH-q-sAdsQPOw",
-			"vgmdb": "https://vgmdb.net/artist/36408"
+			"vgmdb": "https://vgmdb.net/artist/59938"
 		}
 	},
 	"trailmix37": {
@@ -548,6 +542,13 @@
 		"links": {
 			"twitter": "https://twitter.com/ropdlk",
 			"vgmdb": "https://vgmdb.net/artist/59921"
+		}
+	},
+	"Gao": {
+		"name": "Gao",
+		"links": {
+			"twitter": "https://twitter.com/Rattakoi",
+			"vgmdb": "https://vgmdb.net/artist/59981"
 		}
 	},
 	"sample": {
