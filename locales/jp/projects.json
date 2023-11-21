@@ -35,6 +35,14 @@
         "eclectic-resonance-memories": {
             "title": "ECLECTIC RESONANCE Memories",
             "themes": "Original Work, Chiptune, FM Music"
+        },
+        "eclectic-resonance-legendaria": {
+            "title": "ECLECTIC RESONANCE Legendaria",
+            "themes": "Folk / Celtic / Fantasy / Traditional / JRPG inspired"
+        },
+        "eclectic-resonance-hollow-horizons": {
+            "title": "ECLECTIC RESONANCE hollow horizons",
+            "themes": "Techno / Minimal / IDM / Downtempo"
         }
     },
     "tribute-albums": {
@@ -55,6 +63,10 @@
         "midnight-syndrome": {
             "title": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
             "themes": "Grasshopper Manufacture / SUDA51 centered album"
+        },
+        "vanilla-parfait": {
+            "title": "Vanilla Parfait -a Vanillaware tribute album-",
+            "themes": "Vanillaware tribute album (13 Sentinels, Muramasa, Odin Sphere...)"
         }
     },
     "gensokyo-party": {
@@ -75,6 +87,10 @@
         "dj-koishi-ii": {
             "title": "Gensokyo Party DJ Koishi 2",
             "themes": "Club/EDM/Trance Themed Touhou Project Album"
+        },
+        "gensokyo-party-vol6": {
+            "title": "Gensokyo Party Vol. 6 Border in Stasis",
+            "themes": "\"Gensokyo in Ruins\" (Artcore, IDM, Classical, Orchestral...)"
         }
     }
 }

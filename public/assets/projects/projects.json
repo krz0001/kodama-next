@@ -22,7 +22,6 @@
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "00",
-				"deadline": "2023-10-08T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "???"
@@ -43,6 +42,32 @@
 				},
 				"artwork_comission": "Pending",
 				"color": "#f472b6"
+			},
+			{
+				"slug":"eclectic-resonance-legendaria",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "???"
+				},
+				"artwork_comission": "Pending",
+				"color": "#d44215"
+			},
+			{
+				"slug": "eclectic-resonance-hollow-horizons",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "???"
+				},
+				"artwork_comission": "Pending",
+				"color": "#000000"
 			}
 		]
 	},
@@ -95,13 +120,25 @@
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
-				"deadline": "2024-07-20T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "pending",
 				"color": "#e94242"
+			},
+			{
+				"slug": "vanilla-parfait",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "???"
+				},
+				"artwork_comission": "pending",
+				"color": "#ceab82"
 			}
 		]
 	},
@@ -140,13 +177,25 @@
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
-				"deadline": "2023-10-22T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "???"
 				},
 				"artwork_comission": "pending",
 				"color": "#65a30d"
+			},
+			{
+				"slug":"gensokyo-party-vol6",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "???"
+				},
+				"artwork_comission": "pending",
+				"color": "#fda564"
 			}
 		]
 	}
