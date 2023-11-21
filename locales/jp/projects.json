@@ -28,6 +28,10 @@
             "title": "ECLECTIC RESONANCE Detuned Alloy",
             "themes": "オリジナル曲、ハードロック、メタル、アコースティック、ギター中心"
         },
+        "eclectic-resonance-detuned-alloy-ii": {
+            "title": "ECLECTIC RESONANCE Detuned Alloy 2",
+            "themes": "オリジナル曲、ハードロック、メタル、アコースティック、ギター中心"
+        },
         "eclectic-resonance-memories": {
             "title": "ECLECTIC RESONANCE Memories",
             "themes": "Original Work, Chiptune, FM Music"
@@ -66,6 +70,10 @@
         },
         "dj-koishi": {
             "title": "Gensokyo Party DJ Koishi",
+            "themes": "Club/EDM/Trance Themed Touhou Project Album"
+        },
+        "dj-koishi-ii": {
+            "title": "Gensokyo Party DJ Koishi 2",
             "themes": "Club/EDM/Trance Themed Touhou Project Album"
         }
     }

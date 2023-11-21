@@ -8,7 +8,6 @@
             "sketching": "Sketching",
 
             "completed": "Completed",
-            "ongoing": "Ongoing",
             "accepting": "Accepting Submissions",
             "cancelled": "Cancelled",
             "about-to-release": "About to Release"
@@ -27,6 +26,10 @@
         },
         "eclectic-resonance-detuned-alloy": {
             "title": "ECLECTIC RESONANCE Detuned Alloy",
+            "themes": "Original Work, Rock, Hard Rock, Metal, Acoustic, Guitar Centered"
+        },
+        "eclectic-resonance-detuned-alloy-ii": {
+            "title": "ECLECTIC RESONANCE Detuned Alloy 2",
             "themes": "Original Work, Rock, Hard Rock, Metal, Acoustic, Guitar Centered"
         },
         "eclectic-resonance-memories": {
@@ -67,6 +70,10 @@
         },
         "dj-koishi": {
             "title": "Gensokyo Party DJ Koishi",
+            "themes": "Club/EDM/Trance Themed Touhou Project Album"
+        },
+        "dj-koishi-ii": {
+            "title": "Gensokyo Party DJ Koishi 2",
             "themes": "Club/EDM/Trance Themed Touhou Project Album"
         }
     }
