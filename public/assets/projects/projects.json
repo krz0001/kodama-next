@@ -17,7 +17,7 @@
 				"color": "#fbbf24"
 			},
 			{
-				"slug": "eclectic-resonance-detuned-alloy-ii",
+				"slug": "eclectic-resonance-detuned-alloy-2",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
@@ -148,9 +148,9 @@
 			{
 				"slug": "vantablack",
 				"status": "accepting",
-				"percentage": "5",
-				"duration": "07:19",
-				"finished_tracks": "2",
+				"percentage": "0",
+				"duration": "03:49",
+				"finished_tracks": "1",
 				"deadline": "2024-04-14T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -172,7 +172,7 @@
 				"color": "#6ee7b7"
 			},
 			{
-				"slug": "dj-koishi-ii",
+				"slug": "dj-koishi-2",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
