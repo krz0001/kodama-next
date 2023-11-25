@@ -21,6 +21,10 @@
         "name": "ECLECTIC RESONANCE",
         "desc": "ECLECTIC RESONANCE are our original work branded albums. Each suffix means it’s oriented towards a specific style or genre. Make sure to check each one out to find which ones fit with your abilities and needs!",
         "eclectic-resonance-uprising": {
+            "title": "ECLECTIC RESONANCE UPRISING",
+            "themes": "Original Work, J-Core, Hardcore Techno"
+        },
+        "eclectic-resonance-uprising-2": {
             "title": "ECLECTIC RESONANCE UPRISING 2",
             "themes": "Original Work, J-Core, Hardcore Techno"
         },
@@ -71,26 +75,30 @@
     },
     "gensokyo-party": {
         "name": "Gensokyo Party",
-        "desc": "",
-        "vantablack": {
-            "title": "Gensokyo Party VANTABLACK 2",
-            "themes": "Dark Themed Touhou Project Album"
-        },
-        "moriya-barista":{
-            "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "Chill/Laid-back Themed Touhou Project Album"
-        },
-        "dj-koishi": {
-            "title": "Gensokyo Party DJ Koishi",
-            "themes": "Club/EDM/Trance Themed Touhou Project Album"
-        },
-        "dj-koishi-2": {
-            "title": "Gensokyo Party DJ Koishi 2",
-            "themes": "Club/EDM/Trance Themed Touhou Project Album"
+        "desc": "Those are albums entirely dedicated to the \"Touhou Project\" series, set in a multitude of styles.",
+        "vantablack-2": {
+            "title": "Gensokyo Party Vol. 5 Gensokyo Party VANTABLACK 2",
+            "themes": "\"Gensokyo at War\" (Dark Themed, Experimental, Metal, Hardcore...)"
         },
         "gensokyo-party-vol6": {
             "title": "Gensokyo Party Vol. 6 Border in Stasis",
             "themes": "\"Gensokyo in Ruins\" (Artcore, IDM, Classical, Orchestral...)"
+        },
+        "moriya-barista":{
+            "title": "Gensokyo Party Moriya Barista",
+            "themes": "\"Gensokyo at Peace\" (Calm Themed, Jazz, Lowtempo...)"
+        },
+        "moriya-barista-2":{
+            "title": "Gensokyo Party Moriya Barista 2",
+            "themes": "\"Gensokyo at Peace\" (Calm Themed, Jazz, Lowtempo...)"
+        },
+        "dj-koishi": {
+            "title": "Gensokyo Party DJ Koishi",
+            "themes": "\"Gensokyo on the Dancefloor\" (Club Themed, EDM, Trance...)"
+        },
+        "dj-koishi-2": {
+            "title": "Gensokyo Party DJ Koishi 2",
+            "themes": "\"Gensokyo on the Dancefloor\" (Club Themed, EDM, Trance...)"
         }
     }
 }

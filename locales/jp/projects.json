@@ -21,6 +21,10 @@
         "name": "ECLECTIC RESONANCE",
         "desc": "ECLECTIC RESONANCEは、私たちのオリジナルワークブランドアルバムです。それぞれの接尾語は、特定のスタイルやジャンルを指向していることを意味します。気に入ったアルバムがあるかもしれませんので、ぜひそれぞれのアルバムをチェックしてみてください！",
         "eclectic-resonance-uprising": {
+            "title": "ECLECTIC RESONANCE UPRISING",
+            "themes": "オリジナル、J-Core、ハードコアテクノ"
+        },
+        "eclectic-resonance-uprising-2": {
             "title": "ECLECTIC RESONANCE UPRISING 2",
             "themes": "オリジナル、J-Core、ハードコアテクノ"
         },
@@ -34,15 +38,15 @@
         },
         "eclectic-resonance-memories": {
             "title": "ECLECTIC RESONANCE Memories",
-            "themes": "Original Work, Chiptune, FM Music"
+            "themes": "オリジナル曲、Chiptune、FM Music"
         },
         "eclectic-resonance-legendaria": {
             "title": "ECLECTIC RESONANCE Legendaria",
-            "themes": "Folk / Celtic / Fantasy / Traditional / JRPG inspired"
+            "themes": "オリジナル曲、Folk / Celtic / Fantasy / Traditional / JRPG inspired"
         },
         "eclectic-resonance-hollow-horizons": {
             "title": "ECLECTIC RESONANCE hollow horizons",
-            "themes": "Techno / Minimal / IDM / Downtempo"
+            "themes": "オリジナル曲、Techno / Minimal / IDM / Downtempo"
         }
     },
     "tribute-albums": {
@@ -50,15 +54,15 @@
         "desc": "これは、特定のシリーズやゲームを中心とするアルバムです。ガイドラインに沿っていれば、スタイルやジャンルは問いません。イメージソングもOKです。",
         "moonstruck-analogy-ii": {
             "title": "Moonstruck Analogy -a TYPE-MOON tribute album- II",
-            "themes": "TYPE-MOON centered album (Fate/stay night, Tsukihime…)"
+            "themes": "TYPE-MOON centered album (Fate/stay night, 月姫…)"
         },
         "fragments-of-gratitude-ii": {
             "title": "Fragments of Gratitude -a When They Cry tribute album- II",
-            "themes": "07th Expansion centered album (Higurashi, Umineko…)"
+            "themes": "07th Expansion centered album (ひぐらしのなく頃に, うみねこのなく頃に…)"
         },
         "katamania": {
             "title": "Katamania!! -a Katamari tribute album-",
-            "themes": "Katamari centered album"
+            "themes": "塊魂 centered album"
         },
         "midnight-syndrome": {
             "title": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
@@ -66,31 +70,35 @@
         },
         "vanilla-parfait": {
             "title": "Vanilla Parfait -a Vanillaware tribute album-",
-            "themes": "Vanillaware tribute album (13 Sentinels, Muramasa, Odin Sphere...)"
+            "themes": "Vanillaware tribute album (十三機兵防衛圏, 朧村正, Odin Sphere...)"
         }
     },
     "gensokyo-party": {
         "name": "Gensokyo Party",
-        "desc": "",
-        "vantablack": {
-            "title": "Gensokyo Party VANTABLACK 2",
-            "themes": "Dark Themed Touhou Project Album"
-        },
-        "moriya-barista":{
-            "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "Chill/Laid-back Themed Touhou Project Album"
-        },
-        "dj-koishi": {
-            "title": "Gensokyo Party DJ Koishi",
-            "themes": "Club/EDM/Trance Themed Touhou Project Album"
-        },
-        "dj-koishi-2": {
-            "title": "Gensokyo Party DJ Koishi 2",
-            "themes": "Club/EDM/Trance Themed Touhou Project Album"
+        "desc": "Those are albums entirely dedicated to the \"Touhou Project\" series, set in a multitude of styles.",
+        "vantablack-2": {
+            "title": "Gensokyo Party Vol. 5 Gensokyo Party VANTABLACK 2",
+            "themes": "\"Gensokyo at War\" (Dark Themed, Experimental, Metal, Hardcore...)"
         },
         "gensokyo-party-vol6": {
             "title": "Gensokyo Party Vol. 6 Border in Stasis",
             "themes": "\"Gensokyo in Ruins\" (Artcore, IDM, Classical, Orchestral...)"
+        },
+        "moriya-barista":{
+            "title": "Gensokyo Party Moriya Barista 2",
+            "themes": "\"Gensokyo at Peace\" (Calm Themed, Jazz, Lowtempo...)"
+        },
+        "moriya-barista-2":{
+            "title": "Gensokyo Party Moriya Barista 2",
+            "themes": "\"Gensokyo at Peace\" (Calm Themed, Jazz, Lowtempo...)"
+        },
+        "dj-koishi": {
+            "title": "Gensokyo Party DJ Koishi",
+            "themes": "\"Gensokyo on the Dancefloor\" (Club Themed, EDM, Trance...)"
+        },
+        "dj-koishi-2": {
+            "title": "Gensokyo Party DJ Koishi 2",
+            "themes": "\"Gensokyo on the Dancefloor\" (Club Themed, EDM, Trance...)"
         }
     }
 }

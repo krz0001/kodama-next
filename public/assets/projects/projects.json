@@ -3,7 +3,7 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
-				"slug": "eclectic-resonance-uprising",
+				"slug": "eclectic-resonance-uprising-2",
 				"status": "accepting",
 				"percentage": "10",
 				"duration": "03:20",
@@ -11,7 +11,7 @@
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+					"engineer": "blobdash"
 				},
 				"artwork_comission": "Pending",
 				"color": "#fbbf24"
@@ -24,7 +24,7 @@
 				"finished_tracks": "00",
 				"mastering": {
 					"status": "pending",
-					"engineer": "???"
+					"engineer": "R-Man (Resonant Union)"
 				},
 				"artwork_comission": "pending",
 				"color": "#9f1239"
@@ -135,7 +135,7 @@
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "???"
+					"engineer": "R-Man (Resonant Union)"
 				},
 				"artwork_comission": "pending",
 				"color": "#ceab82"
@@ -179,7 +179,7 @@
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "???"
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "pending",
 				"color": "#65a30d"
