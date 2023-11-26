@@ -1,5 +1,5 @@
 {
-    "gensyoko-party": {
+    "gensokyo-party": {
         "id": "KSDL-0001",
         "name": "Gensokyo Party Vol. 1",
         "cover": "/assets/discography/covers/0001.jpg",
@@ -20,7 +20,7 @@
         "website": "https://moonstruck-analogy.tumblr.com/",
         "vgmdb": "https://vgmdb.net/album/111959"
     }, 
-    "gensyoko-party-2-vantablack": {
+    "gensokyo-party-2-vantablack": {
         "id": "KSDL-0003",
         "name": "Gensokyo Party Vol. 2 VANTABLACK",
         "cover": "/assets/discography/covers/0003.png",
@@ -61,7 +61,7 @@
         "website": "https://fragmentsofgratitude.tumblr.com/",
         "vgmdb": "https://vgmdb.net/album/120016"
     },
-    "gensyoko-party-3-moriya-barista": {
+    "gensokyo-party-3-moriya-barista": {
         "id": "KSDL-0007",
         "name": "Gensokyo Party Vol. 3 Moriya Barista",
         "cover": "/assets/discography/covers/0007.jpg",

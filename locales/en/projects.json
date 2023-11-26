@@ -76,7 +76,7 @@
     "gensokyo-party": {
         "name": "Gensokyo Party",
         "desc": "Those are albums entirely dedicated to the \"Touhou Project\" series, set in a multitude of styles.",
-        "gensyoko-party-5-vantablack-2": {
+        "gensokyo-party-5-vantablack-2": {
             "title": "Gensokyo Party Vol. 5 VANTABLACK 2",
             "themes": "\"Gensokyo at War\" (Dark Themed, Experimental, Metal, Hardcore...)"
         },
@@ -84,7 +84,7 @@
             "title": "Gensokyo Party Vol. 6 Border in Stasis",
             "themes": "\"Gensokyo in Ruins\" (Artcore, IDM, Classical, Orchestral...)"
         },
-        "gensyoko-party-3-moriya-barista":{
+        "gensokyo-party-3-moriya-barista":{
             "title": "Gensokyo Party Moriya Barista",
             "themes": "\"Gensokyo at Peace\" (Calm Themed, Jazz, Lowtempo...)"
         },
