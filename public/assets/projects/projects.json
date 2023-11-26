@@ -150,7 +150,7 @@
 		"cat_slug": "gensokyo-party",
 		"projects": [
 			{
-				"slug": "vantablack-2",
+				"slug": "gensyoko-party-5-vantablack-2",
 				"status": "accepting",
 				"percentage": "8",
 				"duration": "03:49",
@@ -164,7 +164,7 @@
 				"color": "#b45309"
 			},
 			{
-				"slug":"gensokyo-party-vol6-border-in-stasis",
+				"slug":"gensokyo-party-6-border-in-stasis",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
