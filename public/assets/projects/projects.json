@@ -17,19 +17,6 @@
 				"color": "#fbbf24"
 			},
 			{
-				"slug": "eclectic-resonance-detuned-alloy-2",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "00",
-				"mastering": {
-					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "pending",
-				"color": "#9f1239"
-			},
-			{
 				"slug": "eclectic-resonance-memories",
 				"status": "accepting",
 				"percentage": "0",
@@ -70,38 +57,25 @@
 				},
 				"artwork_comission": "Pending",
 				"color": "#000000"
+			},
+			{
+				"slug": "eclectic-resonance-detuned-alloy-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "00",
+				"mastering": {
+					"status": "pending",
+					"engineer": "R-Man (Resonant Union)"
+				},
+				"artwork_comission": "pending",
+				"color": "#9f1239"
 			}
 		]
 	},
 	{
 		"cat_slug": "tribute-albums",
 		"projects": [
-			{
-				"slug": "moonstruck-analogy-ii",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"mastering": {
-					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "pending",
-				"color": "#fde68a"
-			},
-			{
-				"slug": "fragments-of-gratitude-ii",
-				"status": "accepting",
-				"percentage": "5",
-				"duration": "03:25",
-				"finished_tracks": "1",
-				"mastering": {
-					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "pending",
-				"color": "#7dd3fc"
-			},
 			{
 				"slug": "katamania",
 				"status": "accepting",
@@ -142,7 +116,34 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#ceab82"
+			},
+			{
+				"slug": "moonstruck-analogy-ii",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "pending",
+				"color": "#fde68a"
+			},
+			{
+				"slug": "fragments-of-gratitude-ii",
+				"status": "accepting",
+				"percentage": "5",
+				"duration": "03:25",
+				"finished_tracks": "1",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "pending",
+				"color": "#7dd3fc"
 			}
+
 		]
 	},
 	{
@@ -163,7 +164,21 @@
 				"color": "#b45309"
 			},
 			{
-				"slug": "moriya-barista",
+				"slug":"gensokyo-party-vol6-border-in-stasis",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2024-10",
+				"mastering": {
+					"status": "pending",
+					"engineer": "blobdash"
+				},
+				"artwork_comission": "pending",
+				"color": "#fda564"
+			},
+			{
+				"slug": "moriya-barista-2",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
@@ -186,20 +201,6 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#65a30d"
-			},
-			{
-				"slug":"gensokyo-party-vol6-border-in-stasis",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"deadline": "2024-10",
-				"mastering": {
-					"status": "pending",
-					"engineer": "blobdash"
-				},
-				"artwork_comission": "pending",
-				"color": "#fda564"
 			}
 		]
 	}
