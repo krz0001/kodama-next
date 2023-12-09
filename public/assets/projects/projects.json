@@ -78,9 +78,9 @@
 			{
 				"slug": "katamania",
 				"status": "accepting",
-				"percentage": "15",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "90",
+				"duration": "44:10",
+				"finished_tracks": "11",
 				"deadline": "2023-12-09T23:59:59Z",
 				"mastering": {
 					"status": "pending",
