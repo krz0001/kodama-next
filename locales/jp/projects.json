@@ -75,30 +75,30 @@
     },
     "gensokyo-party": {
         "name": "Gensokyo Party",
-        "desc": "Those are albums entirely dedicated to the \"Touhou Project\" series, set in a multitude of styles.",
+        "desc": "Gensokyo Partyは東方シリーズを中心とする様々なスタイルのアルバムシリーズです。",
         "gensokyo-party-5-vantablack-2": {
-            "title": "Gensokyo Party Vol. 5 VANTABLACK 2",
-            "themes": "\"Gensokyo at War\" (Dark Themed, Experimental, Metal, Hardcore...)"
+            "title": "Gensokyo Party Vol. 5 Gensokyo Party VANTABLACK 2",
+            "themes": "\"Gensokyo at War\" (ダークな雰囲気, 実験的, メタル, ハードコア...)"
         },
         "gensokyo-party-6-border-in-stasis": {
             "title": "Gensokyo Party Vol. 6 Border in Stasis",
-            "themes": "\"Gensokyo in Ruins\" (Artcore, IDM, Classical, Orchestral...)"
+            "themes": "\"Gensokyo in Ruins\" (アートコア, IDM, クラシック, オーケストラ...)"
         },
         "gensokyo-party-3-moriya-barista":{
             "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "\"Gensokyo at Peace\" (Calm Themed, Jazz, Lowtempo...)"
+            "themes": "\"Gensokyo at Peace\" (のんびりとした雰囲気, ジャズ, ローテンポ...)"
         },
         "moriya-barista-2":{
             "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "\"Gensokyo at Peace\" (Calm Themed, Jazz, Lowtempo...)"
+            "themes": "\"Gensokyo at Peace\" (のんびりとした雰囲気, ジャズ, ローテンポ...)"
         },
         "gensokyo-party-4-dj-koishi": {
             "title": "Gensokyo Party DJ Koishi",
-            "themes": "\"Gensokyo on the Dancefloor\" (Club Themed, EDM, Trance...)"
+            "themes": "\"Gensokyo on the Dancefloor\" (クラブ, EDM, トランス...)"
         },
         "dj-koishi-2": {
             "title": "Gensokyo Party DJ Koishi 2",
-            "themes": "\"Gensokyo on the Dancefloor\" (Club Themed, EDM, Trance...)"
+            "themes": "\"Gensokyo on the Dancefloor\" (クラブ, EDM, トランス...)"
         }
     }
 }
