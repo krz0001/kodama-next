@@ -773,15 +773,25 @@
 			"website": "https://ilwag.com"
 		}
 	},
-	"sample": {
-		"name": "sample",
+	"ludosmo": {
+		"name": "ludosmo",
+		"links": {
+			"twitter": "https://twitter.com/ludosmo",
+			"bandcamp": "https://ludosmo.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UC0zrz5uK74eRTGmxuKn2W9w",
+			"soundcloud": "https://soundcloud.com/ludosmo",
+			"vgmdb": "https://vgmdb.net/artist/60716"
+		}
+	},
+	"Sample": {
+		"name": "Sample",
 		"links": {
 			"twitter": "link",
 			"bandcamp": "link",
 			"youtube": "link",
 			"soundcloud": "link",
-			"vgmdb": "link",
-			"website": "link"
+			"website": "link",
+			"vgmdb": "link"
 		}
 	}
 }
