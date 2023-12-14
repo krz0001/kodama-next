@@ -783,6 +783,24 @@
 			"vgmdb": "https://vgmdb.net/artist/60716"
 		}
 	},
+	"rinaten": {
+		"name": "rinaten",
+		"links": {
+			"twitter": "https://twitter.com/rinaten",
+			"vgmdb": "https://vgmdb.net/artist/60775"
+		}
+	},
+	"Milkychan": {
+		"name": "Milkychan",
+		"links": {
+			"twitter": "https://twitter.com/Milkeechan",
+			"spotify": "https://open.spotify.com/intl-fr/artist/0nAMtTaunBIAhK9PRyvtvK?si=7S4C0J-oTJuLOiIuUDEyKA",
+			"bandcamp": "https://milkychan.bandcamp.com",
+			"youtube": "https://www.youtube.com/c/Milkychan",
+			"soundcloud": "https://soundcloud.com/milkychan",
+			"vgmdb": "https://vgmdb.net/artist/35793"
+		}
+	},
 	"Sample": {
 		"name": "Sample",
 		"links": {
