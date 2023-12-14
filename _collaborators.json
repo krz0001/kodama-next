@@ -502,6 +502,8 @@
 			"bandcamp": "https://litmus-star.bandcamp.com/music",
 			"youtube": "https://www.youtube.com/channel/UCGq8H6U1lBt0lNcnmn08kyw",
 			"soundcloud": "https://soundcloud.com/litmus_star",
+			"website": "https://linktr.ee/fivda",
+			"spotify": "https://open.spotify.com/intl-fr/artist/75Kv4UNjg8e2WYti6AT4VM"
 			"vgmdb": "https://vgmdb.net/artist/48925"
 		}
 	},
@@ -799,6 +801,29 @@
 			"youtube": "https://www.youtube.com/c/Milkychan",
 			"soundcloud": "https://soundcloud.com/milkychan",
 			"vgmdb": "https://vgmdb.net/artist/35793"
+		}
+	},
+	"Aamna": {
+		"name": "Aamna",
+		"links": {
+			"twitter": "https://twitter.com/aamnyaa",
+			"youtube": "https://www.youtube.com/c/AamnaYT",
+			"vgmdb": "https://vgmdb.net/artist/50008"
+		}
+	},
+	"Akira Complex": {
+		"name": "Akira Complex",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/14322"
+		}
+	},
+	"FrancisRave": {
+		"name": "FrancisRave",
+		"links": {
+			"twitter": "https://twitter.com/FrancisRave",
+			"bandcamp": "https://francisrave.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/francisrave",
+			"vgmdb": "https://vgmdb.net/artist/47390"
 		}
 	},
 	"Sample": {
