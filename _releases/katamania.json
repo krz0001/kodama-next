@@ -598,88 +598,164 @@
 	"youtube_id": "8ec5Q-rnJdY",
 	"credits": {
 		"1": {
-			"role": "Music",
-			"id": "Violet Delta"
+			"role": "Music, Vocals",
+			"id": "soothingMelody"
 		},
 		"2": {
 			"role": "Music",
-			"id": "YOKAI"
+			"id": "telebasher"
 		},
 		"3": {
 			"role": "Music",
-			"id": "VTQ"
+			"id": "PSYQUO"
 		},
 		"4": {
 			"role": "Music",
-			"id": "LCS"
+			"id": "Monochrome"
 		},
 		"5": {
 			"role": "Music",
-			"id": "Gumichan01"
+			"id": "lavenir proche"
 		},
 		"6": {
 			"role": "Music",
-			"id": "litmus*"
+			"id": "ludosmo"
 		},
 		"7": {
 			"role": "Music",
-			"id": "Eyhz"
+			"id": "Maxo"
 		},
 		"8": {
 			"role": "Music",
-			"id": "Fivda"
+			"id": "trailmix37"
 		},
 		"9": {
 			"role": "Music",
-			"id": "DJ ROUGE-GORGE"
+			"id": "rinaten"
 		},
 		"10": {
 			"role": "Music",
-			"id": "blobdash"
+			"id": "Nuchuu"
 		},
 		"11": {
-			"role": "Music",
-			"id": "Skelothan"
+			"role": "Music, Vocals, Lyrics, Supervisor & Planner",
+			"id": "Fivda"
 		},
 		"12": {
-			"role": "Music",
-			"id": "trailmix37"
+			"role": "Vocals",
+			"id": "Aamna"
 		},
 		"13": {
-			"role": "Music",
-			"id": "Uchulups"
+			"role": "Vocals",
+			"id": "Milkychan"
 		},
 		"14": {
-			"role": "Music",
-			"id": "Odda C."
+			"role": "Vocals",
+			"id": "Kurin T"
 		},
 		"15": {
-			"role": "Music",
-			"id": "LibriJamm"
+			"role": "Vocals, Guitar",
+			"id": "SaraSandwich"
 		},
 		"16": {
-			"role": "Music",
-			"id": "lavenirproche"
+			"role": "Vocals",
+			"id": "Proticity"
 		},
 		"17": {
-			"role": "Illustration",
-			"id": "Guo"
+			"role": "Guitar",
+			"id": "MB"
 		},
 		"18": {
-			"role": "Logo Designer",
-			"id": "LkProd"
+			"role": "Flute",
+			"id": "worpp"
 		},
 		"19": {
+			"id": "Chorus",
+			"role": "Leyrinne"
+		},
+		"20": {
+			"id": "In Love With A Ghost",
+			"role": "Assistant"
+		},
+		"21": {
+			"id": "Tee-vee",
+			"role": "Mixing Engineer"
+		},
+		"22": {
+			"id": "In Love With A Ghost",
+			"role": "Assistant"
+		},
+		"23": {
+			"id": "Yuu Miyake",
+			"role": "Original Composer"
+		},
+		"24": {
+			"id": "Asuka Sakai",
+			"role": "Original Composer"
+		},
+		"25": {
+			"id": "Yuri Misumi",
+			"role": "Original Composer"
+		},
+		"26": {
+			"id": "Hiroshi Okubo",
+			"role": "Original Composer, Original Lyricist"
+		},
+		"27": {
+			"id": "Akitaka Tohyama",
+			"role": "Original Composer, Original Lyricist"
+		},
+		"28": {
+			"id": "Yoshihito Yano",
+			"role": "Original Composer, Original Lyricist"
+		},
+		"29": {
+			"id": "Torine",
+			"role": "Original Composer"
+		},
+		"30": {
+			"id": "Tomoki Kanda",
+			"role": "Original Composer"
+		},
+		"31": {
+			"id": "Hideki Tobeta",
+			"role": "Original Composer"
+		},
+		"32": {
+			"id": "Kahimi Karie",
+			"role": "Original Lyricist"
+		},
+		"33": {
+			"id": "malicent",
+			"role": "Mastering Engineer"
+		},
+		"34": {
+			"id": "Crisppyboat",
+			"role": "Illustration"
+		},
+		"35": {
+			"id": "FrancisRave",
+			"role": "Photo"
+		},
+		"36": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
-		"20": {
+		"37": {
 			"id": "Hiskov",
 			"role": "Crossfade Video"
 		},
-		"21": {
+		"38": {
 			"id": "krz0001",
 			"role": "Web"
+		},
+		"39": {
+			"id": "cal",
+			"role": "Special Thanks"
+		},
+		"40": {
+			"id": "Akira Complex",
+			"role": "Dedicated to"
 		}
 	}
 }
