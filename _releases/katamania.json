@@ -615,7 +615,7 @@
 		},
 		"5": {
 			"role": "Music",
-			"id": "lavenir proche"
+			"id": "lavenirproche"
 		},
 		"6": {
 			"role": "Music",
@@ -670,8 +670,8 @@
 			"id": "worpp"
 		},
 		"19": {
-			"id": "Chorus",
-			"role": "Leyrinne"
+			"id": "Leyrinne",
+			"role": "Chorus"
 		},
 		"20": {
 			"id": "In Love With A Ghost",

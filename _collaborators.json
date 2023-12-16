@@ -783,6 +783,47 @@
 			"vgmdb": "https://vgmdb.net/artist/60716"
 		}
 	},
+	"Milkychan": {
+		"name": "Milkychan",
+		"links": {
+			"twitter": "https://twitter.com/Milkeechan",
+			"bandcamp": "https://milkychan.bandcamp.com",
+			"youtube": "https://www.youtube.com/c/Milkychan",
+			"soundcloud": "https://soundcloud.com/milkychan",
+			"spotify": "https://open.spotify.com/intl-fr/artist/0nAMtTaunBIAhK9PRyvtvK?autoplay=true",
+			"vgmdb": "https://vgmdb.net/artist/35793"
+		}
+	},
+	"FrancisRave": {
+		"name": "FrancisRave",
+		"links": {
+			"twitter": "https://twitter.com/FrancisRave",
+			"bandcamp": "https://francisrave.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/francisrave",
+			"vgmdb": "https://vgmdb.net/artist/47390"
+		}
+	},
+	"Akira Complex": {
+		"name": "Akira Complex",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/14322"
+		}
+	},
+	"Aamna": {
+		"name": "Aamna",
+		"links": {
+			"twitter": "https://twitter.com/aamnyaa",
+			"youtube": "https://www.youtube.com/c/AamnaYT",
+			"vgmdb": "https://vgmdb.net/artist/50008"
+		}
+	},
+	"rinaten": {
+		"name": "rinaten",
+		"links": {
+			"twitter": "https://twitter.com/rinaten",
+			"vgmdb": "https://vgmdb.net/artist/60775"
+		}
+	},
 	"Sample": {
 		"name": "Sample",
 		"links": {
