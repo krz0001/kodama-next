@@ -502,6 +502,8 @@
 			"bandcamp": "https://litmus-star.bandcamp.com/music",
 			"youtube": "https://www.youtube.com/channel/UCGq8H6U1lBt0lNcnmn08kyw",
 			"soundcloud": "https://soundcloud.com/litmus_star",
+			"website": "https://linktr.ee/fivda",
+			"spotify": "https://open.spotify.com/intl-fr/artist/75Kv4UNjg8e2WYti6AT4VM",
 			"vgmdb": "https://vgmdb.net/artist/48925"
 		}
 	},
@@ -785,30 +787,22 @@
 			"vgmdb": "https://vgmdb.net/artist/60716"
 		}
 	},
+	"rinaten": {
+		"name": "rinaten",
+		"links": {
+			"twitter": "https://twitter.com/rinaten",
+			"vgmdb": "https://vgmdb.net/artist/60775"
+		}
+	},
 	"Milkychan": {
 		"name": "Milkychan",
 		"links": {
 			"twitter": "https://twitter.com/Milkeechan",
+			"spotify": "https://open.spotify.com/intl-fr/artist/0nAMtTaunBIAhK9PRyvtvK?si=7S4C0J-oTJuLOiIuUDEyKA",
 			"bandcamp": "https://milkychan.bandcamp.com",
 			"youtube": "https://www.youtube.com/c/Milkychan",
 			"soundcloud": "https://soundcloud.com/milkychan",
-			"spotify": "https://open.spotify.com/intl-fr/artist/0nAMtTaunBIAhK9PRyvtvK?autoplay=true",
 			"vgmdb": "https://vgmdb.net/artist/35793"
-		}
-	},
-	"FrancisRave": {
-		"name": "FrancisRave",
-		"links": {
-			"twitter": "https://twitter.com/FrancisRave",
-			"bandcamp": "https://francisrave.bandcamp.com",
-			"soundcloud": "https://soundcloud.com/francisrave",
-			"vgmdb": "https://vgmdb.net/artist/47390"
-		}
-	},
-	"Akira Complex": {
-		"name": "Akira Complex",
-		"links": {
-			"vgmdb": "https://vgmdb.net/artist/14322"
 		}
 	},
 	"Aamna": {
@@ -819,11 +813,19 @@
 			"vgmdb": "https://vgmdb.net/artist/50008"
 		}
 	},
-	"rinaten": {
-		"name": "rinaten",
+	"Akira Complex": {
+		"name": "Akira Complex",
 		"links": {
-			"twitter": "https://twitter.com/rinaten",
-			"vgmdb": "https://vgmdb.net/artist/60775"
+			"vgmdb": "https://vgmdb.net/artist/14322"
+		}
+	},
+	"FrancisRave": {
+		"name": "FrancisRave",
+		"links": {
+			"twitter": "https://twitter.com/FrancisRave",
+			"bandcamp": "https://francisrave.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/francisrave",
+			"vgmdb": "https://vgmdb.net/artist/47390"
 		}
 	},
 	"Sample": {
