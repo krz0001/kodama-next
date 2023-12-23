@@ -2,7 +2,7 @@
 	"slug": "katamania",
 	"logo": "/assets/discography/logos/0011.png",
 	"color": "a897f1",
-	"soundcloud_track_id": "1651053141",
+	"soundcloud_track_id": "1696943262",
 	"cover": "/assets/discography/covers/0011.png",
 	"title": "Katamania!! -a Katamari tribute album-",
 	"circle": {
@@ -20,7 +20,7 @@
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": ""
+			"link": "https://kodamasoft.booth.pm/items/5344997"
 		}
 	},
 	"tracklist": {
@@ -594,7 +594,7 @@
 			]
 		}
 	},
-	"youtube_id": "8ec5Q-rnJdY",
+	"youtube_id": "98efvldQFk0",
 	"credits": {
 		"1": {
 			"role": "Music, Vocals",
