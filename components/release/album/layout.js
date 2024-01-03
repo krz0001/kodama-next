@@ -21,10 +21,9 @@ const noto = Noto_Sans_JP({
 export default function ReleaseLayout({ release }) {
     const { t } = useTranslation('release')
     const GlobalStyles = createGlobalStyle`
-        :root {
+    :root {
         --release-color: #${release.color};
-    }
-    `;
+    }`;
 
     return (
         <>
