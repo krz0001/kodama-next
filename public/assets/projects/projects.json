@@ -5,9 +5,9 @@
 			{
 				"slug": "eclectic-resonance-uprising",
 				"status": "accepting",
-				"percentage": "10",
+				"percentage": "17",
 				"duration": "03:20",
-				"finished_tracks": "1",
+				"finished_tracks": "2",
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -77,13 +77,13 @@
 			},
 			{
 				"slug": "katamania",
-				"status": "about-to-release",
-				"percentage": "95",
-				"duration": "57:00",
+				"status": "completed",
+				"percentage": "10",
+				"duration": "57:43",
 				"finished_tracks": "14",
 				"deadline": "2023-12-09T23:59:59Z",
 				"mastering": {
-					"status": "pending",
+					"status": "completed",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "complete",
