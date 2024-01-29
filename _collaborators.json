@@ -503,6 +503,8 @@
 			"bandcamp": "https://litmus-star.bandcamp.com/music",
 			"youtube": "https://www.youtube.com/channel/UCGq8H6U1lBt0lNcnmn08kyw",
 			"soundcloud": "https://soundcloud.com/litmus_star",
+			"website": "https://linktr.ee/fivda",
+			"spotify": "https://open.spotify.com/intl-fr/artist/75Kv4UNjg8e2WYti6AT4VM",
 			"vgmdb": "https://vgmdb.net/artist/48925"
 		}
 	},
@@ -513,6 +515,8 @@
 			"bandcamp": "https://kodamasounds.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/fivda",
 			"youtube": "https://www.youtube.com/channel/UCiYBeqqQUagH-q-sAdsQPOw",
+			"website": "https://linktr.ee/fivda",
+			"spotify": "open.spotify.com/artist/75Kv4UNjg8e2WYti6AT4VM",
 			"vgmdb": "https://vgmdb.net/artist/59938"
 		}
 	},
@@ -537,7 +541,7 @@
 		"name": "Guo",
 		"links": {
 			"twitter": "https://twitter.com/Rattakoi",
-			"vgmdb": "https://vgmdb.net/artist/59920"
+			"vgmdb": "https://vgmdb.net/artist/59981"
 		}
 	},
 	"LkProd": {
@@ -547,22 +551,293 @@
 			"vgmdb": "https://vgmdb.net/artist/59921"
 		}
 	},
-	"Gao": {
-		"name": "Gao",
+	"soothingMelody": {
+		"name": "soothingMelody",
 		"links": {
-			"twitter": "https://twitter.com/Rattakoi",
-			"vgmdb": "https://vgmdb.net/artist/59981"
+			"twitter": "https://twitter.com/soothingMel0dy",
+			"bandcamp": "https://www.youtube.com/channel/UCiLHY6orOldLB-evgsx-5GA",
+			"youtube": "https://soothingmelody.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/soothingmelody",
+			"vgmdb": "https://vgmdb.net/artist/52149"
 		}
 	},
-	"sample": {
-		"name": "sample",
+	"Crisppyboat": {
+		"name": "Crisppyboat",
+		"links": {
+			"twitter": "https://twitter.com/CrisppyBoat",
+			"vgmdb": "https://vgmdb.net/artist/59920"
+		}
+	},
+	"cal": {
+		"name": "cal",
+		"links": {
+			"twitter": "https://twitter.com/vgmcal",
+			"vgmdb": "https://vgmdb.net/artist/60705"
+		}
+	},
+	"Leyrinne": {
+		"name": {
+			"en": "Leyrinne",
+			"jp": "レイリーン"
+		},
+		"links": {
+			"twitter": "https://twitter.com/leyrinne",
+			"youtube": "https://www.youtube.com/@Leyrinne",
+			"vgmdb": "https://vgmdb.net/artist/60704"
+		}
+	},
+	"Maxo": {
+		"name": "Maxo",
+		"links": {
+			"twitter": "https://twitter.com/maxotunes",
+			"facebook": "https://www.facebook.com/maxomusic",
+			"bandcamp": "https://maxo.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/user/MaxoBrooklyn",
+			"soundcloud": "https://soundcloud.com/maxo",
+			"vgmdb": "https://vgmdb.net/artist/48770"
+		}
+	},
+	"Monochrome": {
+		"name": "Monochrome",
+		"links": {
+			"twitter": "https://twitter.com/mediamonochrome",
+			"bandcamp": "https://monochromemedia.bandcamp.com",
+			"youtube": "https://www.youtube.com/c/Monochrome009",
+			"spotify": "https://open.spotify.com/intl-fr/artist/3X0oRJbUPUaB9cmB8mDQTA?si=zSBChDvdTiyxL3hlad9lSA",
+			"vgmdb": "https://vgmdb.net/artist/60697"
+		}
+	},
+	"Yuu Miyake": {
+		"name": {
+			"en": "Yuu Miyake",
+			"jp": "三宅優"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/1564"
+		}
+	},
+	"Yoshihito Yano": {
+		"name": {
+			"en": "Yoshihito Yano",
+			"jp": "矢野義人"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/896"
+		}
+	},
+	"Asuka Sakai": {
+		"name": {
+			"en": "Asuka Sakai",
+			"jp": "境亜寿香"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/897"
+		}
+	},
+	"Akitaka Tohyama": {
+		"name": {
+			"en": "Akitaka Tohyama",
+			"jp": "遠山明孝"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/1978"
+		}
+	},
+	"Yuri Misumi": {
+		"name": {
+			"en": "Yuri Misumi",
+			"jp": "三角由里"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/1982"
+		}
+	},
+	"Tomoki Kanda": {
+		"name": {
+			"en": "Tomoki Kanda",
+			"jp": "神田朋樹"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/60684"
+		}
+	},
+	"Hiroshi Okubo": {
+		"name": {
+			"en": "Hiroshi Okubo",
+			"jp": "大久保博"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/246"
+		}
+	},
+	"Torine": {
+		"name": {
+			"en": "Torine",
+			"jp": "トリ音"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/12543"
+		}
+	},
+	"Hideki Tobeta": {
+		"name": {
+			"en": "Hideki Tobeta",
+			"jp": "戸部田英樹"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/503"
+		}
+	},
+	"Kahimi Karie": {
+		"name": "Kahimi Karie",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/22369"
+		}
+	},
+	"telebasher": {
+		"name": "telebasher",
+		"links": {
+			"twitter": "https://twitter.com/_telebasher",
+			"bandcamp": "https://telebasher.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/telebasher",
+			"vgmdb": "https://vgmdb.net/artist/57028"
+		}
+	},
+	"Nuchuu": {
+		"name": "Nuchuu",
+		"links": {
+			"twitter": "https://twitter.com/Neema_Dreamer",
+			"bandcamp": "https://nuchuu.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCiqC6Ip0v8G0Y44VYne5JiA",
+			"soundcloud": "https://soundcloud.com/nuchuu-music",
+			"pixiv": "https://www.pixiv.net/en/users/56832475",
+			"vgmdb": "https://vgmdb.net/artist/60683",
+			"website": "https://linktr.ee/neemadreamer"
+		}
+	},
+	"PSYQUO": {
+		"name": "PSYQUO",
+		"links": {
+			"twitter": "https://twitter.com/PSYQUO_",
+			"bandcamp": "https://psyquo.bandcamp.com",
+			"spotify": "https://open.spotify.com/intl-fr/artist/5C7Wc7qxuhynsdfZ9ETs8u?si=LYrGZDrbRuusjNo8pHF8WQ",
+			"youtube": "https://www.youtube.com/channel/UCP14Evt7dZpOgJZ3ZBQFgHA",
+			"soundcloud": "https://soundcloud.com/psyquo",
+			"vgmdb": "https://vgmdb.net/artist/56093",
+			"website": "https://psyquo-site.pages.dev"
+		}
+	},
+	"Kurin T": {
+		"name": "Kurin T",
+		"links": {
+			"twitter": "https://twitter.com/kurint2",
+			"youtube": "https://www.youtube.com/channel/UCM72FSmYs6pculpgg7MH90Q",
+			"vgmdb": "https://vgmdb.net/artist/60703"
+		}
+	},
+	"SaraSandwich": {
+		"name": "SaraSandwich",
+		"links": {
+			"twitter": "https://twitter.com/sara_sandwich",
+			"youtube": "https://www.youtube.com/channel/UCaC7hkrccGgtnNAPtEznyFg",
+			"spotify": "https://open.spotify.com/intl-fr/artist/3FC2LFNLUB3JaTmgZxItRt?si=AJRzakG6RGSo2bPGCKsX_A",
+			"vgmdb": "https://vgmdb.net/artist/60706"
+		}
+	},
+	"Proticity": {
+		"name": "Proticity",
+		"links": {
+			"youtube": "https://www.youtube.com/@Proticity",
+			"vgmdb": "https://vgmdb.net/artist/60707"
+		}
+	},
+	"worpp": {
+		"name": "worpp",
+		"links": {
+			"twitter": "https://twitter.com/worpp_",
+			"bandcamp": "https://worpp.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCuwYmOBOEiM7hqP0C_P38iA",
+			"soundcloud": "https://soundcloud.com/worpp",
+			"spotify": "https://open.spotify.com/intl-fr/artist/7iVjVRKWB6IYTmzkuOUE87?si=43Ib0l47SEq2TNLqoxMcDg",
+			"apple": "https://music.apple.com/us/artist/worpp/1489460664",
+			"vgmdb": "https://vgmdb.net/artist/60708",
+			"website": "https://www.worpp.studio"
+		}
+	},
+	"In Love With A Ghost": {
+		"name": "In Love With A Ghost",
+		"links": {
+			"twitter": "https://twitter.com/LVGHSTmusic",
+			"bandcamp": "https://inlovewithaghost.bandcamp.com",
+			"facebook": "https://www.facebook.com/LVGHSTmusic/",
+			"youtube": "https://www.youtube.com/channel/UCSCIeZFgWF5ZNmvNVG16WHQ",
+			"apple": "https://music.apple.com/us/artist/in-love-with-a-ghost/822358002",
+			"spotify": "https://open.spotify.com/intl-fr/artist/21tDFddcOFDYmiobTcls2O",
+			"soundcloud": "https://soundcloud.com/in-love-with-a-ghost",
+			"vgmdb": "https://vgmdb.net/artist/28022",
+			"website": "https://ilwag.com"
+		}
+	},
+	"ludosmo": {
+		"name": "ludosmo",
+		"links": {
+			"twitter": "https://twitter.com/ludosmo",
+			"bandcamp": "https://ludosmo.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UC0zrz5uK74eRTGmxuKn2W9w",
+			"soundcloud": "https://soundcloud.com/ludosmo",
+			"vgmdb": "https://vgmdb.net/artist/60716"
+		}
+	},
+	"rinaten": {
+		"name": "rinaten",
+		"links": {
+			"twitter": "https://twitter.com/rinaten",
+			"vgmdb": "https://vgmdb.net/artist/60775"
+		}
+	},
+	"Milkychan": {
+		"name": "Milkychan",
+		"links": {
+			"twitter": "https://twitter.com/Milkeechan",
+			"spotify": "https://open.spotify.com/intl-fr/artist/0nAMtTaunBIAhK9PRyvtvK?si=7S4C0J-oTJuLOiIuUDEyKA",
+			"bandcamp": "https://milkychan.bandcamp.com",
+			"youtube": "https://www.youtube.com/c/Milkychan",
+			"soundcloud": "https://soundcloud.com/milkychan",
+			"vgmdb": "https://vgmdb.net/artist/35793"
+		}
+	},
+	"Aamna": {
+		"name": "Aamna",
+		"links": {
+			"twitter": "https://twitter.com/aamnyaa",
+			"youtube": "https://www.youtube.com/c/AamnaYT",
+			"vgmdb": "https://vgmdb.net/artist/50008"
+		}
+	},
+	"Akira Complex": {
+		"name": "Akira Complex",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/14322"
+		}
+	},
+	"FrancisRave": {
+		"name": "FrancisRave",
+		"links": {
+			"twitter": "https://twitter.com/FrancisRave",
+			"bandcamp": "https://francisrave.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/francisrave",
+			"vgmdb": "https://vgmdb.net/artist/47390"
+		}
+	},
+	"Sample": {
+		"name": "Sample",
 		"links": {
 			"twitter": "link",
 			"bandcamp": "link",
 			"youtube": "link",
 			"soundcloud": "link",
-			"vgmdb": "link",
-			"website": "link"
+			"website": "link",
+			"vgmdb": "link"
 		}
 	}
 }

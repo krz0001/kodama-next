@@ -101,5 +101,15 @@
         "booth": "https://kodamasoft.booth.pm/items/5207803",
         "website": "/releases/gensokyo-party-vol4",
         "vgmdb": "https://vgmdb.net/album/125842"
-    }    
+    },
+    "katamania": {
+        "id": "KSDL-0011",
+        "name": "Katamania!! -a Katamari tribute album-",
+        "cover": "/assets/discography/covers/0011.png",
+        "coverColor": "#953531",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/katamania-a-katamari-tribute-album",
+        "booth": "https://kodamasoft.booth.pm/items/5344997",
+        "website": "/releases/katamania",
+        "vgmdb": "https://vgmdb.net/album/125841"
+    }
 }

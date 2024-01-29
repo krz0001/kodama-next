@@ -1,7 +1,7 @@
 import {FaBandcamp, FaGlobe} from 'react-icons/fa';
 import BoothSVG from '../public/assets/icons/booth.svg'
 import albumsJSON from '/public/assets/discography/albums.json'
-import Image from "next/legacy/image";
+import Image from "next/image";
 import useTranslation from 'next-translate/useTranslation'
 
 export default function AlbumListing({ slug }) {
@@ -21,7 +21,7 @@ export default function AlbumListing({ slug }) {
         <div className="not-prose group relative w-full md:max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl flex flex-col md:flex-row my-5 transition">
 
             <div className="relative h-52 w-52 my-5 mx-auto md:m-5 md:mr-0 aspect-square rounded-md shadow-lg transition overflow-clip flex-none" style={{ backgroundColor : album.coverColor }}>
-                <Image src={album.cover} alt={album.name} layout="fill" sizes="13rem" quality={100} priority/>
+                <Image src={album.cover} alt={album.name} sizes="13rem" quality={100} priority={true} width={208} height={208} />
             </div>
 
             <div className="flex flex-col flex-initial py-5 px-10">

@@ -8,9 +8,9 @@ import { useRouter } from 'next/router'
 export default function ReleaseTrack({ track, key }) {
 	const { locale } = useRouter()
 
-	function Track({ key, track, locale }) {
+	function Track({ trackKey, track, locale }) {
 		return (
-			<div className="container max-w-screen-sm mx-auto mb-4 flex content-start items-start px-2 md:px-8" key={key}>
+			<div className="container max-w-screen-sm mx-auto mb-4 flex content-start items-start px-2 md:px-8" key={trackKey}>
 				<div className={trackStyles.track_number}>
 					{track[0].padStart(2, '0')}
 				</div>
@@ -35,12 +35,12 @@ export default function ReleaseTrack({ track, key }) {
 	}
 
 	if (track[1].description === undefined) {
-		return <Track track={track} key={key} />
+		return <Track track={track} trackKey={key} />
 	}
 	return (
 		<Disclosure className="accordion mb-4" key={key} as="div">
 			<Disclosure.Button className="w-full flex max-w-screen-md mx-auto">
-				<Track track={track} key={key} locale={locale} />
+				<Track track={track} trackKey={key} locale={locale} />
 				<ChevronRightIcon className="ui-open:rotate-90 ui-open:transform transition inline-block h-9 w-9 relative top-0.5 justify-self-end shrink-0 ml-2" />
 			</Disclosure.Button>
 
