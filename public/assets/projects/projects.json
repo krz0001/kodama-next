@@ -5,29 +5,29 @@
 			{
 				"slug": "eclectic-resonance-uprising-2",
 				"status": "accepting",
-				"percentage": "17",
-				"duration": "03:20",
-				"finished_tracks": "2",
+				"percentage": "40",
+				"duration": "25:47",
+				"finished_tracks": "4",
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "blobdash"
 				},
-				"artwork_comission": "Pending",
+				"artwork_comission": "sketching",
 				"color": "#fbbf24"
 			},
 			{
 				"slug": "eclectic-resonance-memories",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "30",
+				"duration": "08:40",
+				"finished_tracks": "2",
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "Laz (Lazer Burn Audio)"
 				},
-				"artwork_comission": "Pending",
+				"artwork_comission": "complete",
 				"color": "#f472b6"
 			},
 			{
