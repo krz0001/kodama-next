@@ -77,20 +77,6 @@
 		"cat_slug": "tribute-albums",
 		"projects": [
 			{
-				"slug": "katamania",
-				"status": "accepting",
-				"percentage": "25",
-				"duration": "04:24",
-				"finished_tracks": "1",
-				"deadline": "2023-12-09T23:59:59Z",
-				"mastering": {
-					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "complete",
-				"color": "#f472b6"
-			},
-			{
 				"slug": "midnight-syndrome",
 				"status": "accepting",
 				"percentage": "0",
@@ -144,32 +130,17 @@
 				"color": "#7dd3fc"
 			},
 			{
-				"slug": "katamania",
-				"status": "completed",
-				"percentage": "10",
-				"duration": "57:43",
+				"slug": "katamania-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
 				"finished_tracks": "14",
-				"deadline": "2023-12-09T23:59:59Z",
 				"mastering": {
 					"status": "completed",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "complete",
-				"color": "#f472b6"
-			},
-			{
-				"slug": "midnight-syndrome",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"deadline": "2024-07-20T23:59:59Z",
-				"mastering": {
-					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
 				"artwork_comission": "pending",
-				"color": "#e94242"
+				"color": "#f472b6"
 			}
 
 		]
