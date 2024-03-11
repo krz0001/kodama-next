@@ -183,7 +183,8 @@
 				"duration": "00:00",
 				"finished_tracks": "0",
 				"mastering": {
-					"status": "pending"
+					"status": "pending",
+					"engineer": "R-Man (Resonant Union)"
 				},
 				"artwork_comission": "pending",
 				"color": "#6ee7b7"
