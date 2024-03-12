@@ -8,25 +8,25 @@
 
             "completed": "Completed",
             "ongoing": "進行中",
-            "accepting": "Accepting Submissions",
+            "accepting": "応募受付中",
             "cancelled": "Cancelled",
             "about-to-release": "About to Release"
         },
-        "deadline": "Deadline",
+        "deadline": "締切",
         "release-info": "Releases Information",
         "current-project": "Current Project",
         "past-releases": "Past Releases"
     },
     "eclectic-resonance": {
         "name": "ECLECTIC RESONANCE",
-        "desc": "ECLECTIC RESONANCEは、私たちのオリジナルワークブランドアルバムです。それぞれの接尾語は、特定のスタイルやジャンルを指向していることを意味します。気に入ったアルバムがあるかもしれませんので、ぜひそれぞれのアルバムをチェックしてみてください！",
+        "desc": "ECLECTIC RESONANCEは、私たちのオリジナルワークブランドアルバムです。それぞれの接尾は、特定のスタイルやジャンルを指向していることを意味します。気に入ったアルバムがあるかもしれないので、ぜひそれぞれのアルバムをチェックしてみてください！",
         "eclectic-resonance-uprising": {
             "title": "ECLECTIC RESONANCE UPRISING",
-            "themes": "オリジナル、J-Core、ハードコアテクノ"
+            "themes": "オリジナル、J-Core、Hardcore Techno"
         },
         "eclectic-resonance-uprising-2": {
             "title": "ECLECTIC RESONANCE UPRISING 2",
-            "themes": "オリジナル、J-Core、ハードコアテクノ"
+            "themes": "オリジナル曲、Hard Rock、Metal、Acoustic、ギター中心"
         },
         "eclectic-resonance-detuned-alloy": {
             "title": "ECLECTIC RESONANCE Detuned Alloy",
@@ -54,27 +54,27 @@
         "desc": "これは、特定のシリーズやゲームを中心とするアルバムです。ガイドラインに沿っていれば、スタイルやジャンルは問いません。イメージソングもOKです。",
         "moonstruck-analogy-ii": {
             "title": "Moonstruck Analogy -a TYPE-MOON tribute album- II",
-            "themes": "TYPE-MOON centered album (Fate/stay night, 月姫…)"
+            "themes": "TYPE-MOON中心 (Fate/stay night、月姫…)"
         },
         "fragments-of-gratitude-ii": {
             "title": "Fragments of Gratitude -a When They Cry tribute album- II",
-            "themes": "07th Expansion centered album (ひぐらしのなく頃に, うみねこのなく頃に…)"
+            "themes": "07th Expansion中心 (ひぐらしのなく頃に、 うみねこのなく頃に…)"
         },
         "katamania": {
             "title": "Katamania!! -a Katamari tribute album-",
-            "themes": "塊魂 centered album"
+            "themes": "塊魂シリーズ中心"
         },
         "katamania-2": {
             "title": "Katamania!! 2?! -a Katamari tribute album-",
-            "themes": "塊魂 centered album"
+            "themes": "塊魂シリーズ中心"
         },
         "midnight-syndrome": {
             "title": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
-            "themes": "Grasshopper Manufacture / SUDA51 centered album"
+            "themes": "グラスホッパー・マニファクチュア / SUDA51中心"
         },
         "vanilla-parfait": {
             "title": "Vanilla Parfait -a Vanillaware tribute album-",
-            "themes": "Vanillaware tribute album (十三機兵防衛圏, 朧村正, Odin Sphere...)"
+            "themes": "Vanillaware tribute album (十三機兵防衛圏、朧村正、オーディンスフィア...)"
         }
     },
     "gensokyo-party": {
@@ -82,27 +82,27 @@
         "desc": "Gensokyo Partyは東方シリーズを中心とする様々なスタイルのアルバムシリーズです。",
         "gensokyo-party-5-vantablack-2": {
             "title": "Gensokyo Party Vol. 5 Gensokyo Party VANTABLACK 2",
-            "themes": "\"Gensokyo at War\" (ダークな雰囲気, 実験的, メタル, ハードコア...)"
+            "themes": "\"Gensokyo at War\" (ダークな雰囲気、Experimental、Metal、Hardcore...)"
         },
         "gensokyo-party-6-border-in-stasis": {
             "title": "Gensokyo Party Vol. 6 Border in Stasis",
-            "themes": "\"Gensokyo in Ruins\" (アートコア, IDM, クラシック, オーケストラ...)"
+            "themes": "\"Gensokyo in Ruins\" (Artcore、IDM、Classical、Orchestral...)"
         },
         "gensokyo-party-3-moriya-barista":{
             "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "\"Gensokyo at Peace\" (のんびりとした雰囲気, ジャズ, ローテンポ...)"
+            "themes": "\"Gensokyo at Peace\" (のんびりとした雰囲気、Jazz、Lowtempo...)"
         },
         "moriya-barista-2":{
             "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "\"Gensokyo at Peace\" (のんびりとした雰囲気, ジャズ, ローテンポ...)"
+            "themes": "\"Gensokyo at Peace\" (のんびりとした雰囲気、Jazz、Lowtempo...)"
         },
         "gensokyo-party-4-dj-koishi": {
             "title": "Gensokyo Party DJ Koishi",
-            "themes": "\"Gensokyo on the Dancefloor\" (クラブ, EDM, トランス...)"
+            "themes": "\"Gensokyo on the Dancefloor\" (Club、EDM、Trance...)"
         },
         "dj-koishi-2": {
             "title": "Gensokyo Party DJ Koishi 2",
-            "themes": "\"Gensokyo on the Dancefloor\" (クラブ, EDM, トランス...)"
+            "themes": "\"Gensokyo on the Dancefloor\" (Club、EDM、Trance...)"
         }
     }
 }
