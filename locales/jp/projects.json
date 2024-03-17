@@ -1,21 +1,32 @@
 {
+    "faq-cta": "全アルバム共通のルールと応募の仕方はこちら",
     "common" : {
         "themes": "テーマ",
         "status": "現状",
         "statuses": {
-            "pending": "Pending",
-            "sketching": "Sketching",
-
-            "completed": "Completed",
+            "pending": "保留中",
             "ongoing": "進行中",
+            "sketching": "ジャケットアートワークを作成中",
+
+            "completed": "完成",
             "accepting": "応募受付中",
-            "cancelled": "Cancelled",
-            "about-to-release": "About to Release"
+            "cancelled": "中止",
+            "about-to-release": "もうすぐリリース"
         },
         "deadline": "締切",
-        "release-info": "Releases Information",
-        "current-project": "Current Project",
-        "past-releases": "Past Releases"
+        "release-info": "アルバム詳細",
+        "current-project": "現在進行中のプロジェクト",
+        "past-releases": "今までのアルバム"
+    },
+    "project-info": {
+        "album-title": "アルバムのタイトル",
+        "status": "ステータス",
+        "approximate-completion": "完成率の目安",
+        "current-duration": "現在の長さ",
+        "current-number-of-finished-tracks": "現在の完成曲数",
+        "mastering-engineer": "マスタリングエンジニア",
+        "mastering-status": "マスタリングステータス",
+        "artwork-commission": "ジャケット画像の依頼"
     },
     "eclectic-resonance": {
         "name": "ECLECTIC RESONANCE",

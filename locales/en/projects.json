@@ -1,4 +1,5 @@
-{
+{  
+    "faq-cta": "You can check the rules & submission patterns common to all releases here.",
     "common" : {
         "themes": "Themes",
         "status": "Status",
@@ -16,6 +17,16 @@
         "release-info": "Releases Information",
         "current-project": "Current Project",
         "past-releases": "Past Releases"
+    },
+    "project-info": {
+        "album-title": "Album Title",
+        "status": "Status",
+        "approximate-completion": "Approximate Completion",
+        "current-duration": "Current Duration",
+        "current-number-of-finished-tracks": "Current Number of Finished Tracks",
+        "mastering-engineer": "Mastering Engineer",
+        "mastering-status": "Mastering Status",
+        "artwork-commission": "Artwork Commission"
     },
     "eclectic-resonance": {
         "name": "ECLECTIC RESONANCE",
