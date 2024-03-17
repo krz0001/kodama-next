@@ -20,7 +20,7 @@ public: false
 
 興味のありそうなアーティストにシェアしていただけると、とても助かります。
 
-## リリース情報
+## アルバム詳細
 
 - **アルバムタイトル** Gensokyo Party Vol. 3 Moriya Barista
 - **カタログ** KSDL-0007
@@ -39,7 +39,7 @@ public: false
 - 言うまでもなく、他人の仕事をを盗まないこと。他人の作品を自分のものだと主張しない限り、リサンプリングは問題ないはずです。
 - プロジェクトに関する情報を勝手に知らせないこと。
 - あなたの作品の明らかなクレジットを送ってください。詳細については、以下の適切なトピックで説明しています。
-- このプロジェクトに興味があることを、遅く（例えば、ある部分の締切が過ぎた後）に知らせないでください。プロジェクトには詳しい締め切りがあり、遅い追加は避けたいと思っています。
+- このプロジェクトに興味があることを、遅く（例えば、ある部分の締切が過ぎた後）に知らせないでください。プロジェクトには詳しい締切があり、遅い追加は避けたいと思っています。
 
 ## 締切
 
@@ -176,11 +176,11 @@ https://yourbandcampusername.bandcamp.com
 KodamaSoftの連絡先です。
 - Discordサーバー [https://discordapp.com/invite/9ZmHv3r](https://discordapp.com/invite/9ZmHv3r)
 - メール: kodamateam@gmail.com.
-- ツイッター KodamaSoft（@KodamaSoft)
+- X KodamaSoft（@KodamaSoft)
 
 プロジェクトリーダーであるFivdaの連絡先。
 - Discord（ディスコード）。Fivda
-- ツイッター Fivda_
+- X Fivda_
 - メール：fivdaaurion@gmail.com
 
 マスタリングエンジニアのmalicentの連絡先です。
