@@ -1,17 +1,17 @@
 {
 	"home": {
-		"description": "FUUUUCKKK!!! I HATE IT",
+		"description": "2017年頃、Fivdaに創立されたフランスの同人サークル<strong>KodamaSoft/KodamaSounds</strong>にようこそ！KodamaSoundsでは様々なオリジナルアルバム、アレンジアルバムなど、KodamaSoftではゲーム、ゲーム開発関連のツールの制作、イベントの開催に心を込めています！<a>DiscordでKodamaSoft/KodamaSoundsのアーティスト同士の強いコミュニティ</a>に参加したらどうでしょうか？！",
 		"soft": {
-			"title": "FUUUUCKKK!!! I HATE IT",
-			"lead": "FUUUUCKKK!!! I HATE IT",
-			"description": "FUUUUCKKK!!! I HATE IT"
+			"title": "KodamaSoft",
+			"lead": "ゲーム、ソフトなどに関するもの",
+			"description": "KodamaSoftは、ゲーム開発、特にビジュアルノベルの支部です。現在進行中のプロジェクトは、開発中の- KODAMA COMET -Stellar Sanctuary-です。詳しくは専用ページに！"
 		},
 		"sounds": {
-			"title": "FUUUUCKKK!!! I HATE IT",
-			"lead": "FUUUUCKKK!!! I HATE IT",
-			"description": "FUUUUCKKK!!! I HATE IT",
-			"link": "FUUUUCKKK!!! I HATE IT",
-			"games": ""
+			"title": "KodamaSounds",
+			"lead": "音楽に関するもの",
+			"description": "KodamaSoundsは2020年から、KodamaSoftよりも活気的です。8枚以上のアルバム、100曲以上の楽曲を制作してきました。今後もアルバム企画は止むことなく続いて、誰でも参加できます！",
+			"link": "ディスコグラフィーは<a>こちら</a>！",
+			"games": "また、KodamaSoundsを通してStellar Sanctuaryなどの自主制作ゲームのサウンドトラックをリリースするつもりですし、2024年リリース予定の東方ファンゲームの「Touhou Fractured Transience」のサウンドトラックも制作中なので、お楽しみにしてくださいね！ "
 		},
 		"blog_header": "当社のブログ記事"
 	},
