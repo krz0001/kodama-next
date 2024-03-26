@@ -14,21 +14,23 @@
 	"words": {
 		"by": "by",
 		"written_by": "Written by",
-		"readmore": "Read more"
+		"readmore": "Read more",
+		"download": "Download",
+		"streaming": "Streaming"
 	},
 	"home": {
 		"description": "Welcome to <strong>KodamaSoft / KodamaSounds</strong>, home of a France based doujin circle founded around 2017 by Fivda! We are actively working on original / arrange albums of all kinds under KodamaSounds, and progressively building video games, tools and events relating to game development under KodamaSoft. We hope you enjoy your stay, and why not try to join our strong united <a>community of artists on Discord</a> to contribute yourself?!",
 		"soft": {
 			"title": "KodamaSoft",
-      "lead" : "for all things related to game and software.",
+			"lead": "for all things related to game and software.",
 			"description": "KodamaSoft is our ongrowing branch for video game development, specifically visual novels at the current time - KODAMA COMET -Stellar Sanctuary- being our current project, still in development. Read more about it on the dedicated page!"
 		},
 		"sounds": {
 			"title": "KodamaSounds",
-      "lead" : "for all things related to music.",
+			"lead": "for all things related to music.",
 			"description": "KodamaSounds has been our lead since 2020. We have produced a dozen of album compilations and more than a hundred tracks, with a constant stream of planned album projects for years to come, to which anyone can freely contribute to.",
-      "link": "Check out our full <a>discography</a> here!",
-      "games": "We will also be using KodamaSounds to release soundtracks and arrange albums of our very own self-released games, such as Stellar Sanctuary, and are also currently sound producing the soundtrack for Touhou Fractured Transience, a Touhou fangame -so keep an eye out for all that!"
+			"link": "Check out our full <a>discography</a> here!",
+			"games": "We will also be using KodamaSounds to release soundtracks and arrange albums of our very own self-released games, such as Stellar Sanctuary, and are also currently sound producing the soundtrack for Touhou Fractured Transience, a Touhou fangame -so keep an eye out for all that!"
 		},
 		"blog_header": "Our blog posts"
 	},

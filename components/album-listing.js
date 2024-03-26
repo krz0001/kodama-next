@@ -23,7 +23,7 @@ export default function AlbumListing({ slug }) {
     }
 
     return (
-        <div className="not-prose group relative w-full md:max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl flex flex-col md:flex-row my-5 transition">
+        <div className="not-prose group relative w-full md:max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl flex flex-col md:flex-row my-5 transition items-center">
 
             <div className="relative h-52 w-52 my-5 mx-auto md:m-5 md:mr-0 aspect-square rounded-md shadow-lg transition overflow-clip flex-none" style={{ backgroundColor: album.coverColor }}>
                 <Image src={album.cover} alt={album.name} sizes="13rem" quality={100} priority={true} width={208} height={208} />
@@ -36,17 +36,8 @@ export default function AlbumListing({ slug }) {
                     </span>
                     <h2 className="text-2xl font-semibold">{album.name}</h2>
                 </div>
+
                 <div className="flex flex-wrap mt-4 gap-4">
-                    <a href={album.bandcamp} className="kodama_btn kodama_btn--primary">
-                        <FaBandcamp className='h-4 w-4 mr-2' />
-                        Bandcamp
-                    </a>
-
-                    <a href={album.booth} className="kodama_btn kodama_btn--primary">
-                        <BoothSVG className='h-4 w-4 mr-2' />
-                        BOOTH
-                    </a>
-
                     <a href={album.website} className="kodama_btn kodama_btn--primary">
                         <FaGlobe className='h-4 w-4 mr-2' />
                         Website
@@ -64,7 +55,24 @@ export default function AlbumListing({ slug }) {
                         </a>
                         : null}
                 </div>
-                <div className="flex flex-wrap mt-4 gap-4">
+
+                <h3 className="text-lg font-semibold mt-4">{t('common:words.download')}</h3>
+                <div className="flex flex-wrap mt-2 gap-4">
+                    <a href={album.bandcamp} className="kodama_btn kodama_btn--primary">
+                        <FaBandcamp className='h-4 w-4 mr-2' />
+                        Bandcamp
+                    </a>
+
+                    <a href={album.booth} className="kodama_btn kodama_btn--primary">
+                        <BoothSVG className='h-4 w-4 mr-2' />
+                        BOOTH
+                    </a>
+                </div>
+
+                { (album.appleMusic || album.spotify || album.deezer || album.youtubeMusic) && 
+                    <h3 className="text-lg font-semibold mt-4">{t('common:words.streaming')}</h3>
+                }
+                <div className="flex flex-wrap mt-2 gap-4">
                     {album.appleMusic ?
                         <a href={album.appleMusic} className="kodama_btn kodama_btn--secondary">
                             <SiApplemusic className='h-4 w-4 mr-2' />
@@ -72,26 +80,26 @@ export default function AlbumListing({ slug }) {
                         </a>
                         : null}
 
-                    {album.spotify ?
-                    <a href={album.spotify} className="kodama_btn kodama_btn--secondary">
-                        <FaSpotify className='h-4 w-4 mr-2' />
-                        Spotify
-                    </a>
-                    : null}
-
                     {album.deezer ?
-                    <a href={album.deezer} className="kodama_btn kodama_btn--secondary">
-                        <DeezerSVG className='h-4 w-4 mr-2' />
-                        Deezer
-                    </a>
-                    : null}
+                        <a href={album.deezer} className="kodama_btn kodama_btn--secondary">
+                            <DeezerSVG className='h-4 w-4 mr-2' />
+                            Deezer
+                        </a>
+                        : null}
+
+                    {album.spotify ?
+                        <a href={album.spotify} className="kodama_btn kodama_btn--secondary">
+                            <FaSpotify className='h-4 w-4 mr-2' />
+                            Spotify
+                        </a>
+                        : null}
 
                     {album.youtubeMusic ?
-                    <a href={album.youtubeMusic} className="kodama_btn kodama_btn--secondary">
-                        <SiYoutubemusic className='h-4 w-4 mr-2' />
-                        YouTube Music
-                    </a>
-                    : null}
+                        <a href={album.youtubeMusic} className="kodama_btn kodama_btn--secondary">
+                            <SiYoutubemusic className='h-4 w-4 mr-2' />
+                            YouTube Music
+                        </a>
+                        : null}
 
                 </div>
             </div>
