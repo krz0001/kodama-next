@@ -54,7 +54,7 @@ export default function AlbumListing({ slug }) {
 
                     {album.vgmdb ?
                         <a href={album.vgmdb} className="kodama_btn kodama_btn--primary">
-                            VGMDB
+                            VGMdb
                         </a>
                         : null}
 
@@ -63,7 +63,8 @@ export default function AlbumListing({ slug }) {
                             THB WIKI
                         </a>
                         : null}
-
+                </div>
+                <div className="flex flex-wrap mt-4 gap-4">
                     {album.appleMusic ?
                         <a href={album.appleMusic} className="kodama_btn kodama_btn--secondary">
                             <SiApplemusic className='h-4 w-4 mr-2' />
