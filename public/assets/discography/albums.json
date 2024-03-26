@@ -1,6 +1,7 @@
 {
     "gensokyo-party": {
         "id": "KSDL-0001",
+        "releaseDate": "2020-12-30T00:00:00+0200",
         "name": "Gensokyo Party Vol. 1",
         "cover": "/assets/discography/covers/0001.jpg",
         "coverColor": "#7e6051",
@@ -12,6 +13,7 @@
     }, 
     "moonstruck-analogy": {
         "id": "KSDL-0002",
+        "releaseDate": "2021-12-30T00:00:00+0200",
         "name": "Moonstruck Analogy -a TYPE​-​MOON tribute album-",
         "cover": "/assets/discography/covers/0002.png",
         "coverColor": "#474a5b",
@@ -22,6 +24,7 @@
     }, 
     "gensokyo-party-2-vantablack": {
         "id": "KSDL-0003",
+        "releaseDate": "2021-12-30T00:00:00+0200",
         "name": "Gensokyo Party Vol. 2 VANTABLACK",
         "cover": "/assets/discography/covers/0003.png",
         "coverColor": "#725f5b",
@@ -33,26 +36,37 @@
     },
     "eclectic-resonance-dawn": {
         "id": "KSDL-0004",
+        "releaseDate": "2022-04-24T00:00:00+0200",
         "name": "ECLECTIC RESONANCE ~Dawn~",
         "cover": "/assets/discography/covers/0004.jpg",
         "coverColor": "#4e385d",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dawn",
         "booth": "https://kodamasoft.booth.pm/items/3763619",
         "website": "https://eclecticresonance-dawn.tumblr.com/",
+        "appleMusic": "http://itunes.apple.com/album/id/1683188875",
+        "spotify": "https://open.spotify.com/album/4SEtuGuPC0c8ul62ytNbnm",
+        "deezer": "https://www.deezer.com/album/431478877",
+        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lM2mKjvZeZsEpFr8P30k1xJs38npnEChY",
         "vgmdb": "https://vgmdb.net/album/117492"
     },
     "eclectic-resonance-dusk": {
         "id": "KSDL-0005",
+        "releaseDate": "2022-04-24T00:00:00+0200",
         "name": "ECLECTIC RESONANCE ~Dusk~",
         "cover": "/assets/discography/covers/0005.jpg",
         "coverColor": "#7a3f20",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dusk",
         "booth": "https://kodamasoft.booth.pm/items/3793016",
         "website": "https://eclecticresonance-dusk.tumblr.com/",
+        "appleMusic": "https://music.apple.com/album/eclectic-resonance-dawn/1682957437",
+        "spotify": "https://open.spotify.com/intl-fr/album/2y8xINYomI06RIz3fp4IR2",
+        "deezer": "https://www.deezer.com/album/430865907",
+        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kruw5pUjAV0cW90XHihJXm2NKZ4YYN1So",
         "vgmdb": "https://vgmdb.net/album/119738"
     },
     "fragments-of-gratitude": {
         "id": "KSDL-0006",
+        "releaseDate": "2022-08-13T00:00:00+0200",
         "name": "Fragments of Gratitude -a When They Cry tribute album-",
         "cover": "/assets/discography/covers/0006.png",
         "coverColor": "#fff9f3",
@@ -63,6 +77,7 @@
     },
     "gensokyo-party-3-moriya-barista": {
         "id": "KSDL-0007",
+        "releaseDate": "2022-12-30T00:00:00+0200",
         "name": "Gensokyo Party Vol. 3 Moriya Barista",
         "cover": "/assets/discography/covers/0007.jpg",
         "coverColor": "#bf6666",
@@ -74,6 +89,7 @@
     },
     "eclectic-resonance-uprising": {
         "id": "KSDL-0008",
+        "releaseDate": "2023-04-30T00:00:00+0200",
         "name": "ECLECTIC RESONANCE UPRISING",
         "cover": "/assets/discography/covers/0008.png",
         "coverColor": "#ffc09b",
@@ -84,6 +100,7 @@
     },
     "eclectic-resonance-detuned-alloy":{
         "id": "KSDL-0009",
+        "releaseDate": "2023-10-29T00:00:00+0200",
         "name": "ECLECTIC RESONANCE Detuned Alloy",
         "cover": "/assets/discography/covers/0009.png",
         "coverColor": "#7d0803",
@@ -94,6 +111,7 @@
     },
     "gensokyo-party-4-dj-koishi": {
         "id": "KSDL-0010",
+        "releaseDate": "2023-11-12T00:00:00+0200",
         "name": "Gensokyo Party Vol. 4 DJ Koishi",
         "cover": "/assets/discography/covers/0010.png",
         "coverColor": "#f7f7f7",
@@ -104,6 +122,7 @@
     },
     "katamania": {
         "id": "KSDL-0011",
+        "releaseDate": "2023-12-30T00:00:00+0200",
         "name": "Katamania!! -a Katamari tribute album-",
         "cover": "/assets/discography/covers/0011.png",
         "coverColor": "#953531",
