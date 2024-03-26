@@ -1,12 +1,27 @@
 {
 	"home": {
+		"description": "FUUUUCKKK!!! I HATE IT",
+		"soft": {
+			"title": "FUUUUCKKK!!! I HATE IT",
+			"lead": "FUUUUCKKK!!! I HATE IT",
+			"description": "FUUUUCKKK!!! I HATE IT"
+		},
+		"sounds": {
+			"title": "FUUUUCKKK!!! I HATE IT",
+			"lead": "FUUUUCKKK!!! I HATE IT",
+			"description": "FUUUUCKKK!!! I HATE IT",
+			"link": "FUUUUCKKK!!! I HATE IT",
+			"games": ""
+		},
+		"blog_header": "当社のブログ記事"
+	},
+	"home_legacy": {
 		"title": "コダマソフト / コダマサウンズのオフィシャルサイトへようこそ。",
 		"content": {
 			"1": "私たちは同人・インディーズサークルで、ゲームや出版物、音楽アルバムなど、世界中の人々が作った最高の種類の視聴覚作品を紹介することを目的としています。このサークルは、2017年にFivdaによって設立されました。\"KODAMA COMET -Stellar Sanctuary-\"という、現在も開発中のビジュアルノベルを最初のプロジェクトとしています。",
 			"2": "名前から想像できるように、私たちのサークルは2つに分かれています：<ul><li>ソフトやゲームに関することなら「コダマソフト」。</li><li>音楽にまつわることならKodamaSounds。</li></ul>",
 			"3": "KodamaSoundsは今、私たちの強力なリードです。<bandcamp>Bandcamp</bandcamp>と<booth>BOOTH</booth>で5枚のアルバムを発表しており、今後数年間はさらに多くのアルバムを予定しています。私たちは、多くの日本の同人サークルと同じ出版精神を持っていますが、私たちの野心は、特定のシリーズや音楽のスタイルに焦点を当てたものではありません。オリジナル作品であれ、アレンジプロジェクトであれ、新人の音楽家から有名なベテランまで、できる限り多くのアーティストをアルバムに起用したいと考えています。現在進行中のプロジェクトのリストをご覧ください！"
-		},
-		"blog_header": "当社のブログ記事"
+		}
 	},
 	"projects": {
 		"presentation": {
