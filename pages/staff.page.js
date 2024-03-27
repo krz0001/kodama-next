@@ -56,7 +56,7 @@ export default function Staff({ }) {
                             <h2>Former Staff</h2>
                             {staffJson.map((staff, index) => (
                                 (typeof staff._legacy !== 'undefined') ?
-                                    <div>
+                                    <div key={index}>
                                         {staff.name} ({staff.role}, {staff.legacyStatus})
                                     </div>
                                     : null
