@@ -10,7 +10,7 @@ import { Disclosure, Transition } from '@headlessui/react'
 export default function Header() {
 	let links = [
 		{ href: '/', label: 'Home' },
-		{ href: '/games', label: 'Games' },
+		{ href: '/kodamasoft', label: 'KodamaSoft' },
 		{ href: '/discography', label: 'Discography' },
 		{ href: '/projects', label: 'Projects' },
 		{ href: '/staff', label: 'Team' },

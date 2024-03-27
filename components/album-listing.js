@@ -3,6 +3,8 @@ import { SiApplemusic, SiYoutubemusic } from "react-icons/si";
 
 import BoothSVG from '../public/assets/icons/booth.svg'
 import DeezerSVG from '../public/assets/icons/deezer.svg'
+import ThbwikiSVG from '../public/assets/icons/thbwiki.svg'
+import VgmdbSVG from '../public/assets/icons/vgmdb.svg'
 
 import albumsJSON from '/public/assets/discography/albums.json'
 import Image from "next/image";
@@ -45,12 +47,14 @@ export default function AlbumListing({ slug }) {
 
                     {album.vgmdb ?
                         <a href={album.vgmdb} className="kodama_btn kodama_btn--primary">
+                            <VgmdbSVG className='h-4 w-4 mr-2' />
                             VGMdb
                         </a>
                         : null}
 
                     {album.thbwiki ?
                         <a href={album.thbwiki} className="kodama_btn kodama_btn--primary">
+                            <ThbwikiSVG className='h-4 w-4 mr-2' />
                             THB WIKI
                         </a>
                         : null}

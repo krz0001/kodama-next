@@ -49,14 +49,19 @@ export default function Staff({ }) {
                                         </div>
                                         <p className="col-span-2 mt-2 w-full">{staff.description}</p>
                                     </div>
-                                    :
-                                    <div key={index} className="mb-10">
-                                        <h3 className="text-xl font-bold mb-2">{staff.name}</h3>
-                                        <p className="mb-2">{staff.role}</p>
-                                    </div>
-
+                                    : null
                             ))}
                         </div>
+                        <ProseContainer>
+                            <h2>Former Staff</h2>
+                            {staffJson.map((staff, index) => (
+                                (typeof staff._legacy !== 'undefined') ?
+                                    <div>
+                                        {staff.name} ({staff.role}, {staff.legacyStatus})
+                                    </div>
+                                    : null
+                            ))}
+                        </ProseContainer>
 
                     </div>
                 </Container>
