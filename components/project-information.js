@@ -21,14 +21,14 @@ export default function ProjectInfo({ slug, children }) {
 
 	return (
 		<p>
-            <strong>Album Title:</strong> {t('projects:' + category.cat_slug + '.' + project.slug + '.title')}<br/>
-            <strong>Status:</strong> { t('projects:common.statuses.' + project.status) }<br/>
-            <strong>Approximate Completion:</strong> { project.percentage ? project.percentage : " ??? "}%<br/>
-            <strong>Current Duration:</strong> { project.duration ? project.duration : " ??? "}<br/>
-            <strong>Current Number of Finished Tracks:</strong> { project.finished_tracks ? project.finished_tracks : " ??? "}<br/>
-            <strong>Mastering Engineer:</strong> { project.mastering.engineer ? project.mastering.engineer : " ??? "}<br/>
-            <strong>Mastering Status:</strong> { t('projects:common.statuses.' + project.mastering.status) }<br/>
-            <strong>Artwork Commission:</strong> { project.artwork_comission ? project.artwork_comission : " ??? "}<br/>
+            <strong>{t("projects:project-info.album-title")}:</strong> {t('projects:' + category.cat_slug + '.' + project.slug + '.title')}<br/>
+            <strong>{t("projects:project-info.status")}:</strong> { t('projects:common.statuses.' + project.status) }<br/>
+            <strong>{t("projects:project-info.approximate-completion")}:</strong> { project.percentage ? project.percentage : " ??? "}%<br/>
+            <strong>{t("projects:project-info.current-duration")}:</strong> { project.duration ? project.duration : " ??? "}<br/>
+            <strong>{t("projects:project-info.current-number-of-finished-tracks")}:</strong> { project.finished_tracks ? project.finished_tracks : " ??? "}<br/>
+            <strong>{t("projects:project-info.mastering-engineer")}:</strong> { project.mastering.engineer ? project.mastering.engineer : " ??? "}<br/>
+            <strong>{t("projects:project-info.mastering-status")}:</strong> { t('projects:common.statuses.' + project.mastering.status) }<br/>
+            <strong>{t("projects:project-info.artwork-commission")}:</strong> { project.artwork_comission ? t('projects:common.statuses.' + project.artwork_comission) : " ??? "}<br/>
 		</p>
 	)
 }

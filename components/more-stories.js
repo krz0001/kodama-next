@@ -9,7 +9,7 @@ export default function MoreStories({ posts }) {
     <ProseContainer className="mt-7">
         <h2>{t('home.blog_header')}</h2>
 
-        <div className="grid grid-cols-2 gap-4 not-prose">
+        <div className="grid md:grid-cols-2 gap-4 not-prose">
           {posts.map((post) => (
             <PostPreview
               key={post.slug}

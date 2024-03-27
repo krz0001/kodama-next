@@ -25,34 +25,34 @@ export default function Projects({ filteredPosts }) {
       <Layout>
 
         <Head>
-          <title>{ WEBSITE_NAME }</title>
+          <title>{WEBSITE_NAME}</title>
         </Head>
 
         <Container>
           <Header />
-          
+
           <div className="container pt-10 px-6 mx-auto">
             <ProseContainer>
               <h2>{t('common:projects.presentation.title')}</h2>
               <p>{t('common:projects.presentation.description')}</p>
-             <CtaButton link="/projects/faq" icon='book' className="mt-4 mx-auto">
-        <span>You can check the rules & submission patterns common to all releases here.</span>
+              <CtaButton link="/projects/faq" icon='book' className="mt-4 mx-auto">
+                <span>{t('projects:faq-cta')}</span>
               </CtaButton>
 
               <div>
                 {projectsJson.map(function (category) {
-                    return (
-                        <>
-                            <h2>{t('projects:'+ category.cat_slug + '.name')}</h2>
-                            <p>{t('projects:'+ category.cat_slug + '.desc')}</p>
+                  return (
+                    <>
+                      <h2>{t('projects:' + category.cat_slug + '.name')}</h2>
+                      <p>{t('projects:' + category.cat_slug + '.desc')}</p>
 
-                            {category.projects.map(function (project) {
-                                return (
-                                    <ProjectListing project={project} category={category} key={project.slug} />
-                                )
-                            }
-                            )}
-                        </>)
+                      {category.projects.map(function (project) {
+                        return (
+                          <ProjectListing project={project} category={category} key={project.slug} />
+                        )
+                      }
+                      )}
+                    </>)
                 })}
               </div>
 
