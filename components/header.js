@@ -13,7 +13,7 @@ export default function Header() {
 		{ href: '/kodamasoft', label: 'KodamaSoft' },
 		{ href: '/discography', label: 'Discography' },
 		{ href: '/projects', label: 'Projects' },
-		{ href: '/staff', label: 'Team' },
+		{ href: '/staff', label: 'Staff' },
 		// { href: '/blog', label: 'Blog' }
 	];
 

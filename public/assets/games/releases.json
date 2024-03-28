@@ -1,29 +1,31 @@
 {
-    "once-upon-a-child": {
-        "title": "Once Upon a Child",
-        "catalog": "N/A",
+
+    "kodama-comet-stellar-sanctuary": {
+        "title": "KODAMA COMET -Stellar Sanctuary-",
+        "catalog": "KSVN-0001",
         "genre": "Visual Novel",
-        "releaseDate": "2017-11-01T00:00:00+0200"
-    },
-    "neo-nerliot-2036": {
-        "title": "Neo Nerliot 2036",
-        "catalog": "N/A",
-        "genre": "RPG",
-        "releaseDate": "2018-06-27T00:00:00+0200"
+        "releaseDate": "20​25"
     },
     "once-upon-a-child-full-stop": {
         "title": "Once Upon a Child - Full Stop",
         "catalog": "N/A",
         "genre": "Visual Novel",
-        "releaseDate": "2019-01-18T00:00:00+0200",
+        "originalReleaseDate": "2017-11-01T00:00:00+0000",
+        "releaseDate": "2019-01-18T00:00:00+0000",
         "links": {
             "itch.io": "https://dwimepon.itch.io/once-upon-a-child"
         }
     },
-    "kodama-comet-stellar-sanctuary": {
-        "title": "KODAMA COMET -Stellar Sanctuary-",
-        "catalog": "KSVN-0001",
-        "genre": "Visual Novel",
-        "releaseDate": "TBD"
+    "neo-nerliot-2036": {
+        "title": "Neo Nerliot 2036",
+        "catalog": "N/A",
+        "genre": "RPG",
+        "releaseDate": "2018-06-27T00:00:00+0000"
+    },
+    "la-lame-de-yakin": {
+        "title": "La Lame de Yakin",
+        "catalog": "N/A",
+        "genre": "RPG",
+        "releaseDate": "2016/2017, Unfinished"
     }
 }
