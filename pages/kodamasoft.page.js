@@ -45,7 +45,7 @@ export default function Discography() {
         <Container>
           <Header />
 
-          <ProseContainer className="mt-10 prose-h2:text-2xl prose-h2:font-bold prose-h2:mb-2 prose-p:mt-0 prose-p:mb-2 prose-img:mt-2">
+          <ProseContainer className="mt-10 prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-8 prose-h2:mb-2 prose-p:mt-0 prose-p:mb-2 prose-img:mt-2 prose-img:mb-2">
 
             {Object.keys(gamesJson).map((key) => (
               <div key={key}>
