@@ -13,7 +13,7 @@
 					"status": "pending",
 					"engineer": "blobdash"
 				},
-				"artwork_comission": "complete",
+				"artwork_comission": "completed",
 				"color": "#fbbf24"
 			},
 			{
@@ -27,7 +27,7 @@
 					"status": "pending",
 					"engineer": "Laz (Lazer Burn Audio)"
 				},
-				"artwork_comission": "complete",
+				"artwork_comission": "completed",
 				"color": "#f472b6"
 			},
 			{
@@ -55,7 +55,7 @@
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "Pending",
+				"artwork_comission": "completed",
 				"color": "#000000"
 			},
 			{
