@@ -4,10 +4,13 @@ import headerStyles from './header.module.css'
 import Link from 'next/link'
 import Image from 'next/image'
 import logo from '../public/assets/logo_white.png'
+import useTranslation from 'next-translate/useTranslation'
 import { Disclosure, Transition } from '@headlessui/react'
 
 
 export default function Header() {
+	const { t, lang } = useTranslation();
+
 	let links = [
 		{ href: '/', label: 'Home' },
 		{ href: '/kodamasoft', label: 'KodamaSoft' },
@@ -17,8 +20,21 @@ export default function Header() {
 		// { href: '/blog', label: 'Blog' }
 	];
 
+	let canDisplayBanner = new Date().getMonth() <= 3 && new Date().getFullYear() === 2024;
+
 	return (
 		<header className="relative w-100 h-auto text-white text-center flex flex-col select-none bg-[url('/assets/big_01_space_g.png')] bg-center">
+
+			{
+				canDisplayBanner &&
+				<Link className="bg-purple-900 text-white p-2" href="/posts/kodamadirect-2024">
+					<p className="text-sm">
+						{t('common:kodamadirect2024_banner')}
+					</p>
+					<button id="close" className="absolute top-0 right-0 p-2 text-white" onClick={() => document.getElementById('close').parentElement.style.display = 'none'} />
+				</Link>
+			}
+
 			<h1 className={headerStyles.header_title}>
 				<Link href="/" className="cursor-pointer">
 					<Image src={logo} alt={WEBSITE_NAME} height={150} className="cursor-pointer mx-auto max-w-full drop-shadow" />
@@ -59,7 +75,7 @@ export default function Header() {
 									))}
 
 									<LocaleSwitcher className="w-fit m-0 text-gray-300 bg-gray-900/50 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-none transition"></LocaleSwitcher>
-									</div>
+								</div>
 							</Disclosure.Panel>
 						</Transition>
 					</>
