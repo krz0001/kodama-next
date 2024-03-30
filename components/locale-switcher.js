@@ -6,7 +6,7 @@ export default function LocaleSwitcher({className}) {
 
     return (
         <div className={className}>
-            <div className="flex flex-col md:flex-row flex-wrap justify-center gap-4">
+            <div className="flex flex-row flex-wrap justify-center gap-4">
                 {locales.map((l, i) => {
                     return (
                         <span key={i} className={l === locale ? 'font-bold' : ''}>
