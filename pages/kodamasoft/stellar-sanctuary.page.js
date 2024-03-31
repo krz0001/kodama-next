@@ -10,10 +10,9 @@ export default function StellarSanctuary({ }) {
     return (
         <>
             <Meta />
-            <div className="relative overflow-hidden">
-                <Image src={SpaceBackground} alt="Space Background" className="absolute top-0 left-0 z-0 w-full" />
+            <div className="relative overflow-hidden bg-[url('/assets/big_01_space_g.png')] bg-cover bg-center bg-no-repeat">
                 <Image src={SpaceBackgroundStars} alt="Space Background Stars" className="absolute top-0 left-0 z-0 object-cover animate-spin-stars blur-sm" />
-                <div className="prose prose-lg lg:prose-xl mx-auto pt-12 prose-invert prose-ul:mb-12 mb-12 relative z-10 backdrop-blur-sm">
+                <div className="prose prose-lg lg:prose-xl mx-auto pt-12 prose-invert prose-ul:mb-12 pb-12 relative z-10 bg-black/40 px-12 backdrop-blur">
 
                     <Link href="/"><Image src={KodamaSoftLogo} alt="KodamaSoft" className="w-64 mx-auto" /></Link>
                     <h1><Image src={StellarSanctuaryLogo} alt="KODAMA COMET -Stellar Sanctuary-" /></h1>
@@ -30,7 +29,7 @@ export default function StellarSanctuary({ }) {
                         <li>An entirely kinetic experience, switching its narrative style switching between SNL and ADV style depending on the situation, all told and seen through the eyes of Euphémia</li>
                         <li>Five endearing and colorful characters, with their own secrets and fears</li>
                         <li>An in-house, immersive, jamming and experimental soundtrack made by <a href="https://postblankvoid.bandcamp.com/">postblankvoid</a>, Scramel, AIKATYPE, <a href="https://soundcloud.com/malik-oussalah">Kopan</a> and other guests such as <a href="https://soundcloud.com/june_ji/">Juneji</a></li>
-                        <li>A multitude of expressive character sprites &amp; backgrounds by<a href="https://twitter.com/Garrrros">Garrrros</a> with an original character design done by <a href="https://twitter.com/i/moments/1049648594549166080">Ree</a></li>
+                        <li>A multitude of expressive character sprites &amp; backgrounds by <a href="https://twitter.com/Garrrros">Garrrros</a> with an original character design done by <a href="https://twitter.com/i/moments/1049648594549166080">Ree</a></li>
                     </ul>
 
                     <p>
