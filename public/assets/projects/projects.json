@@ -3,11 +3,11 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
-				"slug": "eclectic-resonance-uprising-2",
+				"slug": "eclectic-resonance-<-2",
 				"status": "accepting",
-				"percentage": "50",
-				"duration": "15:51",
-				"finished_tracks": "4",
+				"percentage": "70",
+				"duration": "35:47",
+				"finished_tracks": "8",
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -19,9 +19,9 @@
 			{
 				"slug": "eclectic-resonance-memories",
 				"status": "accepting",
-				"percentage": "70",
-				"duration": "32:27",
-				"finished_tracks": "8",
+				"percentage": "80",
+				"duration": "36:06",
+				"finished_tracks": "9",
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
