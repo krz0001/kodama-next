@@ -5,9 +5,9 @@
 			{
 				"slug": "eclectic-resonance-uprising-2",
 				"status": "accepting",
-				"percentage": "70",
-				"duration": "35:47",
-				"finished_tracks": "8",
+				"percentage": "80",
+				"duration": "39:29",
+				"finished_tracks": "9",
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -19,9 +19,9 @@
 			{
 				"slug": "eclectic-resonance-memories",
 				"status": "accepting",
-				"percentage": "80",
-				"duration": "36:06",
-				"finished_tracks": "9",
+				"percentage": "85",
+				"duration": "45:49",
+				"finished_tracks": "12",
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -134,9 +134,9 @@
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
-				"finished_tracks": "14",
+				"finished_tracks": "0",
 				"mastering": {
-					"status": "completed",
+					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "pending",
@@ -151,9 +151,9 @@
 			{
 				"slug": "gensokyo-party-5-vantablack-2",
 				"status": "accepting",
-				"percentage": "40",
-				"duration": "14:35",
-				"finished_tracks": "4",
+				"percentage": "45",
+				"duration": "18:20",
+				"finished_tracks": "5",
 				"deadline": "2024-04-14T23:59:59Z",
 				"mastering": {
 					"status": "pending",
