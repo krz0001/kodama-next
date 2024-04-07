@@ -1,0 +1,241 @@
+{
+	"slug": "eclectic-resonance-memories",
+	"logo": "/assets/discography/logos/0012.png",
+	"color": "5DF6FE",
+	"soundcloud_track_id": "000000001",
+	"cover": "/assets/discography/covers/0012.png",
+	"title": "ECLECTIC RESONANCE Memories",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "Chiptune & FM Original Work Album",
+	"release_date": "28 Apr. 2024 (M3-2024 Spring)",
+	"catalog": "KSDL-0012",
+	"price": " € / yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/4680773"
+		}
+	},
+	"tracklist": {
+		"00": {
+			"title": "miami galaxy",
+			"artist": "fusoxide",
+			"description": [
+				"• Composer & Arranger: fusoxide",
+				"",
+				"• Programmed, Produced & Mixed by fusoxide",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Furnace",
+				"• About this track: This was a fun piece to write; it uses YM2151 (FM), Wonderswan (wavetable) and RF5C68 (PCM), a combination that would otherwise not be possible without the Swiss army knife that is Furnace. I was particularly inspired by late 80s/early 90s Sega arcade game music, such as OutRunners and Thunder Blade, but I decided to get more experimental particularly later in the track. In short, it really is digital fusion. I hope you enjoy it!"
+			]
+		},
+		"01": {
+			"title": "Fomalhaut",
+			"artist": "hasu",
+			"description": [
+				"• Composer & Arranger: hasu",
+				"",
+				"• Programmed, Produced & Mixed by hasu",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Cubase",
+				"• Used VSTs & Samples: HALion Sonic 3",
+				"",
+				"• About this track: Fomalhaut is the brightest star in the southern constellation of Piscis Austrinus, the Southern Fish, and one of the brightest stars in the night sky. I composed the music with the image of that star in mind."
+			]
+		},
+		"03": {
+			"title": "Ascension of STARMOG",
+			"artist": "HEAVYVIPER",
+			"description": [
+				"• Composer & Arranger: Hal Binderman",
+				"",
+				"• Programmed, Produced & Mixed by Hal Binderman",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Furnace 0.61",
+				"",
+				"• About this track: My first major piece for MSX hardware. My cat Moggie was ill while I wrote most of it, and I finished it the day he passed away. So, while it is mainly a tribute to MSX, it is also a farewell to Moggie."
+			]
+		},
+		"04": {
+			"title": "Lychee Palace",
+			"artist": "MetaMusic",
+			"description": [
+				"• Composer & Arranger: MetaMusic",
+				"",
+				"• Programmed, Produced & Mixed by MetaMusic",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Furnace",
+				"",
+				"• About this track: The first 30 seconds of this track are nearly unmodified from an old experiment when I first dipped my toes into composing for the NES sound chip. Working under the constraints of only having 3 tonal channels was quite fun, but for a more complete musical concept, I needed to add on the VRC6 expansion chip for the rest of this track."
+			]
+		},
+		"05": {
+			"title": "quicksilver",
+			"artist": "Monochrome",
+			"description": [
+				"• Composer & Arranger: Monochrome",
+				"",
+				"• Programmed, Produced & Mixed by Monochrome",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• About this track: I'm not a very experienced chiptune musician, but I'm super proud of what I made here. I decided to participate in this album on a whim, figuring it could be a good chance to improve at chiptune, and it really went a long way in helping me better grasp how to approach the genre. Between the jazzy melodies and structural fluidity, I'd like to think I did quite well."
+			]
+		},
+		"06": {
+			"title": "Citrus Cirrus",
+			"artist": "Muscises & Gali",
+			"description": [
+				"• Composer & Arranger: Muscises, Gali",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Muscises, Gali",
+				"• [TBD] Additional Mastering: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: mmlgui, MDSDRV, Blastem",
+				"",
+				"• About this track: The whole idea behind the track is that it should evoke a sense of freedom and elevation, almost as if you can touch the clouds."
+			]
+		},
+		"07": {
+			"title": "Hierarchy of L",
+			"artist": "nitta",
+			"description": ["ya r"]
+		},
+		"08": {
+			"title": "Square Concerto in E Minor",
+			"artist": "Nokutoka Momiji",
+			"description": [
+				"• Composer & Arranger: Nokutoka Momiji",
+				"",
+				"• Programmed, Produced & Mixed by Nokutoka Momiji",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: ",
+				"• Used VSTs & Samples: ",
+				"",
+				"• About this track: Wanted to make something unusual and write a Bach-styled baroque concerto in a chiptune format. Something modern yet old at the same time."
+			]
+		},
+		"09": {
+			"title": "Just a Little Bit",
+			"artist": "scythe",
+			"description": [
+				"• Programmed, Produced & Mixed by scythe",
+				"• Mastering Engineer: TBD [scythe or Laz (Lazer Burn Audio)]",
+				"",
+				"• About this track: \"Soon I will see you for the first time in a long time!\""
+			]
+		},
+		"10": {
+			"title": "Keep Pushing",
+			"artist": "Tobikomi",
+			"description": [
+				"• Composer & Arranger: Tobikomi",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Tobikomi",
+				"• Additional Mastering [TBD]: Laz (Lazer Burn Audio)",
+				"",
+				"• About this track: Inspired by PC-88/PC-98 music. This track uses the SEGA Hang-On sound hardware (YM2203 OPN + SegaPCM)"
+			]
+		},
+		"11": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: TBD",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
+				"",
+				"• About this track: ",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
+			]
+		}
+	},
+	"youtube_id": "4iNWMfBXYRs",
+	"credits": {
+		"1": {
+			"id": "blobdash",
+			"role": "Music"
+		},
+		"2": {
+			"id": "Fivda",
+			"role": "Music, Narration, Supervisior & Planner"
+		},
+		"3": {
+			"id": "lavenirproche",
+			"role": "Music"
+		},
+		"4": {
+			"id": "Monkey_Man83",
+			"role": "Music"
+		},
+		"5": {
+			"id": "Eyhz",
+			"role": "Music"
+		},
+		"6": {
+			"id": "Mitomoro",
+			"role": "Music"
+		},
+		"7": {
+			"id": "GOETIA",
+			"role": "Music"
+		},
+		"8": {
+			"id": "VTQ",
+			"role": "Music"
+		},
+		"9": {
+			"id": "MOUNTAIN",
+			"role": "Music"
+		},
+		"10": {
+			"id": "Valentine Saturday Suzumiya",
+			"role": "Music"
+		},
+		"11": {
+			"id": "HIJACKRABBIT",
+			"role": "Music, Guitars"
+		},
+		"12": {
+			"id": "LibriJamm",
+			"role": "Music"
+		},
+		"13": {
+			"id": "Ness",
+			"role": "Illustration"
+		},
+		"14": {
+			"id": "melissalitan",
+			"role": "Logo Designer"
+		},
+		"15": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"16": {
+			"id": "Hiskov",
+			"role": "Crossfade Video"
+		},
+		"17": {
+			"id": "krz0001",
+			"role": "Web"
+		}
+	}
+}
