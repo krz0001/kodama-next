@@ -6,6 +6,11 @@ import StellarSanctuaryLogo from "/public/assets/games/illustrations/kodama-come
 import SpaceBackground from "/public/assets/big_01_space_g.png"
 import SpaceBackgroundStars from "/public/assets/big_01_space_g_stars.png"
 
+import screen1 from '/public/assets/games/kodamacomet/screen1.png'
+import screen2 from '/public/assets/games/kodamacomet/screen2.png'
+import screen3 from '/public/assets/games/kodamacomet/screen3.png'
+import screen4 from '/public/assets/games/kodamacomet/screen4.png'
+
 export default function StellarSanctuary({ }) {
     return (
         <>
@@ -21,6 +26,13 @@ export default function StellarSanctuary({ }) {
                     </p>
 
                     <p>Stellar Sanctuary is planned to be an immersive and atmospheric visual novel, and we aim at making the reader go through tons of different kind of emotions and feelings throughout their read. Be it about the coldness of space, the warmth and fear of being secluded… A personal story, perfumed with a sense of tension.</p>
+
+                    <div className="grid grid-cols-2 gap-4 mt-8 not-prose">
+                        <Image src={screen1} alt="Screenshot 1" />
+                        <Image src={screen2} alt="Screenshot 2" />
+                        <Image src={screen3} alt="Screenshot 3" />
+                        <Image src={screen4} alt="Screenshot 4" />
+                    </div>
 
                     <h2>Features</h2>
                     <ul>

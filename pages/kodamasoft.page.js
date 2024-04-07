@@ -32,6 +32,8 @@ export default function Discography() {
         return 'Nintendo Store'
       case 'sony':
         return 'Sony Store'
+      case 'website':
+        return 'Website'
       default:
         return link
     }
@@ -53,7 +55,7 @@ export default function Discography() {
                 <div className='flex flex-wrap gap-4'>
 
                   {/* cover image */}
-                  <Image src={"/assets/games/illustrations/" + key + ".png"} alt={gamesJson[key].title} width={250} height={250} quality={100} className='rounded-md' />
+                  <Image src={"/assets/games/illustrations/" + key + ".png"} alt={gamesJson[key].title} width={250} height={250} quality={100} className='rounded-md object-contain' />
 
                   {/* release description */}
                   <div>
