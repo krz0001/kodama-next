@@ -351,8 +351,8 @@
 			"vgmdb": "https://vgmdb.net/artist/36399"
 		}
 	},
-	"melissalitan": {
-		"name": "melissalitan",
+	"melissalitian": {
+		"name": "melissalitian",
 		"links": {
 			"twitter": "https://twitter.com/MelissaLiTian",
 			"vgmdb": "https://vgmdb.net/artist/36407"
@@ -362,11 +362,12 @@
 		"name": "Hiskov",
 		"links": {
 			"twitter": "https://twitter.com/Hiskov_ ",
-			"vgmdb": "https://www.youtube.com/@Hiskov"
+			"youtube": "https://www.youtube.com/@Hiskov",
+			"vgmdb": "https://vgmdb.net/artist/60094"
 		}
 	},
-	"krz0001": {
-		"name": "krz0001",
+	"krz": {
+		"name": "krz",
 		"links": {
 			"twitter": "https://twitter.com/krz0001",
 			"website": "https://kero.uz/"
@@ -503,7 +504,6 @@
 			"bandcamp": "https://litmus-star.bandcamp.com/music",
 			"youtube": "https://www.youtube.com/channel/UCGq8H6U1lBt0lNcnmn08kyw",
 			"soundcloud": "https://soundcloud.com/litmus_star",
-			"website": "https://linktr.ee/fivda",
 			"spotify": "https://open.spotify.com/intl-fr/artist/75Kv4UNjg8e2WYti6AT4VM",
 			"vgmdb": "https://vgmdb.net/artist/48925"
 		}
@@ -555,8 +555,8 @@
 		"name": "soothingMelody",
 		"links": {
 			"twitter": "https://twitter.com/soothingMel0dy",
-			"bandcamp": "https://www.youtube.com/channel/UCiLHY6orOldLB-evgsx-5GA",
-			"youtube": "https://soothingmelody.bandcamp.com",
+			"bandcamp": "https://soothingmelody.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCiLHY6orOldLB-evgsx-5GA",
 			"soundcloud": "https://soundcloud.com/soothingmelody",
 			"vgmdb": "https://vgmdb.net/artist/52149"
 		}
@@ -586,7 +586,7 @@
 			"vgmdb": "https://vgmdb.net/artist/60704"
 		}
 	},
-	"Maxo": {
+	"Max Coburn": {
 		"name": "Maxo",
 		"links": {
 			"twitter": "https://twitter.com/maxotunes",
