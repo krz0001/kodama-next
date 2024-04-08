@@ -4,7 +4,10 @@
         "title": "KODAMA COMET -Stellar Sanctuary-",
         "catalog": "KSVN-0001",
         "genre": "Visual Novel",
-        "releaseDate": "20​25"
+        "releaseDate": "20​25",
+        "links": {
+            "website": "https://kodamasoft.net/kodamasoft/stellar-sanctuary/"
+        }
     },
     "once-upon-a-child-full-stop": {
         "title": "Once Upon a Child - Full Stop",
