@@ -829,6 +829,298 @@
 			"vgmdb": "https://vgmdb.net/artist/47390"
 		}
 	},
+	"Scramel": {
+		"name": "Scramel",
+		"links": {
+			"twitter": "https://twitter.com/scramelworks",
+			"bandcamp": "https://scramel.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UC3d2oC_tquc8RjHdCX-kgVA",
+			"soundcloud": "https://soundcloud.com/scramel",
+			"website": "https://scramel.github.io/works/#/",
+			"vgmdb": "https://vgmdb.net/artist/34298",
+			"apple": "https://music.apple.com/us/artist/scramel/1529921469",
+			"spotify": "https://open.spotify.com/artist/5tb0TchU1DOGgRwd0RDZTT"
+		}
+	},
+	"AIKATYPE": {
+		"name": "AIKATYPE",
+		"links": {
+			"twitter": "https://twitter.com/aikatype",
+			"soundcloud": "https://soundcloud.com/aikatype",
+			"vgmdb": "https://vgmdb.net/artist/60619"
+		}
+	},
+	"Zeth": {
+		"name": "Zeth",
+		"links": {
+			"website": "https://zethlim.crd.co",
+			"vgmdb": "https://vgmdb.net/artist/53348"
+		}
+	},
+	"Amir": {
+		"name": {
+			"en": "Amir",
+			"jp": "あみる"
+		},
+		"links": {
+			"twitter": "https://twitter.com/Amir_rabbit",
+			"bandcamp": "https://amirrabbitbeat.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/user-637851950",
+			"vgmdb": "https://vgmdb.net/artist/59813"
+		}
+	},
+	"CHOUX": {
+		"name": "CHOUX",
+		"links": {
+			"twitter": "https://twitter.com/chouxworld",
+			"youtube": "https://www.youtube.com/@chouxworld",
+			"soundcloud": "https://soundcloud.com/chouxworld",
+			"vgmdb": "https://vgmdb.net/artist/57362"
+		}
+	},
+	"Dot Matrix Girl": {
+		"name": "Dot Matrix Girl",
+		"links": {
+			"twitter": "https://twitter.com/8bitRavancloak",
+			"youtube": "https://www.youtube.com/channel/UCy5Pmyy_MuC42LbB3dsRs9Q",
+			"soundcloud": "https://www.youtube.com/channel/UCy5Pmyy_MuC42LbB3dsRs9Q",
+			"website": "https://ravancloak.neocities.org",
+			"vgmdb": "https://vgmdb.net/artist/62773"
+		}
+	},
+	"fusoxide": {
+		"name": "fusoxide",
+		"links": {
+			"twitter": "https://twitter.com/fusoxide",
+			"bandcamp": "https://fusoxide.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UCyl0JQBWiEh9AbA6LvXj2hA",
+			"soundcloud": "https://soundcloud.com/fusoxide",
+			"website": "https://fusoxide.github.io/fusosite/",
+			"vgmdb": "https://vgmdb.net/artist/40206"
+		}
+	},
+	"GENATARi": {
+		"name": "GENATARi",
+		"links": {
+			"twitter": "https://twitter.com/gennykralc",
+			"youtube": "https://www.youtube.com/c/GENATARi",
+			"soundcloud": "https://soundcloud.com/genatari",
+			"vgmdb": "https://vgmdb.net/artist/62782"
+		}
+	},
+	"hasu": {
+		"name": "hasu",
+		"links": {
+			"twitter": "https://twitter.com/hasu2010",
+			"bandcamp": "https://hasu2010.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/hasu2010",
+			"vgmdb": "https://vgmdb.net/artist/28769"
+		}
+	},
+	"HEAVYVIPER ": {
+		"name": "HEAVYVIPER ",
+		"links": {
+			"twitter": "https://twitter.com/HeavyViper",
+			"bandcamp": "http://heavyviper.bandcamp.com/",
+			"youtube": "http://www.youtube.com/channel/UC1cIYxsbWlBP5t2L_THtRRQ",
+			"soundcloud": "https://soundcloud.com/heavyviper",
+			"vgmdb": "https://vgmdb.net/artist/17972"
+		}
+	},
+	"MetaMusic": {
+		"name": "MetaMusic",
+		"links": {
+			"bandcamp": "https://metamusic1.bandcamp.com/track/fiery-friendlies",
+			"youtube": "https://www.youtube.com/@metamusic64",
+			"vgmdb": "https://vgmdb.net/artist/62472"
+		}
+	},
+	"Muscises": {
+		"name": "Muscises",
+		"links": {
+			"bandcamp": "https://muscises.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCC2oUuOXqcd7ewj_X-Eqprg",
+			"soundcloud": "https://soundcloud.com/muscises",
+			"vgmdb": "https://vgmdb.net/artist/62524"
+		}
+	},
+	"Gali": {
+		"name": "Gali",
+		"links": {
+			"bandcamp": "https://galimercury.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/@GaliMercury",
+			"soundcloud": "https://soundcloud.com/user-520703370",
+			"vgmdb": "https://vgmdb.net/artist/62527"
+		}
+	},
+	"scythe": {
+		"name": "scythe",
+		"links": {
+			"twitter": "https://twitter.com/scythe1005",
+			"bandcamp": "https://scythe1005.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/user/AMAZISTscythe1005",
+			"soundcloud": "https://soundcloud.com/scythe1005",
+			"website": "https://scythe-chiptune.com",
+			"spotify": "https://open.spotify.com/artist/1x2UHrOrkeTW2ducE4k6YE",
+			"apple": "https://music.apple.com/artist/scythe/1512415985",
+			"vgmdb": "https://vgmdb.net/artist/34760"
+		}
+	},
+	"Tadahiro Nitta": {
+		"name": {
+			"en": "Tadahiro Nitta",
+			"jp": "新田忠弘"
+		},
+		"links": {
+			"twitter": "https://twitter.com/TadahiroNitta",
+			"bandcamp": "https://tadahironitta.bandcamp.com/",
+			"website": "https://www.mikannitta.com",
+			"vgmdb": "https://vgmdb.net/artist/2148"
+		}
+	},
+	"TakuikaNinja": {
+		"name": "TakuikaNinja",
+		"links": {
+			"bandcamp": "https://takuikaninja.bandcamp.com",
+			"youtube": "https://www.youtube.com/c/TakuikaNinja",
+			"soundcloud": "https://soundcloud.com/takuikaninja",
+			"vgmdb": "https://vgmdb.net/artist/62761"
+		}
+	},
+	"Tobikomi": {
+		"name": "Tobikomi",
+		"links": {
+			"twitter": "https://twitter.com/BryanTobikomi",
+			"youtube": "https://www.youtube.com/@tobikomi5018",
+			"soundcloud": "https://soundcloud.com/user-412039805",
+			"website": "https://linktr.ee/BryanTobikomi",
+			"vgmdb": "https://vgmdb.net/artist/62794"
+		}
+	},
+	"Yamajet": {
+		"name": "Yamajet",
+		"links": {
+			"twitter": "https://twitter.com/Yamajet",
+			"bandcamp": "https://yamajet.bandcamp.com",
+			"youtube": "https://www.youtube.com/@keiichiroyamajetyamaji5084",
+			"soundcloud": "https://soundcloud.com/yamajet",
+			"website": "http://www.yamajet.com/",
+			"spotify": "https://open.spotify.com/artist/0BANCoB7Urn4GdzYkIpUqW",
+			"apple": "https://music.apple.com/artist/yamajet/518414558",
+			"vgmdb": "https://vgmdb.net/artist/2371"
+		}
+	},
+	"marklincadet": {
+		"name": "marklincadet",
+		"links": {
+			"twitter": "https://twitter.com/marklincadet",
+			"youtube": "https://www.youtube.com/channel/UCj9i7LKeaXESr-d6ojejtZA",
+			"vgmdb": "https://vgmdb.net/artist/59659"
+		}
+	},
+	"Rei8bit": {
+		"name": "Rei8bit",
+		"links": {
+			"twitter": "https://twitter.com/Rei8bit",
+			"bandcamp": "https://rei8bit.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCrY-JoOJThQuRF2nWWRn-ig",
+			"soundcloud": "https://soundcloud.com/rei-kaj",
+			"vgmdb": "https://vgmdb.net/artist/52102"
+		}
+	},
+	".noise": {
+		"name": ".noise",
+		"links": {
+			"twitter": "https://twitter.com/dot_noise",
+			"vgmdb": "https://vgmdb.net/artist/62473"
+		}
+	},
+	"Xeudo Code": {
+		"name": "Xeudo Code",
+		"links": {
+			"twitter": "https://twitter.com/XeudoCode",
+			"bandcamp": "https://xeudocode.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/channel/UCT7OsTt-cvWKW7BuLj_q2Rg",
+			"soundcloud": "https://soundcloud.com/xeudocode",
+			"website": "https://xeudocode.carrd.co",
+			"spotify": "https://open.spotify.com/artist/6tQFLPVBHasinRrtRhUf5c",
+			"apple": "https://music.apple.com/artist/xeudo-code/1436652740",
+			"vgmdb": "https://vgmdb.net/artist/59846"
+		}
+	},
+	"Sephid": {
+		"name": "Sephid",
+		"links": {
+			"twitter": "https://twitter.com/sephidvariable",
+			"youtube": "https://www.youtube.com/channel/UCr8YWxI2dwntFrih-zGeNSw",
+			"soundcloud": "https://soundcloud.com/sephid",
+			"vgmdb": "https://vgmdb.net/artist/48934"
+		}
+	},
+	"ReeK": {
+		"name": "ReeK",
+		"links": {
+			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"soundcloud": "https://soundcloud.com/reek_wobs",
+			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
+			"apple": "https://music.apple.com/artist/reek/1581269980",
+			"vgmdb": "https://vgmdb.net/artist/53341"
+		}
+	},
+	"Afflected Light": {
+		"name": "Afflected Light",
+		"links": {
+			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"soundcloud": "https://soundcloud.com/reek_wobs",
+			"vgmdb": "https://vgmdb.net/artist/62630"
+		}
+	},
+	"V0iD": {
+		"name": "V0iD",
+		"links": {
+			"twitter": "https://twitter.com/V0iDisk",
+			"bandcamp": "https://v0idisk.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/channel/UCS1fNq-0zCjHz_IHg6evcDA?app=desktop",
+			"soundcloud": "https://soundcloud.com/voidisk",
+			"spotify": "https://open.spotify.com/artist/3jCe30kyPTW8NLDQhhdlu3",
+			"apple": "https://music.apple.com/artist/v0id/270643320",
+			"vgmdb": "https://vgmdb.net/artist/55661"
+		}
+	},
+	"Foodbot": {
+		"name": "Foodbot",
+		"links": {
+			"twitter": "https://twitter.com/Foodbot4",
+			"bandcamp": "https://foodbot.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/channel/UCoiwXTR6Q36gqxP4ykfIYtg",
+			"soundcloud": "https://soundcloud.com/foodbot",
+			"website": "https://reidgerren.carrd.co",
+			"spotify": "https://open.spotify.com/artist/4Td6Zb2EDFi6SBfeZRoiWR",
+			"apple": "https://music.apple.com/artist/foodbot/1603115869",
+			"vgmdb": "https://vgmdb.net/artist/56069"
+		}
+	},
+	"Supire": {
+		"name": "Supire",
+		"links": {
+			"twitter": "https://twitter.com/NH_supaia",
+			"bandcamp": "https://nhspire.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCVKezz3ad-E75BMCNCCYHvA",
+			"soundcloud": "https://soundcloud.com/nh_supaia",
+			"website": "https://sfg0211nshine.wixsite.com/linktree",
+			"spotify": "https://open.spotify.com/artist/08YSLeaoKFJ2g2MsQSheSu",
+			"apple": "https://music.apple.com/artist/supire/1501064717",
+			"pixiv": "https://www.pixiv.net/en/users/25179668",
+			"vgmdb": "https://vgmdb.net/artist/56615"
+		}
+	},
+	"Krep": {
+		"name": "Krep",
+		"links": {
+			"twitter": "https://twitter.com/Krep_pxl",
+			"vgmdb": "https://vgmdb.net/artist/50006"
+		}
+	},
 	"Sample": {
 		"name": "Sample",
 		"links": {
