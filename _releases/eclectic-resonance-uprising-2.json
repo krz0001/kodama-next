@@ -9,14 +9,14 @@
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "WWWWWWWWWWWW",
-	"release_date": "WWWWWWWWWWWW",
+	"specification": "Hard EDM Original Work Album",
+	"release_date": "28 Apr. 2024",
 	"catalog": "KSDL-0013",
-	"price": "WWWWWWWWWWWW",
+	"price": "Pre-Order & Event Price: 13€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising"
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-2"
 		},
 		"booth": {
 			"name": "BOOTH",
@@ -210,76 +210,152 @@
 				"",
 				"• About this track: A track to express a happy ending."
 			]
+		},
+		"12": {
+			"title": "Updrift",
+			"artist": "Xeudo Code",
+			"description": [
+				"• Composer & Arranger: Xeudo Code",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
+				"• Additional Mastering: TBD",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Serum, Harmor",
+				"",
+				"• About this track: A track to express a happy ending."
+			]
+		},
+		"13": {
+			"title": "Updrift",
+			"artist": "Xeudo Code",
+			"description": [
+				"• Composer & Arranger: Xeudo Code",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
+				"• Additional Mastering: TBD",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Serum, Harmor",
+				"",
+				"• About this track: A track to express a happy ending."
+			]
+		},
+		"14": {
+			"title": "Updrift",
+			"artist": "Xeudo Code",
+			"description": [
+				"• Composer & Arranger: Xeudo Code",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
+				"• Additional Mastering: TBD",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Serum, Harmor",
+				"",
+				"• About this track: A track to express a happy ending."
+			]
+		},
+		"15": {
+			"title": "Updrift",
+			"artist": "Xeudo Code",
+			"description": [
+				"• Composer & Arranger: Xeudo Code",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
+				"• Additional Mastering: TBD",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Serum, Harmor",
+				"",
+				"• About this track: A track to express a happy ending."
+			]
 		}
 	},
 	"youtube_id": "4iNWMfBXYRs",
 	"credits": {
 		"1": {
-			"id": "blobdash",
+			"id": ".noise",
 			"role": "Music"
 		},
 		"2": {
-			"id": "Fivda",
-			"role": "Music, Narration, Supervisior & Planner"
+			"id": "Xeudo Code",
+			"role": "Music"
 		},
 		"3": {
-			"id": "lavenirproche",
+			"id": "Sephid",
 			"role": "Music"
 		},
 		"4": {
-			"id": "Monkey_Man83",
-			"role": "Music"
-		},
-		"5": {
 			"id": "Eyhz",
 			"role": "Music"
 		},
+		"5": {
+			"id": "trailmix37",
+			"role": "Music"
+		},
 		"6": {
-			"id": "Mitomoro",
+			"id": "Afflected Light",
 			"role": "Music"
 		},
 		"7": {
-			"id": "GOETIA",
+			"id": "PSYQUO",
 			"role": "Music"
 		},
 		"8": {
-			"id": "VTQ",
+			"id": "V0iD",
 			"role": "Music"
 		},
 		"9": {
-			"id": "MOUNTAIN",
+			"id": "Mitomoro",
 			"role": "Music"
 		},
 		"10": {
-			"id": "Valentine Saturday Suzumiya",
+			"id": "HEAVYVIPER",
 			"role": "Music"
 		},
 		"11": {
-			"id": "HIJACKRABBIT",
-			"role": "Music, Guitars"
+			"id": "Foodbot",
+			"role": "Music"
 		},
 		"12": {
-			"id": "LibriJamm",
+			"id": "Monochrome",
 			"role": "Music"
 		},
 		"13": {
+			"id": "blobdash",
+			"role": "Music, Mastering & Audio Crossfade"
+		},
+		"14": {
+			"id": "GOETIA",
+			"role": "Music"
+		},
+		"15": {
+			"id": "Supire",
+			"role": "Music"
+		},
+		"16": {
 			"id": "Ness",
 			"role": "Illustration"
 		},
-		"14": {
-			"id": "melissalitan",
+		"17": {
+			"id": "melissalitian",
 			"role": "Logo Designer"
 		},
-		"15": {
+		"18": {
+			"id": "Fivda",
+			"role": "Supervisor & Planner"
+		},
+		"19": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
-		"16": {
-			"id": "Hiskov",
+		"20": {
+			"id": "Elegant Sister",
 			"role": "Crossfade Video"
 		},
-		"17": {
-			"id": "krz0001",
+		"21": {
+			"id": "krz",
 			"role": "Web"
 		}
 	}

@@ -351,8 +351,8 @@
 			"vgmdb": "https://vgmdb.net/artist/36399"
 		}
 	},
-	"melissalitan": {
-		"name": "melissalitan",
+	"melissalitian": {
+		"name": "melissalitian",
 		"links": {
 			"twitter": "https://twitter.com/MelissaLiTian",
 			"vgmdb": "https://vgmdb.net/artist/36407"
@@ -365,11 +365,12 @@
 			"vgmdb": "https://www.youtube.com/@Hiskov"
 		}
 	},
-	"krz0001": {
-		"name": "krz0001",
+	"krz": {
+		"name": "krz",
 		"links": {
 			"twitter": "https://twitter.com/krz0001",
-			"website": "https://kero.uz/"
+			"website": "https://kero.uz/",
+			"vgmdb": "https://vgmdb.net/artist/62573"
 		}
 	},
 	"MB": {
@@ -917,8 +918,8 @@
 			"vgmdb": "https://vgmdb.net/artist/28769"
 		}
 	},
-	"HEAVYVIPER ": {
-		"name": "HEAVYVIPER ",
+	"HEAVYVIPER": {
+		"name": "HEAVYVIPER",
 		"links": {
 			"twitter": "https://twitter.com/HeavyViper",
 			"bandcamp": "http://heavyviper.bandcamp.com/",
@@ -1119,6 +1120,15 @@
 		"links": {
 			"twitter": "https://twitter.com/Krep_pxl",
 			"vgmdb": "https://vgmdb.net/artist/50006"
+		}
+	},
+	"Elegant Sister": {
+		"name": "Elegant Sister",
+		"links": {
+			"twitter": "https://twitter.com/ElegantSister",
+			"youtube": "https://www.youtube.com/@ElegantSisterES",
+			"soundcloud": "https://soundcloud.com/visionary-sound-fusion",
+			"vgmdb": "https://vgmdb.net/artist/62814"
 		}
 	},
 	"Sample": {
