@@ -4,10 +4,10 @@
 		"projects": [
 			{
 				"slug": "eclectic-resonance-uprising-2",
-				"status": "accepting",
-				"percentage": "90",
-				"duration": "46:43",
-				"finished_tracks": "11",
+				"status": "completed",
+				"percentage": "100",
+				"duration": "1:01:09",
+				"finished_tracks": "15",
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -18,10 +18,10 @@
 			},
 			{
 				"slug": "eclectic-resonance-memories",
-				"status": "accepting",
-				"percentage": "95",
-				"duration": "1:01:52",
-				"finished_tracks": "17",
+				"status": "completed",
+				"percentage": "100",
+				"duration": "1:07:30",
+				"finished_tracks": "19",
 				"deadline": "2024-04-07T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -151,9 +151,9 @@
 			{
 				"slug": "gensokyo-party-5-vantablack-2",
 				"status": "accepting",
-				"percentage": "60",
-				"duration": "27:47",
-				"finished_tracks": "7",
+				"percentage": "75",
+				"duration": "41:19",
+				"finished_tracks": "11",
 				"deadline": "2024-04-14T23:59:59Z",
 				"mastering": {
 					"status": "pending",
