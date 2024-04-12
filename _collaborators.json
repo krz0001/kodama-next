@@ -1063,6 +1063,7 @@
 		"links": {
 			"twitter": "https://twitter.com/ReeKDoesDTM",
 			"soundcloud": "https://soundcloud.com/reek_wobs",
+			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
 			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
 			"apple": "https://music.apple.com/artist/reek/1581269980",
 			"vgmdb": "https://vgmdb.net/artist/53341"
@@ -1073,6 +1074,7 @@
 		"links": {
 			"twitter": "https://twitter.com/ReeKDoesDTM",
 			"soundcloud": "https://soundcloud.com/reek_wobs",
+			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
 			"vgmdb": "https://vgmdb.net/artist/62630"
 		}
 	},
@@ -1129,6 +1131,19 @@
 			"youtube": "https://www.youtube.com/@ElegantSisterES",
 			"soundcloud": "https://soundcloud.com/visionary-sound-fusion",
 			"vgmdb": "https://vgmdb.net/artist/62814"
+		}
+	},
+	"takehirotei": {
+		"name": "takehirotei",
+		"links": {
+			"twitter": "https://twitter.com/takehirotei",
+			"bandcamp": "https://takehirotei.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCM3JSULS1pF_zk14xk70wXg",
+			"soundcloud": "https://soundcloud.com/takehirotei",
+			"website": "https://linktr.ee/takehirotei",
+			"spotify": "https://open.spotify.com/artist/6xQ69duYGfOEtogASZ53bd",
+			"apple": "https://music.apple.com/artist/takehirotei/1591804729",
+			"vgmdb": "https://vgmdb.net/artist/53368"
 		}
 	},
 	"Sample": {
