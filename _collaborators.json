@@ -1143,6 +1143,27 @@
 			"website": "https://linktr.ee/takehirotei",
 			"spotify": "https://open.spotify.com/artist/6xQ69duYGfOEtogASZ53bd",
 			"apple": "https://music.apple.com/artist/takehirotei/1591804729",
+			"vgmdb": "https://vgmdb.net/artist/57483"
+		}
+	},
+	"g3ntlebreeze": {
+		"name": "g3ntlebreeze",
+		"links": {
+			"twitter": "https://twitter.com/g3ntlebreeze",
+			"bandcamp": "https://g3ntlebreeze.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UCv30x8z45BPMJ1TQ4ljZsRA",
+			"soundcloud": "https://soundcloud.com/g3ntlebreeze",
+			"website": "https://g3ntlebreeze.carrd.co/",
+			"vgmdb": "https://vgmdb.net/artist/57483"
+		}
+	},
+	"Laz": {
+		"name": "Laz",
+		"links": {
+			"twitter": "https://twitter.com/lazsynth",
+			"bandcamp": "https://lazsynth.bandcamp.com",
+			"youtube": "https://www.youtube.com/@lazsynth/featured",
+			"website": "https://pronouns.page/@Laz-chan",
 			"vgmdb": "https://vgmdb.net/artist/53368"
 		}
 	},
