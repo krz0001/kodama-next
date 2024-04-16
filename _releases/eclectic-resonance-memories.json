@@ -12,11 +12,11 @@
 	"specification": "Chiptune & FM Original Work Album",
 	"release_date": "28 Apr. 2024 (M3-2024 Spring)",
 	"catalog": "KSDL-0012",
-	"price": " € / yen",
+	"price": "Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2300 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising"
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories"
 		},
 		"booth": {
 			"name": "BOOTH",
@@ -24,32 +24,42 @@
 		}
 	},
 	"tracklist": {
-		"00": {
-			"title": "miami galaxy",
-			"artist": "fusoxide",
+		"01": {
+			"title": "Cheeky Cheese Chase",
+			"artist": "CHOUX",
 			"description": [
-				"• Composer & Arranger: fusoxide",
+				"• Composer & Arranger: CHOUX",
 				"",
-				"• Programmed, Produced & Mixed by fusoxide",
+				"• Programmed, Produced & Mixed by CHOUX",
 				"• Mastering Engineer: Laz (Lazer Burn Audio)",
 				"",
-				"• Used Software: Furnace",
-				"• About this track: This was a fun piece to write; it uses YM2151 (FM), Wonderswan (wavetable) and RF5C68 (PCM), a combination that would otherwise not be possible without the Swiss army knife that is Furnace. I was particularly inspired by late 80s/early 90s Sega arcade game music, such as OutRunners and Thunder Blade, but I decided to get more experimental particularly later in the track. In short, it really is digital fusion. I hope you enjoy it!"
+				"• Used Software: CUBASE10",
+				"• Used VSTs & Samples: Chipsounds, Magical 8bit Plug2",
+				"",
+				"• About this track:",
+				"# JP",
+				"子ネズミ達のチーズ争奪戦",
+				"# EN",
+				"A fight for cheese among baby mice"
 			]
 		},
-		"01": {
-			"title": "Fomalhaut",
-			"artist": "hasu",
+		"02": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
 			"description": [
-				"• Composer & Arranger: hasu",
+				"• Composer & Arranger: Yamajet",
 				"",
-				"• Programmed, Produced & Mixed by hasu",
+				"• Programmed, Produced & Mixed by Yamajet",
 				"• Mastering Engineer: Laz (Lazer Burn Audio)",
 				"",
-				"• Used Software: Cubase",
-				"• Used VSTs & Samples: HALion Sonic 3",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
 				"",
-				"• About this track: Fomalhaut is the brightest star in the southern constellation of Piscis Austrinus, the Southern Fish, and one of the brightest stars in the night sky. I composed the music with the image of that star in mind."
+				"• About this track:",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
 			]
 		},
 		"03": {
@@ -165,6 +175,155 @@
 				"# EN",
 				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
 			]
+		},
+		"12": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: TBD",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
+				"",
+				"• About this track: ",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
+			]
+		},
+		"13": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: TBD",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
+				"",
+				"• About this track: ",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
+			]
+		},
+		"14": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: TBD",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
+				"",
+				"• About this track: ",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
+			]
+		},
+		"15": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: TBD",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
+				"",
+				"• About this track: ",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
+			]
+		},
+		"16": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: TBD",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
+				"",
+				"• About this track: ",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
+			]
+		},
+		"17": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: TBD",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
+				"",
+				"• About this track: ",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
+			]
+		},
+		"18": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: TBD",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
+				"",
+				"• About this track: ",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
+			]
+		},
+		"19": {
+			"title": "The place of memories",
+			"artist": {
+				"en": "Amir",
+				"jp": "あみる"
+			},
+			"description": [
+				"• Composer & Arranger: Amir [あみる]",
+				"",
+				"• Programmed, Produced & Mixed by Amir [あみる]",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Logic Pro X",
+				"• Used VSTs & Samples: SANA 8BIT VST, mu-station",
+				"",
+				"• About this track: ",
+				"# JP",
+				"去年の春に作ったアルバム、\"Rabbit Beat!\"の続きの物語です。古いゲームの音とその懐かしさを表した曲です。",
+				"",
+				"# EN",
+				"This is the sequel to the story of the album I published last spring, \"Rabbit Beat!\". This is a song that represents the sonority and nostalgia one may feel when playing retro video games."
+			]
 		}
 	},
 	"youtube_id": "4iNWMfBXYRs",
@@ -222,19 +381,19 @@
 			"role": "Illustration"
 		},
 		"14": {
-			"id": "melissalitan",
-			"role": "Logo Designer"
+			"id": "Krep",
+			"role": "Illustration & Logo Designer"
 		},
 		"15": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
 		"16": {
-			"id": "Hiskov",
+			"id": "Elegant Sister",
 			"role": "Crossfade Video"
 		},
 		"17": {
-			"id": "krz0001",
+			"id": "krz",
 			"role": "Web"
 		}
 	}
