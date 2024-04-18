@@ -31,6 +31,7 @@
 				"• Composer & Arranger: .noise",
 				"",
 				"• Programmed, Produced, Mixed & Mastered by .noise",
+				"• Additional Mastering: Loudness Adjustment, Outro Fadeout Fix",
 				"",
 				"• Used Software: FL Studio 21",
 				"• Used VSTs & Samples: Serum, Tape Cassette, Brainworks Opto, Purple Audio MC77, Kilohearts plugins",
@@ -39,6 +40,55 @@
 			]
 		},
 		"02": {
+			"title": "Updrift",
+			"artist": "Xeudo Code",
+			"description": [
+				"• Composer & Arranger: Xeudo Code",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
+				"• Additional Mastering: Loudness Adjustment, Minor EQing",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Serum, Harmor",
+				"",
+				"• About this track: A track to express a happy ending."
+			]
+		},
+		"03": {
+			"title": "Cosmo Odyssy 2124",
+			"artist": "Sephid",
+			"description": [
+				"• Composer & Arranger: Sephid",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Sephid",
+				"• Additional Mastering: Loudness Adjustment, Compression, Minor EQing"
+			]
+		},
+		"04": {
+			"title": "Flashmob",
+			"artist": "Eyhz",
+			"description": [
+				"• Composer & Arranger: Eyhz (Bliss And Innocence)",
+				"",
+				"• Programmed, Produced & Mixed by Eyhz (Bliss And Innocence)",
+				"• Mastering Engineer: blobdash",
+				"",
+				"• Used Software: FL Studio",
+				"",
+				"• About this track: first attempt at hitech is sound"
+			]
+		},
+		"05": {
+			"title": "Volition",
+			"artist": "trailmix37",
+			"description": [
+				"• Composer & Arranger: trailmix37 (KodamaSounds)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by trailmix37 (KodamaSounds)",
+				"• Additional Mastering: Loudness Adjustment, Minor EQing"
+			]
+		},
+		"06": {
 			"title": "Meanwhile, in 2016",
 			"artist": "Afflected Light",
 			"description": [
@@ -46,101 +96,48 @@
 				"",
 				"• Programmed, Produced & Mixed by Afflected Light",
 				"• Mastering Engineer: blobdash",
+				"",
 				"• Used Software: Bitwig",
-				"• Used VSTs & Samples: Korg M1, Serum, Vital, Massive, Kontakt, Dune 3, Cymatics - Terror Drums For Dubstep, MYLK - Voocalcium ",
+				"• Used VSTs & Samples: Korg M1, Serum, Vital, Massive, Kontakt, Dune 3, Cymatics - Terror Drums For Dubstep, MYLK - Voocalcium",
 				"",
 				"• About this track: This track is reminiscent of Dubstep in 2016. Songs like \"Like a Bitch\" by Zomboy; \"Juices\" by Virtual Riot & Dubloadz or \"Full Control\" by Ray Volpe... 'twas a simpler time back then. But that's also what my new (old) alias \"Afflected Light\" is all about - EDM Nostalgia! - ReeK"
 			]
 		},
-		"03": {
-			"title": "Echoes of Desolation",
-			"artist": "GOETIΛ",
-			"description": [
-				"• Composer & Arranger:  GOETIΛ (Sigillum Azoetia)",
-				"",
-				"• Programmed, Produced, Mixed & Mastered by  GOETIΛ (Sigillum Azoetia)",
-				"• Additional Mastering [TBD]: blobdash"
-			]
-		},
-		"04": {
-			"title": "Tryst in the Lightfields",
-			"artist": "HEAVYVIPER",
-			"description": [
-				"• Composer & Arranger: Hal Binderman",
-				"",
-				"• Programmed, Produced & Mixed by Hal Binderman",
-				"• Mastering Engineer: blobdash",
-				"",
-				"• Used Software: Reason 12",
-				"• Used VSTs & Samples: Sonic Charge's Synplant, Plogue's chipsounds, Synapse's Antidote RE (Reason), Doru Malaia's \"Sex!Sex!Sex!\" Refill (Reason)",
-				"",
-				"• About this track: Intimate human connection in a hostile, synthetic environment."
-			]
-		},
-		"05": {
-			"title": "???",
-			"artist": "Mitomoro",
-			"description": ["???"]
-		},
-		"06": {
-			"title": "MELTDOWN",
-			"artist": "Monochrome",
-			"description": [
-				"• Composer & Arranger: Monochrome",
-				"",
-				"• Programmed, Produced & Mixed by Monochrome",
-				"• Mastering Engineer: blobdash",
-				"",
-				"• About this track: This track was a very technical one that challenged me on many levels. Yet, despite the arduousness of programming ridiculously frenetic breakcore chops, the difficulty I had making a rhythmically reasonable trap section in 7/4, and the headaches I gave myself trying to properly mix the overblown chorus... it was all rather fulfilling. Maximal music tends to be tough for me, and it's always exciting when I pull it off to some degree. In this case, I feel like I've proved a lot to myself about my capabilities and knowhow."
-			]
-		},
 		"07": {
-			"title": "???",
-			"artist": "Sephid",
-			"description": ["???"]
+			"title": "Heavenstasis",
+			"artist": "PSYQUO",
+			"description": [
+				"• Composer & Arranger: PSYQUO",
+				"• Vocals: Synthesizer V (Mai)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by PSYQUO",
+				"• Additional Mastering: Loudness Adjustment, Minor EQing",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Korg M1, Serum, Vital, Massive, Kontakt, Dune 3, Cymatics - Terror Drums For Dubstep, MYLK - Voocalcium",
+				"",
+				"• About this track: Are you in reach? This so called utopia? This world, ever changing. With hope, the conflict resolves. To Heavenstasis.",
+				"• Lyrics:",
+				"(utopia?)",
+				"",
+				"(resolve.)",
+				"",
+				"(Heavenstasis)"
+			]
 		},
 		"08": {
-			"title": "1112",
-			"artist": "VTQ",
-			"description": [
-				"• Composer & Arranger: VTQ",
-				"",
-				"• Programmed, Produced & Mixed by VTQ",
-				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
-				"",
-				"• Used Software: FL Studio 21",
-				"• Used VSTs & Samples: Vocal - T_VA_124_vocal_phrase_loop_aintnoparty_male_Bmaj = I randomly found this sample and decided to pitch it up. / Horns in the intro - Comes from a private pack by Rohaan (made for DnB but eh) / Bunch of schranz samples from the countless schranz pack by Boris S, Svetec, ASIN. / VEC 4 and 5 (OBVIOUSLY) / Lead - Serum Rave Punk pack",
-				"",
-				"• About this track: This track was originally created for a Sound Voltex custom chart we made with a few friends, but it ended up not releasing. So, I made an extended version! Name is inspired by 1116 - It's a nod to my french friends who helped me decide on the name back in December and with whom I share a big love for 1116. Also the deadline was originally 2022-12-11 (11/12)."
-			]
-		},
-		"09": {
-			"title": "Ouroboros",
-			"artist": "Supire",
-			"description": [
-				"• Composer & Arranger: Supire (NH)",
-				"",
-				"• Programmed, Produced, Mixed & Mastered by Supire (NH)",
-				"• Additional Mastering: blobdash",
-				"",
-				"• Used Software: FL Studio 21",
-				"• Used VSTs & Samples: Massive/Kontakt/Serum/Techivation Bundle/etc",
-				"",
-				"• About this track: A song about someone who keeps dying fighting a strong enemy, but never fails to come back to life and keep fighting, indomitably. [強敵の前に何度も倒されて死ぬが、何度もよみがえり挑み続ける不屈の不死者の曲です。]"
-			]
-		},
-		"10": {
 			"title": "Cymbidium",
 			"artist": "V0iD",
 			"description": [
 				"• Composer & Arranger: V0iD (The Cynphetic Collective)",
 				"",
 				"• Programmed, Produced, Mixed & Mastered by V0iD (The Cynphetic Collective)",
-				"• Additional Mastering: TBD",
+				"• Additional Mastering: Minor Stereo Adjustment",
 				"",
 				"• Used Software: Reaper",
+				"",
 				"• About this track: Minimlalist elements that explode at the drop.",
-				"• Lyrics",
+				"• Lyrics:",
 				"Cause you know I~",
 				"Never thought I'd be falling for you",
 				"",
@@ -193,82 +190,108 @@
 				"",
 				"Cause I~~",
 				"",
-				"Never thought I'd be falling"
+				"Never thought I'd be falling",
+				"",
+				"• About this track: This track was originally created for a Sound Voltex custom chart we made with a few friends, but it ended up not releasing. So, I made an extended version! Name is inspired by 1116 - It's a nod to my french friends who helped me decide on the name back in December and with whom I share a big love for 1116. Also the deadline was originally 2022-12-11 (11/12)."
+			]
+		},
+		"09": {
+			"title": "INTERGALACTIC B-HOP",
+			"artist": "Mitomoro",
+			"description": [
+				"• Composer & Arranger: Mitomoro",
+				"",
+				"• Programmed, Produced & Mixed by Mitomoro",
+				"• Mastering Engineer: blobdash",
+				"",
+				"• Used VSTs & Samples: Serum, Waves Renaissance Bundle, probably OPS Hardcore/ Uptempo vol 1",
+				"",
+				"• About this track: Not even half an A press could get you ready for this one."
+			]
+		},
+		"10": {
+			"title": "Tryst in the Lightfields",
+			"artist": "HEAVYVIPER",
+			"description": [
+				"• Composer & Arranger: Hal Binderman",
+				"",
+				"• Programmed, Produced & Mixed by Hal Binderman",
+				"• Mastering Engineer: blobdash",
+				"",
+				"• Used Software: Reason 12",
+				"• Used VSTs & Samples: Sonic Charge's Synplant, Plogue's chipsounds, Synapse's Antidote RE (Reason), Doru Malaia's \"Sex!Sex!Sex!\" Refill (Reason)",
+				"",
+				"• About this track: Intimate human connection in a hostile, synthetic environment."
 			]
 		},
 		"11": {
-			"title": "Updrift",
-			"artist": "Xeudo Code",
+			"title": "Terminal Wish",
+			"artist": "Foodbot",
 			"description": [
-				"• Composer & Arranger: Xeudo Code",
+				"• Composer & Arranger: Foodbot",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
-				"• Additional Mastering: TBD",
+				"• Programmed, Produced & Mixed by Foodbot",
+				"• Mastering Engineer: blobdash",
 				"",
 				"• Used Software: FL Studio",
-				"• Used VSTs & Samples: Serum, Harmor",
 				"",
-				"• About this track: A track to express a happy ending."
+				"• About this track: <-+-x-+-> / WITH IMPENDING DOOM INFRONT OF YOUR EYES / KNOWING YOU WILL NOT HAVE ENOUGH AIR TO SURVIVE / WHAT WILL BE THE LAST THING YOU WISH FOR"
 			]
 		},
 		"12": {
-			"title": "Updrift",
-			"artist": "Xeudo Code",
+			"title": "MELTDOWN",
+			"artist": "Monochrome",
 			"description": [
-				"• Composer & Arranger: Xeudo Code",
+				"• Composer & Arranger: Monochrome",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
-				"• Additional Mastering: TBD",
+				"• Programmed, Produced & Mixed by Monochrome",
+				"• Mastering Engineer: blobdash",
 				"",
-				"• Used Software: FL Studio",
-				"• Used VSTs & Samples: Serum, Harmor",
-				"",
-				"• About this track: A track to express a happy ending."
+				"• About this track: This track was a very technical one that challenged me on many levels. Yet, despite the arduousness of programming ridiculously frenetic breakcore chops, the difficulty I had making a rhythmically reasonable trap section in 7/4, and the headaches I gave myself trying to properly mix the overblown chorus... it was all rather fulfilling. Maximal music tends to be tough for me, and it's always exciting when I pull it off to some degree. In this case, I feel like I've proved a lot to myself about my capabilities and knowhow."
 			]
 		},
 		"13": {
-			"title": "Updrift",
-			"artist": "Xeudo Code",
+			"title": "Mind Catharsis",
+			"artist": "blobdash",
 			"description": [
-				"• Composer & Arranger: Xeudo Code",
+				"• Composer & Arranger: blobdash",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
-				"• Additional Mastering: TBD",
+				"• Programmed, Produced, Mixed & Mastered by blobdash",
 				"",
 				"• Used Software: FL Studio",
-				"• Used VSTs & Samples: Serum, Harmor",
+				"• Used VSTs & Samples: Saturate, Infiltrator, Serum, Vital, Rift Filter Lite, LFOTool",
 				"",
-				"• About this track: A track to express a happy ending."
+				"• About this track: i'm never beating the breakcore producer allegations"
 			]
 		},
 		"14": {
-			"title": "Updrift",
-			"artist": "Xeudo Code",
+			"title": "Echoes of Desolation",
+			"artist": "GOETIΛ",
 			"description": [
-				"• Composer & Arranger: Xeudo Code",
+				"• Composer & Arranger: GOETIΛ (Sigillum Azoetia)",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
-				"• Additional Mastering: TBD",
-				"",
-				"• Used Software: FL Studio",
-				"• Used VSTs & Samples: Serum, Harmor",
-				"",
-				"• About this track: A track to express a happy ending."
+				"• Programmed, Produced, Mixed & Mastered by GOETIΛ (Sigillum Azoetia)",
+				"• Additional Mastering: Loudness Ceiling"
 			]
 		},
 		"15": {
-			"title": "Updrift",
-			"artist": "Xeudo Code",
+			"title": "Ouroboros",
+			"artist": "Supire",
 			"description": [
-				"• Composer & Arranger: Xeudo Code",
+				"• Composer & Arranger: Supire (NH)",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by Xeudo Code",
-				"• Additional Mastering: TBD",
+				"• Programmed, Produced, Mixed & Mastered by Supire (NH)",
+				"• Additional Mastering: Dynamic EQing, Loudness Adjustment, Compression",
 				"",
-				"• Used Software: FL Studio",
-				"• Used VSTs & Samples: Serum, Harmor",
+				"• Used Software: FL Studio 21",
+				"• Used VSTs & Samples: Massive/Kontakt/Serum/Techivation Bundle/etc",
 				"",
-				"• About this track: A track to express a happy ending."
+				"• About this track:",
+				"#EN",
+				"A song about someone who keeps dying fighting a strong enemy, but never fails to come back to life and keep fighting, indomitably.",
+				"",
+				"#JP",
+				"強敵の前に何度も倒されて死ぬが、何度もよみがえり挑み続ける不屈の不死者の曲です。"
 			]
 		}
 	},

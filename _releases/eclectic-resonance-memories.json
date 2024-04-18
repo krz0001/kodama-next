@@ -37,10 +37,11 @@
 				"• Used VSTs & Samples: Chipsounds, Magical 8bit Plug2",
 				"",
 				"• About this track:",
-				"# JP",
-				"子ネズミ達のチーズ争奪戦",
 				"# EN",
-				"A fight for cheese among baby mice"
+				"A fight for cheese among baby mice",
+				"",
+				"# JP",
+				"子ネズミ達のチーズ争奪戦"
 			]
 		},
 		"02": {
@@ -56,10 +57,11 @@
 				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
 				"",
 				"• About this track:",
-				"# JP",
-				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！",
 				"# EN",
-				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!"
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!",
+				"",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！"
 			]
 		},
 		"03": {
@@ -104,11 +106,11 @@
 				"• Used Hardware: YAMAHA YMF262 (OPL3)",
 				"",
 				"• About this track:",
-				"# JP",
-				"私にとって長年の憧れであり続けたYAMAHA YMF262 (OPL3)。しかしそれに触れるチャンスは私のキャリアでは実現することはなく、長い月日が流れました。しかし、2024年の1月に友人の勧めでfurnace tracker と出会うことになります。これは私にとって大きな出来事になりました。この楽曲は私にとって人生初めて取り組むOPL3作品であります。これまで私は重厚な響きを生み出すことに力を注いできましたが、今回はそれとは違う世界を自分自身に求めました。OPL3が持つ発音チャンネル全てを使いながらもミニマルに展開していく「Hierarchy of L」をお楽しみいただけたら幸いです。",
-				"",
 				"# EN",
-				"The Yamaha YMF262 (OPL3) — it has long been a personal aspiration of mine. In all the years over the course of my career I never got the chance to use it. However, a friend introduced me to Furnace Tracker in January 2024. This was a big deal for me. What you are about to hear is my very first OPL3 composition. Up until now I had been focusing on creating heavy sounds, but this time I found a different world within myself. I hope you enjoy Hierarchy of L, which follows a minimalist progression yet utilizes every sound channel of the OPL3."
+				"The Yamaha YMF262 (OPL3) — it has long been a personal aspiration of mine. In all the years over the course of my career I never got the chance to use it. However, a friend introduced me to Furnace Tracker in January 2024. This was a big deal for me. What you are about to hear is my very first OPL3 composition. Up until now I had been focusing on creating heavy sounds, but this time I found a different world within myself. I hope you enjoy Hierarchy of L, which follows a minimalist progression yet utilizes every sound channel of the OPL3.",
+				"",
+				"# JP",
+				"私にとって長年の憧れであり続けたYAMAHA YMF262 (OPL3)。しかしそれに触れるチャンスは私のキャリアでは実現することはなく、長い月日が流れました。しかし、2024年の1月に友人の勧めでfurnace tracker と出会うことになります。これは私にとって大きな出来事になりました。この楽曲は私にとって人生初めて取り組むOPL3作品であります。これまで私は重厚な響きを生み出すことに力を注いできましたが、今回はそれとは違う世界を自分自身に求めました。OPL3が持つ発音チャンネル全てを使いながらもミニマルに展開していく「Hierarchy of L」をお楽しみいただけたら幸いです。"
 			]
 		},
 		"06": {
@@ -180,10 +182,10 @@
 				"• Used Hardware: Y+3-8910, MSX-SCC, K053260, (12 channels), Pamphlet Route Samples",
 				"",
 				"• About this track:",
-				"# JP",
+				"# EN",
 				"I’ve composed this bossa nova-like chiptune song while taking advantage of the cold, yet warm sonorities of the MSX’ SSC sound. “Appreciate the sight of the soft waves from a silver glinting beach” was the prompt that sparked this idea.",
 				"",
-				"# EN",
+				"# JP",
 				"MSXのSCC音源ならではの、冷たさと温かさの両方を併せ持つ音の質感を活かしてボサノヴァライクのチップチューンを作りました。\"白銀色に輝く砂浜から穏やかな波の流れを眺め、楽しむ\"というテーマで曲を作りました。"
 			]
 		},
@@ -335,11 +337,11 @@
 				"• Used VSTs & Samples: SANA 8BIT VST, mu-station",
 				"",
 				"• About this track: ",
-				"# JP",
-				"去年の春に作ったアルバム、\"Rabbit Beat!\"の続きの物語です。古いゲームの音とその懐かしさを表した曲です。",
-				"",
 				"# EN",
-				"This is the sequel to the story of the album I published last spring, \"Rabbit Beat!\". This is a song that represents the sonority and nostalgia one may feel when playing retro video games."
+				"This is the sequel to the story of the album I published last spring, \"Rabbit Beat!\". This is a song that represents the sonority and nostalgia one may feel when playing retro video games.",
+				"",
+				"# JP",
+				"去年の春に作ったアルバム、\"Rabbit Beat!\"の続きの物語です。古いゲームの音とその懐かしさを表した曲です。"
 			]
 		}
 	},
