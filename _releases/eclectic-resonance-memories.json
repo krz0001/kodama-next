@@ -364,94 +364,98 @@
 			"role": "Music"
 		},
 		"5": {
-			"id": "GENATARi",
+			"id": "Tadahiro Nitta",
 			"role": "Music"
 		},
 		"6": {
-			"id": "Levc_EGM",
+			"id": "GENATARi",
 			"role": "Music"
 		},
 		"7": {
-			"id": "Rei8bit",
+			"id": "Levc_EGM",
 			"role": "Music"
 		},
 		"8": {
-			"id": "TakuikaNinja",
+			"id": "Rei8bit",
 			"role": "Music"
 		},
 		"9": {
-			"id": "Muscises",
+			"id": "TakuikaNinja",
 			"role": "Music"
 		},
 		"10": {
-			"id": "Gali",
+			"id": "Muscises",
 			"role": "Music"
 		},
 		"11": {
-			"id": "g3ntlebreeze",
+			"id": "Gali",
 			"role": "Music"
 		},
 		"12": {
-			"id": "Monochrome",
+			"id": "g3ntlebreeze",
 			"role": "Music"
 		},
 		"13": {
-			"id": "Nokutoka Momiji",
+			"id": "Monochrome",
 			"role": "Music"
 		},
 		"14": {
-			"id": "Tobikomi",
+			"id": "Nokutoka Momiji",
 			"role": "Music"
 		},
 		"15": {
-			"id": "MetaMusic",
+			"id": "Tobikomi",
 			"role": "Music"
 		},
 		"16": {
-			"id": "scythe",
+			"id": "MetaMusic",
 			"role": "Music"
 		},
 		"17": {
-			"id": "Dot Matrix Girl",
+			"id": "scythe",
 			"role": "Music"
 		},
 		"18": {
-			"id": "HEAVYVIPER",
+			"id": "Dot Matrix Girl",
 			"role": "Music"
 		},
 		"19": {
-			"id": "Amir",
+			"id": "HEAVYVIPER",
 			"role": "Music"
 		},
 		"20": {
+			"id": "Amir",
+			"role": "Music"
+		},
+		"21": {
 			"id": "Laz",
 			"role": "Mastering Engineer"
 		},
-		"21": {
+		"22": {
 			"id": "Krep",
 			"role": "Illustration & Logo Designer"
 		},
-		"22": {
+		"23": {
 			"id": "Fivda",
 			"role": "Supervisior & Planner"
 		},
-		"23": {
+		"24": {
 			"id": "marklincadet",
 			"role": "Supervisior & Planner"
 		},
-		"24": {
+		"25": {
 			"id": "cal",
 			"role": "Supervisior & Planner"
 		},
-		"25": {
+		"26": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
-		"26": {
+		"27": {
 			"id": "Elegant Sister",
 			"role": "Crossfade Video"
 		},
-		"27": {
+		"28": {
 			"id": "krz",
 			"role": "Web"
 		}
