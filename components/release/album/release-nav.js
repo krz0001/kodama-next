@@ -10,11 +10,11 @@ export default function ReleaseNav({...props}) {
 				<div className="flex justify-between items-center">
 					<Link href="/">
 						<Image
-							src="/assets/kodamamusic.png"
+							src="/assets/kodamasounds.png"
 							style={{ objectFit: 'cover', objectPosition: 'center' }}
 							width={100}
 							height={100}
-							alt="KodamaSoft"
+							alt="KodamaSounds"
 							quality={100}
 						/>
 					</Link>
