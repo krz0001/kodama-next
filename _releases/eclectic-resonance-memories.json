@@ -1,0 +1,480 @@
+{
+	"slug": "eclectic-resonance-memories",
+	"logo": "/assets/discography/logos/0012.png",
+	"color": "5DF6FE",
+	"soundcloud_track_id": "1803567723",
+	"cover": "/assets/discography/covers/0012.png",
+	"title": "ECLECTIC RESONANCE Memories",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "Chiptune & FM Original Work Album",
+	"release_date": "28 Apr. 2024 (M3-2024 Spring)",
+	"catalog": "KSDL-0012",
+	"price": "Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2300 yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/5665458"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "Cheeky Cheese Chase",
+			"artist": "CHOUX",
+			"description": [
+				"• Composer & Arranger: CHOUX",
+				"",
+				"• Programmed, Produced & Mixed by CHOUX",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: CUBASE10",
+				"• Used VSTs & Samples: Chipsounds, Magical 8bit Plug2",
+				"",
+				"• About this track:",
+				"# EN",
+				"A fight for cheese among baby mice",
+				"",
+				"# JP",
+				"子ネズミ達のチーズ争奪戦"
+			]
+		},
+		"02": {
+			"title": "Chipfunk Invasion",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Cubase 10",
+				"• Used VSTs & Samples: Magical 8bit Plug 2, Samplescience \"Famidrums\"",
+				"",
+				"• About this track:",
+				"# EN",
+				"I've made a few songs containing chiptune elements until now, but this is the first time I've made a track while completely respecting hardware limitations! The first version had non-chiptune drums, but thanks to some advice that I was given, I could perfect the track. I'll admit, it was pretty hard... I have the utmost respect for the ingenuity and the intelligence of my predecessors. I did my best for this track, so I hope you'll listen to it again and again!",
+				"",
+				"# JP",
+				"チップチューンの要素を含む曲は、これまでに何曲か作ったことはあるのですが、チップチューンのルールに完全に従って作ったのは今回が初めてです！最初のバージョンはドラムだけチップチューンでは無かったのですが、アドバイスをもらって完全な曲になりました。しかし、これは大変な作業ですね……。先人の知恵と工夫に対して、改めて最大限の敬意を送ります。そして、頑張って作ったので何回も聞いてくれ！"
+			]
+		},
+		"03": {
+			"title": "Fomalhaut",
+			"artist": "hasu",
+			"description": [
+				"• Composer & Arranger: hasu",
+				"",
+				"• Programmed, Produced & Mixed by hasu",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Cubase",
+				"• Used VSTs & Samples: HALion Sonic 3",
+				"",
+				"• About this track: Fomalhaut is the brightest star in the southern constellation of Piscis Austrinus, the Southern Fish, and one of the brightest stars in the night sky. I composed the music with the image of that star in mind."
+			]
+		},
+		"04": {
+			"title": "miami galaxy",
+			"artist": "fusoxide",
+			"description": [
+				"• Composer & Arranger: fusoxide",
+				"",
+				"• Programmed, Produced & Mixed by fusoxide",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Furnace",
+				"• Used Hardware: YM2151, WonderSwan WSG, RFC5C68",
+				"",
+				"• About this track: This was a fun piece to write; it uses YM2151 (FM), Wonderswan (wavetable) and RF5C68 (PCM), a combination that would otherwise not be possible without the Swiss army knife that is Furnace. I was particularly inspired by late 80s/early 90s Sega arcade game music, such as OutRunners and Thunder Blade, but I decided to get more experimental particularly later in the track. In short, it really is digital fusion. I hope you enjoy it!"
+			]
+		},
+		"05": {
+			"title": "Hierarchy of L",
+			"artist": "Tadahiro Nitta",
+			"description": [
+				"• Composer & Arranger: Tadahiro Nitta",
+				"",
+				"• Programmed, Produced & Mixed by Tadahiro Nitta",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Furnace",
+				"• Used Hardware: YAMAHA YMF262 (OPL3)",
+				"",
+				"• About this track:",
+				"# EN",
+				"The Yamaha YMF262 (OPL3) — it has long been a personal aspiration of mine. In all the years over the course of my career I never got the chance to use it. However, a friend introduced me to Furnace Tracker in January 2024. This was a big deal for me. What you are about to hear is my very first OPL3 composition. Up until now I had been focusing on creating heavy sounds, but this time I found a different world within myself. I hope you enjoy Hierarchy of L, which follows a minimalist progression yet utilizes every sound channel of the OPL3.",
+				"",
+				"# JP",
+				"私にとって長年の憧れであり続けたYAMAHA YMF262 (OPL3)。しかしそれに触れるチャンスは私のキャリアでは実現することはなく、長い月日が流れました。しかし、2024年の1月に友人の勧めでfurnace tracker と出会うことになります。これは私にとって大きな出来事になりました。この楽曲は私にとって人生初めて取り組むOPL3作品であります。これまで私は重厚な響きを生み出すことに力を注いできましたが、今回はそれとは違う世界を自分自身に求めました。OPL3が持つ発音チャンネル全てを使いながらもミニマルに展開していく「Hierarchy of L」をお楽しみいただけたら幸いです。"
+			]
+		},
+		"06": {
+			"title": "thanks for the song ideas",
+			"artist": "GENATARi feat. Niro Ichini",
+			"description": [
+				"• Composer, Arranger & Lyrics: GENATARi",
+				"• Vocals: Niro Ichini, GENATARi",
+				"",
+				"• Programmed, Produced & Mixed by GENATARi",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Furnace Tracker",
+				"• Used Hardware: Stock SEGA Genesis/Megadrive, featuring self made \"vocaloid\" Niro Ichini",
+				"",
+				"• About this track: I was invited on the album very late so I wasn't able to put all my ideas into the track but I hope you like what I have there. If you want the project file just ask me on twitter",
+				"• Lyrics:",
+				"oh you thought that was me, sorry I gotta disagree",
+				"though i don't even know see",
+				"all the things that I got will all be useless thought",
+				"if i take another breath, please",
+				"I just want a break, keep thinking of me",
+				"when I quit or I pass on",
+				"don't need a whole crew, can't be on my own",
+				"need more people to rely on",
+				"can't be everyone i want, gotta spread my skills apart",
+				"less I dive off the deep end, gotta be good at something",
+				"i wanna look good, which costs me money",
+				"and too little time cuz, nothing can be found",
+				"any time to waste now",
+				"the little sights that can be found",
+				"within the cracks of the imagination",
+				"An addict of affirmation",
+				"please just be what I remember",
+				"i can't unsee all that you did to me",
+				"now i'll copy you",
+				"the blame is all for me",
+				"and to the hidden pain i kept from you",
+				"and give you all chances, talk to me",
+				"but here i am the one who's here for you",
+				"oh how dumb am i for me to trust in you"
+			]
+		},
+		"07": {
+			"title": "Foward Eclypse",
+			"artist": "Levc_EGM",
+			"description": [
+				"• Composer & Arranger: Levc_EGM",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Levc_EGM",
+				"• Additional Mastering: TBD",
+				"",
+				"• Used Software: FL studio 12",
+				"• Used VSTs & Samples: Nes VST, Chipsounds, SNES samples",
+				"",
+				"• About this track: This one I didn't have a good name for since it was made as a general \"cool action chiptune track\". So the name doesn't mean anything unless someone wants to imagine something to go along with it.  If you let me kind of give my own impression post finishing the track of what it could be about, I picture a really cool action hero called Eclypse. It dresses really cool like a ninja and you fight it in a classic bullet hell-like shootem up. So in a way its like a touhou level but worse because he isn't a really cute girl, and I can't make a good touhou-like track...."
+			]
+		},
+		"08": {
+			"title": "Equanimity Shoreline",
+			"artist": "Rei8bit",
+			"description": [
+				"• Composer & Arranger: Rei8bit",
+				"",
+				"• Programmed, Produced & Mixed by Rei8bit",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Furnace Tracker",
+				"• Used Hardware: Y+3-8910, MSX-SCC, K053260, (12 channels), Pamphlet Route Samples",
+				"",
+				"• About this track:",
+				"# EN",
+				"I’ve composed this bossa nova-like chiptune song while taking advantage of the cold, yet warm sonorities of the MSX’ SSC sound. “Appreciate the sight of the soft waves from a silver glinting beach” was the prompt that sparked this idea.",
+				"",
+				"# JP",
+				"MSXのSCC音源ならではの、冷たさと温かさの両方を併せ持つ音の質感を活かしてボサノヴァライクのチップチューンを作りました。\"白銀色に輝く砂浜から穏やかな波の流れを眺め、楽しむ\"というテーマで曲を作りました。"
+			]
+		},
+		"09": {
+			"title": "No Time 2 Dwell",
+			"artist": "TakuikaNinja",
+			"description": [
+				"• Composer & Arranger: TakuikaNinja",
+				"",
+				"• Programmed, Produced & Mixed by TakuikaNinja",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Dn-FamiTracker, NSFPlay",
+				"• Used VSTs & Samples: Casio Rapman",
+				"• Used Hardware: 2A03 (NES/FC)",
+				"",
+				"• About this track: I have \"No Time 2 Dwell\" much on this track since I started it around a week before the deadline. University studies don't give you a lot of free time, sadly... The track was done with 2A03 (NES/FC soundchip) only, with around 1.6KB worth of DPCM samples. I tried to go for a 2-step garage style, which isn't at all a common genre on this system but lends itself well to extreme pattern data optimisation. I threw in a bit of morse code, and used the FDS error sound as the alarm sound you'd hear in just about any UK garage track. God I love the Casio Rapman's samples - they're so cheesy, even when converted to DPCM."
+			]
+		},
+		"10": {
+			"title": "Citrus Cirrus",
+			"artist": "Muscises & Gali",
+			"description": [
+				"• Composer & Arranger: Muscises, Gali",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Muscises, Gali",
+				"• Additional Mastering: TBD",
+				"",
+				"• Used Software: mmlgui, MDSDRV, Blastem",
+				"• Used Hardware: Mega Drive / Genesis",
+				"",
+				"• About this track: The whole idea behind the track is that it should evoke a sense of freedom and elevation, almost as if you can touch the clouds."
+			]
+		},
+		"11": {
+			"title": "Memories I'll Never Know",
+			"artist": "g3ntlebreeze",
+			"description": [
+				"• Composer & Arranger: g3ntlebreeze",
+				"",
+				"• Programmed, Produced & Mixed by g3ntlebreeze",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Logic Pro X",
+				"• Used VSTs & Samples: magical8bitplug, Super Audio Cart, Serum, Decimort 2",
+				"",
+				"• About this track: I've had an idea about a chiptuney drum and bass-ish song for a while... Specifically I wanted the drums to sound a certain way. Really rapidly moving and sleek. With very little attack. And so I wanted to pursue that idea with this track! I've also been relistening to the stuff I used to listen to in like 2009, like early deadmau5, Owl City, and LapFox Trax stuff. And I wanted to incorporate stuff like that! Actually this song reminds me of the first \"serious\" electronic music I made back then. so this song is nostalgic for me haha."
+			]
+		},
+		"12": {
+			"title": "quicksilver",
+			"artist": "Monochrome",
+			"description": [
+				"• Composer & Arranger: Monochrome",
+				"",
+				"• Programmed, Produced & Mixed by Monochrome",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Reason 12",
+				"• Used Hardware: magical8bitplugin",
+				"",
+				"• About this track: I'm not a very experienced chiptune musician, but I'm super proud of what I made here. I decided to participate in this album on a whim, figuring it could be a good chance to improve at chiptune, and it really went a long way in helping me better grasp how to approach the genre. Between the jazzy melodies and structural fluidity, I'd like to think I did quite well."
+			]
+		},
+		"13": {
+			"title": "Square Concerto in E Minor",
+			"artist": "Nokutoka Momiji",
+			"description": [
+				"• Composer & Arranger: Nokutoka Momiji",
+				"",
+				"• Programmed, Produced & Mixed by Nokutoka Momiji",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs/Samples: Magical 8bit Plug 2 and Medusa 2",
+				"",
+				"• About this track: Wanted to make something unusual and write a Bach-styled baroque concerto in a chiptune format. Something modern yet old at the same time."
+			]
+		},
+		"14": {
+			"title": "Keep Pushing",
+			"artist": "Tobikomi",
+			"description": [
+				"• Composer & Arranger: Tobikomi",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Tobikomi",
+				"• Additional Mastering: TBD",
+				"",
+				"• Used Software: Furnace Tracker",
+				"",
+				"• About this track: Inspired by PC-88/PC-98 music. This track uses the SEGA Hang-On sound hardware (YM2203 OPN + SegaPCM)"
+			]
+		},
+		"15": {
+			"title": "Lychee Palace",
+			"artist": "MetaMusic",
+			"description": [
+				"• Composer & Arranger: MetaMusic",
+				"",
+				"• Programmed, Produced & Mixed by MetaMusic",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Furnace",
+				"• Used Hardware: 2A03 (NES/FC) + VRC6",
+				"",
+				"• About this track: The first 30 seconds of this track are nearly unmodified from an old experiment when I first dipped my toes into composing for the NES sound chip. Working under the constraints of only having 3 tonal channels was quite fun, but for a more complete musical concept, I needed to add on the VRC6 expansion chip for the rest of this track."
+			]
+		},
+		"16": {
+			"title": "Just a Little Bit",
+			"artist": "scythe",
+			"description": [
+				"• Composer & Arranger: scythe",
+				"",
+				"• Programmed, Produced & Mixed by scythe",
+				"• Mastering Engineer: TBD",
+				"",
+				"• Used Software: Furnace Tracker",
+				"• Hardware: YM2151 + YM2203 + MSM6295",
+				"",
+				"• About this track: \"Soon I will see you for the first time in a long time!\""
+			]
+		},
+		"17": {
+			"title": "Formless Desert",
+			"artist": "Dot Matrix Girl",
+			"description": [
+				"• Composer & Arranger: Dot Matrix Girl",
+				"",
+				"• Programmed, Produced & Mixed by Dot Matrix Girl",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Plogue's Chipsynth OP7"
+			]
+		},
+		"18": {
+			"title": "Ascension of STARMOG",
+			"artist": "HEAVYVIPER",
+			"description": [
+				"• Composer & Arranger: Hal Binderman",
+				"",
+				"• Programmed, Produced & Mixed by YamaHal Bindermanjet",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Furnace 0.61",
+				"• Used Hardware: MSX (AY-3-8910) + SCC, Panasonic A1WX",
+				"",
+				"• About this track: My first major piece for MSX hardware. My cat Moggie was ill while I wrote most of it, and I finished it the day he passed away. So, while it is mainly a tribute to MSX, it is also a farewell to Moggie."
+			]
+		},
+		"19": {
+			"title": "The place of memories",
+			"artist": {
+				"en": "Amir",
+				"jp": "あみる"
+			},
+			"description": [
+				"• Composer & Arranger: Amir [あみる]",
+				"",
+				"• Programmed, Produced & Mixed by Amir [あみる]",
+				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
+				"• Used Software: Logic Pro X",
+				"• Used VSTs & Samples: SANA 8BIT VST, mu-station",
+				"",
+				"• About this track: ",
+				"# EN",
+				"This is the sequel to the story of the album I published last spring, \"Rabbit Beat!\". This is a song that represents the sonority and nostalgia one may feel when playing retro video games.",
+				"",
+				"# JP",
+				"去年の春に作ったアルバム、\"Rabbit Beat!\"の続きの物語です。古いゲームの音とその懐かしさを表した曲です。"
+			]
+		}
+	},
+	"youtube_id": "yImXdXVkGTw",
+	"credits": {
+		"1": {
+			"id": "CHOUX",
+			"role": "Music"
+		},
+		"2": {
+			"id": "Yamajet",
+			"role": "Music"
+		},
+		"3": {
+			"id": "hasu",
+			"role": "Music"
+		},
+		"4": {
+			"id": "fusoxide",
+			"role": "Music"
+		},
+		"5": {
+			"id": "Tadahiro Nitta",
+			"role": "Music"
+		},
+		"6": {
+			"id": "GENATARi",
+			"role": "Music"
+		},
+		"7": {
+			"id": "Levc_EGM",
+			"role": "Music"
+		},
+		"8": {
+			"id": "Rei8bit",
+			"role": "Music"
+		},
+		"9": {
+			"id": "TakuikaNinja",
+			"role": "Music"
+		},
+		"10": {
+			"id": "Muscises",
+			"role": "Music"
+		},
+		"11": {
+			"id": "Gali",
+			"role": "Music"
+		},
+		"12": {
+			"id": "g3ntlebreeze",
+			"role": "Music"
+		},
+		"13": {
+			"id": "Monochrome",
+			"role": "Music"
+		},
+		"14": {
+			"id": "Nokutoka Momiji",
+			"role": "Music"
+		},
+		"15": {
+			"id": "Tobikomi",
+			"role": "Music"
+		},
+		"16": {
+			"id": "MetaMusic",
+			"role": "Music"
+		},
+		"17": {
+			"id": "scythe",
+			"role": "Music"
+		},
+		"18": {
+			"id": "Dot Matrix Girl",
+			"role": "Music"
+		},
+		"19": {
+			"id": "HEAVYVIPER",
+			"role": "Music"
+		},
+		"20": {
+			"id": "Amir",
+			"role": "Music"
+		},
+		"21": {
+			"id": "Laz",
+			"role": "Mastering Engineer"
+		},
+		"22": {
+			"id": "Krep",
+			"role": "Illustration & Logo Designer"
+		},
+		"23": {
+			"id": "Fivda",
+			"role": "Supervisior & Planner"
+		},
+		"24": {
+			"id": "marklincadet",
+			"role": "Supervisior & Planner"
+		},
+		"25": {
+			"id": "cal",
+			"role": "Supervisior & Planner"
+		},
+		"26": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"27": {
+			"id": "Elegant Sister",
+			"role": "Crossfade Video"
+		},
+		"28": {
+			"id": "krz",
+			"role": "Web"
+		}
+	}
+}

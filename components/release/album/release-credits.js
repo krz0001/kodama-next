@@ -14,6 +14,7 @@ import {
 import BoothSVG from '../../../public/assets/icons/booth.svg'
 import PixivSVG from '../../../public/assets/icons/pixiv.svg'
 import FanboxSVG from '../../../public/assets/icons/fanbox.svg'
+import VgmdbSVG from '../../../public/assets/icons/vgmdb.svg'
 
 export default function ReleaseTracklist({ credits }) {
 	function LinkIcon(props) {
@@ -31,7 +32,7 @@ export default function ReleaseTracklist({ credits }) {
 		} else if (link.toString().includes('soundcloud')) {
 			return <FaSoundcloud className={props.className} />
 		} else if (link.toString().includes('vgmdb')) {
-			return <span className={props.className}>VGMdb</span>
+			return <VgmdbSVG className={props.className} />
 		} else if (link.toString().includes('booth.pm')) {
 			return <BoothSVG className={props.className} />
 		} else if (link.toString().includes('pixiv')) {
