@@ -125,7 +125,7 @@
 				"• Mastering Engineer: Laz (Lazer Burn Audio)",
 				"",
 				"• Used Software: Furnace Tracker",
-				"• Used VSTs & Samples: Stock SEGA Genesis/Megadrive, featuring self made \"vocaloid\" Niro Ichini",
+				"• Used Hardware: Stock SEGA Genesis/Megadrive, featuring self made \"vocaloid\" Niro Ichini",
 				"",
 				"• About this track: I was invited on the album very late so I wasn't able to put all my ideas into the track but I hope you like what I have there. If you want the project file just ask me on twitter",
 				"• Lyrics:",
@@ -165,7 +165,7 @@
 				"• Additional Mastering: TBD",
 				"",
 				"• Used Software: FL studio 12",
-				"• Used Hardware: Nes VST, Chipsounds, SNES samples",
+				"• Used VSTs & Samples: Nes VST, Chipsounds, SNES samples",
 				"",
 				"• About this track: This one I didn't have a good name for since it was made as a general \"cool action chiptune track\". So the name doesn't mean anything unless someone wants to imagine something to go along with it.  If you let me kind of give my own impression post finishing the track of what it could be about, I picture a really cool action hero called Eclypse. It dresses really cool like a ninja and you fight it in a classic bullet hell-like shootem up. So in a way its like a touhou level but worse because he isn't a really cute girl, and I can't make a good touhou-like track...."
 			]
@@ -198,8 +198,10 @@
 				"",
 				"• Programmed, Produced & Mixed by TakuikaNinja",
 				"• Mastering Engineer: Laz (Lazer Burn Audio)",
+				"",
 				"• Used Software: Dn-FamiTracker, NSFPlay",
 				"• Used VSTs & Samples: Casio Rapman",
+				"• Used Hardware: 2A03 (NES/FC)",
 				"",
 				"• About this track: I have \"No Time 2 Dwell\" much on this track since I started it around a week before the deadline. University studies don't give you a lot of free time, sadly... The track was done with 2A03 (NES/FC soundchip) only, with around 1.6KB worth of DPCM samples. I tried to go for a 2-step garage style, which isn't at all a common genre on this system but lends itself well to extreme pattern data optimisation. I threw in a bit of morse code, and used the FDS error sound as the alarm sound you'd hear in just about any UK garage track. God I love the Casio Rapman's samples - they're so cheesy, even when converted to DPCM."
 			]
@@ -214,6 +216,7 @@
 				"• Additional Mastering: TBD",
 				"",
 				"• Used Software: mmlgui, MDSDRV, Blastem",
+				"• Used Hardware: Mega Drive / Genesis",
 				"",
 				"• About this track: The whole idea behind the track is that it should evoke a sense of freedom and elevation, almost as if you can touch the clouds."
 			]
@@ -242,6 +245,9 @@
 				"• Programmed, Produced & Mixed by Monochrome",
 				"• Mastering Engineer: Laz (Lazer Burn Audio)",
 				"",
+				"• Used Software: Reason 12",
+				"• Used Hardware: magical8bitplugin",
+				"",
 				"• About this track: I'm not a very experienced chiptune musician, but I'm super proud of what I made here. I decided to participate in this album on a whim, figuring it could be a good chance to improve at chiptune, and it really went a long way in helping me better grasp how to approach the genre. Between the jazzy melodies and structural fluidity, I'd like to think I did quite well."
 			]
 		},
@@ -254,6 +260,9 @@
 				"• Programmed, Produced & Mixed by Nokutoka Momiji",
 				"• Mastering Engineer: Laz (Lazer Burn Audio)",
 				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs/Samples: Magical 8bit Plug 2 and Medusa 2",
+				"",
 				"• About this track: Wanted to make something unusual and write a Bach-styled baroque concerto in a chiptune format. Something modern yet old at the same time."
 			]
 		},
@@ -265,6 +274,8 @@
 				"",
 				"• Programmed, Produced, Mixed & Mastered by Tobikomi",
 				"• Additional Mastering: TBD",
+				"",
+				"• Used Software: Furnace Tracker",
 				"",
 				"• About this track: Inspired by PC-88/PC-98 music. This track uses the SEGA Hang-On sound hardware (YM2203 OPN + SegaPCM)"
 			]
@@ -279,6 +290,7 @@
 				"• Mastering Engineer: Laz (Lazer Burn Audio)",
 				"",
 				"• Used Software: Furnace",
+				"• Used Hardware: 2A03 (NES/FC) + VRC6",
 				"",
 				"• About this track: The first 30 seconds of this track are nearly unmodified from an old experiment when I first dipped my toes into composing for the NES sound chip. Working under the constraints of only having 3 tonal channels was quite fun, but for a more complete musical concept, I needed to add on the VRC6 expansion chip for the rest of this track."
 			]
@@ -318,6 +330,7 @@
 				"• Mastering Engineer: Laz (Lazer Burn Audio)",
 				"",
 				"• Used Software: Furnace 0.61",
+				"• Used Hardware: MSX (AY-3-8910) + SCC, Panasonic A1WX",
 				"",
 				"• About this track: My first major piece for MSX hardware. My cat Moggie was ill while I wrote most of it, and I finished it the day he passed away. So, while it is mainly a tribute to MSX, it is also a farewell to Moggie."
 			]
