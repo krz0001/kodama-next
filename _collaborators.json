@@ -162,6 +162,14 @@
 			"vgmdb": "https://vgmdb.net/artist/54381"
 		}
 	},
+	"intelligencecasino": {
+		"name": "intelligencecasino",
+		"links": {
+			"bandcamp": "https://66clown.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/intelligencecasino",
+			"vgmdb": "https://vgmdb.net/artist/54381"
+		}
+	},
 	"Gumichan01": {
 		"name": "Gumichan01",
 		"links": {
@@ -192,10 +200,23 @@
 		}
 	},
 	"ZUN": {
-		"name": "ZUN (Team Shanghai Alice)",
+		"name": {
+			"en": "ZUN (Team Shanghai Alice)",
+			"jp": "ZUN (上海アリス幻樂団)"
+		},
 		"links": {
 			"website": "https://www16.big.or.jp/~zun/",
 			"twitter": "https://twitter.com/korindo"
+		}
+	},
+	"U2 Akiyama": {
+		"name": {
+			"en": "U2 Akiyama (Twilight Frontier)",
+			"jp": "あきやまうに (黄昏フロンティア)"
+		},
+		"links": {
+			"website": "https://u-2.skr.jp",
+			"twitter": "https://twitter.com/u2aki"
 		}
 	},
 	"malicent": {
@@ -313,6 +334,19 @@
 			"youtube": "https://www.youtube.com/channel/UCA-8abzeuoKeSfcaysVlT8Q",
 			"bandcamp": "https://volumetrique.bandcamp.com/",
 			"spotify": "https://open.spotify.com/artist/59g6uy62eR7Dsu3t9hQP9Q",
+			"twitter": "https://twitter.com/volumetrique",
+			"vgmdb": "https://vgmdb.net/artist/56092"
+		}
+	},
+	"Volumetrique": {
+		"name": "Volumetrique",
+		"links": {
+			"soundcloud": "https://soundcloud.com/volumetrique",
+			"website": "https://volumetrique.live/",
+			"apple": "https://music.apple.com/artist/volumetrique/1660587296",
+			"youtube": "https://www.youtube.com/channel/UCA-8abzeuoKeSfcaysVlT8Q",
+			"bandcamp": "https://volumetrique.bandcamp.com/",
+			"spotify": "https://open.spotify.com/artist/2UzS5YyS7ozTI23XTKh0P8",
 			"twitter": "https://twitter.com/volumetrique",
 			"vgmdb": "https://vgmdb.net/artist/56092"
 		}
@@ -1164,6 +1198,32 @@
 			"youtube": "https://www.youtube.com/@lazsynth/featured",
 			"website": "https://pronouns.page/@Laz-chan",
 			"vgmdb": "https://vgmdb.net/artist/53368"
+		}
+	},
+	"ne_pura": {
+		"name": "ne_pura",
+		"links": {
+			"twitter": "https://twitter.com/nepperoni",
+			"pixiv": "https://www.pixiv.net/en/users/56006676",
+			"vgmdb": "https://vgmdb.net/artist/60617"
+		}
+	},
+	"A.Dokuga": {
+		"name": "A.Dokuga",
+		"links": {
+			"twitter": "https://twitter.com/ADokuga",
+			"youtube": "https://www.youtube.com/user/aDokuga",
+			"soundcloud": "https://soundcloud.com/agehadokuga",
+			"vgmdb": "https://vgmdb.net/artist/52154"
+		}
+	},
+	"Lifeline": {
+		"name": "Lifeline",
+		"links": {
+			"twitter": "https://twitter.com/BookshelveMessy",
+			"youtube": "https://www.youtube.com/channel/UCwylN6KwqkKhuvtp1DR7jVQ",
+			"soundcloud": "https://soundcloud.com/animeforwholelife",
+			"vgmdb": "https://vgmdb.net/artist/46433"
 		}
 	},
 	"Sample": {
