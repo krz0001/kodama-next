@@ -1236,38 +1236,5 @@
 			"website": "link",
 			"vgmdb": "link"
 		}
-	},
-	"Sample": {
-		"name": "Sample",
-		"links": {
-			"twitter": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"website": "link",
-			"vgmdb": "link"
-		}
-	},
-	"Sample": {
-		"name": "Sample",
-		"links": {
-			"twitter": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"website": "link",
-			"vgmdb": "link"
-		}
-	},
-	"Sample": {
-		"name": "Sample",
-		"links": {
-			"twitter": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"website": "link",
-			"vgmdb": "link"
-		}
 	}
 }
