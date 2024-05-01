@@ -2,7 +2,7 @@
     "slug": "gensokyo-party-vol5",
     "logo": "/assets/discography/logos/0014.png",
     "color": "F01857",
-    "soundcloud_track_id": "1401916183",
+    "soundcloud_track_id": "1811869095",
     "cover": "/assets/discography/covers/0014.png",
     "title": "Gensokyo Party Vol. 5 VANTABLACK 2",
     "circle": {
@@ -560,10 +560,24 @@
             ]
         },
         "14": {
-            "title": "???",
+            "title": "Solid Grief",
             "artist": "Tee-vee",
             "description": [
-                "???"
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: Tee-vee",
+                "• Guitar & Synth: Tee-vee",
+                "",
+                "• Programmed, Produced & Mixed by Tee-vee",
+                "• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+                "",
+                "• Original Track: Pure Furies ~ Whereabouts of the Heart [Pure Furies ～ 心之所在]",
+                "• Source: Touhou Kanjuden ~ Legacy of Lunatic Kingdom.  [東方紺珠伝　～ Legacy of Lunatic Kingdom.]",
+                "",
+                "• Used Software: FL Studio 21",
+                "• Used VSTs & Samples: NI Kontakt, NI Session Strings Pro 2, NI Arkhis, NI Una Corda, Roland Cloud JV-1080, Image-Line Toxic Biohazard, Vital, Line 6 Helix Native, IK Multimedia Amplitube 5",
+                "• Used Hardware: Music Man Petrucci JP15 7, Arturia Minibrute 2, Devi Ever Bit Mangler",
+                "",
+                "• About this track: An idea for a slow and soft arrangement of the \"verse\" melody of this tune (I didn't even what remember which one it was at the time, I had to listen back to a few games soundtracks to find it, I only remembered this bit) popped up randomly in my head before I even considered joining the album, so I decided to run with it. I took this opportunity to try an idea I had of blending somewhat ambient Electronica with soft piano and orchestration and shoegazey/post-rock guitars for maximum melancholic vibes."
             ]
         },
         "15": {
@@ -662,116 +676,128 @@
             ]
         }
     },
-    "youtube_id": "sIn1KISzkfA",
+    "youtube_id": "EGWT9xAGeDk",
     "credits": {
+        "1": {
+            "role": "Arranger",
+            "id": "AIKATYPE"
+        },
         "2": {
             "role": "Arranger",
-            "id": "jys_music"
+            "id": "Supire"
         },
         "3": {
-            "role": "Tenor Sax",
-            "id": "Rosie Drown"
-        },
-        "4": {
-            "role": "Piano",
-            "id": "Philip Saguil"
-        },
-        "5": {
-            "role": "Drums",
-            "id": "Tee-vee"
-        },
-        "6": {
-            "role": "Bass",
-            "id": "apatisk1"
-        },
-        "7": {
-            "role": "Arranger",
+            "role": "Arranger, Lyrics, Electric Guitars",
             "id": "YOKAI"
         },
-        "8": {
+        "4": {
+            "role": "Vocals",
+            "id": "A.Dokuga"
+        },
+        "5": {
             "role": "Arranger",
-            "id": "Smart Cat Rides Bicycle"
+            "id": "blobdash"
         },
-        "9": {
+        "6": {
             "role": "Arranger",
-            "id": "Uchulups"
+            "id": "intelligencecasino"
         },
-        "10": {
-            "role": "Arranger",
-            "id": "Z_A"
-        },
-        "11": {
-            "role": "Arranger, Keyboards",
-            "id": "Kopan"
-        },
-        "12": {
-            "role": "Arranger, Guitars & Bass",
+        "7": {
+            "role": "Arranger, Guitars, Bass, Synth",
             "id": "Maxx"
         },
-        "13": {
+        "8": {
+            "role": "Arranger, Synth",
+            "id": "Kopan"
+        },
+        "9": {
             "role": "Arranger, Drums",
             "id": "Dylan Hendrick"
         },
-        "14": {
-            "role": "Arranger",
-            "id": "Skelothan"
+        "10": {
+            "role": "Vocals, Arranger & Lyrics",
+            "id": "Milkychan"
         },
-        "15": {
+        "11": {
             "role": "Arranger",
-            "id": "Mizuka Tsukishima"
+            "id": "Lifeline"
         },
-        "16": {
+        "12": {
             "role": "Arranger",
-            "id": "Levc_EGM"
+            "id": "Scramel"
         },
-        "17": {
-            "role": "Arranger",
-            "id": "JDxanadu"
-        },
-        "18": {
-            "role": "Arranger",
-            "id": "Chikyuu no De"
-        },
-        "19": {
-            "role": "Arranger",
-            "id": "Aten"
-        },
-        "20": {
-            "role": "Arranger",
-            "id": "Gumichan01"
-        },
-        "21": {
+        "13": {
             "role": "Arranger",
             "id": "Ren"
         },
-        "22": {
-            "role": "Arranger",
-            "id": "Lollipop"
+        "14": {
+            "role": "Arranger, Lyrics",
+            "id": "ReeK"
         },
-        "23": {
+        "15": {
+            "role": "Arranger",
+            "id": "Eyhz"
+        },
+        "16": {
+            "role": "Arranger",
+            "id": "Violet Delta"
+        },
+        "17": {
+            "role": "Arranger",
+            "id": "Tee-vee"
+        },
+        "18": {
+            "role": "Arranger",
+            "id": "takehirotei"
+        },
+        "19": {
+            "role": "Arranger",
+            "id": "Aamna"
+        },
+        "20": {
+            "role": "Vocals, Lyrics",
+            "id": "Aamna"
+        },
+        "21": {
             "role": "Original Composer",
             "id": "ZUN"
         },
-        "24": {
+        "22": {
+            "role": "Original Composer",
+            "id": "U2 Akiyama"
+        },
+        "23": {
             "role": "Mastering Engineer",
             "id": "malicent"
         },
-        "25": {
+        "24": {
             "role": "Illustration",
-            "id": "daitoko"
+            "id": "ne_pura"
+        },
+        "25": {
+            "role": "Logo & Design",
+            "id": "Zeth"
         },
         "26": {
-            "role": "Logo Designer",
-            "id": "shonocondo"
-        },
-        "27": {
             "role": "Supervisor & Planner",
             "id": "Fivda"
         },
-        "28": {
+        "27": {
             "role": "Japanese Translator",
             "id": "Yanis"
+        },
+        "28": {
+            "role": "Audio Crossfade",
+            "id": "Volumetrique"
+        },
+        "29": {
+            "role": "Crossfade Video",
+            "id": "Elegant Sister"
+        },
+        "30": {
+            "role": "Web",
+            "id": "krz"
         }
     },
-    "footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice). 東方Project © 上海アリス幻樂団"
+    "footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice) & U2 Akiyama (Twilight Frontier). 東方Project © 上海アリス幻樂団 / 黄昏フロンティア"
 }
