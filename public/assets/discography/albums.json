@@ -142,7 +142,9 @@
         "releaseDate": "2024-04-28T00:00:00+0200",
         "name": "ECLECTIC RESONANCE Memories",
         "cover": "/assets/discography/covers/0012.png",
-        "coverColor": "#f7f7f7",
+        "coverColor": "#5DF6FE",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories",
+        "booth": "https://kodamasoft.booth.pm/items/5665458",
         "website": "/releases/eclectic-resonance-memories"
     },
     "eclectic-resonance-uprising-2": {
@@ -150,7 +152,9 @@
         "releaseDate": "2024-04-28T00:00:00+0200",
         "name": "ECLECTIC RESONANCE UPRISING 2",
         "cover": "/assets/discography/covers/0013.png",
-        "coverColor": "#f7f7f7",
+        "coverColor": "#8439A9",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-2",
+        "booth": "https://kodamasoft.booth.pm/items/5665348",
         "website": "/releases/eclectic-resonance-uprising-2"
     },
     "gensokyo-party-vol5": {
@@ -158,7 +162,9 @@
         "releaseDate": "2024-05-03T00:00:00+0200",
         "name": "Gensokyo Party Vol. 5 VANTABLACK 2",
         "cover": "/assets/discography/covers/0014.png",
-        "coverColor": "#000000",
+        "coverColor": "#F01857",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-5-vantablack-2",
+        "booth": "https://kodamasoft.booth.pm/items/5667642",
         "website": "/releases/gensokyo-party-vol5"
     }
 }
