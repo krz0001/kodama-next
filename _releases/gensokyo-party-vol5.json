@@ -755,46 +755,42 @@
             "id": "Aamna"
         },
         "20": {
-            "role": "Vocals, Lyrics",
-            "id": "Aamna"
-        },
-        "21": {
             "role": "Original Composer",
             "id": "ZUN"
         },
-        "22": {
+        "21": {
             "role": "Original Composer",
             "id": "U2 Akiyama"
         },
-        "23": {
+        "22": {
             "role": "Mastering Engineer",
             "id": "malicent"
         },
-        "24": {
+        "23": {
             "role": "Illustration",
             "id": "ne_pura"
         },
-        "25": {
+        "24": {
             "role": "Logo & Design",
             "id": "Zeth"
         },
-        "26": {
+        "25": {
             "role": "Supervisor & Planner",
             "id": "Fivda"
         },
-        "27": {
+        "26": {
             "role": "Japanese Translator",
             "id": "Yanis"
         },
-        "28": {
+        "27": {
             "role": "Audio Crossfade",
             "id": "Volumetrique"
         },
-        "29": {
+        "28": {
             "role": "Crossfade Video",
             "id": "Elegant Sister"
         },
-        "30": {
+        "29": {
             "role": "Web",
             "id": "krz"
         }
