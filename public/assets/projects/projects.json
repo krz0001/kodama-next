@@ -3,32 +3,28 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
-				"slug": "eclectic-resonance-uprising-2",
-				"status": "completed",
-				"percentage": "100",
-				"duration": "1:01:09",
-				"finished_tracks": "15",
-				"deadline": "2024-04-07T23:59:59Z",
+				"slug": "eclectic-resonance-uprising-3",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
 				"mastering": {
-					"status": "pending",
-					"engineer": "blobdash"
+					"status": "pending"
 				},
-				"artwork_comission": "completed",
-				"color": "#fbbf24"
+				"artwork_comission": "pending",
+				"color": "#6cc3b9"
 			},
 			{
-				"slug": "eclectic-resonance-memories",
-				"status": "completed",
-				"percentage": "100",
-				"duration": "1:07:30",
-				"finished_tracks": "19",
-				"deadline": "2024-04-07T23:59:59Z",
+				"slug": "eclectic-resonance-memories-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
 				"mastering": {
-					"status": "pending",
-					"engineer": "Laz (Lazer Burn Audio)"
+					"status": "pending"
 				},
-				"artwork_comission": "completed",
-				"color": "#f472b6"
+				"artwork_comission": "pending",
+				"color": "#f9c74f"
 			},
 			{
 				"slug":"eclectic-resonance-legendaria",
@@ -149,18 +145,16 @@
 		"cat_slug": "gensokyo-party",
 		"projects": [
 			{
-				"slug": "gensokyo-party-5-vantablack-2",
+				"slug": "gensokyo-party-7-vantablack-3",
 				"status": "accepting",
-				"percentage": "75",
-				"duration": "41:19",
-				"finished_tracks": "11",
-				"deadline": "2024-04-14T23:59:59Z",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
 				"mastering": {
-					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+					"status": "pending"
 				},
-				"artwork_comission": "complete",
-				"color": "#b45309"
+				"artwork_comission": "pending",
+				"color": "#fcbcda"
 			},
 			{
 				"slug":"gensokyo-party-6-border-in-stasis",
