@@ -27,6 +27,10 @@ export default function StellarSanctuary({ }) {
 
                     <p>Stellar Sanctuary is planned to be an immersive and atmospheric visual novel, and we aim at making the reader go through tons of different kind of emotions and feelings throughout their read. Be it about the coldness of space, the warmth and fear of being secluded… A personal story, perfumed with a sense of tension.</p>
 
+                    <div className="aspect-w-16 aspect-h-9 h-96 mt-8">
+                        <iframe src="https://www.youtube.com/embed/ZtVoS2MGWcY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className="w-full h-full"></iframe>
+                    </div>
+
                     <div className="grid grid-cols-2 gap-4 mt-8 not-prose">
                         <Image src={screen1} alt="Screenshot 1" />
                         <Image src={screen2} alt="Screenshot 2" />
