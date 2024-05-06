@@ -3,16 +3,17 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
-				"slug": "eclectic-resonance-uprising-3",
+				"slug": "eclectic-resonance-detuned-alloy-2",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
-				"finished_tracks": "0",
+				"finished_tracks": "00",
 				"mastering": {
-					"status": "pending"
+					"status": "pending",
+					"engineer": "R-Man (Resonant Union)"
 				},
 				"artwork_comission": "pending",
-				"color": "#6cc3b9"
+				"color": "#9f1239"
 			},
 			{
 				"slug": "eclectic-resonance-memories-2",
@@ -25,6 +26,18 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#f9c74f"
+			},
+			{
+				"slug": "eclectic-resonance-uprising-3",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending"
+				},
+				"artwork_comission": "pending",
+				"color": "#6cc3b9"
 			},
 			{
 				"slug":"eclectic-resonance-legendaria",
@@ -53,19 +66,6 @@
 				},
 				"artwork_comission": "completed",
 				"color": "#000000"
-			},
-			{
-				"slug": "eclectic-resonance-detuned-alloy-2",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "00",
-				"mastering": {
-					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "pending",
-				"color": "#9f1239"
 			}
 		]
 	},
@@ -145,18 +145,6 @@
 		"cat_slug": "gensokyo-party",
 		"projects": [
 			{
-				"slug": "gensokyo-party-7-vantablack-3",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"mastering": {
-					"status": "pending"
-				},
-				"artwork_comission": "pending",
-				"color": "#fcbcda"
-			},
-			{
 				"slug":"gensokyo-party-6-border-in-stasis",
 				"status": "accepting",
 				"percentage": "0",
@@ -195,6 +183,18 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#65a30d"
+			},
+			{
+				"slug": "gensokyo-party-vantablack-3",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending"
+				},
+				"artwork_comission": "pending",
+				"color": "#fcbcda"
 			}
 		]
 	}
