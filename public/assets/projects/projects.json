@@ -31,6 +31,18 @@
 				"color": "#000000"
 			},
 			{
+				"slug": "eclectic-resonance-uprising-3",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending"
+				},
+				"artwork_comission": "pending",
+				"color": "#6cc3b9"
+			},
+			{
 				"slug": "eclectic-resonance-detuned-alloy-2",
 				"status": "accepting",
 				"percentage": "0",
@@ -54,19 +66,8 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#f9c74f"
-			},
-			{
-				"slug": "eclectic-resonance-uprising-3",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"mastering": {
-					"status": "pending"
-				},
-				"artwork_comission": "pending",
-				"color": "#6cc3b9"
 			}
+			
 		]
 	},
 	{
