@@ -192,7 +192,9 @@
 				"duration": "00:00",
 				"finished_tracks": "0",
 				"mastering": {
-					"status": "pending"
+					"status": "pending",
+					"engineer": "???"
+
 				},
 				"artwork_comission": "pending",
 				"color": "#fcbcda"
