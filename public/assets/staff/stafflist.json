@@ -110,19 +110,6 @@
 		"description": "The reason you’re able to have such a great and clean website in the first place. krz is a strong & talented developer, and the ace of the team when it comes to web development. Started out with the UI design of Stellar Sanctuary in 2018, and became our lead webdesigner in 2022, with our own dedicated website."
 	},
 	{
-		"_collabId": "Aamna",
-		"name": "Aamna",
-		"role": "Sound Staff & Design Staff",
-		"realName": "N/A",
-		"pronouns": "she/her",
-		"dateOfBirth": "N/A",
-		"placeOfBirth": "N/A",
-		"description": "A vocalist and visual artist, Aamna first made her contributions to the world of music through VOCALOID and anime fan covers. As of 2019, she has spent time lending her voice to original and fan compositions ranging from metal to electronic music. Aamna is a mezzo-soprano vocalist. Her tone is versatile: often rich and dark, but also bright and sweet when the song calls for it. She joined KodamaSounds in 2022, and since then, has been the KodamaSounds’ ace & dedicated vocalist.",
-		"twitter": "https://twitter.com/aamnyaa",
-		"youtube": "https://www.youtube.com/c/AamnaYT",
-		"twitch": "https://www.twitch.tv/aamnya"
-	},
-	{
 		"_collabId": "jys_music",
 		"name": "jys_music",
 		"role": "Sound Staff",
@@ -215,6 +202,17 @@
 		"legacyStatus": "2021 ~ 2022 / On hiatus",
 		"realName": "N/A",
 		"pronouns": "N/A",
+		"dateOfBirth": "N/A",
+		"placeOfBirth": "N/A"
+	},
+	{
+		"_collabId": "Aamna",
+		"_legacy": "true",
+		"name": "Aamna",
+		"role": "Sound Staff & Design Staff",
+		"legacyStatus": "April 26th 2022 ~ May 6th 2024",
+		"realName": "N/A",
+		"pronouns": "she/her",
 		"dateOfBirth": "N/A",
 		"placeOfBirth": "N/A"
 	}
