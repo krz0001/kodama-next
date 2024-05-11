@@ -34,7 +34,7 @@ export default function AlbumListing({ slug }) {
             <div className="flex flex-col flex-initial py-5 px-10">
                 <div>
                     <span className="font-mono text-sm">
-                        {album.id} — <DateFormatter dateString={album.releaseDate} />
+                        {album.id} {album.releaseDate && (<>— <DateFormatter dateString={album.releaseDate} /></>) }
                     </span>
                     <h2 className="text-2xl font-semibold">{album.name}</h2>
                 </div>

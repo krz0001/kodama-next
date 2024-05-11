@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react'
 
 export default function DateFormatter({ dateString }) {
   const [date, setDate] = useState(null)
+  console.log('parsing date : ', dateString)
   useEffect(() => {
     setDate(format(parseISO(dateString), 'LLLL	d, yyyy'))
   }, [dateString])
