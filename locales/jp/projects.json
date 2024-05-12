@@ -39,6 +39,10 @@
             "title": "ECLECTIC RESONANCE UPRISING 2",
             "themes": "オリジナル曲、Hard Rock、Metal、Acoustic、ギター中心"
         },
+        "eclectic-resonance-uprising-3": {
+            "title": "ECLECTIC RESONANCE UPRISING 3",
+            "themes": "オリジナル曲、Hard Rock、Metal、Acoustic、ギター中心"
+        },
         "eclectic-resonance-detuned-alloy": {
             "title": "ECLECTIC RESONANCE Detuned Alloy",
             "themes": "オリジナル曲、ハードロック、メタル、アコースティック、ギター中心"
@@ -49,6 +53,10 @@
         },
         "eclectic-resonance-memories": {
             "title": "ECLECTIC RESONANCE Memories",
+            "themes": "オリジナル曲、Chiptune、FM Music"
+        },
+        "eclectic-resonance-memories-2": {
+            "title": "ECLECTIC RESONANCE Memories 2",
             "themes": "オリジナル曲、Chiptune、FM Music"
         },
         "eclectic-resonance-legendaria": {
@@ -91,6 +99,10 @@
     "gensokyo-party": {
         "name": "Gensokyo Party",
         "desc": "Gensokyo Partyは東方シリーズを中心とする様々なスタイルのアルバムシリーズです。",
+        "gensokyo-party-vantablack-3": {
+            "title": "Gensokyo Party Vol. 7 Gensokyo Party VANTABLACK 3",
+            "themes": "\"Gensokyo at War\" (ダークな雰囲気、Experimental、Metal、Hardcore...)"
+        },
         "gensokyo-party-5-vantablack-2": {
             "title": "Gensokyo Party Vol. 5 Gensokyo Party VANTABLACK 2",
             "themes": "\"Gensokyo at War\" (ダークな雰囲気、Experimental、Metal、Hardcore...)"

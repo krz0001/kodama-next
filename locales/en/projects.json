@@ -35,12 +35,20 @@
             "title": "ECLECTIC RESONANCE Memories",
             "themes": "Original Work, Chiptune, FM Music"
         },
+        "eclectic-resonance-memories-2": {
+            "title": "ECLECTIC RESONANCE Memories 2",
+            "themes": "Original Work, Chiptune, FM Music"
+        },
         "eclectic-resonance-uprising": {
             "title": "ECLECTIC RESONANCE UPRISING",
             "themes": "Original Work, J-Core, Hardcore Techno"
         },
         "eclectic-resonance-uprising-2": {
             "title": "ECLECTIC RESONANCE UPRISING 2",
+            "themes": "Original Work, J-Core, Hardcore Techno"
+        },
+        "eclectic-resonance-uprising-3": {
+            "title": "ECLECTIC RESONANCE UPRISING 3",
             "themes": "Original Work, J-Core, Hardcore Techno"
         },
         "eclectic-resonance-legendaria": {
@@ -91,6 +99,10 @@
     "gensokyo-party": {
         "name": "Gensokyo Party",
         "desc": "Those are albums entirely dedicated to the \"Touhou Project\" series, set in a multitude of styles.",
+        "gensokyo-party-vantablack-3": {
+            "title": "Gensokyo Party Vol. 7 VANTABLACK 3",
+            "themes": "\"Gensokyo at War\" (Dark Themed, Experimental, Metal, Hardcore...)"
+        },
         "gensokyo-party-5-vantablack-2": {
             "title": "Gensokyo Party Vol. 5 VANTABLACK 2",
             "themes": "\"Gensokyo at War\" (Dark Themed, Experimental, Metal, Hardcore...)"
