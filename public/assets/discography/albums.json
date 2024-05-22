@@ -156,7 +156,8 @@
         "appleMusic": "https://music.apple.com/album/eclectic-resonance-memories/1745961317",
         "spotify": "https://open.spotify.com/album/38zoWtE0ZIzNgtXZAyzoYb",
         "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nJ278olkPThqcC7KEcVKkrL8hMrgYnskI",
-        "website": "/releases/eclectic-resonance-memories"
+        "website": "/releases/eclectic-resonance-memories",
+        "vgmdb": "https://vgmdb.net/album/129307"
     },
     "eclectic-resonance-uprising-2": {
         "id": "KSDL-0013",
@@ -169,7 +170,8 @@
         "appleMusic": "https://music.apple.com/album/eclectic-resonance-uprising-2/1745927054",
         "spotify": "https://open.spotify.com/album/3eX4tR84uC1Mzj3UlSHwAn",
         "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lMpqS2KDRiW0O8fGn8iHR3PvUGps48Asw",
-        "website": "/releases/eclectic-resonance-uprising-2"
+        "website": "/releases/eclectic-resonance-uprising-2",
+        "vgmdb": "https://vgmdb.net/album/137462"
     },
     "gensokyo-party-vol5": {
         "id": "KSDL-0014",
@@ -179,6 +181,8 @@
         "coverColor": "#F01857",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-5-vantablack-2",
         "booth": "https://kodamasoft.booth.pm/items/5667642",
-        "website": "/releases/gensokyo-party-vol5"
+        "website": "/releases/gensokyo-party-vol5",
+        "vgmdb": "https://vgmdb.net/album/137463",
+        "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._5_VANTABLACK_2"
     }
 }
