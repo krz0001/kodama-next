@@ -8,6 +8,10 @@
         "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-1-2",
         "booth": "https://booth.pm/en/items/2433797",
         "website": "http://gensokyo-party-vol1.tumblr.com/",
+        "appleMusic": "https://music.apple.com/album/gensokyo-party-vol-1/1746548362",
+        "spotify": "https://open.spotify.com/album/3WOJyeGYna10Go4vfTDtEP",
+        "deezer": "https://www.deezer.com/album/587149762",
+        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lzz7D76zBWe7fY5aBvBNqeCaxk9CkK_-A",
         "vgmdb": "https://vgmdb.net/album/107532",
         "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._1"
     }, 
@@ -59,7 +63,7 @@
         "booth": "https://kodamasoft.booth.pm/items/3793016",
         "website": "https://eclecticresonance-dusk.tumblr.com/",
         "appleMusic": "https://music.apple.com/album/eclectic-resonance-dawn/1682957437",
-        "spotify": "https://open.spotify.com/intl-fr/album/2y8xINYomI06RIz3fp4IR2",
+        "spotify": "https://open.spotify.com/album/2y8xINYomI06RIz3fp4IR2",
         "deezer": "https://www.deezer.com/album/430865907",
         "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kruw5pUjAV0cW90XHihJXm2NKZ4YYN1So",
         "vgmdb": "https://vgmdb.net/album/119738"
@@ -100,7 +104,7 @@
         "appleMusic": "https://music.apple.com/album/eclectic-resonance-uprising/1736730395",
         "spotify": "https://open.spotify.com/album/505XahYZjp644CxbQBOWQv",
         "deezer": "https://www.deezer.com/album/562208652",
-        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kK_OVxK2bm25prl5-g3yCKtxJzhtEljeY"
+        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lMpqS2KDRiW0O8fGn8iHR3PvUGps48Asw"
     },
     "eclectic-resonance-detuned-alloy":{
         "id": "KSDL-0009",
@@ -111,6 +115,10 @@
         "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy",
         "booth": "https://kodamasoft.booth.pm/items/5183373",
         "website": "/releases/eclectic-resonance-detuned-alloy",
+        "appleMusic": "https://music.apple.com/album/eclectic-resonance-detuned-alloy/1746646578",
+        "spotify": "https://open.spotify.com/album/0pOxoFk9dPUd1L15pTvz7V",
+        "deezer": "https://www.deezer.com/album/587402332",
+        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m5pbrS8f02V7qIO0ktaQ8FyAZ-Fkr6MDI",
         "vgmdb": "https://vgmdb.net/album/125840"
     },
     "gensokyo-party-4-dj-koishi": {
@@ -145,6 +153,9 @@
         "coverColor": "#5DF6FE",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories",
         "booth": "https://kodamasoft.booth.pm/items/5665458",
+        "appleMusic": "https://music.apple.com/album/eclectic-resonance-memories/1745961317",
+        "spotify": "https://open.spotify.com/album/38zoWtE0ZIzNgtXZAyzoYb",
+        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nJ278olkPThqcC7KEcVKkrL8hMrgYnskI",
         "website": "/releases/eclectic-resonance-memories"
     },
     "eclectic-resonance-uprising-2": {
@@ -155,6 +166,9 @@
         "coverColor": "#8439A9",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-2",
         "booth": "https://kodamasoft.booth.pm/items/5665348",
+        "appleMusic": "",
+        "spotify": "https://open.spotify.com/album/3eX4tR84uC1Mzj3UlSHwAn",
+        "youtubeMusic": "",
         "website": "/releases/eclectic-resonance-uprising-2"
     },
     "gensokyo-party-vol5": {
