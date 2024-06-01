@@ -34,6 +34,9 @@
         "coverColor": "#725f5b",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-2-vantablack",
         "booth": "https://kodamasoft.booth.pm/items/3514431",
+        "appleMusic": "https://music.apple.com/album/1747914535",
+        "spotify": "https://open.spotify.com/album/3ZlkI9HWeugS2fpzkTSreu",
+        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m45E5qcxhRjTHU4MG55f_9DXA4kxrcp-A",
         "website": "https://gensokyo-party-2-vantablack.tumblr.com/",
         "vgmdb": "https://vgmdb.net/album/111960",
         "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._2_VANTABLACK"
@@ -87,6 +90,10 @@
         "coverColor": "#bf6666",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-3-moriya-barista",
         "booth": "https://kodamasoft.booth.pm/items/4392560",
+        "appleMusic": "https://music.apple.com/us/album/gensokyo-party-vol-3-moriya-barista/1747892760",
+        "spotify": "https://open.spotify.com/album/5UVwRzkrz7F3jk86IVy2wl",
+        "deezer": "https://www.deezer.com/album/591096342",
+        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ktgvTSfhQyAhaLJe0Bp5yo8_rOsCKUSCQ",
         "website": "/releases/gensokyo-party-vol3",
         "vgmdb": "https://vgmdb.net/album/120017",
         "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._3_Moriya_Barista"
@@ -129,10 +136,13 @@
         "coverColor": "#f7f7f7",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-4-dj-koishi",
         "booth": "https://kodamasoft.booth.pm/items/5207803",
+        "appleMusic": "https://music.apple.com/album/1748724886",
+        "spotify": "https://open.spotify.com/album/6R5TR9yOjpzvTiPnWprI3A",
+        "deezer": "https://www.deezer.com/album/593253432",
+        "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mXjXC7W0IMHT5GOHf2t6XvaAn1zkJLT_w",
         "website": "/releases/gensokyo-party-vol4",
         "vgmdb": "https://vgmdb.net/album/125842",
         "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._4_DJ_Koishi"
-
     },
     "katamania": {
         "id": "KSDL-0011",
@@ -181,6 +191,10 @@
         "coverColor": "#F01857",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-5-vantablack-2",
         "booth": "https://kodamasoft.booth.pm/items/5667642",
+        "appleMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mmHcIikogpN4o_LTZfE7KrVIzqVJUIwww",
+        "spotify": "https://open.spotify.com/album/0R7vKUXHQzUq6Zv7o3ToIR",
+        "deezer": "https://www.deezer.com/en/album/594945662",
+        "youtubeMusic": "https://music.apple.com/album/gensokyo-party-vol-5-vantablack-2/1749462731",
         "website": "/releases/gensokyo-party-vol5",
         "vgmdb": "https://vgmdb.net/album/137463",
         "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._5_VANTABLACK_2"
