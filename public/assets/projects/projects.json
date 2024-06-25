@@ -76,15 +76,15 @@
 			{
 				"slug": "midnight-syndrome",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "20",
+				"duration": "04:06",
+				"finished_tracks": "1",
 				"deadline": "2024-07-20T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "completed",
 				"color": "#e94242"
 			},
 			{
