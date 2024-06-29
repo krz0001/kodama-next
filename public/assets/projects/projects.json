@@ -76,9 +76,9 @@
 			{
 				"slug": "midnight-syndrome",
 				"status": "accepting",
-				"percentage": "20",
-				"duration": "04:06",
-				"finished_tracks": "1",
+				"percentage": "25",
+				"duration": "06:06",
+				"finished_tracks": "2",
 				"deadline": "2024-07-20T23:59:59Z",
 				"mastering": {
 					"status": "pending",
