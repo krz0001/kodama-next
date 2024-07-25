@@ -200,5 +200,13 @@
         "website": "/releases/gensokyo-party-vol5",
         "vgmdb": "https://vgmdb.net/album/137463",
         "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._5_VANTABLACK_2"
+    },
+    "midnight-syndrome": {
+        "id": "KSDL-0015",
+        "releaseDate": "2024-08-11T00:00:00+0200",
+        "name": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
+        "cover": "/assets/discography/covers/0015.png",
+        "coverColor": "#000000",
+        "website": "/releases/midnight-syndrome"
     }
 }
