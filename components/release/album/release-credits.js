@@ -27,7 +27,7 @@ export default function ReleaseTracklist({ credits }) {
 			link.toString().includes('youtu.be')
 		) {
 			return <FaYoutube className={props.className} />
-		} else if (link.toString().includes('twitter')) {
+		} else if (link.toString().includes('twitter') || link.toString().includes('x.com')) {
 			return <FaTwitter className={props.className} />
 		} else if (link.toString().includes('soundcloud')) {
 			return <FaSoundcloud className={props.className} />
