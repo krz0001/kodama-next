@@ -374,6 +374,13 @@
 			"vgmdb": "https://vgmdb.net/artist/56378"
 		}
 	},
+	"Garrrros": {
+		"name": "Garrrros",
+		"links": {
+			"twitter": "https://x.com/Garrrros",
+			"vgmdb": "https://vgmdb.net/artist/52161"
+		}
+	},
 	"HIJACKRABBIT": {
 		"name": "HIJACKRABBIT",
 		"links": {
@@ -1225,6 +1232,120 @@
 			"youtube": "https://www.youtube.com/channel/UCwylN6KwqkKhuvtp1DR7jVQ",
 			"soundcloud": "https://soundcloud.com/animeforwholelife",
 			"vgmdb": "https://vgmdb.net/artist/46433"
+		}
+	},
+	"Masafumi Takada": {
+		"name": {
+			"en": "Masafumi Takada",
+			"jp": "高田雅史"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/1530"
+		}
+	},
+	"Akira Yamaoka": {
+		"name": {
+			"en": "Akira Yamaoka",
+			"jp": "山岡晃"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/749"
+		}
+	},
+	"Tomohiro Shirai": {
+		"name": {
+			"en": "Tomohiro Shirai",
+			"jp": "白井智廣"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/9470"
+		}
+	},
+	"Kazuhiro Goto": {
+		"name": {
+			"en": "Kazuhiro Goto",
+			"jp": "後藤和浩"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/9469"
+		}
+	},
+	"Nobuaki Kaneko": {
+		"name": {
+			"en": "Nobuaki Kaneko",
+			"jp": "金子ノブアキ"
+		},
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/12109"
+		}
+	},
+	"MAGIC MAN TONY ASTRO": {
+		"name": "MAGIC MAN TONY ASTRO",
+		"links": {
+			"twitter": "https://x.com/TonyAstroVEVO",
+			"youtube": "https://www.youtube.com/@MagicManTonyAstro",
+			"soundcloud": "https://soundcloud.com/tonyastro",
+			"bandcamp": "https://tonyastro.bandcamp.com",
+			"vgmdb": "https://vgmdb.net/artist/64831"
+		}
+	},
+	"CHERRY CODEBREAKER": {
+		"name": "CHERRY CODEBREAKER",
+		"links": {
+			"twitter": "https://x.com/cherrybombrs",
+			"spotify": "open.spotify.com/user/sqquidyy",
+			"website": "https://cherrybombrs.carrd.co",
+			"vgmdb": "https://vgmdb.net/artist/64830"
+		}
+	},
+	"ANGELWHISPER": {
+		"name": "ANGELWHISPER",
+		"links": {
+			"twitter": "https://x.com/FailGirlEma",
+			"youtube": "https://www.youtube.com/channel/UChsQXgXY2MOxrrn7Bt_XlRA",
+			"soundcloud": "https://soundcloud.com/cringefailgirlema",
+			"website": "https://cringefailgirlema.carrd.co",
+			"vgmdb": "https://vgmdb.net/artist/64832"
+		}
+	},
+	"Theosmeo": {
+		"name": "Theosmeo",
+		"links": {
+			"twitter": "https://x.com/theosmeo",
+			"bandcamp": "https://lfts.bandcamp.com/album/papari",
+			"youtube": "https://www.youtube.com/theosmeo",
+			"soundcloud": "https://soundcloud.com/theosmeo",
+			"vgmdb": "https://vgmdb.net/artist/47388"
+		}
+	},
+	"MegaStrike": {
+		"name": "MegaStrike",
+		"links": {
+			"twitter": "https://x.com/megastrikeultra",
+			"youtube": "https://www.youtube.com/c/MegaStrike",
+			"vgmdb": "https://vgmdb.net/artist/64042"
+		}
+	},
+	"jaxcheese": {
+		"name": "jaxcheese",
+		"links": {
+			"twitter": "https://x.com/jaxcheese",
+			"youtube": "https://www.youtube.com/@jaxcheese",
+			"website": "https://jaxcheese.net",
+			"soundcloud": "https://soundcloud.com/jaxcheese",
+			"bandcamp": "https://jaxcheese.bandcamp.com",
+			"vgmdb": "https://vgmdb.net/artist/62747"
+		}
+	},
+	"Tobokegao": {
+		"name": "Tobokegao",
+		"links": {
+			"twitter": "https://x.com/to6okegao",
+			"bandcamp": "https://tbkgao.bandcamp.com",
+			"youtube": "https://www.youtube.com/to6okegao",
+			"soundcloud": "https://soundcloud.com/tobokegao",
+			"website": "https://tobokegao.github.io",
+			"vgmdb": "https://vgmdb.net/artist/47842"
 		}
 	},
 	"Sample": {

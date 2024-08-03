@@ -2,7 +2,7 @@
 	"slug": "midnight-syndrome",
 	"logo": "/assets/discography/logos/0015.png",
 	"color": "d72c2c",
-	"soundcloud_track_id": "1696943262",
+	"soundcloud_track_id": "1886450892",
 	"cover": "/assets/discography/covers/0015.png",
 	"title": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
 	"circle": {
@@ -16,11 +16,11 @@
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "#"
+			"link": "https://kodamasounds.bandcamp.com/album/midnight-syndrome-a-grasshopper-manufacture-tribute-album"
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "#"
+			"link": "https://kodamasoft.booth.pm/items/5970215"
 		}
 	},
 	"tracklist": {
@@ -94,7 +94,7 @@
 				"• Original Composer: Nobuaki Kaneko","• Arranger: Nuchuu","","• Programmed, Produced, Mixed & Mastered by Nuchuu","• Additional Mastering: TBD","","• Original Track: Octopus (Deadly Seppun)","• Source: No More Heroes 3","","• Used Software: Ableton Live 11","• Used VSTs & Samples: ","","• About this track: This track focuses on the absurd nature of Ohma and the environment Ohma is fought in, taking melodic motifs from the theme and placing them into a high-energy, progressive psytrance inspired journey."
 			]
 		},
-		"09": {
+		"11": {
 			"title": "Apricot Jam for Dissociative Squares",
 			"artist": "HEAVYVIPER",
 			"description": [
@@ -105,160 +105,100 @@
 	"youtube_id": "D3cWkc4GsT0",
 	"credits": {
 		"1": {
-			"role": "Music, Vocals",
-			"id": "soothingMelody"
+			"role": "Music",
+			"id": "Fivda"
 		},
 		"2": {
-			"role": "Music",
-			"id": "telebasher"
+			"role": "Music, Narration, Supervisor & Planner",
+			"id": "Fivda"
 		},
 		"3": {
 			"role": "Music",
-			"id": "PSYQUO"
+			"id": "MAGIC MAN TONY ASTRO"
 		},
 		"4": {
 			"role": "Music",
-			"id": "Monochrome"
+			"id": "ANGELWHISPER"
 		},
 		"5": {
 			"role": "Music",
-			"id": "lavenirproche"
+			"id": "Monochrome"
 		},
 		"6": {
 			"role": "Music",
-			"id": "ludosmo"
+			"id": "Theosmeo"
 		},
 		"7": {
 			"role": "Music",
-			"id": "Maxo"
+			"id": "MegaStrike"
 		},
 		"8": {
 			"role": "Music",
-			"id": "trailmix37"
+			"id": "jaxcheese"
 		},
 		"9": {
 			"role": "Music",
-			"id": "rinaten"
+			"id": "Tobokegao"
 		},
 		"10": {
 			"role": "Music",
 			"id": "Nuchuu"
 		},
 		"11": {
-			"role": "Music, Vocals, Lyrics, Supervisor & Planner",
-			"id": "Fivda"
+			"role": "Music",
+			"id": "HEAVYVIPER"
 		},
 		"12": {
-			"role": "Vocals",
-			"id": "Aamna"
+			"role": "Voice",
+			"id": "CHERRY CODEBREAKER"
 		},
 		"13": {
-			"role": "Vocals",
-			"id": "Milkychan"
+			"id": "Masafumi Takada",
+			"role": "Original Composer"
 		},
 		"14": {
-			"role": "Vocals",
-			"id": "Kurin T"
+			"id": "Akira Yamaoka",
+			"role": "Original Composer"
 		},
 		"15": {
-			"role": "Vocals, Guitar",
-			"id": "SaraSandwich"
+			"id": "Tomohiro Shirai",
+			"role": "Original Composer"
 		},
 		"16": {
-			"role": "Vocals",
-			"id": "Proticity"
+			"id": "Kazuhiro Goto",
+			"role": "Original Composer"
 		},
 		"17": {
-			"role": "Guitar",
-			"id": "MB"
+			"id": "Nobuaki Kaneko",
+			"role": "Original Composer"
 		},
 		"18": {
-			"role": "Flute",
-			"id": "worpp"
-		},
-		"19": {
-			"id": "Leyrinne",
-			"role": "Chorus"
-		},
-		"20": {
-			"id": "In Love With A Ghost",
-			"role": "Assistant"
-		},
-		"21": {
-			"id": "Tee-vee",
-			"role": "Mixing Engineer"
-		},
-		"22": {
-			"id": "Yuu Miyake",
-			"role": "Original Composer"
-		},
-		"23": {
-			"id": "Asuka Sakai",
-			"role": "Original Composer"
-		},
-		"24": {
-			"id": "Yuri Misumi",
-			"role": "Original Composer"
-		},
-		"25": {
-			"id": "Hiroshi Okubo",
-			"role": "Original Composer, Original Lyricist"
-		},
-		"26": {
-			"id": "Akitaka Tohyama",
-			"role": "Original Composer, Original Lyricist"
-		},
-		"27": {
-			"id": "Yoshihito Yano",
-			"role": "Original Composer, Original Lyricist"
-		},
-		"28": {
-			"id": "Torine",
-			"role": "Original Composer"
-		},
-		"29": {
-			"id": "Tomoki Kanda",
-			"role": "Original Composer"
-		},
-		"30": {
-			"id": "Hideki Tobeta",
-			"role": "Original Composer"
-		},
-		"31": {
-			"id": "Kahimi Karie",
-			"role": "Original Lyricist"
-		},
-		"32": {
 			"id": "malicent",
 			"role": "Mastering Engineer"
 		},
-		"33": {
-			"id": "Crisppyboat",
+		"19": {
+			"id": "Volumetrique",
+			"role": "Audio Crossfade"
+		},
+		"20": {
+			"id": "Garrrros",
 			"role": "Illustration"
 		},
-		"34": {
-			"id": "FrancisRave",
-			"role": "Photo"
+		"21": {
+			"id": "Zeth",
+			"role": "Logo Designer"
 		},
-		"35": {
+		"22": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
-		"36": {
+		"23": {
 			"id": "Hiskov",
 			"role": "Crossfade Video"
 		},
-		"37": {
+		"24": {
 			"id": "krz",
 			"role": "Web"
-		},
-		"38": {
-			"id": "cal",
-			"role": "Special Thanks"
-		},
-		"39": {
-			"id": "Akira Complex",
-			"role": "Dedicated to"
 		}
 	}
 }
