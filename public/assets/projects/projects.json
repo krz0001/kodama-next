@@ -19,9 +19,9 @@
 			{
 				"slug": "eclectic-resonance-hollow-horizons",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "10",
+				"duration": "06:30",
+				"finished_tracks": "1",
 				"deadline": "2024-10-06T23:59:59Z",
 				"mastering": {
 					"status": "pending",
