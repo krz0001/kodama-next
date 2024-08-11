@@ -186,17 +186,21 @@
 		},
 		"21": {
 			"id": "Zeth",
+			"role": "Design"
+		},
+		"23": {
+			"id": "cal",
 			"role": "Logo Designer"
 		},
-		"22": {
+		"24": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
-		"23": {
+		"25": {
 			"id": "Hiskov",
 			"role": "Crossfade Video"
 		},
-		"24": {
+		"26": {
 			"id": "krz",
 			"role": "Web"
 		}
