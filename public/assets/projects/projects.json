@@ -149,15 +149,15 @@
 			{
 				"slug":"gensokyo-party-6-border-in-stasis",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "15",
+				"duration": "05:34",
+				"finished_tracks": "1",
 				"deadline": "2024-09-29T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "blobdash"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "sketching",
 				"color": "#fda564"
 			},
 			{
