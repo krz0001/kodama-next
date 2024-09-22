@@ -5,23 +5,23 @@
 			{
 				"slug":"eclectic-resonance-legendaria",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "15",
+				"duration": "05:36",
+				"finished_tracks": "1",
 				"deadline": "2024-10-06T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "R-Man (Resonant Union)"
 				},
-				"artwork_comission": "Pending",
+				"artwork_comission": "completed",
 				"color": "#d44215"
 			},
 			{
 				"slug": "eclectic-resonance-hollow-horizons",
 				"status": "accepting",
-				"percentage": "25",
-				"duration": "06:30",
-				"finished_tracks": "3",
+				"percentage": "50",
+				"duration": "24:13",
+				"finished_tracks": "5",
 				"deadline": "2024-10-06T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -149,15 +149,15 @@
 			{
 				"slug":"gensokyo-party-6-border-in-stasis",
 				"status": "accepting",
-				"percentage": "15",
-				"duration": "05:34",
-				"finished_tracks": "1",
+				"percentage": "30",
+				"duration": "09:05",
+				"finished_tracks": "2",
 				"deadline": "2024-09-29T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "blobdash"
 				},
-				"artwork_comission": "sketching",
+				"artwork_comission": "completed",
 				"color": "#fda564"
 			},
 			{
