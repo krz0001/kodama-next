@@ -8,7 +8,7 @@
 				"percentage": "65",
 				"duration": "30:05",
 				"finished_tracks": "9",
-				"deadline": "2024-10-06T23:59:59Z",
+				"deadline": "2024-10-09T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "R-Man (Resonant Union)"
@@ -19,8 +19,8 @@
 			{
 				"slug": "eclectic-resonance-hollow-horizons",
 				"status": "accepting",
-				"percentage": "90",
-				"duration": "1:08:18",
+				"percentage": "95",
+				"duration": "1:14:18",
 				"finished_tracks": "14",
 				"deadline": "2024-10-06T23:59:59Z",
 				"mastering": {
