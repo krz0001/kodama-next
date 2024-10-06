@@ -111,13 +111,12 @@
 	},
 	{
 		"_collabId": "jys_music",
-		"name": "jys_music",
+		"name": "Justin Shin",
 		"role": "Sound Staff",
-		"realName": "Justin Shin",
 		"pronouns": "he/him",
 		"dateOfBirth": "N/A",
 		"placeOfBirth": "N/A",
-		"description": "jys_music joined the team as the lead arranger for KODAMA JAMS in 2022. Composer and arranger for games and media, wearer of bucket hats, and consumer of music! Justin has produced a dense amount of video game soundtracks under his real name, while keeping jys_music for his more hobbyst and arrangement-typed works.",
+		"description": "Justin Shin (a.k.a jys_music) joined the team as the lead arranger for KODAMA JAMS in 2022. Composer and arranger for games and media, wearer of bucket hats, and consumer of music! Justin has produced a dense amount of video game soundtracks under his real name, while keeping jys_music for his more hobbyst and arrangement-typed works.",
 		"website": "https://justinshinmusic.com/",
 		"twitter": "https://twitter.com/jys_music",
 		"youtube": "https://www.youtube.com/channel/UCp4cy51E4xjh4TDCf_-DAOQ",
@@ -171,6 +170,18 @@
 		"description": "Born into an environment of coffee-loving people and growing up playing rhythm game his whole life, Zeth is a graphic designer who works for people around rhythm games and independent music circles as a way for him to give back to the community that started his graphic design life. Being entirely self-taught since 2021, and not having a \"style\" (according to himself), he has worked for multiple community rhythm game tournaments, album/song jackets, 3D renders, and almost everything in between.",
 		"twitter": "https://twitter.com/ZethZ161",
 		"website": "https://zethlim.crd.co/"
+	},
+	{
+		"_collabId": "ne_pura",
+		"name": "ne_pura",
+		"role": "Design Staff",
+		"realName": "N/A",
+		"pronouns": "N/A",
+		"dateOfBirth": "March 4th",
+		"placeOfBirth": "Australia",
+		"description": "Usually either drawing or practicing drawing, ne_pura is an illustrator who likes tea, crazy basslines, cool and cute art, completing projects before deadlines, or doing anything that gives a challenge!",
+		"twitter": "https://twitter.com/nepperoni",
+		"website": "https://www.pixiv.net/en/users/56006676"
 	},
 	{
 		"_collabId": "Dwimepon",

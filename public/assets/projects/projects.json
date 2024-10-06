@@ -5,27 +5,27 @@
 			{
 				"slug": "eclectic-resonance-legendaria",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"deadline": "2024-10-06T23:59:59Z",
+				"percentage": "65",
+				"duration": "30:05",
+				"finished_tracks": "9",
+				"deadline": "2024-10-09T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "R-Man (Resonant Union)"
 				},
-				"artwork_comission": "Pending",
+				"artwork_comission": "completed",
 				"color": "#d44215"
 			},
 			{
 				"slug": "eclectic-resonance-hollow-horizons",
 				"status": "accepting",
-				"percentage": "10",
-				"duration": "06:30",
-				"finished_tracks": "1",
+				"percentage": "95",
+				"duration": "1:14:18",
+				"finished_tracks": "14",
 				"deadline": "2024-10-06T23:59:59Z",
 				"mastering": {
 					"status": "pending",
-					"engineer": "In Love With A Ghost"
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "completed",
 				"color": "#000000"
@@ -173,15 +173,15 @@
 			{
 				"slug": "gensokyo-party-6-border-in-stasis",
 				"status": "accepting",
-				"percentage": "15",
-				"duration": "05:34",
-				"finished_tracks": "1",
+				"percentage": "30",
+				"duration": "09:05",
+				"finished_tracks": "2",
 				"deadline": "2024-09-29T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "blobdash"
 				},
-				"artwork_comission": "sketching",
+				"artwork_comission": "completed",
 				"color": "#fda564"
 			},
 			{
