@@ -208,5 +208,13 @@
         "cover": "/assets/discography/covers/0015.png",
         "coverColor": "#000000",
         "website": "/releases/midnight-syndrome"
+    },
+    "eclectic-resonance-hollow-horizons": {
+        "id": "KSDL-0016",
+        "releaseDate": "2024-08-11T00:00:00+0200",
+        "name": "ECLECTIC RESONANCE hollow horizons",
+        "cover": "/assets/discography/covers/0016.png",
+        "coverColor": "#000000",
+        "website": "/releases/eclectic-resonance-hollow-horizons"
     }
 }
