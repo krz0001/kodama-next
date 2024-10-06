@@ -5,9 +5,9 @@
 			{
 				"slug":"eclectic-resonance-legendaria",
 				"status": "accepting",
-				"percentage": "60",
-				"duration": "25:40",
-				"finished_tracks": "7",
+				"percentage": "65",
+				"duration": "30:05",
+				"finished_tracks": "9",
 				"deadline": "2024-10-06T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -19,9 +19,9 @@
 			{
 				"slug": "eclectic-resonance-hollow-horizons",
 				"status": "accepting",
-				"percentage": "80",
-				"duration": "54:34",
-				"finished_tracks": "11",
+				"percentage": "90",
+				"duration": "1:08:18",
+				"finished_tracks": "14",
 				"deadline": "2024-10-06T23:59:59Z",
 				"mastering": {
 					"status": "pending",
