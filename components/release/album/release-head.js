@@ -11,6 +11,8 @@ export default function ReleaseHead({
 	color,
 }) {
 	const { t } = useTranslation('release')
+	// if the background ends with an image extension, it is an image, else it's a video
+	const isBackgroundImage = background && background.match(/\.(jpeg|jpg|gif|png)$/) != null ? true : false;
 
 	return (
 		<>
