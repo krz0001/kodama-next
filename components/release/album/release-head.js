@@ -30,6 +30,7 @@ export default function ReleaseHead({
 							/>
 						)}
 						{!isBackgroundImage && (
+							//  div with fadeout mask on the bottom
 							<video
 								className="w-full h-full object-cover object-center absolute top-0 left-0 z-0"
 								autoPlay
@@ -37,6 +38,10 @@ export default function ReleaseHead({
 								muted
 								plays
 								src={background}
+								style={{ 
+									maskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
+									WebkitMaskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)'
+								}} 
 							></video>
 						)}
 						
