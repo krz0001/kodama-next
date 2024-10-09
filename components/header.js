@@ -23,7 +23,7 @@ export default function Header() {
 	let canDisplayBanner = new Date().getMonth() <= 3 && new Date().getFullYear() === 2024;
 
 	return (
-		<header className="relative w-100 h-auto text-white text-center flex flex-col select-none bg-[url('/assets/big_01_space_g.png')] bg-center">
+		<header className="relative w-100 h-auto text-white text-center flex flex-col select-none bg-[url('/assets/big_01_space_g.png')] bg-center bg-cover">
 
 			{
 				canDisplayBanner &&

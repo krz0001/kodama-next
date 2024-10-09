@@ -11,19 +11,40 @@ export default function ReleaseHead({
 	color,
 }) {
 	const { t } = useTranslation('release')
+	// if the background ends with an image extension, it is an image, else it's a video
+	const isBackgroundImage = background && background.match(/\.(jpeg|jpg|gif|png)$/) != null ? true : false;
+	// background if not an image => path to video
 
 	return (
 		<>
 			<div className={background ? 'mx-auto' : 'container mx-auto'}>
 				{background ? (
 					<div className='relative overflow-hidden'>
-						<Image
-							src={background}
-							alt="Background"
-							fill={true}
-							style={{ objectFit: 'cover', filter: 'blur(25px) brightness(0.5)' }}
-							quality={50}
-						/>
+						{isBackgroundImage && (
+							<Image
+								src={background}
+								alt="Background"
+								fill={true}
+								style={{ objectFit: 'cover', filter: 'blur(25px) brightness(0.5)' }}
+								quality={50}
+							/>
+						)}
+						{!isBackgroundImage && (
+							//  div with fadeout mask on the bottom
+							<video
+								className="w-full h-full object-cover object-center absolute top-0 left-0 z-0"
+								autoPlay
+								loop
+								muted
+								plays
+								src={background}
+								style={{ 
+									maskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
+									WebkitMaskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)'
+								}} 
+							></video>
+						)}
+						
 						<div className='md:container relative mx-auto z-10'>
 							<ReleaseNav className="bg-[#232426] md:bg-transparent"/>
 							<div className="relative w-[800px] max-w-full mx-auto">
