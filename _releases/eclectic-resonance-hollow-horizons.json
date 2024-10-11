@@ -4,7 +4,10 @@
 	"color": "0a62fe",
 	"soundcloud_track_id": "1886450892",
 	"cover": "/assets/discography/covers/0017.png",
-	"background": "/assets/discography/backgrounds/0017.mp4",
+	"background": {
+		"image": "/assets/discography/backgrounds/0017.png",
+		"video": "/assets/discography/backgrounds/0017.mp4"
+	},
 	"title": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
 	"circle": {
 		"name": "KodamaSounds",
