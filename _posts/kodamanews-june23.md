@@ -39,7 +39,7 @@ Some more EDM planned for later this year, but this time, let’s make it Touhou
 
 ## **“Katamania!!” chorus singers**
 
-We are looking for as many different vocalists for the chorus part of “Katamari on the Swing”, which will be sung in unison by as many artists as possible. Decent recording quality is going to be necessary (home recording fine if the environment is good enough). Please get in touch with us by Mail/Discord/Twitter DMs.
+We are looking for as many different vocalists for the chorus part of “Katamari on the Swing”, which will be sung in unison by as many artists as possible. Decent recording quality is going to be necessary (home recording fine if the environment is good enough). Please get in touch with us by Email/Discord/Twitter DMs.
 
 ## **Additions to the Website/Discord**
 
