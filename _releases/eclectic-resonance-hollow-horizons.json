@@ -6,25 +6,26 @@
 	"cover": "/assets/discography/covers/0017.png",
 	"background": {
 		"image": "/assets/discography/backgrounds/0017.png",
-		"video": "/assets/discography/backgrounds/0017.mp4"
+		"video": "/assets/discography/backgrounds/0017.mp4",
+		"color": "000511"
 	},
-	"title": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
+	"title": "ECLECTIC RESONANCE hollow horizons",
 	"circle": {
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "Digital Grasshopper Manufacture Arrange Album",
-	"release_date": "Aug 11 2024 (Comic Market 104)",
-	"catalog": "KSDL-0015",
-	"price": "Pre-Order & Event Price: 8€ / 1300 yen | Post Release Price: 10€ / 1600 yen",
+	"specification": "Digital Original Work Album",
+	"release_date": "27 Oct. 2024 (M3-2024 Fall)",
+	"catalog": "KSDL-0017",
+	"price": "Pre-Order & Event Price: 15€ / 2400 yen | Post Release Price: 18€ / 2900 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/midnight-syndrome-a-grasshopper-manufacture-tribute-album"
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-hollow-horizons"
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/5970215"
+			"link": "https://kodamasoft.booth.pm/items/6174276"
 		}
 	},
 	"tracklist": {

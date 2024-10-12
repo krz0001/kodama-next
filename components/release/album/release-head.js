@@ -24,6 +24,7 @@ export default function ReleaseHead({
 								fill={true}
 								quality={50}
 								style={{ 
+									zIndex: '2',
 									objectFit: 'cover',
 									filter: 'blur(25px) brightness(0.5)',
 									maskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
@@ -41,6 +42,7 @@ export default function ReleaseHead({
 								plays
 								src={background.video}
 								style={{ 
+									zIndex: '3',
 									maskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
 									WebkitMaskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)'
 								}} 
