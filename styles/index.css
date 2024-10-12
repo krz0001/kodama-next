@@ -52,7 +52,7 @@ html {
     @apply h-4 w-4 mr-2 shrink-0;
 }
 
-.kodama_btn--prary {
+.kodama_btn--primary {
 	@apply bg-violet-600 hover:bg-violet-700 focus:ring-violet-800;
 }
 
