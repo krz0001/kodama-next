@@ -11,25 +11,28 @@ export default function ReleaseHead({
 	color,
 }) {
 	const { t } = useTranslation('release')
-	// if the background ends with an image extension, it is an image, else it's a video
-	const isBackgroundImage = background && background.match(/\.(jpeg|jpg|gif|png)$/) != null ? true : false;
-	// background if not an image => path to video
 
 	return (
 		<>
 			<div className={background ? 'mx-auto' : 'container mx-auto'}>
 				{background ? (
 					<div className='relative overflow-hidden'>
-						{isBackgroundImage && (
+						{background.image && (
 							<Image
-								src={background}
+								src={background.image}
 								alt="Background"
 								fill={true}
-								style={{ objectFit: 'cover', filter: 'blur(25px) brightness(0.5)' }}
 								quality={50}
+								style={{ 
+									zIndex: '2',
+									objectFit: 'cover',
+									filter: 'blur(25px) brightness(0.5)',
+									maskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
+									WebkitMaskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)'
+								}} 
 							/>
 						)}
-						{!isBackgroundImage && (
+						{background.video && (
 							//  div with fadeout mask on the bottom
 							<video
 								className="w-full h-full object-cover object-center absolute top-0 left-0 z-0"
@@ -37,8 +40,9 @@ export default function ReleaseHead({
 								loop
 								muted
 								plays
-								src={background}
+								src={background.video}
 								style={{ 
+									zIndex: '3',
 									maskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
 									WebkitMaskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)'
 								}} 
@@ -47,13 +51,13 @@ export default function ReleaseHead({
 						
 						<div className='md:container relative mx-auto z-10'>
 							<ReleaseNav className="bg-[#232426] md:bg-transparent"/>
-							<div className="relative w-[800px] max-w-full mx-auto">
+							<div className="relative w-[800px] h-[500px] max-w-full mx-auto">
 								<Image
 									src={logo}
 									height="340"
 									width="1000"
 									alt="Logo"
-									className='object-cover object-center p-6 md:relative -top-14'
+									className='object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto'
 									quality={100}
 									style={{ filter: 'drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.75))' }}
 								/>
@@ -63,13 +67,13 @@ export default function ReleaseHead({
 				) : (
 					<>
 						<ReleaseNav />
-						<div className="relative w-[800px] max-w-full mx-auto">
+						<div className="relative w-[800px] h-[500px] max-w-full mx-auto">
 							<Image
 								src={logo}
 								height="340"
 								width="1000"
 								alt="Logo"
-								style="object-fit: cover; object-position: center;"
+								className='object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto'
 								quality={100}
 							/>
 						</div>
