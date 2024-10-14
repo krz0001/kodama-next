@@ -6,7 +6,8 @@
     }
     
     & > dt > .dt_label {
-        @apply relative bg-[#232426] inline-block pr-4 z-10 uppercase;
+        @apply relative inline-block pr-4 z-10 uppercase;
+        background-color: var(--background-color);
     }
     
     & > dt::after {

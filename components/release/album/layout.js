@@ -20,10 +20,13 @@ const noto = Noto_Sans_JP({
 
 export default function ReleaseLayout({ release }) {
     const { t } = useTranslation('release')
+    const backgroundColor = release.background && release.background.color ? release.background.color : '232426';
     const GlobalStyles = createGlobalStyle`
     :root {
         --release-color: #${release.color};
+        --background-color: #${backgroundColor};
     }`;
+
 
     return (
         <>
@@ -54,7 +57,10 @@ export default function ReleaseLayout({ release }) {
                 <meta property="og:description" content={t(release.slug + '.desc')} />
                 <meta property="og:type" content="website" />
             </Head>
-            <div className={`${noto.variable} bg-[#232426] font-release text-white min-h-screen pb-1`}>
+            <div
+                className={`${noto.variable} font-release text-white min-h-screen pb-1`}
+                style={{ backgroundColor: `#${backgroundColor}` }}
+            >
                 <ReleaseHead
                     slug={release.slug}
                     logo={release.logo}
@@ -76,7 +82,7 @@ export default function ReleaseLayout({ release }) {
                 <ReleaseCallToAction
                     store={release.store}
                 />
-                <ReleaseTracklist tracklist={release.tracklist} />
+                <ReleaseTracklist tracklist={release.tracklist} suppressHydrationWarning={true} />
                 <ReleaseYouTubeEmbed youtube={release.youtube_id} />
                 <ReleaseCredits credits={release.credits} />
                 <ReleaseFooter
