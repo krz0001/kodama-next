@@ -1346,6 +1346,325 @@
 			"vgmdb": "https://vgmdb.net/artist/47842"
 		}
 	},
+	"asuton": {
+		"name": "asuton",
+		"links": {
+			"twitter": "https://x.com/asutonpaku",
+			"website": "https://okuvc.rgr.jp",
+			"vgmdb": "https://vgmdb.net/artist/44309"
+		}
+	},
+	"Cororo": {
+		"name": "Cororo",
+		"links": {
+			"twitter": "https://x.com/corolaska",
+			"soundcloud": "https://soundcloud.com/corolaska",
+			"website": "http://corolaska.web.fc2.com",
+			"vgmdb": "https://vgmdb.net/artist/8091"
+		}
+	},
+	"dystopian tanuki": {
+		"name": "dystopian tanuki",
+		"links": {
+			"twitter": "https://x.com/DystopianTanuki",
+			"spotify": "https://open.spotify.com/artist/11lyuRwyWFOmPlCETWHUx3",
+			"youtube": "https://www.youtube.com/channel/UCfgFnHXoUvMiWxVB8ALnX5g",
+			"soundcloud": "https://soundcloud.com/dystopian-tanuki",
+			"vgmdb": "https://vgmdb.net/artist/66104"
+		}
+	},
+	"SpiralFlip": {
+		"name": "SpiralFlip",
+		"links": {
+			"twitter": "https://x.com/SpiralFlip",
+			"bandcamp": "https://spiralflip.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCzDxWU19jeXdIaRMyWyDVJA",
+			"spotify": "https://open.spotify.com/artist/16LZTQTkuKjgoIAS4oHurP",
+			"soundcloud": "https://soundcloud.com/spiralflip",
+			"website": "https://spiralflip.carrd.co",
+			"vgmdb": "https://vgmdb.net/artist/61717"
+		}
+	},
+	"Elliot Hsu": {
+		"name": "Elliot Hsu",
+		"links": {
+			"twitter": "https://x.com/Leigendar",
+			"bandcamp": "https://elliothsu.bandcamp.com",
+			"youtube": "https://www.youtube.com/c/elliothsu",
+			"soundcloud": "https://soundcloud.com/elliot-hsu",
+			"spotify": "https://open.spotify.com/artist/1gnHg0HnaetLp2GKkX7dSi",
+			"vgmdb": "https://vgmdb.net/artist/47592"
+		}
+	},
+	"Fukagawa": {
+		"name": "Fukagawa",
+		"links": {
+			"twitter": "https://x.com/FukagawaShota",
+			"soundcloud": "https://www.youtube.com/channel/UCVId44JhKwRtRcA578j9jNA",
+			"website": "https://fukagawashota.com",
+			"vgmdb": "https://vgmdb.net/artist/16374"
+		}
+	},
+	"Justin Thornburgh": {
+		"name": "Justin Thornburgh",
+		"links": {
+			"youtube": "https://www.youtube.com/user/HombreDeElectricidad",
+			"soundcloud": "https://soundcloud.com/justinthornburgh",
+			"website": "link",
+			"vgmdb": "https://vgmdb.net/artist/27594"
+		}
+	},
+	"William Sandberg": {
+		"name": "William Sandberg",
+		"links": {
+			"soundcloud": "https://soundcloud.com/williamsandberg",
+			"vgmdb": "https://vgmdb.net/artist/52157"
+		}
+	},
+	"Phoenix Down RPG": {
+		"name": "Phoenix Down RPG",
+		"links": {
+			"bandcamp": "https://phoenixdownrpg.bandcamp.com/",
+			"youtube": "https://www.youtube.com/c/PhoenixDownRPG",
+			"spotify": "https://open.spotify.com/artist/1gCKVuZ3BprEcj5AWPRqEt",
+			"website": "https://www.phoenixdownrpg.org",
+			"vgmdb": "https://vgmdb.net/artist/44571"
+		}
+	},
+	"GameroftheWinds": {
+		"name": "GameroftheWinds",
+		"links": {
+			"twitter": "https://x.com/GameroftheWinds",
+			"youtube": "https://www.youtube.com/channel/UCQFIzKI61fxibPgfPKeJQxw",
+			"vgmdb": "https://vgmdb.net/artist/42940"
+		}
+	},
+	"Joseph Hourigan": {
+		"name": "Joseph Hourigan",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/66193"
+		}
+	},
+	"Harry Nguyen": {
+		"name": "Harry Nguyen",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/66194"
+		}
+	},
+	"Marcus Ho": {
+		"name": "Marcus Ho",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/66195"
+		}
+	},
+	"Caleb Paine": {
+		"name": "Caleb Paine",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/66196"
+		}
+	},
+	"Emma Kobin": {
+		"name": "Emma Kobin",
+		"links": {
+			"spotify": "https://open.spotify.com/artist/36F6Z2FIvcLNTPBhTjAFIh",
+			"vgmdb": "https://vgmdb.net/artist/66197"
+		}
+	},
+	"Shauno Isomura": {
+		"name": {
+			"en": "Shauno Isomura",
+			"jp": "磯村翔之"
+		},
+		"links": {
+			"twitter": "https://x.com/shaunoisomura",
+			"vgmdb": "https://vgmdb.net/artist/33772"
+		}
+	},
+	"Skyleo": {
+		"name": "Skyleo",
+		"links": {
+			"twitter": "https://x.com/Skyleomusic",
+			"soundcloud": "https://soundcloud.com/skyleo",
+			"vgmdb": "https://vgmdb.net/artist/66091"
+		}
+	},
+	"SPIRITGARDEN*": {
+		"name": "SPIRITGARDEN*",
+		"links": {
+			"bandcamp": "https://spiritgarden.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UC9gOrtxyCazyPWqrc2qph6w",
+			"soundcloud": "https://soundcloud.com/spiritgarden2",
+			"spotify": "https://open.spotify.com/artist/7K3Zd2NR4H1tUACMZbEsgn",
+			"vgmdb": "https://vgmdb.net/artist/66198"
+		}
+	},
+	"LIYU": {
+		"name": {
+			"en": "LIYU",
+			"jp": "リユ"
+		},
+		"links": {
+			"twitter": "https://x.com/liyu_828",
+			"youtube": "https://www.youtube.com/@liyu.828",
+			"vgmdb": "https://vgmdb.net/artist/66105"
+		}
+	},
+	"Tamari": {
+		"name": "Tamari",
+		"links": {
+			"twitter": "https://x.com/TMRshuntaros",
+			"bandcamp": "https://tamari.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UC_GJv612BgK8p2BAcUQAwHg",
+			"spotify": "https://open.spotify.com/artist/6WTuug8Y9VpkF4Z89rlQTn?si=INo6W4pTQUWip4yUreUJNg",
+			"apple": "https://music.apple.com/artist/tamari/1623648000",
+			"website": "https://lit.link/en/TMRshuntaros",
+			"vgmdb": "https://vgmdb.net/artist/56801"
+		}
+	},
+	"WujuBlade": {
+		"name": "WujuBlade",
+		"links": {
+			"twitter": "https://x.com/WujuB1ade",
+			"soundcloud": "https://soundcloud.com/WujuBlade",
+			"website": "https://linktr.ee/WujuBlade",
+			"vgmdb": "https://vgmdb.net/artist/66099"
+		}
+	},
+	"unizono": {
+		"name": {
+			"en": "unizono",
+			"jp": "雲丹園"
+		},
+		"links": {
+			"twitter": "https://x.com/uninosono",
+			"website": "https://skeb.jp/@uninosono",
+			"vgmdb": "https://vgmdb.net/artist/65502"
+		}
+	},
+	"RLZY": {
+		"name": "RLZY",
+		"links": {
+			"twitter": "https://x.com/not_realazy",
+			"website": "https://osu.ppy.sh/users/918297"
+		}
+	},
+	"Transendium": {
+		"name": "Transendium",
+		"links": {
+			"twitter": "https://x.com/ardentminus",
+			"youtube": "https://www.youtube.com/@Transendium",
+			"pixiv": "https://www.pixiv.net/en/users/88643785",
+			"vgmdb": "https://vgmdb.net/artist/58510"
+		}
+	},
+	"Zohka": {
+		"name": "Zohka",
+		"links": {
+			"twitter": "https://x.com/z0hka",
+			"bandcamp": "https://zohka.bandcamp.com/music",
+			"soundcloud": "https://soundcloud.com/zohka",
+			"vgmdb": "https://vgmdb.net/artist/65503"
+		}
+	},
+	"kalsoer": {
+		"name": "kalsoer",
+		"links": {
+			"twitter": "https://x.com/kalsoermusic",
+			"soundcloud": "https://soundcloud.com/kalsoermusic",
+			"vgmdb": "https://vgmdb.net/artist/62969"
+		}
+	},
+	"Aspect": {
+		"name": "Aspect",
+		"links": {
+			"twitter": "https://x.com/aspectsound",
+			"bandcamp": "https://aspectt.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCUjAzoOG_Z8tiN79yF6WT-g",
+			"soundcloud": "https://soundcloud.com/aspectt",
+			"spotify": "https://open.spotify.com/artist/2tblVjBhVxWVpqcHYohJSN",
+			"website": "https://linktr.ee/aspectsound",
+			"vgmdb": "https://vgmdb.net/artist/59778"
+		}
+	},
+	"Aniel": {
+		"name": "Aniel",
+		"links": {
+			"twitter": "https://x.com/Anielamb_music",
+			"soundcloud": "https://soundcloud.com/anielamb",
+			"vgmdb": "https://vgmdb.net/artist/62968"
+		}
+	},
+	"sanmal": {
+		"name": "sanmal",
+		"links": {
+			"twitter": "https://x.com/sanmal307",
+			"youtube": "https://www.youtube.com/channel/UCsM4zA6Og--d9sP6ssLmztA",
+			"soundcloud": "https://soundcloud.com/sanmal307",
+			"website": "https://sanmal307.studio.site",
+			"vgmdb": "https://vgmdb.net/artist/55595"
+		}
+	},
+	"Sh0wtime": {
+		"name": "Sh0wtime",
+		"links": {
+			"twitter": "https://x.com/Sh0wtimeDTM",
+			"spotify": "https://open.spotify.com/user/kw0pnc9wj4fvdrw9k01sazk15",
+			"youtube": "https://www.youtube.com/@Sh0wtimeDTM",
+			"soundcloud": "https://soundcloud.com/sh0wtimelol",
+			"website": "https://ffm.bio/sh0wtime",
+			"vgmdb": "https://vgmdb.net/artist/61108"
+		}
+	},
+	"baeddelite": {
+		"name": "baeddelite",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/65902"
+		}
+	},
+	"idosa": {
+		"name": "idosa",
+		"links": {
+			"twitter": "https://x.com/unerafflesie",
+			"bandcamp": "https://raphlesia.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/raphlesia",
+			"vgmdb": "https://vgmdb.net/artist/53070"
+		}
+	},
+	"kou": {
+		"name": "kou",
+		"links": {
+			"twitter": "https://x.com/skou49",
+			"youtube": "https://www.youtube.com/channel/UCZ2QNmAswm4ZJcjiweKG1Bw",
+			"soundcloud": "https://soundcloud.com/kou49",
+			"vgmdb": "https://vgmdb.net/artist/59661"
+		}
+	},
+	"marphon": {
+		"name": "marphon",
+		"links": {
+			"soundcloud": "https://soundcloud.com/marpon",
+			"vgmdb": "https://vgmdb.net/artist/65918"
+		}
+	},
+	"muyu": {
+		"name": "muyu",
+		"links": {
+			"twitter": "https://x.com/muyu_pianoN",
+			"bandcamp": "https://muyupianon.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/@muyu_pianoN",
+			"soundcloud": "https://soundcloud.com/zplwhlj8wmw3",
+			"website": "https://www.letterofsounds.com/artists/muyu",
+			"vgmdb": "https://vgmdb.net/artist/53802"
+		}
+	},
+	"r": {
+		"name": "r",
+		"links": {
+			"twitter": "https://x.com/r_00005",
+			"soundcloud": "https://soundcloud.com/r_00005",
+			"vgmdb": "https://vgmdb.net/artist/48935"
+		}
+	},
 	"Sample": {
 		"name": "Sample",
 		"links": {
