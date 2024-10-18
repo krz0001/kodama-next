@@ -74,17 +74,16 @@
 		"cat_slug": "tribute-albums",
 		"projects": [
 			{
-				"slug": "midnight-syndrome",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "49:58",
-				"finished_tracks": "11",
-				"deadline": "2024-07-20T23:59:59Z",
+				"slug": "midnight-syndrome-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+					"engineer": "???"
 				},
-				"artwork_comission": "completed",
+				"artwork_comission": "pending",
 				"color": "#e94242"
 			},
 			{
