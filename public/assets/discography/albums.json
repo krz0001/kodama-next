@@ -216,7 +216,10 @@
         "name": "ECLECTIC RESONANCE Legendaria",
         "cover": "/assets/discography/covers/0016.png",
         "coverColor": "#f0dbaa",
-        "website": "/releases/eclectic-resonance-legendaria"
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-legendaria",
+        "booth": "https://kodamasoft.booth.pm/items/6174216",
+        "website": "/releases/eclectic-resonance-legendaria",
+        "vgmdb": "https://vgmdb.net/album/137950"
     },
     "eclectic-resonance-hollow-horizons": {
         "id": "KSDL-0017",
@@ -224,6 +227,9 @@
         "name": "ECLECTIC RESONANCE hollow horizons",
         "cover": "/assets/discography/covers/0017.png",
         "coverColor": "#000312",
-        "website": "/releases/eclectic-resonance-hollow-horizons"
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-hollow-horizons",
+        "booth": "https://kodamasoft.booth.pm/items/6174276",
+        "website": "/releases/eclectic-resonance-hollow-horizons",
+        "vgmdb": "https://vgmdb.net/album/137951"
     }
 }
