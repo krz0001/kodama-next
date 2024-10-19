@@ -21,6 +21,7 @@
 		"links": {
 			"twitter": "https://twitter.com/FireFallsMusic",
 			"vgmdb": "https://vgmdb.net/artist/48226",
+			"youtube": "https://www.youtube.com/@FireFallsMusic",
 			"bandcamp": "https://philipsaguil.bandcamp.com"
 		}
 	},
@@ -1355,6 +1356,8 @@
 		"links": {
 			"twitter": "https://x.com/asutonpaku",
 			"website": "https://okuvc.rgr.jp",
+			"youtube": "https://www.youtube.com/user/asuton",
+			"soundcloud": "https://soundcloud.com/asuton",
 			"bandcamp": "https://asuton.bandcamp.com",
 			"vgmdb": "https://vgmdb.net/artist/44309"
 		}
@@ -1519,6 +1522,7 @@
 		"links": {
 			"twitter": "https://x.com/TMRshuntaros",
 			"bandcamp": "https://tamari.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/v90g2cdgfqxw",
 			"youtube": "https://www.youtube.com/channel/UC_GJv612BgK8p2BAcUQAwHg",
 			"spotify": "https://open.spotify.com/artist/6WTuug8Y9VpkF4Z89rlQTn?si=INo6W4pTQUWip4yUreUJNg",
 			"apple": "https://music.apple.com/artist/tamari/1623648000",
@@ -1670,8 +1674,21 @@
 			"vgmdb": "https://vgmdb.net/artist/48935"
 		}
 	},
+	"Chifuyu Hanakuma": {
+		"name": {
+			"en": "Chifuyu Hanakuma",
+			"jp": "花隈千冬"
+		},
+		"links": {
+			"website": "https://tokyo6.tokyo/hanakumachifuyu/",
+			"vgmdb": "https://vgmdb.net/artist/59734"
+		}
+	},
 	"Sample": {
-		"name": "Sample",
+		"name": {
+			"en": "Sample",
+			"jp": "Sample"
+		},
 		"links": {
 			"twitter": "link",
 			"bandcamp": "link",

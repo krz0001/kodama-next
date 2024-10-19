@@ -77,7 +77,7 @@
 				"• Composer & Arranger: Tee-vee","• Acoustic Guitar, Bass Guitar, Flute, Melodica, Djembe, Salt Shaker, Tambourine, Bongos, Claps: Tee-vee","","• Programmed, Produced & Mixed by Tee-vee","• Mastering Engineer: R-Man (Resonant Union)","","• Used Software: FL Studio 21","• Used VSTs & Samples: Kontakt 7, NI Sessions Strings Pro 2, Korg Triton Extreme, Korg M1, Korg MonoPoly, Arturia B-3V, Arturia Mellotron V, NI Mallet Flux, NI Noire","","• About this track: Experimented a whole bunch with my acoustic instruments for this one, also particularly happy with the \"chorus\" melody considering how fast it came to be. Can you tell I'm still very new to flute. The section around 2:15 is the rififi part, the rest is Ville Fleurie","BPM: 102","Key: C major/G Mixolydian, B minor (choruses)","Genre: Folk / Orchestral / Fantasy Soundtrack"
 			]
 		},
-		"09": {
+		"08": {
 			"title": {
 				"en": "The Bird That Soars Through Time and Space",
 				"jp": "時空を駆ける鳥"
@@ -87,42 +87,42 @@
 				"• Composer & Arranger: asuton","• Instruments: Cello, Octave Mandolin & Electric Tenor Guitar by asuton","","• Programmed, Produced & Mixed by asuton","• Mastering Engineer: R-Man (Resonant Union)","","• Used Software: Studio One","• Used VSTs & Samples: MODO BASS,  KONTAKT","","• About this track: The beginning of a new story (a game's opening). An exciting adventures in which we travel around the world. [これから始まる物語の序章（ゲームのオープニング）世界中を旅するワクワクした冒険。]","","BPM: 102 (0:00-00:37), 226 (0:42-3:19), 232 (4:02)","Key: D major","Genre: Folk Music [民族音楽]"
 			]
 		},
-		"10": {
+		"09": {
 			"title": "The land where they once were",
 			"artist": "Cororo",
 			"description": [
 				"• Composer & Arranger: Cororo","","• Programmed, Produced, Mixed & Mastered by Cororo","• Additional Mastering: TBD","","• Used Software: Logic Pro","","• About this track: I named this song after an imaginary story in which the people who protected this land are gone for some reason, and we think of them through relics and the like.","","BPM: 123 (0:00~0:07) - 127 (0:07~0:08) - 131 (0:08~1:59) - 117 (1:59~2:13) - 111 (2:13~2:37) - 114(2:37~3:01) - 119 (3:01~3:09) - 125 (3:09~3:17) - 130 (3:17~3:22) - 138 (3:22~3:25) - 140 (3:25~3:44)","Key: Dm (0:00~1:59) - N/A (1:59~2:16) - Em (2:16 - 3:44)","Genre: Celtic music"
 			]
 		},
-		"11": {
+		"10": {
 			"title": "Pensive The Evening Star",
 			"artist": "Yumi Sakata",
 			"description": [
 				"• Composer & Arranger: Yumi Sakata","","• Programmed, Produced, Mixed & Mastered by Yumi Sakata","• Additional Mastering: Multiband Compression","","• Used Software: FL Studio","• Used VSTs & Samples: Kontakt: Noire, Cinewinds, The Conservatoire Collection, Balkans Ethnic Orchestra"
 			]
 		},
-		"12": {
+		"11": {
 			"title": "Feu Follet",
 			"artist": "YOKAI feat. Justin Thornburgh",
 			"description": [
 				"• Composer & Arranger: YOKAI (KodamaSounds)","• Tin Whistle: Justin Thornburgh","• Acoustic & Electric Guitar: YOKAI (KodamaSounds)","","• Programmed, Produced & Mixed by YOKAI (KodamaSounds)","• Mastering Engineer: R-Man (Resonant Union)","• Used Software: Cubase 11","• Used VSTs & Samples: Pianoteq, Opus, Orchestral, Easydrummer, Halione","","• About this track: This track mixes several musical influences, such as fairly traditional RPG music, Celtic music and rock with the main influence of the band Muse. I tried to do something dynamic with nuances, but also something mysterious with dark parts.","","BPM: 130","Key: G","Genre: RPG Music"
 			]
 		},
-		"13": {
+		"12": {
 			"title": "Aeromancer",
 			"artist": "Monochrome",
 			"description": [
 				"• Composer & Arranger: Monochrome","","• Programmed, Produced & Mixed by Monochrome","• Mastering Engineer: R-Man (Resonant Union)","","This track emerged when burnout was slowly encroaching. Earlier in the year, I had decided I would commit to Legendaria, feeling confident in my orchestration abilities after dabbling in fantasy music on two separate occasions. But the timing ended up being poor - my workload was the largest and most intimidating it'd ever been, events in my life had tested my will to press forward with music as a whole, and I was a little anxious about submitting to an album where I knew I'd be standing amongst giants. It seemed like everything around me was telling me \"no\", and so I got paralyzed by Legendaria, the task looking more and more daunting. My solution was brute force - powering through the turmoil because I figured I'd be better off for it. This track, \"Aeromancer\", is the result. The composition is soaring and triumphant, which I'm unsure how I pulled off amidst so much negativity. Jazz flavors are peppered in at various points, lending a slight chaos that the bright chorus section resolves beautifully. In arranging this song, I was reminded that this task should be one of joy and love for the craft, and it was easy to run with from there. While my circumstances will not improve immediately, I can always, without fail, forget my troubles with music, and \"Aeromancer\" is the proof of that.","","BPM: 122","Key: E minor","Genre: Orchestral"
 			]
 		},
-		"14": {
+		"13": {
 			"title": "Distant Village",
 			"artist": "MB",
 			"description": [
 				"• Composer & Arranger: MB (Resonant Union)","• Acoustic Guitar: MB (Resonant Union)","• Flute & Alto Flute: Joseph Hourigan","• Violin: Harry Nguyen","• Cello: Marcus Ho","• Piano: Caleb Paine","","• Produced & Mixed by MB (Resonant Union)","• Mastering Engineer: R-Man (Resonant Union)","","• Used Software: Logic Pro X","","• About this track: This is an old track which I made for a university project! It was made to be a demo track for JRPG-style town themes based on some research I was doing at the time.","","BPM: 63","Key: A Minor","Genre: Folk"
 			]
 		},
-		"15": {
+		"14": {
 			"title": "Faeries in the Coral Abyss",
 			"artist": {
 				"en": "Shauno Isomura",
@@ -132,35 +132,35 @@
 				"• Composer & Arranger: Shauno Isomura [磯村翔之]","","• Programmed, Produced, Mixed & Mastered by Shauno Isomura [磯村翔之]","• Additional Mastering: EQ, Glue compression, Multiband compression, Stereo expansion, Limiting to restore loudness","","• About this track: This is the song of ancient forest that is cold, mysterious, yet beautiful like the deep sea. The two main objectives of this piece was to give an impression of underwater using land/forest instruments, and to make it easy to listen to while being difficult to fully understand on a first listen. To get this \"ancient\" feeling, I decided to make use of traditional Japanese music elements such as Haraikotoba, Gagaku/Netori and hinting the sound of Shō and Uchimono using western instruments.","","BPM: N/A","Key: N/A","Genre: N/A"
 			]
 		},
-		"16": {
+		"15": {
 			"title": "Library of Prayers",
 			"artist": "Elliot Hsu",
 			"description": [
 				"• Composer & Arranger: Elliot Hsu (Azure Archives)","","• Programmed, Produced & Mixed by Elliot Hsu (Azure Archives)","• Mastering Engineer: R-Man (Resonant Union)","","• Used Software: Cubase","• Used VSTs & Samples: Kontakt (for 99% of the instruments), Ample Guitar M,","","• About this track: Dark corridors of ancient books, enticing those who stumble upon it to venture further. A blinding light shines when the forbidden tome is read, as the pages search for the one who's chosen.","","BPM: 155","Key: B Minor","Genre: Fantasy Orchestral"
 			]
 		},
-		"17": {
+		"16": {
 			"title": "Echoes of the Night",
 			"artist": "dystopian tanuki & SpiralFlip",
 			"description": [
 				"• Composer & Arranger: dystopian tanuki, SpiralFlip","• Piano: dystopian tanuki","","• Programmed & Mixed by dystopian tanuki, SpiralFlip","• Produced by SpiralFlip","• Mastering Engineer: R-Man (Resonant Union)","","• About this track: Depicting a character following a familiar voice through a forest.","","BPM: 160","Key: C#","Genre: N/A"
 			]
 		},
-		"18": {
+		"17": {
 			"title": "Bravery Quest",
 			"artist": "Fukagawa",
 			"description": [
 				"• Composer & Arranger: Fukagawa","","• Programmed, Produced, Mixed & Mastered by Fukagawa","• Additional Mastering: Stereo expansion, multiband compression","","• Used Software: Logic Pro","","• About this track: In this song, I put a focus on courage, exploration and development. I made this song so that the listeners can vividly imagine a fantasy world.","","BPM: 116(0:00~00:18) - 114(00:18~00:25) - 112(00:25~00:27) - 116(00:27~02:22) - 112(02:22~02:22) - 111(02:22~02:23) - 108(02:23~02:24) - 116(02:24~03:22) - 114(03:22~03:22) - 113(03:22~03:22) - 112(03:22~End)","Key: Em","Genre: Orchestral [オーケストラ]"
 			]
 		},
-		"19": {
+		"18": {
 			"title": "The Last Everlasting World",
 			"artist": "WujuBlade",
 			"description": [
 				"• Composer & Arranger: WujuBlade","","• Programmed, Produced, Mixed & Mastered by WujuBlade","• Additional Mastering: Multiband compression, clipper to regain loudness","","• Used Software: FL STUDIO 21","• Used VSTs & Samples: Kontakt 7, Audiolatry Grand Piano, BBC Symphony, 3x OSC, Serum (Primary VSTs USED)","","• About this track: The Mountain stands in silence, the wind no longer speaks. The Ocean lost its touch, what lies ahead opens. Yet in this final moment, where everything is dim. May our heart still burn bright, In the Everlasting world, Chase towards the endless light. The Last everlasting world will shine for everyone.","","BPM: N/A","Key: N/A","Genre: Soundtrack/Orchestral/EDM"
 			]
 		},
-		"20": {
+		"19": {
 			"title": "Liluth",
 			"artist": {
 				"en": "SPIRITGARDEN* feat. LIYU",

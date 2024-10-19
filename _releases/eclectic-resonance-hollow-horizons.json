@@ -2,7 +2,7 @@
 	"slug": "eclectic-resonance-hollow-horizons",
 	"logo": "/assets/discography/logos/0017.png",
 	"color": "0a62fe",
-	"soundcloud_track_id": "1886450892",
+	"soundcloud_track_id": "1937287946",
 	"cover": "/assets/discography/covers/0017.png",
 	"background": {
 		"image": "/assets/discography/backgrounds/0017.png",
@@ -35,311 +35,408 @@
 		},
 		{
 			"01": {
-				"title": "Girls Dinner",
-				"artist": "AIKATYPE & Fivda",
+				"title": "Shattered Capital",
+				"artist": "Aspect",
 				"description": [
-					"• Narration: Fivda (KodamaSounds)","• Original Composer: Masafumi Takada","• Arranger: AIKATYPE (KodamaSounds), Fivda (KodamaSounds)","","• Programmed, Produced & Mixed by AIKATYPE (KodamaSounds)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: Samurai Summer & Season of the Samurai","• Source: No More Heroes","","• About this track:","Fivda: Making a Grasshopper Manufacture arrange album has always been one of my dreams (again). There's basically never really been any trace of any arrange album for this series, and I'm glad to have been able to make it happen. Originally, this song was supposed to be a major mashup of songs of the girlbosses from NMH1, with Samurai Summer, Rocket Surgeon, and was supposed to finish with Pleather for Breakfast, but this idea was a bit too ambitious for both me and AIKATYPE. Originally, my take on Samurai Summer was much more schranzy and was mixed much louder. But I think that AIKATYPE's general direction was smoother and a safer techno direction, and I'm glad we somehow wrapped it up before the deadline, lol. I once again wished I could have contributed more to this track, but once again, the narration ended up being the only place where I was really useful, alongside some of the remaining Samurai Summer pads/elements... Let's hope I can make a DJ ROUGE-GORGE remix on my own for the next album!"
+					"• Composer & Arranger: Aspect","• Programmed, Produced, Mixed & Mastered by Aspect","• Additional Mastering: clipping, EQ, parallel compression/saturation, stereo enhance, limiting ","","• Used Software: FL Studio 21","• Used VSTs & Samples: Nearly all stock FL except OTT and kHs Pitch Shifter","","• About this track: The Shattered Capital is a location within Lorithia, the world that is depicted within my music. It is depicting the destroyed city of Okarthiel, nearly 200 years after an advanced magical experiment went wrong, creating what is essentially an arcane nuclear disaster. The fallout from this event has created a dangerous, bizarre, and magically warped environment that few mages are able to traverse."
 				]
 			},
 			"02": {
-				"title": "Sequence02: MIDNITE CLUB",
-				"artist": "MAGIC MAN TONY ASTRO",
+				"title": "danc4along",
+				"artist": "sanmal",
 				"description": [
-					"• Voice: CHERRY CODEBREAKER","• Original Composer: HUMAN","• Arranger: MAGIC MAN TONY ASTRO","","• Programmed, Produced & Mixed by MAGIC MAN TONY ASTRO","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: LOST HIGHWAY 2","• Source: MOONLIGHT SYNDROME","","• Used Software: FL Studio","","• About this track: Tony from video games here: This one goes out to the team undertaking the English translation of Moonlight Syndrome. Best of luck in translating a game that's a grail for myself and the greater GHM community. HMU if you need another tester! also i dont like doing arrangements much so i chose a song nobody else would with as few melodic elements as possible LMAO"
+					"• Composer & Arranger: sanmal (MYORPH)","","• Programmed, Produced, Mixed & Mastered by sanmal (MYORPH)","• Additional Mastering: ceiling adjust","","• Used Software: Ableton Live","• Used VSTs & Samples: Serum, PhasePlant, samples","","• About this track: It's like a sketch of the mixed feelings of loneliness and excitement you get when you're digging and dancing to UK Garage on YouTube by yourself... [YouTubeでUK Garageを一人でディグして踊っている時のような、孤独感と興奮が入り混じった感覚のスケッチのような...]","","BPM: 130","Key: A#m","Genre: Garage"
 				]
 			},
 			"03": {
-				"title": "Kusabi (Synthetic Dreamscape Mix)",
-				"artist": "ANGELWHISPER",
+				"title": "Equipotential",
+				"artist": "GOETIΛ",
 				"description": [
-					"• Original Composer: Masafumi Takada","• Arranger: ANGELWHISPER","","• Programmed, Produced & Mixed by ANGELWHISPER","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: Kusabi","• Source: The Silver Case","","• Used Software: FL Studio","• Used VSTs & Samples: MONSTER Ethnica, RaveGenerator, some samples from the start of Tokio AM from TSC, the original song itself (only at the end, with a dual delay effect on that makes it sound all weird and mechanical) and the version of Kusabi from the mobile version of The 25th Ward","","• About this track: Never expected that of all things I would do a The Silver Case remix over a No More Heroes remix, considering my utter obsession with the latter and its music, but, as soon as I started messing around with Kusabi, I started to create something I adored. Sorry, Travis. I love the sounds of Indonesian percussion, so there's a lot of gamelan instruments in this song, which I think fits pretty nicely. "
+					"• Composer & Arranger: GOETIΛ (Sigillum Azoetia)","","• Programmed, Produced, Mixed & Mastered by GOETIΛ (Sigillum Azoetia)","• Additional Mastering: ceiling adjust","","BPM: 131","Key: D#min","Genre: Techno"
 				]
 			},
 			"04": {
-				"title": "Game Time!",
-				"artist": "Monochrome",
+				"title": "Vendome",
+				"artist": "Aniel",
 				"description": [
-					"• Original Composer: Masafumi Takada","• Arranger: Monochrome","","• Programmed, Produced & Mixed by Monochrome","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: Cashmere Cannonball","• Source: No More Heroes","","• About this track: I run another arrangement project, and one part of it focuses on Suda51 works. I wasn't a prior fan of No More Heroes, and I had little interest in getting into it, but in doing work for this project, I slowly became exposed to the music of Suda51's games and found myself intrigued by what I heard. That primed me for work on Midnight Syndrome. My original intent was to arrange \"It's Kill or Be Killed Mix\" from No More Heroes 2, but due to time constraints and a lack of confidence, I opted for \"Cashmere Cannonball\" instead. However, I still wished to inject some of the jazz fusion flair of \"It's Kill or Be Killed Mix\", which is how I settled on this sound. For the end of the song, just to put a little more meat on its bones, I decided to mimic the drum pattern of \"Beam Katana Chronicles\", which managed to slot in pretty seamlessly as a breakdown. It took me some time to amp myself up for the endeavor, but I ultimately had great fun translating its electronic properties into a faux-acoustic setting and playing around with some recently-purchased VSTs."
+					"• Composer & Arranger: Aniel (sculptured)","","• Programmed, Produced & Mixed by Aniel (sculptured)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: Ableton Live 12","","BPM: 160","Key: A#min (0:00~1:02) D#min(1:02~)","Genre: IDM"
 				]
 			},
 			"05": {
-				"title": "Passion Of Ghost",
-				"artist": "Theosmeo",
+				"title": "Milky Integration",
+				"artist": "AIKATYPE & Eyhz",
 				"description": [
-					"• Original Composer: Akira Yamaoka","• Arranger: Theosmeo","","• Programmed, Produced & Mixed by Theosmeo","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: King Of Ghost","• Source: Killer is Dead","","• Used Software: Ableton","","• About this track: This is one of the most striking pieces from the Killer is Dead soundtrack, it made the level it was on so much more memorable and fit that snowy train stage perfectly. Since its nestled its way into my mind I felt obligated to arrange it"
+					"• Composer & Arranger: AIKATYPE (KodamaSounds), Eyhz (Bliss And Innocence)",
+					"",
+					"• Programmed & Produced by AIKATYPE (KodamaSounds), Eyhz (Bliss And Innocence)",
+					"• Mixed by AIKATYPE (KodamaSounds)",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track:",
+					"Eyhz: The glitches in my part of the song, along with the basses, were made by taking and cutting a part from a supire sample, importing it into serum and changing them into a wave table which was used with an LFO to automate the position of said table.",
+					"",
+					"BPM: N/A",
+					"Key: N/A",
+					"Genre: Techno IDM"
 				]
 			},
 			"06": {
-				"title": "Deadly Gambit",
-				"artist": "MegaStrike",
+				"title": "DESOLATE",
+				"artist": "Sh0wtime",
 				"description": [
-					"• Original Composer: Masafumi Takada","• Arranger: MegaStrike","","• Programmed, Produced & Mixed by MegaStrike","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: Russian Roulette","• Source: killer7","","• Used Software: FL Studio","• Used VSTs & Samples: Trilian, Stylus RMX, Omnisphere, Vital, Dune 3, DS Thorn, Heavyocity AEON Rhythmic. Mangled with Gross Beat, Infiltrator 2, Effectrix.","","• About this track: Remix and re-arrangement of Russian Roulette, a beloved track from killer7. I originally wanted to be faithful to Masafumi Takada's style. But i also added my own twist."
+					"• Composer & Arranger: Sh0wtime",
+					"",
+					"• Programmed, Produced & Mixed by Sh0wtime",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 140",
+					"Key: Emin",
+					"Genre: Future Garage"
 				]
 			},
 			"07": {
-				"title": "LUNATIC DRIVE",
-				"artist": "jaxcheese",
+				"title": "Downshift",
+				"artist": "Nuchuu",
 				"description": [
-					"• Original Composer: Masafumi Takada","• Arranger: jaxcheese","","• Programmed, Produced & Mixed by ","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: Cauliflower & Neutral","• Source: The Silver Case","","• Used Software: pxtone Collage","• Used VSTs & Samples: classic Roland drum machines, Ryu Umemoto FM slap bass and brass patches, Korg M1 e. piano, lead gtr ptvoice from Nyll_Fomid's pxtoneKit, other ptvoices from pepofont","","• About this track: I have always thought this chord progression was really striking and unusual, so I had to jump at this opportunity to do something with it even though I was pretty busy at the time. It's a little bit hacky, but please enjoy! I put a lot of my favorite sounds in it. I'm starting to think this style is a little different from what usually goes on these albums..."
+					"• Composer & Arranger: Nuchuu","","• Programmed, Produced, Mixed & Mastered by Nuchuu","• Additional Mastering: ceiling adjust","","• Used Software: Ableton Live 11","","• About this track: This track's inspiration came from representing thinking or contemplating negatively. The slow build of uncertainties, the hit of too much negativity at once, the way it can all suddenly shift, and the potential lack of resolutions. The emotional journey that takes place within, often in solitude, rather than externally. The track is experimental in overall arrangement and some key choices, and it focuses on meaningful expression over conforming to genre standards or prioritizing consistency in feel throughout.","","BPM: 120","Key: G Minor","Genre: Ambient/Experimental Electronic"
 				]
 			},
 			"08": {
-				"title": "Battboy Slim Jr. (Fucking In Santa Destroy)",
-				"artist": "ANGELWHISPER",
+				"title": "Mistemper",
+				"artist": "Fivda",
 				"description": [
-					"• Original Composer: Tomohiro Shirai & Kazuhiro Goto","• Arranger: ANGELWHISPER","","• Programmed, Produced & Mixed by ANGELWHISPER","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: Travesty & Titanium Batt","• Source: No More Heroes 2: Desperate Struggle","","• Used Software: FL Studio 2024","• Used VSTs & Samples: Surf Santa Destroy and Ms. Teller drum loops, No More Heroes 2 cutscene voicelines + one Travis Strikes Again voiceline","","• About this track: No More Heroes 2 is one of the best soundtracks and one of the best games I have ever experienced, which forced my hand to arrange from it (but I mean that in a good way). After working on a failed remix of another song from the game, I decided to remix Travesty instead, after relistening and realising it had perfect big beat riff energy, like the kind of thing you'd hear in a Tekken 3 song, so I went all in with the idea. Watch out for Jasper Batt Jr's new Big Batt album, The Batt of The Land. In stores never. [some sort of joke about Pizza Bat and the alias Pizzaman goes here]"
+					"• Composer & Arranger: Fivda (KodamaSounds)",
+					"",
+					"• Programmed, Produced & Mixed by Fivda (KodamaSounds)",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Reaper",
+					"• Used VSTs & Samples: Pro-Q 3, TAL Reverb 4, ReaComp, kHs suite, Serum, Vengence Essential Clubsounds, Exode Sample Packs, HiTECH NINJA Sample Packs, 100 Enigmatic Sample Packs",
+					"",
+					"• About this track: Originally a song of frustration and deceit, revamped into a more hypnotic and reflective song with a touch of agressiveness. I wish I could have soothed out some of its rough sides, but I think the song's overall good as it is, and I'm really proud of the general vibe of the song, and that drop was really nice and fun to layer out. Let's hope I can make something more melodic sooner than later...",
+					"",
+					"BPM: 126",
+					"Key: C Major",
+					"Genre: Techno"
 				]
 			},
 			"09": {
-				"title": "Heroic Verse (Tobokegao Y2K VGM Vibes Remix)",
-				"artist": "Tobokegao",
+				"title": "Cybermind",
+				"artist": "PSYQUO",
 				"description": [
-					"• Original Composer: Masafumi Takada","• Arranger: Tobokegao","","• Programmed, Produced, Mixed & Mastered by Tobokegao","","• Original Track: Heroic Verse","• Source: killer7","• Used Software: m8 tracker"
+					"• Composer & Arranger: PSYQUO",
+					"• Vocals: Synthesizer V (Mai)",
+					"",
+					"• Programmed, Produced & Mixed by PSYQUO",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: FL Studio, Synthesizer V",
+					"",
+					"• About this track: Hi! It's me PSYQUO. I feel like this is the second entry for a series of tracks I wanna make with the \"cyber\" aesthetic (the first one being \"Depths of an AI Enhanced Reality\"). This time it's an ambient techno (also trance-ish?) track w/ really big kicks, weird sparkly synths and a lot of reverb. The voice in the song talks about the concept of a \"cybermind\" - a fully capable virtual mind functioning in cyberspace. I hope these elements make the song more exciting and mysterious overall. Thanks for listening!",
+					"",
+					"BPM: 110",
+					"Key: D +50 cents",
+					"Genre: Ambient Technic",
+					"",
+					"• Lyrics:",
+					"Calibrating...",
+					"",
+					"The Cybermind",
+					"Ready? Get tranced.",
+					"",
+					"Serenity",
+					"of the virtual soul.",
+					"",
+					"Tranquility",
+					"of the Cybermind.",
+					"",
+					"Enlighten me."
 				]
 			},
 			"10": {
-				"title": "Ohma Gawd",
-				"artist": "Nuchuu",
+				"title": "sentiment",
+				"artist": "kalsoer",
 				"description": [
-					"• Original Composer: Nobuaki Kaneko","• Arranger: Nuchuu","","• Programmed, Produced, Mixed & Mastered by Nuchuu","","• Original Track: Octopus (Deadly Seppun)","• Source: No More Heroes 3","","• Used Software: Ableton Live 11","• Used VSTs & Samples: ","","• About this track: This track focuses on the absurd nature of Ohma and the environment Ohma is fought in, taking melodic motifs from the theme and placing them into a high-energy, progressive psytrance inspired journey."
-				]
-			},
-			"11": {
-				"title": "Apricot Jam for Dissociative Squares",
-				"artist": "HEAVYVIPER",
-				"description": [
-					"• Original Composer: Masafumi Takada","• Arranger: Hal Binderman","","• Programmed, Produced & Mixed by Hal Binderman","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: Apricot Square","• Source: The Silver Case","• Original Track: Dissociative Identity","• Source: killer7","","• Used Software: Reason 12","• Used VSTs & Samples: plogue Chipspeech, Reason Drum Kits, Reason Electric Bass, Radical Keys, Malstrom","","• About this track: Early Grasshopper games have a strong presence in my mind, especially when it comes to music. Takada-san's composition always stood out, and it has a consistency throughout his time with Grasshopper that gives their games of that era a strong character. \"killer7\" was my first Grasshopper game, and it made an extremely strong impact on me. I played \"The Silver Case\" later, and it affected me in different ways. While thinking about the project, I wondered if there was a way I could represent both titles in one track? For a while, I've thought that \"Apricot Square\" and \"Dissociative Identity\" both have strong piano melodies that could complement each other well, so I began with them. In fact, several elements of each track - melodies, chords, instruments - seemed to work together famously. I didn't have to make many alterations at all, just enough to keep things in key. I wrote a new bass line based on the roots of \"DI\", and introduced a second lead in the background to make the piece more my own. I think it still leans more towards \"DI\" than \"AS\" overall, likely because the former is a more developed idea in my opinion. I hope you enjoy it! I look forward to ever more unique experiences from Grasshopper. ^^","• Lyrics","kill the past","burn it","if you have to",""
+					"• Composer & Arranger: kalsoer",
+					"",
+					"• Programmed, Produced & Mixed by kalsoer",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 142",
+					"Key: G#m",
+					"Genre: electronic/idm/beat"
 				]
 			}
 		},
 		{
 			"01": {
-				"title": "mon cul!",
-				"artist": "grouze3000",
+				"title": "LUNARGRAVITYWELL",
+				"artist": "baeddelite",
 				"description": [
-					"salut carlo"
+					"• Composer & Arranger: baeddelite",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by baeddelite",
+					"• Additional Mastering: ceiling adjust",
+					"",
+					"BPM: 131",
+					"Key: N/A",
+					"Genre: weightofhumanity"
 				]
 			},
 			"02": {
-				"title": "Sample Track 2",
-				"artist": "Sample Artist 2",
+				"title": "Onionland",
+				"artist": "Monochrome",
 				"description": [
-					"• Original Composer: Sample Composer 2",
-					"• Arranger: Sample Arranger 2",
-					"• Programmed, Produced & Mixed by Sample Artist 2",
-					"• Mastering Engineer: Sample Mastering Engineer 2",
-					"• Original Track: Sample Original Track 2",
-					"• Source: Sample Source 2",
-					"• About this track: This is a sample description for track 2."
+					"• Composer & Arranger: Monochrome",
+					"",
+					"• Programmed, Produced & Mixed by Monochrome",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track: A track inspired by an intrigue of the deep/dark web. I took a dive into some of my older, unreleased works, and found a gem called \"Onionland\" that I thought could be reworked for the purposes of hollow horizons. The final product ended up much different from the original, but I ultimately prefer this new direction - the melodies, the synths, and the bitcrushing all create a particular Internet-driven mystique that I find super interesting to listen to.",
+					"",
+					"BPM: 130",
+					"Key: 0:00 - D minor, 2:54 - G minor",
+					"Genre: Electronica"
 				]
 			},
 			"03": {
-				"title": "Sample Track 3",
-				"artist": "Sample Artist 3",
+				"title": "yukiwarisou",
+				"artist": "r",
 				"description": [
-					"• Original Composer: Sample Composer 3",
-					"• Arranger: Sample Arranger 3",
-					"• Programmed, Produced & Mixed by Sample Artist 3",
-					"• Mastering Engineer: Sample Mastering Engineer 3",
-					"• Original Track: Sample Original Track 3",
-					"• Source: Sample Source 3",
-					"• About this track: This is a sample description for track 3."
+					"• Composer & Arranger: r",
+					"",
+					"• Programmed, Produced & Mixed by r",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track: dark",
+					"",
+					"BPM: 100",
+					"Key: B minor",
+					"Genre: electronica"
 				]
 			},
 			"04": {
-				"title": "Sample Track 4",
-				"artist": "Sample Artist 4",
+				"title": "Orbit.",
+				"artist": "muyu",
 				"description": [
-					"• Original Composer: Sample Composer 4",
-					"• Arranger: Sample Arranger 4",
-					"• Programmed, Produced & Mixed by Sample Artist 4",
-					"• Mastering Engineer: Sample Mastering Engineer 4",
-					"• Original Track: Sample Original Track 4",
-					"• Source: Sample Source 4",
-					"• About this track: This is a sample description for track 4."
+					"• Composer & Arranger: muyu",
+					"",
+					"• Programmed, Produced & Mixed by muyu",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Cubase Pro 12",
+					"• Used VSTs & Samples: Main VST: iZotope Iris 2 ,LABS / Samples: SC_CS_80_minimal_karst_Dmaj.wav from Contemporary Classical Strings, RARE_percussion_gamelan_thai_melodic_Eb_100_loop2.wav from Melody Rhythmix Vol.1",
+					"",
+					"• About this track: This track represents the life and death cycle (samsara) that we went through until now. My goal was to create a piece of music which would allow you to take a good look at what you are, by lending your ears and heart to the lasting sounds. [この楽曲はこれまでの人生と輪廻を表しています。 持続するサウンドに耳と心を傾けながら、自分を見つめなおすきっかけになるような音楽を目指しました。]",
+					"",
+					"BPM: 80",
+					"Key: N/A",
+					"Genre: Ambient"
 				]
 			},
 			"05": {
-				"title": "Sample Track 5",
-				"artist": "Sample Artist 5",
+				"title": "Cut the Noise",
+				"artist": "MetaMusic",
 				"description": [
-					"• Original Composer: Sample Composer 5",
-					"• Arranger: Sample Arranger 5",
-					"• Programmed, Produced & Mixed by Sample Artist 5",
-					"• Mastering Engineer: Sample Mastering Engineer 5",
-					"• Original Track: Sample Original Track 5",
-					"• Source: Sample Source 5",
-					"• About this track: This is a sample description for track 5."
+					"• Composer & Arranger: MetaMusic",
+					"",
+					"• Programmed, Produced & Mixed by MetaMusic",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Furnace (2x tildearrow Sound Unit)",
+					"",
+					"• About this track: i've always been attracted to the fuzzy sort of sound that typically comes from gba games, as well as anything to do with noise generators. while i wasn't able to fit my typical noise percussion into this style, the whole track lays gently atop some subtle sweeping noise, and uses a periodic noise generator for the melodic parts. gratuitous low-pass and high-pass filters elsewhere in the song contribute to the fuzzy vibe i'm pursuing, along with low sample rate drums for a bit of a contrasting crunch",
+					"",
+					"BPM: 128.57",
+					"Key: C# Major",
+					"Genre: downtempo"
 				]
 			},
 			"06": {
-				"title": "Sample Track 6",
-				"artist": "Sample Artist 6",
+				"title": "Chrysoberyl",
+				"artist": "Zohka",
 				"description": [
-					"• Original Composer: Sample Composer 6",
-					"• Arranger: Sample Arranger 6",
-					"• Programmed, Produced & Mixed by Sample Artist 6",
-					"• Mastering Engineer: Sample Mastering Engineer 6",
-					"• Original Track: Sample Original Track 6",
-					"• Source: Sample Source 6",
-					"• About this track: This is a sample description for track 6."
+					"• Composer & Arranger: Zohka",
+					"",
+					"• Programmed, Produced & Mixed by Zohka",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 126",
+					"Key: Em",
+					"Genre: electronic"
 				]
 			},
 			"07": {
-				"title": "Sample Track 7",
-				"artist": "Sample Artist 7",
+				"title": "ascent/cloudgazing",
+				"artist": "idosa",
 				"description": [
-					"• Original Composer: Sample Composer 7",
-					"• Arranger: Sample Arranger 7",
-					"• Programmed, Produced & Mixed by Sample Artist 7",
-					"• Mastering Engineer: Sample Mastering Engineer 7",
-					"• Original Track: Sample Original Track 7",
-					"• Source: Sample Source 7",
-					"• About this track: This is a sample description for track 7."
+					"• Composer & Arranger: idosa",
+					"",
+					"• Programmed, Produced & Mixed by idosa",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Bitwig Studio",
+					"• Used VSTs & Samples: slate + ash cycles, phase plant, pokemon bw2 soundfont, bunch of foley drums from freesound.org",
+					"",
+					"• About this track: im just getting out of a complicated period in my life, and i feel like this symbolizes my healing process the best. this is me climbing back up, both metaphorically and literally",
+					"",
+					"BPM: 95 (0:00~3:37) - 174 (3:37~end)",
+					"Key: c# maj or a# min",
+					"Genre: Electronica"
 				]
 			},
 			"08": {
-				"title": "Sample Track 8",
-				"artist": "Sample Artist 8",
+				"title": "Sign",
+				"artist": "marphon",
 				"description": [
-					"• Original Composer: Sample Composer 8",
-					"• Arranger: Sample Arranger 8",
-					"• Programmed, Produced & Mixed by Sample Artist 8",
-					"• Mastering Engineer: Sample Mastering Engineer 8",
-					"• Original Track: Sample Original Track 8",
-					"• Source: Sample Source 8",
-					"• About this track: This is a sample description for track 8."
+					"• Composer & Arranger: marphon",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by marphon",
+					"• Additional Mastering: ceiling adjust",
+					"",
+					"• Used Software: Logic Pro",
+					"",
+					"BPM: 175",
+					"Key: N/A",
+					"Genre: Breakbeat"
 				]
 			},
 			"09": {
-				"title": "Sample Track 9",
-				"artist": "Sample Artist 9",
+				"title": "ephemeral",
+				"artist": {
+					"en": "kou feat. Chifuyu Hanakuma",
+					"jp": "kou feat. 花隈千冬"
+				},
 				"description": [
-					"• Original Composer: Sample Composer 9",
-					"• Arranger: Sample Arranger 9",
-					"• Programmed, Produced & Mixed by Sample Artist 9",
-					"• Mastering Engineer: Sample Mastering Engineer 9",
-					"• Original Track: Sample Original Track 9",
-					"• Source: Sample Source 9",
-					"• About this track: This is a sample description for track 9."
-				]
-			},
-			"10": {
-				"title": "Sample Track 10",
-				"artist": "Sample Artist 10",
-				"description": [
-					"• Original Composer: Sample Composer 10",
-					"• Arranger: Sample Arranger 10",
-					"• Programmed, Produced & Mixed by Sample Artist 10",
-					"• Mastering Engineer: Sample Mastering Engineer 10",
-					"• Original Track: Sample Original Track 10",
-					"• Source: Sample Source 10",
-					"• About this track: This is a sample description for track 10."
+					"• Composer, Arranger & Lyrics: kou",
+					"• Vocals: Chifuyu Hanakuma [花隈千冬]",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by kou",
+					"• Additional Mastering: ceiling adjust",
+					"",
+					"• Used Software: Ableton Live 12",
+					"• Used VSTs & Samples: droplets, a demotapes moment (splice)",
+					"",
+					"BPM: 160",
+					"Key: Gm",
+					"Genre: N/A"
 				]
 			}
 		}
 	],
-	"youtube_id": "4fLxXqFuRVc",
+	"youtube_id": "5KvoqBj98QA",
 	"credits": {
 		"1": {
-			"role": "Music",
-			"id": "AIKATYPE"
+			"role": "Composer & Arranger",
+			"id": "Aspect"
 		},
 		"2": {
-			"role": "Music, Narration, Supervisor & Planner",
-			"id": "Fivda"
+			"role": "Composer & Arranger",
+			"id": "sanmal"
 		},
 		"3": {
-			"role": "Music",
-			"id": "MAGIC MAN TONY ASTRO"
+			"role": "Composer & Arranger",
+			"id": "GOETIA"
 		},
 		"4": {
-			"role": "Music",
-			"id": "ANGELWHISPER"
+			"role": "Composer & Arranger",
+			"id": "Aniel"
 		},
 		"5": {
-			"role": "Music",
-			"id": "Monochrome"
+			"role": "Composer & Arranger",
+			"id": "AIKATYPE"
 		},
 		"6": {
-			"role": "Music",
-			"id": "Theosmeo"
+			"role": "Composer & Arranger",
+			"id": "Eyhz"
 		},
 		"7": {
-			"role": "Music",
-			"id": "MegaStrike"
+			"role": "Composer & Arranger",
+			"id": "Sh0wtime"
 		},
 		"8": {
-			"role": "Music",
-			"id": "jaxcheese"
-		},
-		"9": {
-			"role": "Music",
-			"id": "Tobokegao"
-		},
-		"10": {
-			"role": "Music",
+			"role": "Composer & Arranger",
 			"id": "Nuchuu"
 		},
+		"9": {
+			"role": "Composer, Arranger, Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"10": {
+			"role": "Composer & Arranger",
+			"id": "PSYQUO"
+		},
 		"11": {
-			"role": "Music",
-			"id": "HEAVYVIPER"
+			"role": "Composer & Arranger",
+			"id": "kalsoer"
 		},
 		"12": {
-			"role": "Voice",
-			"id": "CHERRY CODEBREAKER"
+			"role": "Composer & Arranger",
+			"id": "baeddelite"
 		},
 		"13": {
-			"id": "Masafumi Takada",
-			"role": "Original Composer"
+			"role": "Composer & Arranger",
+			"id": "Monochrome"
 		},
 		"14": {
-			"id": "Akira Yamaoka",
-			"role": "Original Composer"
+			"role": "Composer & Arranger",
+			"id": "r"
 		},
 		"15": {
-			"id": "Tomohiro Shirai",
-			"role": "Original Composer"
+			"role": "Composer & Arranger",
+			"id": "muyu"
 		},
 		"16": {
-			"id": "Kazuhiro Goto",
-			"role": "Original Composer"
+			"role": "Composer & Arranger",
+			"id": "MetaMusic"
 		},
 		"17": {
-			"id": "Nobuaki Kaneko",
-			"role": "Original Composer"
+			"role": "Composer & Arranger",
+			"id": "Zohka"
 		},
 		"18": {
+			"role": "Composer & Arranger",
+			"id": "idosa"
+		},
+		"19": {
+			"role": "Composer & Arranger",
+			"id": "marphon"
+		},
+		"20": {
+			"role": "Composer & Arranger",
+			"id": "kou"
+		},
+		"21": {
+			"id": "Chifuyu Hanakuma",
+			"role": "Vocals"
+		},
+		"22": {
 			"id": "malicent",
 			"role": "Mastering Engineer"
 		},
-		"19": {
+		"23": {
 			"id": "Volumetrique",
 			"role": "Audio Crossfade"
 		},
-		"20": {
-			"id": "Garrrros",
-			"role": "Illustration"
-		},
-		"21": {
-			"id": "Zeth",
-			"role": "Design"
-		},
-		"23": {
-			"id": "cal",
-			"role": "Logo Designer"
-		},
 		"24": {
+			"id": "Transendium",
+			"role": "Illustration, Logo Designer & Visualizer"
+		},
+		"25": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
-		"25": {
-			"id": "Hiskov",
+		"26": {
+			"id": "Elegant Sister",
 			"role": "Crossfade Video"
 		},
-		"26": {
+		"27": {
 			"id": "krz",
 			"role": "Web"
+		},
+		"28": {
+			"id": "cal",
+			"role": "Special Thanks"
 		}
 	}
 }
