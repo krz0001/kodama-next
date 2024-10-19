@@ -978,7 +978,7 @@
 	"MetaMusic": {
 		"name": "MetaMusic",
 		"links": {
-			"bandcamp": "https://metamusic1.bandcamp.com/track/fiery-friendlies",
+			"bandcamp": "https://metamusic1.bandcamp.com/",
 			"youtube": "https://www.youtube.com/@metamusic64",
 			"vgmdb": "https://vgmdb.net/artist/62472"
 		}
@@ -1682,6 +1682,13 @@
 		"links": {
 			"website": "https://tokyo6.tokyo/hanakumachifuyu/",
 			"vgmdb": "https://vgmdb.net/artist/59734"
+		}
+	},
+	"Mai": {
+		"name": "Mai",
+		"links": {
+			"website": "https://www.ah-soft.com/synth-v/dreamtonics/",
+			"vgmdb": "https://vgmdb.net/artist/59735"
 		}
 	},
 	"Sample": {

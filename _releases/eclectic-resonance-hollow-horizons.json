@@ -38,7 +38,7 @@
 				"title": "Shattered Capital",
 				"artist": "Aspect",
 				"description": [
-					"• Composer & Arranger: Aspect","• Programmed, Produced, Mixed & Mastered by Aspect","• Additional Mastering: clipping, EQ, parallel compression/saturation, stereo enhance, limiting ","","• Used Software: FL Studio 21","• Used VSTs & Samples: Nearly all stock FL except OTT and kHs Pitch Shifter","","• About this track: The Shattered Capital is a location within Lorithia, the world that is depicted within my music. It is depicting the destroyed city of Okarthiel, nearly 200 years after an advanced magical experiment went wrong, creating what is essentially an arcane nuclear disaster. The fallout from this event has created a dangerous, bizarre, and magically warped environment that few mages are able to traverse."
+					"• Composer & Arranger: Aspect","","• Programmed, Produced, Mixed & Mastered by Aspect","• Additional Mastering: clipping, EQ, parallel compression/saturation, stereo enhance, limiting ","","• Used Software: FL Studio 21","• Used VSTs & Samples: Nearly all stock FL except OTT and kHs Pitch Shifter","","• About this track: The Shattered Capital is a location within Lorithia, the world that is depicted within my music. It is depicting the destroyed city of Okarthiel, nearly 200 years after an advanced magical experiment went wrong, creating what is essentially an arcane nuclear disaster. The fallout from this event has created a dangerous, bizarre, and magically warped environment that few mages are able to traverse."
 				]
 			},
 			"02": {
@@ -309,7 +309,7 @@
 				},
 				"description": [
 					"• Composer, Arranger & Lyrics: kou",
-					"• Vocals: Chifuyu Hanakuma [花隈千冬]",
+					"• Vocals: Synthesizer V (Chifuyu Hanakuma [花隈千冬])",
 					"",
 					"• Programmed, Produced, Mixed & Mastered by kou",
 					"• Additional Mastering: ceiling adjust",
@@ -407,34 +407,38 @@
 			"id": "kou"
 		},
 		"21": {
-			"id": "Chifuyu Hanakuma",
+			"id": "Mai",
 			"role": "Vocals"
 		},
 		"22": {
+			"id": "Chifuyu Hanakuma",
+			"role": "Vocals"
+		},
+		"23": {
 			"id": "malicent",
 			"role": "Mastering Engineer"
 		},
-		"23": {
+		"24": {
 			"id": "Volumetrique",
 			"role": "Audio Crossfade"
 		},
-		"24": {
+		"25": {
 			"id": "Transendium",
 			"role": "Illustration, Logo Designer & Visualizer"
 		},
-		"25": {
+		"26": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
-		"26": {
+		"27": {
 			"id": "Elegant Sister",
 			"role": "Crossfade Video"
 		},
-		"27": {
+		"28": {
 			"id": "krz",
 			"role": "Web"
 		},
-		"28": {
+		"29": {
 			"id": "cal",
 			"role": "Special Thanks"
 		}
