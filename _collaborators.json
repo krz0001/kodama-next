@@ -1633,7 +1633,16 @@
 	"idosa": {
 		"name": "idosa",
 		"links": {
-			"twitter": "https://x.com/unerafflesie",
+			"twitter": "https://x.com/Faxyne",
+			"bandcamp": "https://raphlesia.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/raphlesia",
+			"vgmdb": "https://vgmdb.net/artist/53070"
+		}
+	},
+	"Faxyne": {
+		"name": "Faxyne",
+		"links": {
+			"twitter": "https://x.com/Faxyne",
 			"bandcamp": "https://raphlesia.bandcamp.com",
 			"soundcloud": "https://soundcloud.com/raphlesia",
 			"vgmdb": "https://vgmdb.net/artist/53070"
