@@ -207,6 +207,29 @@
         "name": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
         "cover": "/assets/discography/covers/0015.png",
         "coverColor": "#000000",
-        "website": "/releases/midnight-syndrome"
+        "website": "/releases/midnight-syndrome",
+        "vgmdb": "https://vgmdb.net/album/137464"
+    },
+    "eclectic-resonance-legendaria": {
+        "id": "KSDL-0016",
+        "releaseDate": "2024-08-11T00:00:00+0200",
+        "name": "ECLECTIC RESONANCE Legendaria",
+        "cover": "/assets/discography/covers/0016.png",
+        "coverColor": "#f0dbaa",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-legendaria",
+        "booth": "https://kodamasoft.booth.pm/items/6174216",
+        "website": "/releases/eclectic-resonance-legendaria",
+        "vgmdb": "https://vgmdb.net/album/137950"
+    },
+    "eclectic-resonance-hollow-horizons": {
+        "id": "KSDL-0017",
+        "releaseDate": "2024-08-11T00:00:00+0200",
+        "name": "ECLECTIC RESONANCE hollow horizons",
+        "cover": "/assets/discography/covers/0017.png",
+        "coverColor": "#000312",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-hollow-horizons",
+        "booth": "https://kodamasoft.booth.pm/items/6174276",
+        "website": "/releases/eclectic-resonance-hollow-horizons",
+        "vgmdb": "https://vgmdb.net/album/137951"
     }
 }
