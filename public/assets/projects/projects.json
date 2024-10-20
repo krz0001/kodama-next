@@ -4,8 +4,8 @@
 		"projects": [
 			{
 				"slug":"eclectic-resonance-legendaria",
-				"status": "accepting",
-				"percentage": "90",
+				"status": "about-to-release",
+				"percentage": "100",
 				"duration": "1:05:53",
 				"finished_tracks": "19",
 				"deadline": "2024-10-09T23:59:59Z",
@@ -18,8 +18,8 @@
 			},
 			{
 				"slug": "eclectic-resonance-hollow-horizons",
-				"status": "accepting",
-				"percentage": "95",
+				"status": "about-to-release",
+				"percentage": "100",
 				"duration": "1:14:18",
 				"finished_tracks": "14",
 				"deadline": "2024-10-06T23:59:59Z",
