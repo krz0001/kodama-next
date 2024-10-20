@@ -455,6 +455,8 @@
 			"bandcamp": "https://yumisakata.bandcamp.com/album/sins-of-the-fossil-world",
 			"youtube": "https://www.youtube.com/@YumiSakata/featured",
 			"soundcloud": "https://soundcloud.com/yumi-sakata-music",
+			"spotify": "https://open.spotify.com/artist/71Q5wFTtnvfca20C5LexUO",
+			"twitter": "https://x.com/YumiSakataMusic",
 			"vgmdb": "https://vgmdb.net/artist/57074"
 		}
 	},
@@ -770,7 +772,7 @@
 			"youtube": "https://www.youtube.com/channel/UCP14Evt7dZpOgJZ3ZBQFgHA",
 			"soundcloud": "https://soundcloud.com/psyquo",
 			"vgmdb": "https://vgmdb.net/artist/56093",
-			"website": "https://psyquo-site.pages.dev"
+			"website": "https://psyquo.carrd.co"
 		}
 	},
 	"Kurin T": {
@@ -1462,6 +1464,7 @@
 	"Marcus Ho": {
 		"name": "Marcus Ho",
 		"links": {
+			"twitter": "https://twitter.com/RayMarcusHo",
 			"vgmdb": "https://vgmdb.net/artist/66195"
 		}
 	},
