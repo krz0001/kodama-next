@@ -56,7 +56,7 @@
 			"title": "Passion Of Ghost",
 			"artist": "Theosmeo",
 			"description": [
-				"• Original Composer: Akira Yamaoka","• Arranger: Theosmeo","","• Programmed, Produced & Mixed by Theosmeo","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: King Of Ghost","• Source: Killer is Dead","","• Used Software: Ableton","","• About this track: This is one of the most striking pieces from the Killer is Dead soundtrack, it made the level it was on so much more memorable and fit that snowy train stage perfectly. Since its nestled its way into my mind I felt obligated to arrange it"
+				"• Arranger: Theosmeo","","• Programmed, Produced & Mixed by Theosmeo","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Original Track: King Of Ghost","• Source: Killer is Dead","","• Used Software: Ableton","","• About this track: This is one of the most striking pieces from the Killer is Dead soundtrack, it made the level it was on so much more memorable and fit that snowy train stage perfectly. Since its nestled its way into my mind I felt obligated to arrange it"
 			]
 		},
 		"06": {
@@ -157,50 +157,46 @@
 			"role": "Original Composer"
 		},
 		"14": {
-			"id": "Akira Yamaoka",
-			"role": "Original Composer"
-		},
-		"15": {
 			"id": "Tomohiro Shirai",
 			"role": "Original Composer"
 		},
-		"16": {
+		"15": {
 			"id": "Kazuhiro Goto",
 			"role": "Original Composer"
 		},
-		"17": {
+		"16": {
 			"id": "Nobuaki Kaneko",
 			"role": "Original Composer"
 		},
-		"18": {
+		"17": {
 			"id": "malicent",
 			"role": "Mastering Engineer"
 		},
-		"19": {
+		"18": {
 			"id": "Volumetrique",
 			"role": "Audio Crossfade"
 		},
-		"20": {
+		"19": {
 			"id": "Garrrros",
 			"role": "Illustration"
 		},
-		"21": {
+		"20": {
 			"id": "Zeth",
 			"role": "Design"
 		},
-		"23": {
+		"21": {
 			"id": "cal",
 			"role": "Logo Designer"
 		},
-		"24": {
+		"22": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
-		"25": {
+		"23": {
 			"id": "Hiskov",
 			"role": "Crossfade Video"
 		},
-		"26": {
+		"24": {
 			"id": "krz",
 			"role": "Web"
 		}
