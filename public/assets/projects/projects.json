@@ -3,34 +3,6 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
-				"slug":"eclectic-resonance-legendaria",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "1:05:53",
-				"finished_tracks": "19",
-				"deadline": "2024-10-09T23:59:59Z",
-				"mastering": {
-					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "completed",
-				"color": "#d44215"
-			},
-			{
-				"slug": "eclectic-resonance-hollow-horizons",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "1:14:18",
-				"finished_tracks": "14",
-				"deadline": "2024-10-06T23:59:59Z",
-				"mastering": {
-					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "completed",
-				"color": "#000000"
-			},
-			{
 				"slug": "eclectic-resonance-uprising-3",
 				"status": "accepting",
 				"percentage": "0",
@@ -66,15 +38,9 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#f9c74f"
-			}
-			
-		]
-	},
-	{
-		"cat_slug": "tribute-albums",
-		"projects": [
+			},
 			{
-				"slug": "midnight-syndrome-2",
+				"slug":"eclectic-resonance-legendaria-2",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
@@ -84,8 +50,26 @@
 					"engineer": "???"
 				},
 				"artwork_comission": "pending",
-				"color": "#e94242"
+				"color": "#d44215"
 			},
+			{
+				"slug": "eclectic-resonance-hollow-horizons-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "???"
+				},
+				"artwork_comission": "pending",
+				"color": "#000000"
+			}
+		]
+	},
+	{
+		"cat_slug": "tribute-albums",
+		"projects": [
 			{
 				"slug": "vanilla-parfait",
 				"status": "accepting",
@@ -138,8 +122,20 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#f472b6"
+			},			
+			{
+				"slug": "midnight-syndrome-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "???"
+				},
+				"artwork_comission": "pending",
+				"color": "#e94242"
 			}
-
 		]
 	},
 	{
