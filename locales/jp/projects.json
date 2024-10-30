@@ -63,8 +63,16 @@
             "title": "ECLECTIC RESONANCE Legendaria",
             "themes": "オリジナル曲、Folk / Celtic / Fantasy / Traditional / JRPG inspired"
         },
+        "eclectic-resonance-legendaria-2": {
+            "title": "ECLECTIC RESONANCE Legendaria 2",
+            "themes": "オリジナル曲、Folk / Celtic / Fantasy / Traditional / JRPG inspired"
+        },
         "eclectic-resonance-hollow-horizons": {
             "title": "ECLECTIC RESONANCE hollow horizons",
+            "themes": "オリジナル曲、Techno / Minimal / IDM / Downtempo"
+        },
+        "eclectic-resonance-hollow-horizons-2": {
+            "title": "ECLECTIC RESONANCE hollow horizons 2",
             "themes": "オリジナル曲、Techno / Minimal / IDM / Downtempo"
         }
     },
@@ -97,7 +105,7 @@
         },
         "vanilla-parfait": {
             "title": "Vanilla Parfait -a Vanillaware tribute album-",
-            "themes": "Vanillaware tribute album (十三機兵防衛圏、朧村正、オーディンスフィア...)"
+            "themes": "ヴァニラウエアトリビュートアルバム (十三機兵防衛圏、朧村正、オーディンスフィア...)"
         }
     },
     "gensokyo-party": {
@@ -105,31 +113,31 @@
         "desc": "Gensokyo Partyは東方シリーズを中心とする様々なスタイルのアルバムシリーズです。",
         "gensokyo-party-vantablack-3": {
             "title": "Gensokyo Party VANTABLACK 3",
-            "themes": "\"Gensokyo at War\" (ダークな雰囲気、Experimental、Metal、Hardcore...)"
+            "themes": "「戦争する幻想郷」 (ダークな雰囲気、Experimental、Metal、Hardcore...)"
         },
         "gensokyo-party-5-vantablack-2": {
             "title": "Gensokyo Party Vol. 5 Gensokyo Party VANTABLACK 2",
-            "themes": "\"Gensokyo at War\" (ダークな雰囲気、Experimental、Metal、Hardcore...)"
+            "themes": "「戦争する幻想郷」 (ダークな雰囲気、Experimental、Metal、Hardcore...)"
         },
         "gensokyo-party-6-border-in-stasis": {
             "title": "Gensokyo Party Vol. 6 Border in Stasis",
-            "themes": "\"Gensokyo in Ruins\" (Artcore、IDM、Classical、Orchestral...)"
+            "themes": "「廃墟になってしまった幻想郷」 (Artcore、IDM、Classical、Orchestral...)"
         },
         "gensokyo-party-3-moriya-barista":{
             "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "\"Gensokyo at Peace\" (のんびりとした雰囲気、Jazz、Lowtempo...)"
+            "themes": "「平和な幻想郷」 (のんびりとした雰囲気、Jazz、Lowtempo...)"
         },
         "moriya-barista-2":{
             "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "\"Gensokyo at Peace\" (のんびりとした雰囲気、Jazz、Lowtempo...)"
+            "themes": "「平和な幻想郷」 (のんびりとした雰囲気、Jazz、Lowtempo...)"
         },
         "gensokyo-party-4-dj-koishi": {
             "title": "Gensokyo Party DJ Koishi",
-            "themes": "\"Gensokyo on the Dancefloor\" (Club、EDM、Trance...)"
+            "themes": "「幻想郷のダンスフロア」 (Club、EDM、Trance...)"
         },
         "dj-koishi-2": {
             "title": "Gensokyo Party DJ Koishi 2",
-            "themes": "\"Gensokyo on the Dancefloor\" (Club、EDM、Trance...)"
+            "themes": "「幻想郷のダンスフロア」 (Club、EDM、Trance...)"
         }
     }
 }
