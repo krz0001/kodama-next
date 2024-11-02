@@ -32,7 +32,6 @@ export default function WrappableParagraph({ title, children }) {
 		link = link.split('#')[0] + '#' + id;
 		try {
 			await navigator.clipboard.writeText(link)
-			console.log('Page URL copied to clipboard')
 		} catch (err) {
 			console.error('Failed to copy: ', err)
 		}

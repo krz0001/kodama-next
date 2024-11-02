@@ -30,7 +30,6 @@ export default function Discography() {
           <div className="container pt-10 px-6 mx-auto">
             <div className='flex flex-wrap'>
               {Object.keys(albums).map((key) => (
-                console.log(key),
                 <AlbumListing key={key} slug={key} />
               ))}
             </div>
