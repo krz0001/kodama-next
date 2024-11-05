@@ -16,7 +16,7 @@ const iconLinks = [
   { href: 'https://bsky.app/profile/kodamasoft.bsky.social', icon: BskySVG },
   { href: 'https://www.youtube.com/@kodamasoft', icon: FaYoutube },
   { href: 'https://soundcloud.com/kodamasoft', icon: FaSoundcloud },
-  { href: 'https://bandcamp.com/kodamasoft', icon: FaBandcamp },
+  { href: 'https://bandcamp.com/kodamasounds', icon: FaBandcamp },
   { href: 'https://kodamasoft.booth.pm/', icon: BoothSVG },
 ];
 
