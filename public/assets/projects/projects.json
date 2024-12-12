@@ -2,6 +2,32 @@
 	{
 		"cat_slug": "eclectic-resonance",
 		"projects": [
+      {
+				"slug": "eclectic-resonance-paradise",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2025-03-23T23:59:59Z",
+				"mastering": {
+					"status": "pending"
+				},
+				"artwork_comission": "Pending",
+				"color": "#dbb458"
+			},
+			{
+				"slug": "eclectic-resonance-escapism",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2025-03-23T23:59:59Z",
+				"mastering": {
+					"status": "pending"
+				},
+				"artwork_comission": "Pending",
+				"color": "#68bd7d"
+			},
 			{
 				"slug": "eclectic-resonance-uprising-3",
 				"status": "accepting",
@@ -13,6 +39,18 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#6cc3b9"
+			},
+      {
+				"slug": "eclectic-resonance-memories-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending"
+				},
+				"artwork_comission": "pending",
+				"color": "#f9c74f"
 			},
 			{
 				"slug": "eclectic-resonance-detuned-alloy-2",
@@ -27,32 +65,7 @@
 				"artwork_comission": "pending",
 				"color": "#9f1239"
 			},
-			{
-				"slug": "eclectic-resonance-memories-2",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"mastering": {
-					"status": "pending"
-				},
-				"artwork_comission": "pending",
-				"color": "#f9c74f"
-			},
-			{
-				"slug":"eclectic-resonance-legendaria-2",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"mastering": {
-					"status": "pending",
-					"engineer": "???"
-				},
-				"artwork_comission": "pending",
-				"color": "#d44215"
-			},
-			{
+      {
 				"slug": "eclectic-resonance-hollow-horizons-2",
 				"status": "accepting",
 				"percentage": "0",
@@ -64,6 +77,19 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#000000"
+			},
+      {
+				"slug":"eclectic-resonance-legendaria-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "???"
+				},
+				"artwork_comission": "pending",
+				"color": "#d44215"
 			}
 		]
 	},
@@ -142,7 +168,7 @@
 		"cat_slug": "gensokyo-party",
 		"projects": [
 			{
-				"slug":"gensokyo-party-6-border-in-stasis",
+				"slug": "gensokyo-party-6-border-in-stasis",
 				"status": "accepting",
 				"percentage": "30",
 				"duration": "09:05",

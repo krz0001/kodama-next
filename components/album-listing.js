@@ -31,7 +31,7 @@ export default function AlbumListing({ slug }) {
                 <Image src={album.cover} alt={album.name} sizes="13rem" quality={100} priority={true} width={208} height={208} />
             </div>
 
-            <div className="flex flex-col flex-initial py-5 px-10">
+            <div className="flex flex-col flex-initial py-5 px-10 text-white">
                 <div>
                     <span className="font-mono text-sm">
                         {album.id} {album.releaseDate && (<>— <DateFormatter dateString={album.releaseDate} /></>) }

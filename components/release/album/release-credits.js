@@ -15,6 +15,7 @@ import BoothSVG from '../../../public/assets/icons/booth.svg'
 import PixivSVG from '../../../public/assets/icons/pixiv.svg'
 import FanboxSVG from '../../../public/assets/icons/fanbox.svg'
 import VgmdbSVG from '../../../public/assets/icons/vgmdb.svg'
+import BskySVG from '../../../public/assets/icons/bsky.svg'
 
 export default function ReleaseTracklist({ credits }) {
 	function LinkIcon(props) {
@@ -43,6 +44,8 @@ export default function ReleaseTracklist({ credits }) {
 			return <FaSpotify className={props.className} />
 		} else if (link.toString().includes('apple')) {
 			return <FaApple className={props.className} />
+		} else if (link.toString().includes('bsky.app')) {
+			return <BskySVG className={props.className} />
 		} else {
 			return <FaGlobe className={props.className} />
 		}
