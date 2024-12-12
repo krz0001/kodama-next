@@ -6,12 +6,13 @@
         "statuses": {
             "pending": "Pending",
             "ongoing": "Ongoing",
-            "sketching": "Sketching",
+            "sketching": "In production",
 
             "completed": "Completed",
             "accepting": "Accepting Submissions",
             "cancelled": "Cancelled",
-            "about-to-release": "About to Release"
+            "released": "Completed & Released",
+            "about-to-release": "Final Touches & About to Release"
         },
         "deadline": "Deadline",
         "release-info": "Releases Information",
