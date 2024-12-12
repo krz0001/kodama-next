@@ -66,6 +66,14 @@
         "eclectic-resonance-detuned-alloy-2": {
             "title": "ECLECTIC RESONANCE Detuned Alloy 2",
             "themes": "Original Work, Rock, Hard Rock, Metal, Acoustic, Guitar Centered"
+        },
+        "eclectic-resonance-paradise": {
+            "title": "ECLECTIC RESONANCE PARADISE",
+            "themes": "Original Work, Jazz, House, Fusion"
+        },
+        "eclectic-resonance-escapism": {
+            "title": "ECLECTIC RESONANCE Escapism",
+            "themes": "Original Work, Uplifting, Trance, Progressive House"
         }
     },
     "tribute-albums": {

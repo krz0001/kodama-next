@@ -66,8 +66,33 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#f9c74f"
+			},
+			{
+				"slug": "eclectic-resonance-paradise",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2025-03-23T23:59:59Z",
+				"mastering": {
+					"status": "pending"
+				},
+				"artwork_comission": "Pending",
+				"color": "#dbb458"
+			},
+			{
+				"slug": "eclectic-resonance-escapism",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2025-03-23T23:59:59Z",
+				"mastering": {
+					"status": "pending"
+				},
+				"artwork_comission": "Pending",
+				"color": "#68bd7d"
 			}
-			
 		]
 	},
 	{
@@ -139,14 +164,13 @@
 				"artwork_comission": "pending",
 				"color": "#f472b6"
 			}
-
 		]
 	},
 	{
 		"cat_slug": "gensokyo-party",
 		"projects": [
 			{
-				"slug":"gensokyo-party-6-border-in-stasis",
+				"slug": "gensokyo-party-6-border-in-stasis",
 				"status": "accepting",
 				"percentage": "30",
 				"duration": "09:05",
