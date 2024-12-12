@@ -6,12 +6,13 @@
         "statuses": {
             "pending": "Pending",
             "ongoing": "Ongoing",
-            "sketching": "Sketching",
+            "sketching": "In production",
 
             "completed": "Completed",
             "accepting": "Accepting Submissions",
             "cancelled": "Cancelled",
-            "about-to-release": "About to Release"
+            "released": "Completed & Released",
+            "about-to-release": "Final Touches & About to Release"
         },
         "deadline": "Deadline",
         "release-info": "Releases Information",
@@ -55,8 +56,16 @@
             "title": "ECLECTIC RESONANCE Legendaria",
             "themes": "Folk / Celtic / Fantasy / Traditional / JRPG inspired"
         },
+        "eclectic-resonance-legendaria-2": {
+            "title": "ECLECTIC RESONANCE Legendaria 2",
+            "themes": "Folk / Celtic / Fantasy / Traditional / JRPG inspired"
+        },
         "eclectic-resonance-hollow-horizons": {
             "title": "ECLECTIC RESONANCE hollow horizons",
+            "themes": "Techno / Minimal / IDM / Downtempo"
+        },
+        "eclectic-resonance-hollow-horizons-2": {
+            "title": "ECLECTIC RESONANCE hollow horizons 2",
             "themes": "Techno / Minimal / IDM / Downtempo"
         },
         "eclectic-resonance-detuned-alloy": {

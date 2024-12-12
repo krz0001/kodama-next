@@ -2,72 +2,7 @@
 	{
 		"cat_slug": "eclectic-resonance",
 		"projects": [
-			{
-				"slug":"eclectic-resonance-legendaria",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "1:05:53",
-				"finished_tracks": "19",
-				"deadline": "2024-10-09T23:59:59Z",
-				"mastering": {
-					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "completed",
-				"color": "#d44215"
-			},
-			{
-				"slug": "eclectic-resonance-hollow-horizons",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "1:14:18",
-				"finished_tracks": "14",
-				"deadline": "2024-10-06T23:59:59Z",
-				"mastering": {
-					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "completed",
-				"color": "#000000"
-			},
-			{
-				"slug": "eclectic-resonance-uprising-3",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"mastering": {
-					"status": "pending"
-				},
-				"artwork_comission": "pending",
-				"color": "#6cc3b9"
-			},
-			{
-				"slug": "eclectic-resonance-detuned-alloy-2",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "00",
-				"mastering": {
-					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "pending",
-				"color": "#9f1239"
-			},
-			{
-				"slug": "eclectic-resonance-memories-2",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"mastering": {
-					"status": "pending"
-				},
-				"artwork_comission": "pending",
-				"color": "#f9c74f"
-			},
-			{
+      {
 				"slug": "eclectic-resonance-paradise",
 				"status": "accepting",
 				"percentage": "0",
@@ -75,9 +10,10 @@
 				"finished_tracks": "0",
 				"deadline": "2025-03-23T23:59:59Z",
 				"mastering": {
-					"status": "pending"
+					"status": "pending",
+					"engineer": "R-Man (Resonant Union)"
 				},
-				"artwork_comission": "Pending",
+				"artwork_comission": "sketching",
 				"color": "#dbb458"
 			},
 			{
@@ -88,29 +24,82 @@
 				"finished_tracks": "0",
 				"deadline": "2025-03-23T23:59:59Z",
 				"mastering": {
-					"status": "pending"
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "Pending",
+				"artwork_comission": "sketching",
 				"color": "#68bd7d"
-			}
-		]
-	},
-	{
-		"cat_slug": "tribute-albums",
-		"projects": [
+			},
 			{
-				"slug": "midnight-syndrome-2",
+				"slug": "eclectic-resonance-uprising-3",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "???"
+					"engineer": "TBD"
 				},
 				"artwork_comission": "pending",
-				"color": "#e94242"
+				"color": "#6cc3b9"
 			},
+      {
+				"slug": "eclectic-resonance-memories-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "TBD"
+				},
+				"artwork_comission": "pending",
+				"color": "#f9c74f"
+			},
+			{
+				"slug": "eclectic-resonance-detuned-alloy-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "R-Man (Resonant Union)"
+				},
+				"artwork_comission": "pending",
+				"color": "#9f1239"
+			},
+      {
+				"slug": "eclectic-resonance-hollow-horizons-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "TBD"
+				},
+				"artwork_comission": "pending",
+				"color": "#000000"
+			},
+      {
+				"slug":"eclectic-resonance-legendaria-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "TBD"
+				},
+				"artwork_comission": "pending",
+				"color": "#d44215"
+			}
+		]
+	},
+	{
+		"cat_slug": "tribute-albums",
+		"projects": [
 			{
 				"slug": "vanilla-parfait",
 				"status": "accepting",
@@ -163,6 +152,19 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#f472b6"
+			},			
+			{
+				"slug": "midnight-syndrome-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "TBD"
+				},
+				"artwork_comission": "pending",
+				"color": "#e94242"
 			}
 		]
 	},
@@ -217,7 +219,7 @@
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "???"
+					"engineer": "TBD"
 				},
 				"artwork_comission": "pending",
 				"color": "#fcbcda"
