@@ -1,0 +1,453 @@
+{
+	"slug": "eclectic-resonance-hollow-horizons",
+	"logo": "/assets/discography/logos/0017.png",
+	"color": "0a62fe",
+	"soundcloud_track_id": "1937287946",
+	"cover": "/assets/discography/covers/0017.png",
+	"background": {
+		"image": "/assets/discography/backgrounds/0017.png",
+		"video": "/assets/discography/backgrounds/0017.mp4",
+		"color": "000511"
+	},
+	"title": "ECLECTIC RESONANCE hollow horizons",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "Digital Original Work Album",
+	"release_date": "27 Oct. 2024 (M3-2024 Fall)",
+	"catalog": "KSDL-0017",
+	"price": "Pre-Order & Event Price: 15€ / 2400 yen | Post Release Price: 18€ / 2900 yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-hollow-horizons"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/6174276"
+		}
+	},
+	"tracklist": [
+		{
+			"_isMultiDisc": true,
+			"_discNames": ["disc1:vacancy", "disc2:fragility"]
+		},
+		{
+			"01": {
+				"title": "Shattered Capital",
+				"artist": "Aspect",
+				"description": [
+					"• Composer & Arranger: Aspect","","• Programmed, Produced, Mixed & Mastered by Aspect","• Additional Mastering: clipping, EQ, parallel compression/saturation, stereo enhance, limiting ","","• Used Software: FL Studio 21","• Used VSTs & Samples: Nearly all stock FL except OTT and kHs Pitch Shifter","","• About this track: The Shattered Capital is a location within Lorithia, the world that is depicted within my music. It is depicting the destroyed city of Okarthiel, nearly 200 years after an advanced magical experiment went wrong, creating what is essentially an arcane nuclear disaster. The fallout from this event has created a dangerous, bizarre, and magically warped environment that few mages are able to traverse."
+				]
+			},
+			"02": {
+				"title": "danc4along",
+				"artist": "sanmal",
+				"description": [
+					"• Composer & Arranger: sanmal (MYORPH)","","• Programmed, Produced, Mixed & Mastered by sanmal (MYORPH)","• Additional Mastering: ceiling adjust","","• Used Software: Ableton Live","• Used VSTs & Samples: Serum, PhasePlant, samples","","• About this track: It's like a sketch of the mixed feelings of loneliness and excitement you get when you're digging and dancing to UK Garage on YouTube by yourself... [YouTubeでUK Garageを一人でディグして踊っている時のような、孤独感と興奮が入り混じった感覚のスケッチのような...]","","BPM: 130","Key: A#m","Genre: Garage"
+				]
+			},
+			"03": {
+				"title": "Equipotential",
+				"artist": "GOETIΛ",
+				"description": [
+					"• Composer & Arranger: GOETIΛ (Sigillum Azoetia)","","• Programmed, Produced, Mixed & Mastered by GOETIΛ (Sigillum Azoetia)","• Additional Mastering: ceiling adjust","","BPM: 131","Key: D#min","Genre: Techno"
+				]
+			},
+			"04": {
+				"title": "Vendome",
+				"artist": "Aniel",
+				"description": [
+					"• Composer & Arranger: Aniel (sculptured)","","• Programmed, Produced & Mixed by Aniel (sculptured)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: Ableton Live 12","","BPM: 160","Key: A#min (0:00~1:02) D#min(1:02~)","Genre: IDM"
+				]
+			},
+			"05": {
+				"title": "Milky Integration",
+				"artist": "AIKATYPE & Eyhz",
+				"description": [
+					"• Composer & Arranger: AIKATYPE (KodamaSounds), Eyhz (Bliss And Innocence)",
+					"",
+					"• Programmed & Produced by AIKATYPE (KodamaSounds), Eyhz (Bliss And Innocence)",
+					"• Mixed by AIKATYPE (KodamaSounds)",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track:",
+					"Eyhz: The glitches in my part of the song, along with the basses, were made by taking and cutting a part from a supire sample, importing it into serum and changing them into a wave table which was used with an LFO to automate the position of said table.",
+					"",
+					"BPM: N/A",
+					"Key: N/A",
+					"Genre: Techno IDM"
+				]
+			},
+			"06": {
+				"title": "DESOLATE",
+				"artist": "Sh0wtime",
+				"description": [
+					"• Composer & Arranger: Sh0wtime",
+					"",
+					"• Programmed, Produced & Mixed by Sh0wtime",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 140",
+					"Key: Emin",
+					"Genre: Future Garage"
+				]
+			},
+			"07": {
+				"title": "Downshift",
+				"artist": "Nuchuu",
+				"description": [
+					"• Composer & Arranger: Nuchuu","","• Programmed, Produced, Mixed & Mastered by Nuchuu","• Additional Mastering: ceiling adjust","","• Used Software: Ableton Live 11","","• About this track: This track's inspiration came from representing thinking or contemplating negatively. The slow build of uncertainties, the hit of too much negativity at once, the way it can all suddenly shift, and the potential lack of resolutions. The emotional journey that takes place within, often in solitude, rather than externally. The track is experimental in overall arrangement and some key choices, and it focuses on meaningful expression over conforming to genre standards or prioritizing consistency in feel throughout.","","BPM: 120","Key: G Minor","Genre: Ambient/Experimental Electronic"
+				]
+			},
+			"08": {
+				"title": "Mistemper",
+				"artist": "Fivda",
+				"description": [
+					"• Composer & Arranger: Fivda (KodamaSounds)",
+					"",
+					"• Programmed, Produced & Mixed by Fivda (KodamaSounds)",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Reaper",
+					"• Used VSTs & Samples: Pro-Q 3, TAL Reverb 4, ReaComp, kHs suite, Serum, Vengence Essential Clubsounds, Exode Sample Packs, HiTECH NINJA Sample Packs, 100 Enigmatic Sample Packs",
+					"",
+					"• About this track: Originally a song of frustration and deceit, revamped into a more hypnotic and reflective song with a touch of agressiveness. I wish I could have soothed out some of its rough sides, but I think the song's overall good as it is, and I'm really proud of the general vibe of the song, and that drop was really nice and fun to layer out. Let's hope I can make something more melodic sooner than later...",
+					"",
+					"BPM: 126",
+					"Key: C Major",
+					"Genre: Techno"
+				]
+			},
+			"09": {
+				"title": "Cybermind",
+				"artist": "PSYQUO",
+				"description": [
+					"• Composer & Arranger: PSYQUO",
+					"• Vocals: Synthesizer V (Mai)",
+					"",
+					"• Programmed, Produced & Mixed by PSYQUO",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: FL Studio, Synthesizer V",
+					"",
+					"• About this track: Hi! It's me PSYQUO. I feel like this is the second entry for a series of tracks I wanna make with the \"cyber\" aesthetic (the first one being \"Depths of an AI Enhanced Reality\"). This time it's an ambient techno (also trance-ish?) track w/ really big kicks, weird sparkly synths and a lot of reverb. The voice in the song talks about the concept of a \"cybermind\" - a fully capable virtual mind functioning in cyberspace. I hope these elements make the song more exciting and mysterious overall. Thanks for listening!",
+					"",
+					"BPM: 110",
+					"Key: D +50 cents",
+					"Genre: Ambient Technic",
+					"",
+					"• Lyrics:",
+					"Calibrating...",
+					"",
+					"The Cybermind",
+					"Ready? Get tranced.",
+					"",
+					"Serenity",
+					"of the virtual soul.",
+					"",
+					"Tranquility",
+					"of the Cybermind.",
+					"",
+					"Enlighten me."
+				]
+			},
+			"10": {
+				"title": "sentiment",
+				"artist": "kalsoer",
+				"description": [
+					"• Composer & Arranger: kalsoer",
+					"",
+					"• Programmed, Produced & Mixed by kalsoer",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 142",
+					"Key: G#m",
+					"Genre: electronic/idm/beat"
+				]
+			}
+		},
+		{
+			"01": {
+				"title": "LUNARGRAVITYWELL",
+				"artist": "baeddelite",
+				"description": [
+					"• Composer & Arranger: baeddelite",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by baeddelite",
+					"• Additional Mastering: ceiling adjust",
+					"",
+					"BPM: 131",
+					"Key: N/A",
+					"Genre: weightofhumanity"
+				]
+			},
+			"02": {
+				"title": "Onionland",
+				"artist": "Monochrome",
+				"description": [
+					"• Composer & Arranger: Monochrome",
+					"",
+					"• Programmed, Produced & Mixed by Monochrome",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track: A track inspired by an intrigue of the deep/dark web. I took a dive into some of my older, unreleased works, and found a gem called \"Onionland\" that I thought could be reworked for the purposes of hollow horizons. The final product ended up much different from the original, but I ultimately prefer this new direction - the melodies, the synths, and the bitcrushing all create a particular Internet-driven mystique that I find super interesting to listen to.",
+					"",
+					"BPM: 130",
+					"Key: 0:00 - D minor, 2:54 - G minor",
+					"Genre: Electronica"
+				]
+			},
+			"03": {
+				"title": "yukiwarisou",
+				"artist": "r",
+				"description": [
+					"• Composer & Arranger: r",
+					"",
+					"• Programmed, Produced & Mixed by r",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track: dark",
+					"",
+					"BPM: 100",
+					"Key: B minor",
+					"Genre: electronica"
+				]
+			},
+			"04": {
+				"title": "Orbit.",
+				"artist": "muyu",
+				"description": [
+					"• Composer & Arranger: muyu",
+					"",
+					"• Programmed, Produced & Mixed by muyu",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Cubase Pro 12",
+					"• Used VSTs & Samples: Main VST: iZotope Iris 2 ,LABS / Samples: SC_CS_80_minimal_karst_Dmaj.wav from Contemporary Classical Strings, RARE_percussion_gamelan_thai_melodic_Eb_100_loop2.wav from Melody Rhythmix Vol.1",
+					"",
+					"• About this track: This track represents the life and death cycle (samsara) that we went through until now. My goal was to create a piece of music which would allow you to take a good look at what you are, by lending your ears and heart to the lasting sounds. [この楽曲はこれまでの人生と輪廻を表しています。 持続するサウンドに耳と心を傾けながら、自分を見つめなおすきっかけになるような音楽を目指しました。]",
+					"",
+					"BPM: 80",
+					"Key: N/A",
+					"Genre: Ambient"
+				]
+			},
+			"05": {
+				"title": "Cut the Noise",
+				"artist": "MetaMusic",
+				"description": [
+					"• Composer & Arranger: MetaMusic",
+					"",
+					"• Programmed, Produced & Mixed by MetaMusic",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Furnace (2x tildearrow Sound Unit)",
+					"",
+					"• About this track: i've always been attracted to the fuzzy sort of sound that typically comes from gba games, as well as anything to do with noise generators. while i wasn't able to fit my typical noise percussion into this style, the whole track lays gently atop some subtle sweeping noise, and uses a periodic noise generator for the melodic parts. gratuitous low-pass and high-pass filters elsewhere in the song contribute to the fuzzy vibe i'm pursuing, along with low sample rate drums for a bit of a contrasting crunch",
+					"",
+					"BPM: 128.57",
+					"Key: C# Major",
+					"Genre: downtempo"
+				]
+			},
+			"06": {
+				"title": "Chrysoberyl",
+				"artist": "Zohka",
+				"description": [
+					"• Composer & Arranger: Zohka",
+					"",
+					"• Programmed, Produced & Mixed by Zohka",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 126",
+					"Key: Em",
+					"Genre: electronic"
+				]
+			},
+			"07": {
+				"title": "ascent/cloudgazing",
+				"artist": "idosa",
+				"description": [
+					"• Composer & Arranger: idosa",
+					"",
+					"• Programmed, Produced & Mixed by idosa",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Bitwig Studio",
+					"• Used VSTs & Samples: slate + ash cycles, phase plant, pokemon bw2 soundfont, bunch of foley drums from freesound.org",
+					"",
+					"• About this track: im just getting out of a complicated period in my life, and i feel like this symbolizes my healing process the best. this is me climbing back up, both metaphorically and literally",
+					"",
+					"BPM: 95 (0:00~3:37) - 174 (3:37~end)",
+					"Key: c# maj or a# min",
+					"Genre: Electronica"
+				]
+			},
+			"08": {
+				"title": "Sign",
+				"artist": "marphon",
+				"description": [
+					"• Composer & Arranger: marphon",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by marphon",
+					"• Additional Mastering: ceiling adjust",
+					"",
+					"• Used Software: Logic Pro",
+					"",
+					"BPM: 175",
+					"Key: N/A",
+					"Genre: Breakbeat"
+				]
+			},
+			"09": {
+				"title": "ephemeral",
+				"artist": {
+					"en": "kou feat. Chifuyu Hanakuma",
+					"jp": "kou feat. 花隈千冬"
+				},
+				"description": [
+					"• Composer, Arranger & Lyrics: kou",
+					"• Vocals: Synthesizer V (Chifuyu Hanakuma [花隈千冬])",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by kou",
+					"• Additional Mastering: ceiling adjust",
+					"",
+					"• Used Software: Ableton Live 12",
+					"• Used VSTs & Samples: droplets, a demotapes moment (splice)",
+					"",
+					"BPM: 160",
+					"Key: Gm",
+					"Genre: N/A",
+					"",
+					"•Lyrics:",
+					"夜の空に一人たたずみ",
+					"",
+					"乾いた心が風に揺れる",
+					"",
+					"答えの見えない世界"
+				]
+			}
+		}
+	],
+	"youtube_id": "5KvoqBj98QA",
+	"credits": {
+		"1": {
+			"role": "Composer & Arranger",
+			"id": "Aspect"
+		},
+		"2": {
+			"role": "Composer & Arranger",
+			"id": "sanmal"
+		},
+		"3": {
+			"role": "Composer & Arranger",
+			"id": "GOETIA"
+		},
+		"4": {
+			"role": "Composer & Arranger",
+			"id": "Aniel"
+		},
+		"5": {
+			"role": "Composer & Arranger",
+			"id": "AIKATYPE"
+		},
+		"6": {
+			"role": "Composer & Arranger",
+			"id": "Eyhz"
+		},
+		"7": {
+			"role": "Composer & Arranger",
+			"id": "Sh0wtime"
+		},
+		"8": {
+			"role": "Composer & Arranger",
+			"id": "Nuchuu"
+		},
+		"9": {
+			"role": "Composer, Arranger, Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"10": {
+			"role": "Composer & Arranger",
+			"id": "PSYQUO"
+		},
+		"11": {
+			"role": "Composer & Arranger",
+			"id": "kalsoer"
+		},
+		"12": {
+			"role": "Composer & Arranger",
+			"id": "baeddelite"
+		},
+		"13": {
+			"role": "Composer & Arranger",
+			"id": "Monochrome"
+		},
+		"14": {
+			"role": "Composer & Arranger",
+			"id": "r"
+		},
+		"15": {
+			"role": "Composer & Arranger",
+			"id": "muyu"
+		},
+		"16": {
+			"role": "Composer & Arranger",
+			"id": "MetaMusic"
+		},
+		"17": {
+			"role": "Composer & Arranger",
+			"id": "Zohka"
+		},
+		"18": {
+			"role": "Composer & Arranger",
+			"id": "idosa"
+		},
+		"19": {
+			"role": "Composer & Arranger",
+			"id": "marphon"
+		},
+		"20": {
+			"role": "Composer & Arranger",
+			"id": "kou"
+		},
+		"21": {
+			"id": "Mai",
+			"role": "Vocals"
+		},
+		"22": {
+			"id": "Chifuyu Hanakuma",
+			"role": "Vocals"
+		},
+		"23": {
+			"id": "malicent",
+			"role": "Mastering Engineer"
+		},
+		"24": {
+			"id": "Volumetrique",
+			"role": "Audio Crossfade"
+		},
+		"25": {
+			"id": "Transendium",
+			"role": "Illustration, Logo Designer & Visualizer"
+		},
+		"26": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"27": {
+			"id": "Elegant Sister",
+			"role": "Crossfade Video"
+		},
+		"28": {
+			"id": "krz",
+			"role": "Web"
+		},
+		"29": {
+			"id": "cal",
+			"role": "Special Thanks"
+		}
+	}
+}

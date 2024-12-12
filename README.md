@@ -33,7 +33,7 @@ twin: kodamadirect-2024
 The rest of the file is the content of the post. You can use MDX syntax to write the content of the post.
 All posts are displayed in the homepage page in the order of their `date` field.
 
-## KodamaSoft / Softare listings
+## KodamaSoft / Software listings
 
 - To edit the page itself: `/pages/kodamasoft.page.js`
 - To edit the listings: `/public/assets/games/releases.json`

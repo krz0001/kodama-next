@@ -37,11 +37,11 @@
         },
         "eclectic-resonance-uprising-2": {
             "title": "ECLECTIC RESONANCE UPRISING 2",
-            "themes": "オリジナル曲、Hard Rock、Metal、Acoustic、ギター中心"
+            "themes": "オリジナル、J-Core、Hardcore、Hard Techno、Psy、Techcore、Hi-tech"
         },
         "eclectic-resonance-uprising-3": {
             "title": "ECLECTIC RESONANCE UPRISING 3",
-            "themes": "オリジナル曲、Hard Rock、Metal、Acoustic、ギター中心"
+            "themes": "オリジナル、J-Core、Hardcore、Hard Techno、Psy、Techcore、Hi-tech"
         },
         "eclectic-resonance-detuned-alloy": {
             "title": "ECLECTIC RESONANCE Detuned Alloy",
@@ -99,6 +99,10 @@
             "title": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
             "themes": "グラスホッパー・マニファクチュア / SUDA51中心"
         },
+        "midnight-syndrome-2": {
+            "title": "MIDNIGHT SYNDROME 2 -a Grasshopper Manufacture tribute album-",
+            "themes": "グラスホッパー・マニファクチュア / SUDA51中心"
+        },
         "vanilla-parfait": {
             "title": "Vanilla Parfait -a Vanillaware tribute album-",
             "themes": "Vanillaware tribute album (十三機兵防衛圏、朧村正、オーディンスフィア...)"
@@ -108,7 +112,7 @@
         "name": "Gensokyo Party",
         "desc": "Gensokyo Partyは東方シリーズを中心とする様々なスタイルのアルバムシリーズです。",
         "gensokyo-party-vantablack-3": {
-            "title": "Gensokyo Party Vol. 7 Gensokyo Party VANTABLACK 3",
+            "title": "Gensokyo Party VANTABLACK 3",
             "themes": "\"Gensokyo at War\" (ダークな雰囲気、Experimental、Metal、Hardcore...)"
         },
         "gensokyo-party-5-vantablack-2": {

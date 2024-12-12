@@ -3,11 +3,11 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
-				"slug": "eclectic-resonance-legendaria",
-				"status": "accepting",
-				"percentage": "65",
-				"duration": "30:05",
-				"finished_tracks": "9",
+				"slug":"eclectic-resonance-legendaria",
+				"status": "about-to-release",
+				"percentage": "100",
+				"duration": "1:05:53",
+				"finished_tracks": "19",
 				"deadline": "2024-10-09T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -18,8 +18,8 @@
 			},
 			{
 				"slug": "eclectic-resonance-hollow-horizons",
-				"status": "accepting",
-				"percentage": "95",
+				"status": "about-to-release",
+				"percentage": "100",
 				"duration": "1:14:18",
 				"finished_tracks": "14",
 				"deadline": "2024-10-06T23:59:59Z",
@@ -99,17 +99,16 @@
 		"cat_slug": "tribute-albums",
 		"projects": [
 			{
-				"slug": "midnight-syndrome",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "49:58",
-				"finished_tracks": "11",
-				"deadline": "2024-07-20T23:59:59Z",
+				"slug": "midnight-syndrome-2",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+					"engineer": "???"
 				},
-				"artwork_comission": "completed",
+				"artwork_comission": "pending",
 				"color": "#e94242"
 			},
 			{
