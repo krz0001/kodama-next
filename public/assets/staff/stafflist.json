@@ -206,6 +206,7 @@
 	},
 	{
 		"_collabId": "krz0001",
+		"_legacy": "true",
 		"name": "krz",
 		"role": "Software Staff & Webmaster",
 		"legacyStatus": "2018 ~ December 11th 2024",
@@ -216,6 +217,7 @@
 	},
 	{
 		"_collabId": "jys_music",
+		"_legacy": "true",
 		"name": "Justin Shin",
 		"role": "Sound Staff",
 		"legacyStatus": "2022 ~ December 20th 2024",
