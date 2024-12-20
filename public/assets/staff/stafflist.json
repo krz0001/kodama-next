@@ -101,29 +101,6 @@
 		"bandcamp": "https://yokaiproducer.bandcamp.com/"
 	},
 	{
-		"_collabId": "krz0001",
-		"name": "krz",
-		"role": "Software Staff & Webmaster",
-		"pronouns": "he/him",
-		"dateOfBirth": "N/A",
-		"placeOfBirth": "France",
-		"description": "The reason you’re able to have such a great and clean website in the first place. krz is a strong & talented developer, and the ace of the team when it comes to web development. Started out with the UI design of Stellar Sanctuary in 2018, and became our lead webdesigner in 2022, with our own dedicated website."
-	},
-	{
-		"_collabId": "jys_music",
-		"name": "Justin Shin",
-		"role": "Sound Staff",
-		"pronouns": "he/him",
-		"dateOfBirth": "N/A",
-		"placeOfBirth": "N/A",
-		"description": "Justin Shin (a.k.a jys_music) joined the team as the lead arranger for KODAMA JAMS in 2022. Composer and arranger for games and media, wearer of bucket hats, and consumer of music! Justin has produced a dense amount of video game soundtracks under his real name, while keeping jys_music for his more hobbyst and arrangement-typed works.",
-		"website": "https://justinshinmusic.com/",
-		"twitter": "https://twitter.com/jys_music",
-		"youtube": "https://www.youtube.com/channel/UCp4cy51E4xjh4TDCf_-DAOQ",
-		"soundcloud": "https://soundcloud.com/jys_music",
-		"bandcamp": "https://justinshin.bandcamp.com/"
-	},
-	{
 		"_collabId": "Maxx",
 		"name": "Maxx",
 		"role": "Sound Staff",
@@ -226,5 +203,30 @@
 		"pronouns": "she/her",
 		"dateOfBirth": "N/A",
 		"placeOfBirth": "N/A"
+	},
+	{
+		"_collabId": "krz0001",
+		"name": "krz",
+		"role": "Software Staff & Webmaster",
+		"legacyStatus": "2018 ~ December 11th 2024",
+		"pronouns": "he/him",
+		"dateOfBirth": "N/A",
+		"placeOfBirth": "France",
+		"description": "The reason you’re able to have such a great and clean website in the first place. krz is a strong & talented developer, and the ace of the team when it comes to web development. Started out with the UI design of Stellar Sanctuary in 2018, and became our lead webdesigner in 2022, with our own dedicated website."
+	},
+	{
+		"_collabId": "jys_music",
+		"name": "Justin Shin",
+		"role": "Sound Staff",
+		"legacyStatus": "2022 ~ December 20th 2024",
+		"pronouns": "he/him",
+		"dateOfBirth": "N/A",
+		"placeOfBirth": "N/A",
+		"description": "Justin Shin (a.k.a jys_music) joined the team as the lead arranger for KODAMA JAMS in 2022. Composer and arranger for games and media, wearer of bucket hats, and consumer of music! Justin has produced a dense amount of video game soundtracks under his real name, while keeping jys_music for his more hobbyst and arrangement-typed works.",
+		"website": "https://justinshinmusic.com/",
+		"twitter": "https://twitter.com/jys_music",
+		"youtube": "https://www.youtube.com/channel/UCp4cy51E4xjh4TDCf_-DAOQ",
+		"soundcloud": "https://soundcloud.com/jys_music",
+		"bandcamp": "https://justinshin.bandcamp.com/"
 	}
 ]
