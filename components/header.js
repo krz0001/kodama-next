@@ -17,6 +17,7 @@ export default function Header() {
 		{ href: '/discography', label: 'Discography' },
 		{ href: '/projects', label: 'Projects' },
 		{ href: '/staff', label: 'Staff' },
+		{ href: 'https://counterfest.kodamasoft.net', label: 'COUNTERFEST RECORDS' },
 		// { href: '/blog', label: 'Blog' }
 	];
 
