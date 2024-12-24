@@ -14,7 +14,14 @@ export default function Discography() {
   // Release date is in each album object as releaseDate with format 2020-12-30T00:00:00+0200 (ISO 8601)
   let albums = {};
   Object.keys(albumsJson).sort((a, b) => {
-    return new Date(albumsJson[b].releaseDate) - new Date(albumsJson[a].releaseDate);
+    const dateA = new Date(albumsJson[a].releaseDate);
+    const dateB = new Date(albumsJson[b].releaseDate);
+    if (dateA.getTime() === dateB.getTime()) {
+      // If release dates are the same, sort by catalog number in descending order
+      return albumsJson[b].id.localeCompare(albumsJson[a].id);
+    } else {
+      return dateB.getTime() - dateA.getTime();
+    }
   }).forEach(key => {
     albums[key] = albumsJson[key];
   });
